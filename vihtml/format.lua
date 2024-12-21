@@ -1,4 +1,10 @@
-return function(name, tb)
+local win_separator_css = function()
+  local fg = vim.api.nvim_get_hl(0, { name = "winseparator" }).fg
+  local color = "#" .. ("%06x"):format(fg)
+  return "border='0 r-1 solid " .. color .. "'"
+end
+
+return function(name, tb, bgcolor)
   local html_tb = {}
   local css_tb = {}
   local cur_scope
@@ -30,12 +36,12 @@ return function(name, tb)
   table.remove(html_tb, 1)
   table.remove(html_tb, 1)
 
-  table.insert(css_tb, ".border_r {border: 1px solid #4e565c}")
+  local border = win_separator_css()
 
   table.insert(
     html_tb,
     1,
-    string.format('<section class="%s boxbg border_r" style="display: flex; padding:1rem;">', name)
+    string.format('<section class="%s boxbg" style="display: flex; padding:1rem;"  %s>', name, border)
   )
   table.insert(html_tb, "</section>")
 

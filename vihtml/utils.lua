@@ -6,6 +6,7 @@ local M = {}
 
 local tohtml = require("tohtml").tohtml
 local format_html = require "vihtml.format"
+local stl_to_html = require "vihtml.stl_html"
 
 M.get_win_order = function(wins)
   local order = {}
@@ -40,7 +41,7 @@ M.win_to_html = function(id, name)
   local min = vim.fn.line("w0", id)
   local max = vim.fn.line("w$", id)
 
-  local code = tohtml(id, { number_lines = false, range = { min, max } })
+  local code = tohtml(id, { width = 400, number_lines = false, range = { min, max } })
   return format_html(name, code)
 end
 
@@ -74,6 +75,14 @@ M.wins_to_html = function(name)
   html = '<div style="display:flex;" class="nvimbufdiv">' .. html .. "</div>"
 
   local script_tag = string.format('<script> import "$lib/vicss/%s.css" </script>', name)
+
+  local stl_code = stl_to_html "stl"
+  local tbl_code = stl_to_html "tabline"
+
+  html = tbl_code.html .. html .. stl_code.html
+  css = tbl_code.css .. css .. stl_code.css
+
+  html = "<div class='nvim_box'>" .. html .. "</div>"
   html = script_tag .. "\n\n" .. html
 
   return { html = html, css = css }

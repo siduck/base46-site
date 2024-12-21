@@ -1,44 +1,46 @@
-.onedark.boxbg {background-color: #1e222a; color: #abb2bf}
-.onedark.DevIconSvelte {color: #e06c75}
-.onedark.DevIconhtml {color: #de8c92}
+ .stl1t { background: #1b1f27 ; color:#000000 }  .stl2t { background: #1e222a ; color:#abb2bf }  .stl3t { background: #1e222a ; color:#61afef }  .stl4t { background: #1e222a ; color:#abb2bf }  .stl5t { background: #1e222a ; color:#e06c75 }  .stl6t { background: #252931 ; color:#6f737b }  .stl7t { background: #252931 ; color:#61afef }  .stl8t { background: #252931 ; color:#6f737b }  .stl9t { background: #252931 ; color:#6f737b }  .stl10t { background: #252931 ; color:#000000 }  .stl11t { background: #373b43 ; color:#abb2bf }  .stl12t { background: #e06c75 ; color:#1e222a } .onedark.boxbg {background-color: #1e222a; color: #abb2bf}
+.onedark.DevIconcss {color: #61afef}
 .onedark.NvimTreeIndentMarker {color: #2c3037}
-.onedark.DevIconlua {color: #61afef}
-.onedark.NvimTreeGitNew {color: #e7c787}
-.onedark.Question {color: #61afef}
-.onedark.DevIconLicense {color: #d0bf41}
+.onedark.NvimTreeFolderArrowClosed {color: #565c64}
+.onedark.NvimTreeGitDeleted {color: #e06c75}
+.onedark.NvimTreeFolderArrowOpen {color: #61afef}
+.onedark.NvimTreeFolderIcon {color: #61afef}
 .onedark.DevIconTSConfig {color: #519aba}
-.onedark.DevIconBunLockfile {color: #eadcd1}
+.onedark.Question {color: #61afef}
+.onedark.DevIconTypeScriptDeclaration {color: #d59855}
 .onedark.DevIconSvelteConfig {color: #ff3e00}
 .onedark.DevIconPackageJson {color: #e8274b}
-.onedark.NvimTreeFolderName {color: #61afef}
-.onedark.NvimTreeFolderArrowClosed {color: #565c64}
-.onedark.NvimTreeFolderIcon {color: #61afef}
-.onedark.NvimTreeFolderArrowOpen {color: #61afef}
-.onedark.NvimTreeGitDirty {color: #e06c75}
-.onedark.DevIconTypeScriptDeclaration {color: #d59855}
+.onedark.DevIconLicense {color: #cbcb41}
+.onedark.DevIconBunLockfile {color: #eadcd1}
 .onedark.NvimTreeOpenedFolderName {color: #61afef}
+.onedark.DevIconlua {color: #61afef}
+.onedark.NvimTreeGitDirty {color: #e06c75}
+.onedark.DevIconNPMrc {color: #e8274b}
+.onedark.DevIconhtml {color: #de8c92}
 .onedark.DevIconts {color: #519aba}
-.border_r {border: 1px solid #4e565c}.onedark.boxbg {background-color: #1e222a; color: #abb2bf}
+.onedark.NvimTreeFolderName {color: #61afef}
+.onedark.NvimTreeGitNew {color: #e7c787}
+.onedark.DevIconGitIgnore {color: #f54d27}.onedark.boxbg {background-color: #1e222a; color: #abb2bf}
 .onedark.-variable-parameter {color: #e06c75}
-.onedark.-spell {}
+.onedark.MatchWord {color: #abb2bf; background-color: #42464e}
 .onedark.-constant {color: #e06c75}
-.onedark.-variable-member {color: #e06c75}
 .onedark.-comment {color: #565c64}
+.onedark.-variable-member {color: #e06c75}
 .onedark.-string {color: #98c379}
 .onedark.-ibl-indent-char-1 {color: #31353d}
+.onedark.-keyword-repeat {color: #e5c07b}
 .onedark.-keyword {color: #c678dd}
 .onedark.NonText {color: #545862}
-.onedark.-keyword-repeat {color: #e5c07b}
-.onedark.Special {color: #56b6c2}
-.onedark.-punctuation-bracket {color: #be5046}
-.onedark.-operator {color: #abb2bf}
 .onedark.-function-method-call {color: #61afef}
+.onedark.Special {color: #56b6c2}
+.onedark.-spell {}
+.onedark.-operator {color: #abb2bf}
 .onedark.-punctuation-delimiter {color: #be5046}
+.onedark.-punctuation-bracket {color: #be5046}
 .onedark.-constructor {color: #56b6c2}
 .onedark.-keyword-conditional {color: #c678dd}
-.onedark.-function-builtin {color: #61afef}
-.onedark.-function-call {color: #61afef}
 .onedark.-keyword-function {color: #c678dd}
 .onedark.-variable {color: #abb2bf}
-.onedark.-function {color: #61afef}
-.border_r {border: 1px solid #4e565c}
+.onedark.-function-call {color: #61afef}
+.onedark.-function-builtin {color: #61afef}
+.onedark.-function {color: #61afef} .stl1s { background: #81a1c1 ; color:#1e222a }  .stl2s { background: #42464e ; color:#81a1c1 }  .stl3s { background: #2d3139 ; color:#42464e }  .stl4s { background: #2d3139 ; color:#abb2bf }  .stl5s { background: #22262e ; color:#2d3139 }  .stl6s { background: #22262e ; color:#83878f }  .stl7s { background: #22262e ; color:#98c379 }  .stl8s { background: #22262e ; color:#81a1c1 }  .stl9s { background: #22262e ; color:#e06c75 }  .stl10s { background: #e06c75 ; color:#282c34 }  .stl11s { background: #2d3139 ; color:#abb2bf }  .stl12s { background: #2d3139 ; color:#98c379 }  .stl13s { background: #98c379 ; color:#1e222a }  .stl14s { background: #2d3139 ; color:#98c379 } 

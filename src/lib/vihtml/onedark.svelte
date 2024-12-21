@@ -1,31 +1,36 @@
 <script> import "$lib/vicss/onedark.css" </script>
 
-<div style="display:flex;" class="nvimbufdiv"><section class="onedark boxbg border_r" style="display: flex; padding:1rem;">
+<div class='nvim_box'><div class='nvimbufdiv'><pre><span class="stl1t">                               </span><span class="stl2t">    </span><span class="stl3t">  </span><span class="stl4t">init.lua    </span><span class="stl5t"> 󰅖 </span><span class="stl6t">   </span><span class="stl7t">  </span><span class="stl8t">style.css   </span><span class="stl9t"> 󰅖 </span><span class="stl10t">                  </span><span class="stl11t">   </span><span class="stl12t"></span></pre></div><div style="display:flex;" class="nvimbufdiv"><section class="onedark boxbg" style="display: flex; padding:1rem;"  border='0 r-1 solid #31353d'>
 <pre>
-<span class="onedark NvimTreeFolderArrowOpen"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeOpenedFolderName"><span class="onedark NvimTreeGitNew">src</span></span>
-<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark NvimTreeFolderArrowOpen"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeOpenedFolderName"><span class="onedark NvimTreeGitNew">lib</span></span>
-<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeFolderName"><span class="onedark NvimTreeGitNew">css</span></span>
-<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeFolderName"><span class="onedark NvimTreeGitNew">vicss</span></span>
-<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeFolderName"><span class="onedark NvimTreeGitNew">vihtml</span></span>
+<span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeFolderName">.git</span>
+<span class="onedark NvimTreeFolderArrowOpen"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeOpenedFolderName"><span class="onedark NvimTreeGitDirty">src</span></span>
+<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark NvimTreeFolderArrowOpen"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeOpenedFolderName"><span class="onedark NvimTreeGitDirty">lib</span></span>
+<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark NvimTreeFolderArrowOpen"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeOpenedFolderName"><span class="onedark NvimTreeGitDirty">css</span></span>
+<span class="onedark NvimTreeIndentMarker">  │ │ └ </span><span class="onedark DevIconcss"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeGitDirty">style.css</span>
+<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeFolderName"><span class="onedark NvimTreeGitDirty">vicss</span></span>
+<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeFolderName"><span class="onedark NvimTreeGitDirty">vihtml</span></span>
 <span class="onedark NvimTreeIndentMarker">  │ └ </span><span class="onedark DevIconts">󰛦</span> index.ts
-<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark NvimTreeFolderArrowOpen"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeOpenedFolderName"><span class="onedark NvimTreeGitDirty">routes</span></span>
-<span class="onedark NvimTreeIndentMarker">  │ └ </span><span class="onedark DevIconSvelte"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeGitDirty">+page.svelte</span>
+<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeFolderName"><span class="onedark NvimTreeGitDirty">routes</span></span>
 <span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark DevIconTypeScriptDeclaration"></span> app.d.ts
 <span class="onedark NvimTreeIndentMarker">  └ </span><span class="onedark DevIconhtml"></span> app.html
-<span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeFolderName"><span class="onedark NvimTreeGitNew">static</span></span>
-<span class="onedark NvimTreeFolderArrowOpen"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeOpenedFolderName"><span class="onedark NvimTreeGitNew">vihtml</span></span>
-<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark DevIconlua"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeGitNew">format.lua</span>
-<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark DevIconlua"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeGitNew">init.lua</span>
-<span class="onedark NvimTreeIndentMarker">  └ </span><span class="onedark DevIconlua"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeGitNew">utils.lua</span>
-<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconBunLockfile"></span> <span class="onedark Question">bun.lockb</span>
+<span class="onedark NvimTreeFolderArrowClosed"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDeleted"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeFolderName"><span class="onedark NvimTreeGitDeleted">static</span></span>
+<span class="onedark NvimTreeFolderArrowOpen"> </span><span class="onedark NvimTreeFolderIcon"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeOpenedFolderName"><span class="onedark NvimTreeGitNew">vihtml</span></span>
+<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark DevIconlua"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeGitDirty">format.lua</span>
+<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark DevIconlua"></span> init.lua
+<span class="onedark NvimTreeIndentMarker">  │ </span><span class="onedark DevIconlua"></span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeGitNew">stl_html.lua</span>
+<span class="onedark NvimTreeIndentMarker">  └ </span><span class="onedark DevIconlua"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeGitDirty">utils.lua</span>
+<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconGitIgnore"></span> .gitignore
+<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconNPMrc"></span> .npmrc
+<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconBunLockfile"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark Question"><span class="onedark NvimTreeGitDirty">bun.lockb</span></span>
 <span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconLicense"></span> LICENSE
-<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconPackageJson"></span> package.json
+<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconPackageJson"></span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeGitDirty">package.json</span>
 <span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconSvelteConfig"></span> svelte.config.js
 <span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconTSConfig"></span> tsconfig.json
-<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconts">󰛦</span> vite.config.ts
+<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconts">󰛦</span> <span class="onedark NvimTreeGitNew">★</span> <span class="onedark NvimTreeGitNew">uno.config.ts</span>
+<span class="onedark NvimTreeIndentMarker">  </span><span class="onedark DevIconts">󰛦</span> <span class="onedark NvimTreeGitDirty">✗</span> <span class="onedark NvimTreeGitDirty">vite.config.ts</span>
 
 </pre>
-</section><section class="onedark boxbg border_r" style="display: flex; padding:1rem;">
+</section><section class="onedark boxbg" style="display: flex; padding:1rem;"  border='0 r-1 solid #31353d'>
 <pre>
 <span class="onedark -keyword">local</span> <span class="onedark -variable">utils</span> <span class="onedark -operator">=</span> <span class="onedark -variable"><span class="onedark -function-call"><span class="onedark -function-builtin">require</span></span></span> <span class="onedark -string">&quot;vihtml.utils&quot;</span>
 <span class="onedark -keyword">local</span> <span class="onedark -variable"><span class="onedark -constant">M</span></span> <span class="onedark -operator">=</span> <span class="onedark -punctuation-bracket"><span class="onedark -constructor">&#123;</span></span><span class="onedark -punctuation-bracket"><span class="onedark -constructor">&#125;</span></span>
@@ -38,11 +43,8 @@
 <span class="onedark NonText"> </span><span class="onedark NonText"> </span><span class="onedark -ibl-indent-char-1">│</span><span class="onedark NonText"> </span><span class="onedark -variable">file</span><span class="onedark -punctuation-delimiter">:</span><span class="onedark -variable"><span class="onedark -function-method-call">close</span></span><span class="onedark -punctuation-bracket">(</span><span class="onedark -punctuation-bracket">)</span>
 <span class="onedark NonText"> </span><span class="onedark NonText"> </span><span class="onedark -keyword-conditional">end</span>
 <span class="onedark -keyword-function">end</span>
-<span class="onedark -comment"><span class="onedark -spell">-- &#123;&#125; &#123; &#125; &#123;&#125; ==&gt; ===</span></span>
 
-
-
-<span class="onedark -variable"><span class="onedark -constant">M</span></span><span class="onedark -punctuation-delimiter">.</span><span class="onedark -variable"><span class="onedark -variable-member"><span class="onedark -function">base46_themes_html</span></span></span> <span class="onedark -operator">=</span> <span class="onedark -keyword-function">function</span><span class="onedark -punctuation-bracket">(</span><span class="onedark -punctuation-bracket">)</span>
+<span class="onedark -variable"><span class="onedark -constant">M</span></span><span class="onedark -punctuation-delimiter">.</span><span class="onedark -variable"><span class="onedark -variable-member"><span class="onedark -function">base46_themes_html</span></span></span> <span class="onedark -operator">=</span> <span class="onedark -keyword-function">function</span><span class="onedark -punctuation-bracket"><span class="onedark MatchWord">(</span></span><span class="onedark -punctuation-bracket"><span class="onedark MatchWord">)</span></span>
 <span class="onedark NonText"> </span><span class="onedark NonText"> </span><span class="onedark -variable"><span class="onedark -function-call"><span class="onedark -function-builtin">require</span></span></span><span class="onedark -punctuation-bracket">(</span><span class="onedark -string">'plenary.reload'</span><span class="onedark -punctuation-bracket">)</span><span class="onedark -punctuation-delimiter">.</span><span class="onedark -variable"><span class="onedark -variable-member"><span class="onedark -function-call">reload_module</span></span></span><span class="onedark -punctuation-bracket">(</span><span class="onedark -string">'vihtml'</span><span class="onedark -punctuation-bracket">)</span>
 <span class="onedark NonText"> </span>
 <span class="onedark NonText"> </span><span class="onedark NonText"> </span><span class="onedark -comment"><span class="onedark -spell">-- local list = require(&quot;nvchad.utils&quot;).list_themes()</span></span>
@@ -66,4 +68,4 @@
 <span class="onedark -variable"><span class="onedark -constant">M</span></span><span class="onedark -punctuation-delimiter">.</span><span class="onedark -variable"><span class="onedark -variable-member"><span class="onedark -function-call">base46_themes_html</span></span></span><span class="onedark -punctuation-bracket">(</span><span class="onedark -punctuation-bracket">)</span>
 
 </pre>
-</section></div>
+</section></div><div class='nvimbufdiv'><pre><span class="stl1s">  NORMAL</span><span class="stl2s"></span><span class="stl3s"></span><span class="stl4s">  init.lua </span><span class="stl5s"></span><span class="stl6s">  main                 </span><span class="stl7s">                  </span><span class="stl8s">   LSP </span><span class="stl9s"></span><span class="stl10s">󰉋 </span><span class="stl11s"> base46-site </span><span class="stl12s"></span><span class="stl13s"> </span><span class="stl14s"></span></pre></div></div>
