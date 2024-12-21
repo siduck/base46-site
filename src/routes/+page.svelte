@@ -1,5 +1,15 @@
 <script lang="ts">
-  const files = import.meta.glob('./../lib/vihtml/*')
+  const files = import.meta.glob('./../lib/vihtml/*', { eager: true });
+
+  const mappedComponents = Object.entries(files).map(([path, module]) => {
+    const name = path.split('/').pop().split('.')[0];
+
+    return {
+        name: name,
+        Component: module.default
+    };
+});
+
   import Onedark from '../lib/vihtml/onedark.svelte'
 
   import 'virtual:uno.css'
@@ -9,6 +19,13 @@
 
 
 <main> 
-  <Onedark />
+
+  <section grid='~ gap3 cos-3'> 
+
+  {#each mappedComponents as { name, Component }}
+        <Component />
+{/each}
+  </section>
+
   <!-- here -->
 </main>

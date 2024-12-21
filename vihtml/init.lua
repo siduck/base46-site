@@ -18,7 +18,7 @@ M.base46_themes_html = function()
   local html_path = cwd .. "/src/lib/vihtml/"
   local css_path = cwd .. "/src/lib/vicss/"
 
-  local list = { "onedark" }
+  local list = { "onedark", 'nord', 'everforest' }
 
   for _, v in ipairs(list) do
     require("nvconfig").base46.theme = v

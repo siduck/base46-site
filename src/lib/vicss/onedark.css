@@ -1,8 +1,8 @@
- .stl1t { background: #1b1f27 ; color:#000000 }  .stl2t { background: #1e222a ; color:#abb2bf }  .stl3t { background: #1e222a ; color:#61afef }  .stl4t { background: #1e222a ; color:#abb2bf }  .stl5t { background: #1e222a ; color:#e06c75 }  .stl6t { background: #252931 ; color:#6f737b }  .stl7t { background: #252931 ; color:#61afef }  .stl8t { background: #252931 ; color:#6f737b }  .stl9t { background: #252931 ; color:#6f737b }  .stl10t { background: #252931 ; color:#000000 }  .stl11t { background: #373b43 ; color:#abb2bf }  .stl12t { background: #e06c75 ; color:#1e222a } .onedark.boxbg {background-color: #1e222a; color: #abb2bf}
+ .stl1tonedark { background: #1b1f27 ; color:#000000 }  .stl2tonedark { background: #252931 ; color:#6f737b }  .stl3tonedark { background: #252931 ; color:#e06c75 }  .stl4tonedark { background: #252931 ; color:#6f737b }  .stl5tonedark { background: #252931 ; color:#6f737b }  .stl6tonedark { background: #252931 ; color:#6f737b }  .stl7tonedark { background: #252931 ; color:#61afef }  .stl8tonedark { background: #252931 ; color:#6f737b }  .stl9tonedark { background: #252931 ; color:#6f737b }  .stl10tonedark { background: #1e222a ; color:#abb2bf }  .stl11tonedark { background: #1e222a ; color:#61afef }  .stl12tonedark { background: #1e222a ; color:#abb2bf }  .stl13tonedark { background: #1e222a ; color:#e06c75 }  .stl14tonedark { background: #252931 ; color:#000000 }  .stl15tonedark { background: #373b43 ; color:#abb2bf }  .stl16tonedark { background: #e06c75 ; color:#1e222a } .onedark.boxbg {background-color: #1e222a; color: #abb2bf}
 .onedark.DevIconcss {color: #61afef}
 .onedark.NvimTreeIndentMarker {color: #2c3037}
 .onedark.NvimTreeFolderArrowClosed {color: #565c64}
-.onedark.NvimTreeGitDeleted {color: #e06c75}
+.onedark.DevIconSvelte {color: #e06c75}
 .onedark.NvimTreeFolderArrowOpen {color: #61afef}
 .onedark.NvimTreeFolderIcon {color: #61afef}
 .onedark.DevIconTSConfig {color: #519aba}
@@ -19,16 +19,17 @@
 .onedark.DevIconhtml {color: #de8c92}
 .onedark.DevIconts {color: #519aba}
 .onedark.NvimTreeFolderName {color: #61afef}
-.onedark.NvimTreeGitNew {color: #e7c787}
+.onedark.DevIconTrueTypeFont {color: #ececec}
 .onedark.DevIconGitIgnore {color: #f54d27}.onedark.boxbg {background-color: #1e222a; color: #abb2bf}
 .onedark.-variable-parameter {color: #e06c75}
-.onedark.MatchWord {color: #abb2bf; background-color: #42464e}
+.onedark.-ibl-scope-underline-1 {text-decoration-line: underline}
 .onedark.-constant {color: #e06c75}
 .onedark.-comment {color: #565c64}
 .onedark.-variable-member {color: #e06c75}
-.onedark.-string {color: #98c379}
 .onedark.-ibl-indent-char-1 {color: #31353d}
+.onedark.-string {color: #98c379}
 .onedark.-keyword-repeat {color: #e5c07b}
+.onedark.-function-builtin {color: #61afef}
 .onedark.-keyword {color: #c678dd}
 .onedark.NonText {color: #545862}
 .onedark.-function-method-call {color: #61afef}
@@ -42,5 +43,5 @@
 .onedark.-keyword-function {color: #c678dd}
 .onedark.-variable {color: #abb2bf}
 .onedark.-function-call {color: #61afef}
-.onedark.-function-builtin {color: #61afef}
-.onedark.-function {color: #61afef} .stl1s { background: #81a1c1 ; color:#1e222a }  .stl2s { background: #42464e ; color:#81a1c1 }  .stl3s { background: #2d3139 ; color:#42464e }  .stl4s { background: #2d3139 ; color:#abb2bf }  .stl5s { background: #22262e ; color:#2d3139 }  .stl6s { background: #22262e ; color:#83878f }  .stl7s { background: #22262e ; color:#98c379 }  .stl8s { background: #22262e ; color:#81a1c1 }  .stl9s { background: #22262e ; color:#e06c75 }  .stl10s { background: #e06c75 ; color:#282c34 }  .stl11s { background: #2d3139 ; color:#abb2bf }  .stl12s { background: #2d3139 ; color:#98c379 }  .stl13s { background: #98c379 ; color:#1e222a }  .stl14s { background: #2d3139 ; color:#98c379 } 
+.onedark.-ibl-scope-char-1 {color: #42464e}
+.onedark.-function {color: #61afef} .stl1sonedark { background: #81a1c1 ; color:#1e222a }  .stl2sonedark { background: #42464e ; color:#81a1c1 }  .stl3sonedark { background: #2d3139 ; color:#42464e }  .stl4sonedark { background: #2d3139 ; color:#abb2bf }  .stl5sonedark { background: #22262e ; color:#2d3139 }  .stl6sonedark { background: #22262e ; color:#83878f }  .stl7sonedark { background: #22262e ; color:#98c379 }  .stl8sonedark { background: #22262e ; color:#81a1c1 }  .stl9sonedark { background: #22262e ; color:#e06c75 }  .stl10sonedark { background: #e06c75 ; color:#282c34 }  .stl11sonedark { background: #2d3139 ; color:#abb2bf }  .stl12sonedark { background: #2d3139 ; color:#98c379 }  .stl13sonedark { background: #98c379 ; color:#1e222a }  .stl14sonedark { background: #2d3139 ; color:#98c379 } 

@@ -76,8 +76,8 @@ M.wins_to_html = function(name)
 
   local script_tag = string.format('<script> import "$lib/vicss/%s.css" </script>', name)
 
-  local stl_code = stl_to_html "stl"
-  local tbl_code = stl_to_html "tabline"
+  local stl_code = stl_to_html("stl", name)
+  local tbl_code = stl_to_html("tabline", name)
 
   html = tbl_code.html .. html .. stl_code.html
   css = tbl_code.css .. css .. stl_code.css

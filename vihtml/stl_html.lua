@@ -1,5 +1,5 @@
-return function(line_type)
-  local data = vim.api.nvim_eval_statusline(vim.o[line_type], {  highlights = true, use_tabline = line_type ~= "stl" })
+return function(line_type, name)
+  local data = vim.api.nvim_eval_statusline(vim.o[line_type], { highlights = true, use_tabline = line_type ~= "stl" })
 
   local html = "<div class='nvimbufdiv'><pre>"
   local css = ""
@@ -21,7 +21,7 @@ return function(line_type)
     local bg = "#" .. ("%06x"):format(get_hl.bg or 0)
     local fg = "#" .. ("%06x"):format(get_hl.fg or 0)
 
-    local class = "stl" .. i.. line_type:sub(1,1)
+    local class = "stl" .. i .. line_type:sub(1, 1) .. name
 
     css = css .. string.format(" .%s { background: %s ; color:%s } ", class, bg, fg)
 
