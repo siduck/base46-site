@@ -1,14 +1,21 @@
-@font-face {
-    font-family: 'Nerd Font';
-    src: url('/nerdfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+body {
+	margin: 0;
+	/* @apply font-sans; */
+	font-family: "Inter", sans-serif;
 }
 
-.nvimbufdiv  {
-  @apply rounded-xl p2 bg-[#111827] shadow-lg
+@font-face {
+	font-family: "Nerd Font";
+	src: url("/nerdfont.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
 }
 
 .nvimbufdiv * {
-    font-family: 'Nerd Font';
+	font-family: "Nerd Font";
+	font-size: 17px;
+}
+
+pre {
+	margin: 0;
 }
