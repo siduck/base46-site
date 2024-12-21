@@ -1,2 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+  const files = import.meta.glob('./../lib/vihtml/*')
+  import Onedark from '../lib/vihtml/onedark.svelte'
+
+  import '../lib/css/style.css'
+
+</script>
+
+
+
+<main> 
+  <Onedark />
+  <!-- here -->
+</main>

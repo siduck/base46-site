@@ -1,0 +1,44 @@
+.onedark.boxbg {background-color: #1e222a; color: #abb2bf}
+.onedark.DevIconSvelte {color: #e06c75}
+.onedark.DevIconhtml {color: #de8c92}
+.onedark.NvimTreeIndentMarker {color: #2c3037}
+.onedark.DevIconlua {color: #61afef}
+.onedark.NvimTreeGitNew {color: #e7c787}
+.onedark.Question {color: #61afef}
+.onedark.DevIconLicense {color: #d0bf41}
+.onedark.DevIconTSConfig {color: #519aba}
+.onedark.DevIconBunLockfile {color: #eadcd1}
+.onedark.DevIconSvelteConfig {color: #ff3e00}
+.onedark.DevIconPackageJson {color: #e8274b}
+.onedark.NvimTreeFolderName {color: #61afef}
+.onedark.NvimTreeFolderArrowClosed {color: #565c64}
+.onedark.NvimTreeFolderIcon {color: #61afef}
+.onedark.NvimTreeFolderArrowOpen {color: #61afef}
+.onedark.NvimTreeGitDirty {color: #e06c75}
+.onedark.DevIconTypeScriptDeclaration {color: #d59855}
+.onedark.NvimTreeOpenedFolderName {color: #61afef}
+.onedark.DevIconts {color: #519aba}
+.border_r {border: 1px solid #4e565c}.onedark.boxbg {background-color: #1e222a; color: #abb2bf}
+.onedark.-variable-parameter {color: #e06c75}
+.onedark.-spell {}
+.onedark.-constant {color: #e06c75}
+.onedark.-variable-member {color: #e06c75}
+.onedark.-comment {color: #565c64}
+.onedark.-string {color: #98c379}
+.onedark.-ibl-indent-char-1 {color: #31353d}
+.onedark.-keyword {color: #c678dd}
+.onedark.NonText {color: #545862}
+.onedark.-keyword-repeat {color: #e5c07b}
+.onedark.Special {color: #56b6c2}
+.onedark.-punctuation-bracket {color: #be5046}
+.onedark.-operator {color: #abb2bf}
+.onedark.-function-method-call {color: #61afef}
+.onedark.-punctuation-delimiter {color: #be5046}
+.onedark.-constructor {color: #56b6c2}
+.onedark.-keyword-conditional {color: #c678dd}
+.onedark.-function-builtin {color: #61afef}
+.onedark.-function-call {color: #61afef}
+.onedark.-keyword-function {color: #c678dd}
+.onedark.-variable {color: #abb2bf}
+.onedark.-function {color: #61afef}
+.border_r {border: 1px solid #4e565c}
