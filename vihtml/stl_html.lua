@@ -3,12 +3,10 @@ local state = require "vihtml.state"
 return function(line_type, name)
   local data = vim.api.nvim_eval_statusline(
     vim.o[line_type],
-    { highlights = true, use_tabline = line_type ~= "stl" }
+    { highlights = true, use_tabline = line_type ~= "stl", fillchar = "@" }
   )
 
-  local w_css = "w-[" .. vim.o.columns * 10 .. "px]"
-
-  local html = string.format("<div class='stl %s'><pre bg-blue>", w_css)
+  local html = "<div class='stl'><pre flex>"
   local css = ""
   local str = data.str
 
@@ -24,14 +22,22 @@ return function(line_type, name)
     end
 
     local content = str:sub(highlight.start + 1, content_end_i)
+    local has_fillchars = string.find(content, "@")
+
+    if has_fillchars then
+      content = ' '
+    end
+
+    local grow = has_fillchars and "flex-grow" or ""
 
     local get_hl = vim.api.nvim_get_hl(0, { name = highlight.group })
     local bg = "#" .. ("%06x"):format(get_hl.bg or 0)
+
     local fg = "#" .. ("%06x"):format(get_hl.fg or 0)
 
-    local class = "stl" .. i .. line_type:sub(1, 1) .. name
+    local class = "stl" .. i .. line_type:sub(1, 1) .. name .. " " .. grow
 
-    css = css .. string.format(" .%s { background: %s ; color:%s } ", class, bg, fg)
+    css = css .. string.format(" .%s { background: %s ; color:%s } ", string.match(class, "%S+"), bg, fg)
 
     content = '<span class="' .. class .. '">' .. content .. "</span>"
 
