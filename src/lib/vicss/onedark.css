@@ -1,47 +1,29 @@
- .stl1tonedark { background: #1b1f27 ; color:#000000 }  .stl2tonedark { background: #252931 ; color:#6f737b }  .stl3tonedark { background: #252931 ; color:#e06c75 }  .stl4tonedark { background: #252931 ; color:#6f737b }  .stl5tonedark { background: #252931 ; color:#6f737b }  .stl6tonedark { background: #252931 ; color:#6f737b }  .stl7tonedark { background: #252931 ; color:#61afef }  .stl8tonedark { background: #252931 ; color:#6f737b }  .stl9tonedark { background: #252931 ; color:#6f737b }  .stl10tonedark { background: #1e222a ; color:#abb2bf }  .stl11tonedark { background: #1e222a ; color:#61afef }  .stl12tonedark { background: #1e222a ; color:#abb2bf }  .stl13tonedark { background: #1e222a ; color:#e06c75 }  .stl14tonedark { background: #252931 ; color:#000000 }  .stl15tonedark { background: #373b43 ; color:#abb2bf }  .stl16tonedark { background: #e06c75 ; color:#1e222a } .onedark.boxbg {background-color: #1e222a; color: #abb2bf}
-.onedark.DevIconcss {color: #61afef}
-.onedark.NvimTreeIndentMarker {color: #2c3037}
-.onedark.NvimTreeFolderArrowClosed {color: #565c64}
-.onedark.DevIconSvelte {color: #e06c75}
-.onedark.NvimTreeFolderArrowOpen {color: #61afef}
-.onedark.NvimTreeFolderIcon {color: #61afef}
-.onedark.DevIconTSConfig {color: #519aba}
-.onedark.Question {color: #61afef}
-.onedark.DevIconTypeScriptDeclaration {color: #d59855}
-.onedark.DevIconSvelteConfig {color: #ff3e00}
-.onedark.DevIconPackageJson {color: #e8274b}
-.onedark.DevIconLicense {color: #cbcb41}
-.onedark.DevIconBunLockfile {color: #eadcd1}
-.onedark.NvimTreeOpenedFolderName {color: #61afef}
-.onedark.DevIconlua {color: #61afef}
-.onedark.NvimTreeGitDirty {color: #e06c75}
-.onedark.DevIconNPMrc {color: #e8274b}
-.onedark.DevIconhtml {color: #de8c92}
-.onedark.DevIconts {color: #519aba}
-.onedark.NvimTreeFolderName {color: #61afef}
-.onedark.DevIconTrueTypeFont {color: #ececec}
-.onedark.DevIconGitIgnore {color: #f54d27}.onedark.boxbg {background-color: #1e222a; color: #abb2bf}
-.onedark.-variable-parameter {color: #e06c75}
-.onedark.-ibl-scope-underline-1 {text-decoration-line: underline}
+ .stl1tonedark { background: #1b1f27 ; color:#000000 }  .stl2tonedark { background: #252931 ; color:#6f737b }  .stl3tonedark { background: #252931 ; color:#61afef }  .stl4tonedark { background: #252931 ; color:#6f737b }  .stl5tonedark { background: #252931 ; color:#6f737b }  .stl6tonedark { background: #1e222a ; color:#abb2bf }  .stl7tonedark { background: #1e222a ; color:#61afef }  .stl8tonedark { background: #1e222a ; color:#abb2bf }  .stl9tonedark { background: #1e222a ; color:#e06c75 }  .stl10tonedark { background: #252931 ; color:#6f737b }  .stl11tonedark { background: #252931 ; color:#61afef }  .stl12tonedark { background: #252931 ; color:#6f737b }  .stl13tonedark { background: #252931 ; color:#6f737b }  .stl14tonedark { background: #252931 ; color:#000000 }  .stl15tonedark { background: #373b43 ; color:#abb2bf }  .stl16tonedark { background: #e06c75 ; color:#1e222a } .onedark.-variable-parameter {color: #e06c75}
+.onedark.LineNr {color: #42464e}
+.onedark.-spell {}
 .onedark.-constant {color: #e06c75}
+.onedark.Changed {color: #e7c787}
+.onedark.SignColumn {color: #545862}
 .onedark.-comment {color: #565c64}
-.onedark.-variable-member {color: #e06c75}
-.onedark.-ibl-indent-char-1 {color: #31353d}
-.onedark.-string {color: #98c379}
+.onedark.MatchWord {color: #abb2bf; background-color: #42464e}
+.onedark.-function-method-call {color: #61afef}
+.onedark.-function-call {color: #61afef}
 .onedark.-keyword-repeat {color: #e5c07b}
-.onedark.-function-builtin {color: #61afef}
+.onedark.-keyword-conditional {color: #c678dd}
+.onedark.-number {color: #d19a66}
+.onedark.CursorLineNr {color: #abb2bf}
 .onedark.-keyword {color: #c678dd}
 .onedark.NonText {color: #545862}
-.onedark.-function-method-call {color: #61afef}
+.onedark.Added {color: #98c379}
 .onedark.Special {color: #56b6c2}
-.onedark.-spell {}
-.onedark.-operator {color: #abb2bf}
-.onedark.-punctuation-delimiter {color: #be5046}
 .onedark.-punctuation-bracket {color: #be5046}
-.onedark.-constructor {color: #56b6c2}
-.onedark.-keyword-conditional {color: #c678dd}
+.onedark.-operator {color: #abb2bf}
 .onedark.-keyword-function {color: #c678dd}
+.onedark.-variable-member {color: #e06c75}
+.onedark.-constructor {color: #56b6c2}
+.onedark.-string {color: #98c379}
+.onedark.-function-builtin {color: #61afef}
 .onedark.-variable {color: #abb2bf}
-.onedark.-function-call {color: #61afef}
-.onedark.-ibl-scope-char-1 {color: #42464e}
+.onedark.-punctuation-delimiter {color: #be5046}
+.onedark.-ibl-indent-char-1 {color: #31353d}
 .onedark.-function {color: #61afef} .stl1sonedark { background: #81a1c1 ; color:#1e222a }  .stl2sonedark { background: #42464e ; color:#81a1c1 }  .stl3sonedark { background: #2d3139 ; color:#42464e }  .stl4sonedark { background: #2d3139 ; color:#abb2bf }  .stl5sonedark { background: #22262e ; color:#2d3139 }  .stl6sonedark { background: #22262e ; color:#83878f }  .stl7sonedark { background: #22262e ; color:#98c379 }  .stl8sonedark { background: #22262e ; color:#81a1c1 }  .stl9sonedark { background: #22262e ; color:#e06c75 }  .stl10sonedark { background: #e06c75 ; color:#282c34 }  .stl11sonedark { background: #2d3139 ; color:#abb2bf }  .stl12sonedark { background: #2d3139 ; color:#98c379 }  .stl13sonedark { background: #98c379 ; color:#1e222a }  .stl14sonedark { background: #2d3139 ; color:#98c379 } 

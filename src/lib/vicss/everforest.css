@@ -1,47 +1,29 @@
- .stl1teverforest { background: #272f35 ; color:#000000 }  .stl2teverforest { background: #323a40 ; color:#656d73 }  .stl3teverforest { background: #323a40 ; color:#e67e80 }  .stl4teverforest { background: #323a40 ; color:#656d73 }  .stl5teverforest { background: #323a40 ; color:#656d73 }  .stl6teverforest { background: #323a40 ; color:#656d73 }  .stl7teverforest { background: #323a40 ; color:#7393b3 }  .stl8teverforest { background: #323a40 ; color:#656d73 }  .stl9teverforest { background: #323a40 ; color:#656d73 }  .stl10teverforest { background: #2b3339 ; color:#d3c6aa }  .stl11teverforest { background: #2b3339 ; color:#7393b3 }  .stl12teverforest { background: #2b3339 ; color:#d3c6aa }  .stl13teverforest { background: #2b3339 ; color:#e67e80 }  .stl14teverforest { background: #323a40 ; color:#000000 }  .stl15teverforest { background: #3a4248 ; color:#d3c6aa }  .stl16teverforest { background: #e67e80 ; color:#2b3339 } .everforest.boxbg {background-color: #2b3339; color: #d3c6aa}
-.everforest.DevIconcss {color: #7393b3}
-.everforest.NvimTreeIndentMarker {color: #353c42}
-.everforest.NvimTreeFolderArrowClosed {color: #545c62}
-.everforest.DevIconSvelte {color: #e67e80}
-.everforest.NvimTreeFolderArrowOpen {color: #7393b3}
-.everforest.NvimTreeFolderIcon {color: #7393b3}
-.everforest.DevIconTSConfig {color: #519aba}
-.everforest.Question {color: #a7c080}
-.everforest.DevIconTypeScriptDeclaration {color: #d59855}
-.everforest.DevIconSvelteConfig {color: #ff3e00}
-.everforest.DevIconPackageJson {color: #e8274b}
-.everforest.DevIconLicense {color: #cbcb41}
-.everforest.DevIconBunLockfile {color: #eadcd1}
-.everforest.NvimTreeOpenedFolderName {color: #7393b3}
-.everforest.DevIconlua {color: #7393b3}
-.everforest.NvimTreeGitDirty {color: #e67e80}
-.everforest.DevIconNPMrc {color: #e8274b}
-.everforest.DevIconhtml {color: #ce8196}
-.everforest.DevIconts {color: #69a59d}
-.everforest.NvimTreeFolderName {color: #7393b3}
-.everforest.DevIconTrueTypeFont {color: #ececec}
-.everforest.DevIconGitIgnore {color: #f54d27}.everforest.boxbg {background-color: #2b3339; color: #d3c6aa}
-.everforest.-variable-parameter {color: #7fbbb3}
-.everforest.-ibl-scope-underline-1 {text-decoration-line: underline}
+ .stl1teverforest { background: #272f35 ; color:#000000 }  .stl2teverforest { background: #323a40 ; color:#656d73 }  .stl3teverforest { background: #323a40 ; color:#7393b3 }  .stl4teverforest { background: #323a40 ; color:#656d73 }  .stl5teverforest { background: #323a40 ; color:#656d73 }  .stl6teverforest { background: #2b3339 ; color:#d3c6aa }  .stl7teverforest { background: #2b3339 ; color:#7393b3 }  .stl8teverforest { background: #2b3339 ; color:#d3c6aa }  .stl9teverforest { background: #2b3339 ; color:#e67e80 }  .stl10teverforest { background: #323a40 ; color:#656d73 }  .stl11teverforest { background: #323a40 ; color:#7393b3 }  .stl12teverforest { background: #323a40 ; color:#656d73 }  .stl13teverforest { background: #323a40 ; color:#656d73 }  .stl14teverforest { background: #323a40 ; color:#000000 }  .stl15teverforest { background: #3a4248 ; color:#d3c6aa }  .stl16teverforest { background: #e67e80 ; color:#2b3339 } .everforest.-variable-parameter {color: #7fbbb3}
+.everforest.LineNr {color: #4e565c}
+.everforest.-spell {}
 .everforest.-constant {color: #7fbbb3}
+.everforest.Changed {color: #dbbc7f}
+.everforest.SignColumn {color: #424a50}
 .everforest.-comment {color: #545c62}
-.everforest.-variable-member {color: #7fbbb3}
-.everforest.-ibl-indent-char-1 {color: #3a4248}
-.everforest.-string {color: #dbbc7f}
+.everforest.MatchWord {color: #d3c6aa; background-color: #4e565c}
+.everforest.-function-method-call {color: #a7c080}
+.everforest.-function-call {color: #a7c080}
 .everforest.-keyword-repeat {color: #83c092}
-.everforest.-function-builtin {color: #a7c080}
+.everforest.-keyword-conditional {color: #e67e80}
+.everforest.-number {color: #d699b6}
+.everforest.CursorLineNr {color: #d3c6aa}
 .everforest.-keyword {color: #e67e80}
 .everforest.NonText {color: #424a50}
-.everforest.-function-method-call {color: #a7c080}
+.everforest.Added {color: #83c092}
 .everforest.Special {color: #e69875}
-.everforest.-spell {}
-.everforest.-operator {color: #d3c6aa}
-.everforest.-punctuation-delimiter {color: #d699b6}
 .everforest.-punctuation-bracket {color: #d699b6}
-.everforest.-constructor {color: #e69875}
-.everforest.-keyword-conditional {color: #e67e80}
+.everforest.-operator {color: #d3c6aa}
 .everforest.-keyword-function {color: #e67e80}
+.everforest.-variable-member {color: #7fbbb3}
+.everforest.-constructor {color: #e69875}
+.everforest.-string {color: #dbbc7f}
+.everforest.-function-builtin {color: #a7c080}
 .everforest.-variable {color: #d3c6aa}
-.everforest.-function-call {color: #a7c080}
-.everforest.-ibl-scope-char-1 {color: #4e565c}
+.everforest.-punctuation-delimiter {color: #d699b6}
+.everforest.-ibl-indent-char-1 {color: #3a4248}
 .everforest.-function {color: #a7c080} .stl1severforest { background: #78b4ac ; color:#2b3339 }  .stl2severforest { background: #4e565c ; color:#78b4ac }  .stl3severforest { background: #3d454b ; color:#4e565c }  .stl4severforest { background: #3d454b ; color:#d3c6aa }  .stl5severforest { background: #2e363c ; color:#3d454b }  .stl6severforest { background: #2e363c ; color:#788188 }  .stl7severforest { background: #2e363c ; color:#83c092 }  .stl8severforest { background: #2e363c ; color:#78b4ac }  .stl9severforest { background: #2e363c ; color:#e67e80 }  .stl10severforest { background: #e67e80 ; color:#363e44 }  .stl11severforest { background: #3d454b ; color:#d3c6aa }  .stl12severforest { background: #3d454b ; color:#83c092 }  .stl13severforest { background: #83c092 ; color:#2b3339 }  .stl14severforest { background: #3d454b ; color:#83c092 } 

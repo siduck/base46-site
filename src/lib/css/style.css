@@ -11,11 +11,16 @@ body {
 	font-style: normal;
 }
 
-.nvimbufdiv * {
+pre * {
 	font-family: "Nerd Font";
-	font-size: 17px;
+	/*font-size: 17px;*/
 }
 
 pre {
 	margin: 0;
+}
+
+.nvim_box {
+  background: red;
+  width: fit-content;
 }

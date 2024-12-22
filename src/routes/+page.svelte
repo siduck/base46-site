@@ -20,7 +20,7 @@
 
 <main> 
 
-  <section grid='~ gap3 cos-3'> 
+  <section grid='~ gap10 cos-3' p10> 
 
   {#each mappedComponents as { name, Component }}
         <Component />

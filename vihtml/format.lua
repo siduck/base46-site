@@ -4,7 +4,7 @@ local win_separator_css = function()
   return "border='0 r-1 solid " .. color .. "'"
 end
 
-return function(name, tb, bgcolor)
+return function(name, tb, w, h, normal_hl)
   local html_tb = {}
   local css_tb = {}
   local cur_scope
@@ -30,19 +30,20 @@ return function(name, tb, bgcolor)
 
   table.remove(css_tb, 1)
   table.remove(css_tb, 1)
+  table.remove(css_tb, 1)
 
-  css_tb[1] = string.gsub(css_tb[1], "body", ".boxbg")
+  local main_css = ""
+  local body_css = string.format("bg-[%s] text-[%s] ", normal_hl.bg, normal_hl.fg)
+  local w_css = "w-[" .. w .. "px]"
+  main_css = main_css .. body_css .. w_css
 
   table.remove(html_tb, 1)
   table.remove(html_tb, 1)
 
   local border = win_separator_css()
 
-  table.insert(
-    html_tb,
-    1,
-    string.format('<section class="%s boxbg" style="display: flex; padding:1rem;"  %s>', name, border)
-  )
+  table.insert(html_tb, 1, string.format('<section class="%s boxbg p-1 flex %s"  %s>', name, main_css, border))
+
   table.insert(html_tb, "</section>")
 
   local html = table.concat(html_tb, "\n")
