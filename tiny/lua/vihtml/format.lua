@@ -36,12 +36,15 @@ return function(name, tb)
   local html = table.concat(html_tb, "\n")
   html = html:gsub("{", "&#123;"):gsub("}", "&#125;")
 
-  local script_tag = string.format('<script> import "$lib/vicss/%s.css" </script>', name)
+  local script_tag = string.format('<script> import "$lib/vihtml/%s.css" </script>', name)
   html = script_tag .. "\n\n" .. html
+
+  local css = table.concat(css_tb, "\n")
+  css = css:gsub("italic", "normal")
 
   -- html_tb = vim.list_extend(css_tb, html_tb)
   return {
     html = html,
-    css = table.concat(css_tb, "\n"),
+    css = css,
   }
 end

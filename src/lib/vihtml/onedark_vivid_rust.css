@@ -1,0 +1,25 @@
+.onedark_vivid_rust.boxbg {background-color: #282c34; color: #abb2bf}
+.onedark_vivid_rust.-punctuation-bracket-rust {color: #d19a66}
+.onedark_vivid_rust.LineNr {color: #495162; background-color: #282c34}
+.onedark_vivid_rust.-variable-rust {color: #ef596f}
+.onedark_vivid_rust.Type {color: #e5c07b}
+.onedark_vivid_rust.Keyword {color: #d55fde}
+.onedark_vivid_rust.-keyword-operator {color: #d55fde}
+.onedark_vivid_rust.-spell {}
+.onedark_vivid_rust.-module {color: #e5c07b}
+.onedark_vivid_rust.Delimiter {color: #abb2bf}
+.onedark_vivid_rust.-variable-member {color: #ef596f}
+.onedark_vivid_rust.-keyword-conditional {color: #d55fde}
+.onedark_vivid_rust.Number {color: #d19a66}
+.onedark_vivid_rust.IndentLine {color: #3b4048}
+.onedark_vivid_rust.-odp-punctuation_arguments_brackets-rust {color: #d55fde}
+.onedark_vivid_rust.SignColumn {background-color: #282c34}
+.onedark_vivid_rust.-ibl-whitespace-char-1 {color: #5c6370}
+.onedark_vivid_rust.-constant {color: #d19a66}
+.onedark_vivid_rust.-variable-parameter {color: #ef596f}
+.onedark_vivid_rust.-operator-rust {color: #abb2bf}
+.onedark_vivid_rust.Float {color: #d19a66}
+.onedark_vivid_rust.-keyword-function {color: #d55fde}
+.onedark_vivid_rust.Comment {color: #7f848e}
+.onedark_vivid_rust.-variable-builtin {color: #e5c07b}
+.onedark_vivid_rust.-function {color: #61afef}

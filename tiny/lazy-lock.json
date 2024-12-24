@@ -1,9 +1,11 @@
 {
   "indent-blankline.nvim": { "branch": "master", "commit": "259357fa4097e232730341fa60988087d189193a" },
   "lazy.nvim": { "branch": "main", "commit": "7e6c863bc7563efbdd757a310d17ebc95166cef3" },
-  "nightfox.nvim": { "branch": "main", "commit": "7557f26defd093c4e9bc17f28b08403f706f5a44" },
-  "nvim-treesitter": { "branch": "master", "commit": "2a75d8065cff33216e106b651eb0f58b90375717" },
+  "nightfox": { "branch": "main", "commit": "7557f26defd093c4e9bc17f28b08403f706f5a44" },
+  "nvim-treesitter": { "branch": "master", "commit": "50947387c20ec3fb8c30b8c1c1a1c39f68deb970" },
+  "onedark": { "branch": "main", "commit": "e9b44b946bb7760f8125e3bfc648deebb9328e52" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
-  "tokyodark.nvim": { "branch": "master", "commit": "4da339984cf118d0d78f53cea955285d62e67a29" },
-  "tokyonight.nvim": { "branch": "main", "commit": "45d22cf0e1b93476d3b6d362d720412b3d34465c" }
+  "rose-pine": { "branch": "main", "commit": "91548dca53b36dbb9d36c10f114385f759731be1" },
+  "tokyodark": { "branch": "master", "commit": "4da339984cf118d0d78f53cea955285d62e67a29" },
+  "tokyonight": { "branch": "main", "commit": "45d22cf0e1b93476d3b6d362d720412b3d34465c" }
 }

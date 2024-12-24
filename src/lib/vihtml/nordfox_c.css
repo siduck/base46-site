@@ -1,0 +1,24 @@
+.nordfox_c.boxbg {background-color: #2e3440; color: #cdcecf}
+.nordfox_c.-variable-parameter {color: #93ccdc}
+.nordfox_c.LineNr {color: #7e8188}
+.nordfox_c.-property {color: #81a1c1}
+.nordfox_c.-function-macro {color: #bf616a}
+.nordfox_c.Keyword {color: #b48ead}
+.nordfox_c.Constant {color: #d89079}
+.nordfox_c.SignColumn {color: #7e8188}
+.nordfox_c.-type-builtin {color: #93ccdc}
+.nordfox_c.-punctuation-bracket {color: #abb1bb}
+.nordfox_c.String {color: #a3be8c}
+.nordfox_c.Operator {color: #abb1bb}
+.nordfox_c.-ibl-whitespace-char-1 {color: #444c5e}
+.nordfox_c.-ibl-indent-char-1 {color: #444c5e}
+.nordfox_c.-punctuation-delimiter {color: #abb1bb}
+.nordfox_c.-keyword-return {color: #bf616a}
+.nordfox_c.-string-escape {font-weight: bold; color: #f0d399}
+.nordfox_c.PreProc {color: #d092ce}
+.nordfox_c.Number {color: #c9826b}
+.nordfox_c.Conditional {color: #c895bf}
+.nordfox_c.-variable {color: #e5e9f0}
+.nordfox_c.-_parent {}
+.nordfox_c.Function {color: #8cafd2}
+.nordfox_c.Type {color: #ebcb8b}

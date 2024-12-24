@@ -2,10 +2,10 @@
   import Skeleton from "$lib/ui/skeleton.svelte";
 
   let index = $state(0);
-  let { data = [] }: any = $props();
+  let { data = [], lang = "" }: any = $props();
 </script>
 
-<div class="flexcol">
+<div class="flexcol [&_section]:bg-red">
   <span font-medium text-xl class="capitalize px5">{data.variants[index]}</span>
 
   {#await data.components[index]}
@@ -19,7 +19,7 @@
           aria-label={variant + " theme switcher"}
           border="3 solid slate3 dark:slate7"
           onclick={() => index = i}
-          class={`${variant} boxbg p3 rounded-full`}
+          class={`${variant + "_" + lang} boxbg p3 rounded-full`}
         >
         </button>
       {/each}

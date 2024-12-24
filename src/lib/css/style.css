@@ -24,13 +24,13 @@ pre {
 }
 
 button {
-	@apply flex gap2 justify-between w-full;
+	@apply flex items-center  gap2  w-full;
 	@apply whitespace-nowrap rounded-lg;
 	@apply hover:cursor-pointer w-fit
   @apply p-2 text-base bg-primary dark:bg-slate-6;
 	@apply dark:text-slate-4 text-white;
 	@apply hover:darkenBg dark:hover:lightenBg;
-	@apply font-normal;
+	@apply font-normal border-0;
 }
 
 a {
