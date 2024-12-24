@@ -1,16 +1,26 @@
 .nightfox_rust.boxbg {background-color: #192330; color: #cdcecf}
-.nightfox_rust.Identifier {color: #63cdcf}
+.nightfox_rust.-variable-parameter {color: #7ad5d6}
+.nightfox_rust.LineNr {color: #71839b}
+.nightfox_rust.-punctuation-delimiter {color: #aeafb0}
+.nightfox_rust.-punctuation-bracket {color: #aeafb0}
+.nightfox_rust.Keyword {color: #9d79d6}
+.nightfox_rust.Constant {color: #f6b079}
+.nightfox_rust.-spell {}
+.nightfox_rust.-type-builtin {color: #7ad5d6}
+.nightfox_rust.-keyword-function {color: #9d79d6}
+.nightfox_rust.SignColumn {color: #71839b}
+.nightfox_rust.-ibl-whitespace-char-1 {color: #29394f}
 .nightfox_rust.-ibl-indent-char-1 {color: #29394f}
 .nightfox_rust.Operator {color: #aeafb0}
+.nightfox_rust.-keyword-operator {color: #aeafb0}
 .nightfox_rust.Type {color: #dbc074}
-.nightfox_rust.Keyword {color: #9d79d6}
-.nightfox_rust.LineNr {color: #71839b}
-.nightfox_rust.Constant {color: #f6b079}
-.nightfox_rust.SignColumn {color: #71839b}
+.nightfox_rust.Number {color: #f4a261}
+.nightfox_rust.Conditional {color: #baa1e2}
+.nightfox_rust.-odp {}
 .nightfox_rust.PreProc {color: #dc8ed9}
 .nightfox_rust.Comment {color: #738091}
-.nightfox_rust.-ibl-whitespace-char-1 {color: #29394f}
-.nightfox_rust.Number {color: #f4a261}
+.nightfox_rust.-variable-member {color: #719cd6}
+.nightfox_rust.-variable {color: #dfdfe0}
 .nightfox_rust.Function {color: #86abdc}
-.nightfox_rust.Conditional {color: #baa1e2}
-.nightfox_rust.Special {color: #86abdc}
+.nightfox_rust.-variable-builtin {color: #c94f6d}
+.nightfox_rust.-module {color: #7ad5d6}

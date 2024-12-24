@@ -1,17 +1,21 @@
 .nordfox_haskell.boxbg {background-color: #2e3440; color: #cdcecf}
+.nordfox_haskell.-variable-parameter {color: #93ccdc}
 .nordfox_haskell.LineNr {color: #7e8188}
-.nordfox_haskell.VarId {}
+.nordfox_haskell.-punctuation-delimiter {color: #abb1bb}
+.nordfox_haskell.-punctuation-bracket {color: #abb1bb}
+.nordfox_haskell.Keyword {color: #b48ead}
+.nordfox_haskell.-spell {}
 .nordfox_haskell.-ibl-indent-char-1 {color: #444c5e}
-.nordfox_haskell.Operator {color: #abb1bb}
-.nordfox_haskell.Special {color: #8cafd2}
-.nordfox_haskell.Type {color: #ebcb8b}
-.nordfox_haskell.-ibl-whitespace-char-1 {color: #444c5e}
 .nordfox_haskell.Number {color: #c9826b}
+.nordfox_haskell.Special {color: #8cafd2}
 .nordfox_haskell.SignColumn {color: #7e8188}
+.nordfox_haskell.-ibl-whitespace-char-1 {color: #444c5e}
+.nordfox_haskell.Type {color: #ebcb8b}
 .nordfox_haskell.PreProc {color: #d092ce}
-.nordfox_haskell.hsImportGroup {}
-.nordfox_haskell.hsImportModuleName {}
+.nordfox_haskell.-variable-member {color: #81a1c1}
 .nordfox_haskell.Comment {color: #60728a}
-.nordfox_haskell.hsImportList {}
-.nordfox_haskell.ConId {}
-.nordfox_haskell.hsDelimiter {}
+.nordfox_haskell.-constructor {color: #88c0d0}
+.nordfox_haskell.-variable {color: #e5e9f0}
+.nordfox_haskell.Function {color: #8cafd2}
+.nordfox_haskell.-module {color: #93ccdc}
+.nordfox_haskell.Operator {color: #abb1bb}

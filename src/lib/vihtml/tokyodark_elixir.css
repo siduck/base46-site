@@ -1,5 +1,17 @@
 .tokyodark_elixir.boxbg {background-color: #11121d; color: #a0a8cd}
-.tokyodark_elixir.-ibl-whitespace-char-1 {color: #4a5057}
+.tokyodark_elixir.Structure {color: #7199ee; font-style: normal}
 .tokyodark_elixir.LineNr {color: #4a5057}
 .tokyodark_elixir.-ibl-indent-char-1 {color: #4a5057}
+.tokyodark_elixir.Number {color: #a485dd}
+.tokyodark_elixir.-ibl-whitespace-char-1 {color: #4a5057}
+.tokyodark_elixir.Keyword {color: #ee6d85; font-style: normal}
+.tokyodark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.tokyodark_elixir.-ibl-scope-char-1 {color: #4a5057; font-style: normal}
 .tokyodark_elixir.SignColumn {color: #a0a8cd; background-color: #11121d}
+.tokyodark_elixir.String {color: #d7a65f}
+.tokyodark_elixir.Comment {color: #4a5057; font-style: normal}
+.tokyodark_elixir.Operator {color: #ee6d85}
+.tokyodark_elixir.-variable {color: #e0e2ea}
+.tokyodark_elixir.Function {color: #95c561}
+.tokyodark_elixir.Delimiter {color: #a0a8cd}
+.tokyodark_elixir.SpecialChar {color: #a485dd}

@@ -1,5 +1,19 @@
 .rose-pine-dawn_elixir.boxbg {background-color: #faf4ed; color: #575279}
-.rose-pine-dawn_elixir.-ibl-whitespace-char-1 {color: #f2e9e1}
-.rose-pine-dawn_elixir.LineNr {color: #9893a5}
+.rose-pine-dawn_elixir.Identifier {color: #575279}
+.rose-pine-dawn_elixir.-punctuation-delimiter {color: #797593}
+.rose-pine-dawn_elixir.-punctuation-bracket {color: #797593}
+.rose-pine-dawn_elixir.Keyword {color: #286983}
+.rose-pine-dawn_elixir.-module {color: #575279}
+.rose-pine-dawn_elixir.-punctuation-special {color: #797593}
+.rose-pine-dawn_elixir.String {color: #ea9d34}
 .rose-pine-dawn_elixir.-ibl-indent-char-1 {color: #f2e9e1}
+.rose-pine-dawn_elixir.Operator {color: #797593}
+.rose-pine-dawn_elixir.-ibl-whitespace-char-1 {color: #f2e9e1}
+.rose-pine-dawn_elixir.-ibl-scope-char-1 {color: #797593; font-style: normal}
+.rose-pine-dawn_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.rose-pine-dawn_elixir.Comment {color: #797593; font-style: normal}
+.rose-pine-dawn_elixir.LineNr {color: #9893a5}
+.rose-pine-dawn_elixir.-variable {color: #575279; font-style: normal}
 .rose-pine-dawn_elixir.SignColumn {color: #575279}
+.rose-pine-dawn_elixir.Number {color: #ea9d34}
+.rose-pine-dawn_elixir.-function {color: #d7827e}

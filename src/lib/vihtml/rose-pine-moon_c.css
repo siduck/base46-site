@@ -1,27 +1,27 @@
 .rose-pine-moon_c.boxbg {background-color: #232136; color: #e0def4}
-.rose-pine-moon_c.-variable-parameter {font-style: normal; color: #c4a7e7}
-.rose-pine-moon_c.-punctuation-bracket {color: #908caa}
+.rose-pine-moon_c.-variable-parameter {color: #c4a7e7; font-style: normal}
+.rose-pine-moon_c.LineNr {color: #6e6a86}
 .rose-pine-moon_c.-constant-macro {color: #f6c177}
-.rose-pine-moon_c.-property {font-style: normal; color: #9ccfd8}
+.rose-pine-moon_c.-punctuation-delimiter {color: #908caa}
 .rose-pine-moon_c.-constant {color: #f6c177}
 .rose-pine-moon_c.Keyword {color: #3e8fb0}
 .rose-pine-moon_c.SignColumn {color: #e0def4}
 .rose-pine-moon_c.-type-builtin {font-weight: bold; color: #9ccfd8}
-.rose-pine-moon_c.-keyword-directive-define {color: #c4a7e7}
 .rose-pine-moon_c.-type {color: #9ccfd8}
-.rose-pine-moon_c.-keyword-repeat {color: #3e8fb0}
-.rose-pine-moon_c.String {color: #f6c177}
 .rose-pine-moon_c.-ibl-indent-char-1 {color: #393552}
-.rose-pine-moon_c.Operator {color: #908caa}
-.rose-pine-moon_c.-ibl-whitespace-char-1 {color: #393552}
-.rose-pine-moon_c.LineNr {color: #6e6a86}
-.rose-pine-moon_c.-string-escape {color: #3e8fb0}
-.rose-pine-moon_c.Number {color: #f6c177}
-.rose-pine-moon_c.-_parent {}
+.rose-pine-moon_c.String {color: #f6c177}
+.rose-pine-moon_c.-keyword-repeat {color: #3e8fb0}
 .rose-pine-moon_c.-keyword-return {color: #3e8fb0}
-.rose-pine-moon_c.Type {color: #9ccfd8}
-.rose-pine-moon_c.-punctuation-delimiter {color: #908caa}
-.rose-pine-moon_c.-variable {font-style: normal; color: #e0def4}
-.rose-pine-moon_c.Function {color: #ea9a97}
 .rose-pine-moon_c.-keyword-import {color: #3e8fb0}
+.rose-pine-moon_c.-ibl-whitespace-char-1 {color: #393552}
+.rose-pine-moon_c.Number {color: #f6c177}
+.rose-pine-moon_c.-string-escape {color: #3e8fb0}
+.rose-pine-moon_c.-_parent {}
+.rose-pine-moon_c.Operator {color: #908caa}
+.rose-pine-moon_c.-punctuation-bracket {color: #908caa}
+.rose-pine-moon_c.-keyword-directive-define {color: #c4a7e7}
+.rose-pine-moon_c.-property {color: #9ccfd8; font-style: normal}
+.rose-pine-moon_c.-variable {color: #e0def4; font-style: normal}
+.rose-pine-moon_c.Function {color: #ea9a97}
+.rose-pine-moon_c.Type {color: #9ccfd8}
 .rose-pine-moon_c.-function {color: #ea9a97}

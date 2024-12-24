@@ -1,8 +1,8 @@
 .tokyodark_c.boxbg {background-color: #11121d; color: #a0a8cd}
 .tokyodark_c.Macro {color: #a485dd}
-.tokyodark_c.Identifier {font-style: normal; color: #f6955b}
-.tokyodark_c.Type {font-style: normal; color: #7199ee}
-.tokyodark_c.Keyword {font-style: normal; color: #ee6d85}
+.tokyodark_c.Identifier {color: #f6955b; font-style: normal}
+.tokyodark_c.Type {color: #7199ee; font-style: normal}
+.tokyodark_c.Keyword {color: #ee6d85; font-style: normal}
 .tokyodark_c.Constant {color: #f6955b}
 .tokyodark_c.SignColumn {color: #a0a8cd; background-color: #11121d}
 .tokyodark_c.Typedef {color: #ee6d85}

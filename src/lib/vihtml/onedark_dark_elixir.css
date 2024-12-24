@@ -1,5 +1,21 @@
 .onedark_dark_elixir.boxbg {background-color: #000000; color: #abb2bf}
-.onedark_dark_elixir.-ibl-whitespace-char-1 {color: #434852}
-.onedark_dark_elixir.IndentLine {color: #1f1f1f}
 .onedark_dark_elixir.LineNr {color: #495162; background-color: #000000}
+.onedark_dark_elixir.-punctuation-bracket {color: #d55fde}
+.onedark_dark_elixir.Keyword {color: #d55fde}
+.onedark_dark_elixir.-module {color: #e5c07b}
+.onedark_dark_elixir.-punctuation-special {color: #abb2bf}
+.onedark_dark_elixir.Delimiter {color: #abb2bf}
+.onedark_dark_elixir.-string {color: #89ca78}
+.onedark_dark_elixir.Number {color: #d19a66}
+.onedark_dark_elixir.Special {color: #61afef}
+.onedark_dark_elixir.-ibl-scope-char-1 {color: #7f848e}
+.onedark_dark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .onedark_dark_elixir.SignColumn {background-color: #000000}
+.onedark_dark_elixir.-string-special-symbol {color: #ef596f}
+.onedark_dark_elixir.IndentLine {color: #1f1f1f}
+.onedark_dark_elixir.Comment {color: #7f848e}
+.onedark_dark_elixir.-ibl-whitespace-char-1 {color: #434852}
+.onedark_dark_elixir.-variable {color: #ef596f}
+.onedark_dark_elixir.-operator {color: #2bbac5}
+.onedark_dark_elixir.-keyword-function {color: #d55fde}
+.onedark_dark_elixir.-function {color: #61afef}

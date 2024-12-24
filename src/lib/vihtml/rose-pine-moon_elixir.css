@@ -1,5 +1,19 @@
 .rose-pine-moon_elixir.boxbg {background-color: #232136; color: #e0def4}
-.rose-pine-moon_elixir.-ibl-whitespace-char-1 {color: #393552}
-.rose-pine-moon_elixir.LineNr {color: #6e6a86}
+.rose-pine-moon_elixir.Identifier {color: #e0def4}
+.rose-pine-moon_elixir.-punctuation-delimiter {color: #908caa}
+.rose-pine-moon_elixir.-punctuation-bracket {color: #908caa}
+.rose-pine-moon_elixir.Keyword {color: #3e8fb0}
+.rose-pine-moon_elixir.-module {color: #e0def4}
+.rose-pine-moon_elixir.-punctuation-special {color: #908caa}
+.rose-pine-moon_elixir.String {color: #f6c177}
 .rose-pine-moon_elixir.-ibl-indent-char-1 {color: #393552}
+.rose-pine-moon_elixir.Operator {color: #908caa}
+.rose-pine-moon_elixir.-ibl-whitespace-char-1 {color: #393552}
+.rose-pine-moon_elixir.-ibl-scope-char-1 {color: #908caa; font-style: normal}
+.rose-pine-moon_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.rose-pine-moon_elixir.Comment {color: #908caa; font-style: normal}
+.rose-pine-moon_elixir.LineNr {color: #6e6a86}
+.rose-pine-moon_elixir.-variable {color: #e0def4; font-style: normal}
 .rose-pine-moon_elixir.SignColumn {color: #e0def4}
+.rose-pine-moon_elixir.Number {color: #f6c177}
+.rose-pine-moon_elixir.-function {color: #ea9a97}

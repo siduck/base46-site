@@ -1,8 +1,17 @@
 .duskfox_go.boxbg {background-color: #232136; color: #e0def4}
-.duskfox_go.SignColumn {color: #6e6a86}
-.duskfox_go.Identifier {color: #9ccfd8}
-.duskfox_go.-ibl-indent-char-1 {color: #373354}
 .duskfox_go.Number {color: #ea9a97}
-.duskfox_go.-ibl-whitespace-char-1 {color: #373354}
-.duskfox_go.Keyword {color: #c4a7e7}
 .duskfox_go.LineNr {color: #6e6a86}
+.duskfox_go.-ibl-indent-char-1 {color: #373354}
+.duskfox_go.-punctuation-delimiter {color: #cdcbe0}
+.duskfox_go.Type {color: #f6c177}
+.duskfox_go.Keyword {color: #c4a7e7}
+.duskfox_go.-ibl-whitespace-char-1 {color: #373354}
+.duskfox_go.Conditional {color: #ccb1ed}
+.duskfox_go.SignColumn {color: #6e6a86}
+.duskfox_go.-variable-member {color: #569fba}
+.duskfox_go.-property {color: #569fba}
+.duskfox_go.-function-builtin {color: #eb6f92}
+.duskfox_go.-variable {color: #e0def4}
+.duskfox_go.Function {color: #65b1cd}
+.duskfox_go.Operator {color: #cdcbe0}
+.duskfox_go.-punctuation-bracket {color: #cdcbe0}

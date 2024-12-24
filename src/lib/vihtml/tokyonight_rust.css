@@ -1,15 +1,23 @@
 .tokyonight_rust.boxbg {background-color: #222436; color: #c8d3f5}
-.tokyonight_rust.Identifier {color: #c099ff}
-.tokyonight_rust.Statement {color: #c099ff}
-.tokyonight_rust.Operator {color: #89ddff}
-.tokyonight_rust.Type {color: #65bcff}
-.tokyonight_rust.Keyword {font-style: normal; color: #86e1fc}
-.tokyonight_rust.Constant {color: #ff966c}
-.tokyonight_rust.SignColumn {color: #3b4261; background-color: #222436}
-.tokyonight_rust.PreProc {color: #86e1fc}
-.tokyonight_rust.Comment {font-style: normal; color: #636da6}
+.tokyonight_rust.-variable-parameter {color: #ffc777}
 .tokyonight_rust.LineNr {color: #3b4261}
-.tokyonight_rust.-ibl-whitespace-char-1 {color: #3b4261}
-.tokyonight_rust.Function {color: #82aaff}
+.tokyonight_rust.Statement {color: #c099ff}
+.tokyonight_rust.-punctuation-delimiter {color: #89ddff}
+.tokyonight_rust.-punctuation-bracket {color: #828bb8}
+.tokyonight_rust.Constant {color: #ff966c}
+.tokyonight_rust.-spell {}
+.tokyonight_rust.-type-builtin {color: #589ed7}
+.tokyonight_rust.-keyword-function {color: #c099ff}
+.tokyonight_rust.-keyword {color: #fca7ea; font-style: normal}
 .tokyonight_rust.-ibl-indent-char-1 {color: #3b4261}
-.tokyonight_rust.Special {color: #65bcff}
+.tokyonight_rust.-ibl-whitespace-char-1 {color: #3b4261}
+.tokyonight_rust.-operator {color: #89ddff}
+.tokyonight_rust.SignColumn {color: #3b4261; background-color: #222436}
+.tokyonight_rust.-odp {}
+.tokyonight_rust.-variable-member {color: #4fd6be}
+.tokyonight_rust.Comment {color: #636da6; font-style: normal}
+.tokyonight_rust.Type {color: #65bcff}
+.tokyonight_rust.-variable {color: #c8d3f5}
+.tokyonight_rust.Function {color: #82aaff}
+.tokyonight_rust.-variable-builtin {color: #ff757f}
+.tokyonight_rust.PreProc {color: #86e1fc}

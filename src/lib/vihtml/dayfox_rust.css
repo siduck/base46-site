@@ -1,16 +1,26 @@
 .dayfox_rust.boxbg {background-color: #f6f2ee; color: #3d2b5a}
-.dayfox_rust.Identifier {color: #287980}
+.dayfox_rust.-variable-parameter {color: #22676d}
+.dayfox_rust.LineNr {color: #824d5b}
+.dayfox_rust.-punctuation-delimiter {color: #643f61}
+.dayfox_rust.-punctuation-bracket {color: #643f61}
+.dayfox_rust.Keyword {color: #6e33ce}
+.dayfox_rust.Constant {color: #7f5152}
+.dayfox_rust.-spell {}
+.dayfox_rust.-type-builtin {color: #22676d}
+.dayfox_rust.-keyword-function {color: #6e33ce}
+.dayfox_rust.SignColumn {color: #824d5b}
+.dayfox_rust.-ibl-whitespace-char-1 {color: #d3c7bb}
 .dayfox_rust.-ibl-indent-char-1 {color: #d3c7bb}
 .dayfox_rust.Operator {color: #643f61}
+.dayfox_rust.-keyword-operator {color: #643f61}
 .dayfox_rust.Type {color: #ac5402}
-.dayfox_rust.Keyword {color: #6e33ce}
-.dayfox_rust.LineNr {color: #824d5b}
-.dayfox_rust.Constant {color: #7f5152}
-.dayfox_rust.SignColumn {color: #824d5b}
+.dayfox_rust.Number {color: #955f61}
+.dayfox_rust.Conditional {color: #5e2baf}
+.dayfox_rust.-odp {}
 .dayfox_rust.PreProc {color: #8b369a}
 .dayfox_rust.Comment {color: #837a72}
-.dayfox_rust.-ibl-whitespace-char-1 {color: #d3c7bb}
-.dayfox_rust.Number {color: #955f61}
+.dayfox_rust.-variable-member {color: #2848a9}
+.dayfox_rust.-variable {color: #352c24}
 .dayfox_rust.Function {color: #223d90}
-.dayfox_rust.Conditional {color: #5e2baf}
-.dayfox_rust.Special {color: #223d90}
+.dayfox_rust.-variable-builtin {color: #a5222f}
+.dayfox_rust.-module {color: #22676d}

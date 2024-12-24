@@ -1,17 +1,21 @@
 .duskfox_haskell.boxbg {background-color: #232136; color: #e0def4}
+.duskfox_haskell.-variable-parameter {color: #a6dae3}
 .duskfox_haskell.LineNr {color: #6e6a86}
-.duskfox_haskell.VarId {}
+.duskfox_haskell.-punctuation-delimiter {color: #cdcbe0}
+.duskfox_haskell.-punctuation-bracket {color: #cdcbe0}
+.duskfox_haskell.Keyword {color: #c4a7e7}
+.duskfox_haskell.-spell {}
 .duskfox_haskell.-ibl-indent-char-1 {color: #373354}
-.duskfox_haskell.Operator {color: #cdcbe0}
-.duskfox_haskell.Special {color: #65b1cd}
-.duskfox_haskell.Type {color: #f6c177}
-.duskfox_haskell.-ibl-whitespace-char-1 {color: #373354}
 .duskfox_haskell.Number {color: #ea9a97}
+.duskfox_haskell.Special {color: #65b1cd}
 .duskfox_haskell.SignColumn {color: #6e6a86}
+.duskfox_haskell.-ibl-whitespace-char-1 {color: #373354}
+.duskfox_haskell.Type {color: #f6c177}
 .duskfox_haskell.PreProc {color: #f0a6cc}
-.duskfox_haskell.hsImportGroup {}
-.duskfox_haskell.hsImportModuleName {}
+.duskfox_haskell.-variable-member {color: #569fba}
 .duskfox_haskell.Comment {color: #817c9c}
-.duskfox_haskell.hsImportList {}
-.duskfox_haskell.ConId {}
-.duskfox_haskell.hsDelimiter {}
+.duskfox_haskell.-constructor {color: #9ccfd8}
+.duskfox_haskell.-variable {color: #e0def4}
+.duskfox_haskell.Function {color: #65b1cd}
+.duskfox_haskell.-module {color: #a6dae3}
+.duskfox_haskell.Operator {color: #cdcbe0}

@@ -1,15 +1,23 @@
 .tokyonight-moon_rust.boxbg {background-color: #222436; color: #c8d3f5}
-.tokyonight-moon_rust.Identifier {color: #c099ff}
-.tokyonight-moon_rust.Statement {color: #c099ff}
-.tokyonight-moon_rust.Operator {color: #89ddff}
-.tokyonight-moon_rust.Type {color: #65bcff}
-.tokyonight-moon_rust.Keyword {font-style: normal; color: #86e1fc}
-.tokyonight-moon_rust.Constant {color: #ff966c}
-.tokyonight-moon_rust.SignColumn {color: #3b4261; background-color: #222436}
-.tokyonight-moon_rust.PreProc {color: #86e1fc}
-.tokyonight-moon_rust.Comment {font-style: normal; color: #636da6}
+.tokyonight-moon_rust.-variable-parameter {color: #ffc777}
 .tokyonight-moon_rust.LineNr {color: #3b4261}
-.tokyonight-moon_rust.-ibl-whitespace-char-1 {color: #3b4261}
-.tokyonight-moon_rust.Function {color: #82aaff}
+.tokyonight-moon_rust.Statement {color: #c099ff}
+.tokyonight-moon_rust.-punctuation-delimiter {color: #89ddff}
+.tokyonight-moon_rust.-punctuation-bracket {color: #828bb8}
+.tokyonight-moon_rust.Constant {color: #ff966c}
+.tokyonight-moon_rust.-spell {}
+.tokyonight-moon_rust.-type-builtin {color: #589ed7}
+.tokyonight-moon_rust.-keyword-function {color: #c099ff}
+.tokyonight-moon_rust.-keyword {color: #fca7ea; font-style: normal}
 .tokyonight-moon_rust.-ibl-indent-char-1 {color: #3b4261}
-.tokyonight-moon_rust.Special {color: #65bcff}
+.tokyonight-moon_rust.-ibl-whitespace-char-1 {color: #3b4261}
+.tokyonight-moon_rust.-operator {color: #89ddff}
+.tokyonight-moon_rust.SignColumn {color: #3b4261; background-color: #222436}
+.tokyonight-moon_rust.-odp {}
+.tokyonight-moon_rust.-variable-member {color: #4fd6be}
+.tokyonight-moon_rust.Comment {color: #636da6; font-style: normal}
+.tokyonight-moon_rust.Type {color: #65bcff}
+.tokyonight-moon_rust.-variable {color: #c8d3f5}
+.tokyonight-moon_rust.Function {color: #82aaff}
+.tokyonight-moon_rust.-variable-builtin {color: #ff757f}
+.tokyonight-moon_rust.PreProc {color: #86e1fc}

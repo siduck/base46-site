@@ -1,16 +1,26 @@
 .nordfox_rust.boxbg {background-color: #2e3440; color: #cdcecf}
-.nordfox_rust.Identifier {color: #88c0d0}
+.nordfox_rust.-variable-parameter {color: #93ccdc}
+.nordfox_rust.LineNr {color: #7e8188}
+.nordfox_rust.-punctuation-delimiter {color: #abb1bb}
+.nordfox_rust.-punctuation-bracket {color: #abb1bb}
+.nordfox_rust.Keyword {color: #b48ead}
+.nordfox_rust.Constant {color: #d89079}
+.nordfox_rust.-spell {}
+.nordfox_rust.-type-builtin {color: #93ccdc}
+.nordfox_rust.-keyword-function {color: #b48ead}
+.nordfox_rust.SignColumn {color: #7e8188}
+.nordfox_rust.-ibl-whitespace-char-1 {color: #444c5e}
 .nordfox_rust.-ibl-indent-char-1 {color: #444c5e}
 .nordfox_rust.Operator {color: #abb1bb}
+.nordfox_rust.-keyword-operator {color: #abb1bb}
 .nordfox_rust.Type {color: #ebcb8b}
-.nordfox_rust.Keyword {color: #b48ead}
-.nordfox_rust.LineNr {color: #7e8188}
-.nordfox_rust.Constant {color: #d89079}
-.nordfox_rust.SignColumn {color: #7e8188}
+.nordfox_rust.Number {color: #c9826b}
+.nordfox_rust.Conditional {color: #c895bf}
+.nordfox_rust.-odp {}
 .nordfox_rust.PreProc {color: #d092ce}
 .nordfox_rust.Comment {color: #60728a}
-.nordfox_rust.-ibl-whitespace-char-1 {color: #444c5e}
-.nordfox_rust.Number {color: #c9826b}
+.nordfox_rust.-variable-member {color: #81a1c1}
+.nordfox_rust.-variable {color: #e5e9f0}
 .nordfox_rust.Function {color: #8cafd2}
-.nordfox_rust.Conditional {color: #c895bf}
-.nordfox_rust.Special {color: #8cafd2}
+.nordfox_rust.-variable-builtin {color: #bf616a}
+.nordfox_rust.-module {color: #93ccdc}

@@ -1,5 +1,20 @@
 .carbonfox_elixir.boxbg {background-color: #161616; color: #f2f4f8}
-.carbonfox_elixir.-ibl-whitespace-char-1 {color: #353535}
 .carbonfox_elixir.LineNr {color: #7b7c7e}
+.carbonfox_elixir.-punctuation-delimiter {color: #b6b8bb}
+.carbonfox_elixir.-punctuation-bracket {color: #b6b8bb}
+.carbonfox_elixir.Keyword {color: #be95ff}
+.carbonfox_elixir.-module {color: #52bdff}
+.carbonfox_elixir.-punctuation-special {color: #52bdff}
+.carbonfox_elixir.-keyword-function {color: #be95ff}
+.carbonfox_elixir.String {color: #25be6a}
 .carbonfox_elixir.-ibl-indent-char-1 {color: #353535}
+.carbonfox_elixir.Number {color: #3ddbd9}
+.carbonfox_elixir.-ibl-whitespace-char-1 {color: #353535}
+.carbonfox_elixir.-ibl-scope-char-1 {color: #6e6f70}
+.carbonfox_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.carbonfox_elixir.Comment {color: #6e6f70}
 .carbonfox_elixir.SignColumn {color: #7b7c7e}
+.carbonfox_elixir.-variable {color: #dfdfe0}
+.carbonfox_elixir.Function {color: #8cb6ff}
+.carbonfox_elixir.Special {color: #8cb6ff}
+.carbonfox_elixir.Operator {color: #b6b8bb}

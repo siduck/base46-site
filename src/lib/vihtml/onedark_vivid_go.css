@@ -1,8 +1,18 @@
 .onedark_vivid_go.boxbg {background-color: #282c34; color: #abb2bf}
+.onedark_vivid_go.LineNr {color: #495162; background-color: #282c34}
+.onedark_vivid_go.-punctuation-bracket {color: #d55fde}
+.onedark_vivid_go.Keyword {color: #d55fde}
 .onedark_vivid_go.SignColumn {background-color: #282c34}
+.onedark_vivid_go.Label {color: #d55fde}
 .onedark_vivid_go.IndentLine {color: #3b4048}
+.onedark_vivid_go.-property-go {color: #ef596f}
+.onedark_vivid_go.-operator-go {color: #2bbac5}
+.onedark_vivid_go.-type-go {color: #e5c07b}
+.onedark_vivid_go.-function-call-go {color: #61afef}
+.onedark_vivid_go.-variable-go {color: #ef596f}
 .onedark_vivid_go.Number {color: #d19a66}
 .onedark_vivid_go.-ibl-whitespace-char-1 {color: #5c6370}
-.onedark_vivid_go.Keyword {color: #d55fde}
-.onedark_vivid_go.LineNr {color: #495162; background-color: #282c34}
-.onedark_vivid_go.Identifier {color: #ef596f}
+.onedark_vivid_go.-variable-member {color: #ef596f}
+.onedark_vivid_go.-function-builtin-go {color: #2bbac5}
+.onedark_vivid_go.-function-method {color: #61afef}
+.onedark_vivid_go.Delimiter {color: #abb2bf}

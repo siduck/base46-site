@@ -1,8 +1,17 @@
 .tokyonight-day_go.boxbg {background-color: #e1e2e7; color: #3760bf}
-.tokyonight-day_go.SignColumn {color: #a8aecb; background-color: #e1e2e7}
-.tokyonight-day_go.Identifier {color: #9854f1}
-.tokyonight-day_go.-ibl-indent-char-1 {color: #a8aecb}
-.tokyonight-day_go.-ibl-whitespace-char-1 {color: #a8aecb}
-.tokyonight-day_go.Keyword {font-style: normal; color: #007197}
 .tokyonight-day_go.LineNr {color: #a8aecb}
+.tokyonight-day_go.-keyword {color: #7847bd; font-style: normal}
+.tokyonight-day_go.-ibl-indent-char-1 {color: #a8aecb}
+.tokyonight-day_go.-punctuation-delimiter {color: #006a83}
+.tokyonight-day_go.Type {color: #188092}
+.tokyonight-day_go.-ibl-whitespace-char-1 {color: #a8aecb}
+.tokyonight-day_go.-operator {color: #006a83}
 .tokyonight-day_go.Constant {color: #b15c00}
+.tokyonight-day_go.SignColumn {color: #a8aecb; background-color: #e1e2e7}
+.tokyonight-day_go.-variable-member {color: #387068}
+.tokyonight-day_go.-property {color: #387068}
+.tokyonight-day_go.Special {color: #188092}
+.tokyonight-day_go.-label {color: #2e7de9}
+.tokyonight-day_go.Function {color: #2e7de9}
+.tokyonight-day_go.-punctuation-bracket {color: #6172b0}
+.tokyonight-day_go.-variable {color: #3760bf}

@@ -1,5 +1,20 @@
 .nightfox_elixir.boxbg {background-color: #192330; color: #cdcecf}
-.nightfox_elixir.-ibl-whitespace-char-1 {color: #29394f}
 .nightfox_elixir.LineNr {color: #71839b}
+.nightfox_elixir.-punctuation-delimiter {color: #aeafb0}
+.nightfox_elixir.-punctuation-bracket {color: #aeafb0}
+.nightfox_elixir.Keyword {color: #9d79d6}
+.nightfox_elixir.-module {color: #7ad5d6}
+.nightfox_elixir.-punctuation-special {color: #7ad5d6}
+.nightfox_elixir.-keyword-function {color: #9d79d6}
+.nightfox_elixir.String {color: #81b29a}
 .nightfox_elixir.-ibl-indent-char-1 {color: #29394f}
+.nightfox_elixir.Number {color: #f4a261}
+.nightfox_elixir.-ibl-whitespace-char-1 {color: #29394f}
+.nightfox_elixir.-ibl-scope-char-1 {color: #738091}
+.nightfox_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.nightfox_elixir.Comment {color: #738091}
 .nightfox_elixir.SignColumn {color: #71839b}
+.nightfox_elixir.-variable {color: #dfdfe0}
+.nightfox_elixir.Function {color: #86abdc}
+.nightfox_elixir.Special {color: #86abdc}
+.nightfox_elixir.Operator {color: #aeafb0}
