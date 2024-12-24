@@ -10,7 +10,7 @@
   let themes: ThemeData[] = $state([]);
 
   const getComponent = async (path: string) => {
-    const module = await import(`/src/lib/vihtml/${path}.svelte`);
+    const module = await import(`../lib/vihtml/${path}.svelte`);
     return module.default;
   };
 
