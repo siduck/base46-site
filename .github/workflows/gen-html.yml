@@ -27,6 +27,7 @@ jobs:
       env:
         NVIM_TAG: stable
       run: |
+        ls
         wget https://github.com/neovim/neovim/releases/download/${NVIM_TAG}/nvim-linux64.tar.gz
         tar -zxf nvim-linux64.tar.gz
         sudo ln -s "$PWD"/nvim-linux64/bin/nvim /usr/local/bin
@@ -36,7 +37,7 @@ jobs:
     - name: use nvim tohtml
       run: |
         nvim --headless +"q"
-        nvim --headless +"e vihtml/init.lua | luafile vihtml/init.lua" +"q"
+        nvim --headless +":lua require 'vihtml'" +"q"
 
     - name: Push changes
       env:

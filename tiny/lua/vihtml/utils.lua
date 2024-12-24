@@ -44,4 +44,26 @@ M.win_to_html = function(name)
   return format_html(name, code)
 end
 
+M.write_file = function(path, str)
+  local file = io.open(path, "wb")
+
+  if file then
+    file:write(str)
+    file:close()
+  end
+end
+
+M.save_theme_data = function()
+  local path = vim.fn.stdpath "data" .. "lazy/"
+
+  local theme_plugins = require "themelist"
+
+  local result = vim.tbl_map(function(x)
+    local cmds = vim.fn.readdir(path .. x .. "/colors")
+    return { cmds = cmds, name = x }
+  end, theme_plugins)
+
+  return result
+end
+
 return M
