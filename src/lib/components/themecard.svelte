@@ -4,7 +4,7 @@
 </script>
 
 <div class="flexcol">
-  <span font-medium text-xl class="capitalize badge bg-blue2 px5">{
+  <span font-medium text-xl class="capitalize  px5">{
     data.variants[index]
   }</span>
 
@@ -17,7 +17,7 @@
       {#each data.variants as variant, i}
         <button
           aria-label={variant + " theme switcher"}
-          border="3 solid slate3"
+          border="3 solid slate3 dark:slate7"
           onclick={() => index = i}
           class={`${variant} boxbg p3 rounded-full`}
         >

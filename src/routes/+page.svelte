@@ -1,6 +1,7 @@
 <script lang="ts">
   import themelist from "../data.json";
   import ThemeCard from "$lib/components/themecard.svelte";
+  import  Navbar from "$lib/components/navbar.svelte";
 
   type ThemeData = {
     name: string;
@@ -27,10 +28,12 @@
   import "$lib/css/style.css";
 </script>
 
-<main>
-  <section grid="~ gap5 cols-2" p10>
+<main box mxauto p3 grid gap5>
+  <Navbar />
+
+  <div grid="~ gap10 cols-2" >
     {#each themes as theme}
       <ThemeCard data={theme} />
     {/each}
-  </section>
+  </div>
 </main>

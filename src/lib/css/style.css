@@ -2,6 +2,8 @@ body {
 	margin: 0;
 	/* @apply font-sans; */
 	font-family: "Inter", sans-serif;
+
+  @apply bg-white text-black dark:bg-slate9 dark:text-slate-2;
 }
 
 @font-face {
@@ -13,20 +15,28 @@ body {
 
 pre * {
 	font-family: "Nerd Font";
-  width: fit-content;
+	width: fit-content;
 }
 
 pre {
 	margin: 0;
-  overflow-x: auto;
+	overflow-x: auto;
 }
 
 button {
-  @apply vertCentered justify-between w-full;
-  @apply whitespace-nowrap rounded-lg;
-  @apply hover:cursor-pointer w-fit
-  @apply p-2 text-base bg-slate-1 dark:bg-dark-3;
-  @apply dark:text-slate-4 text-black;
-  @apply hover:darkenBg dark:hover:lightenBg;
-  @apply font-normal;
+	@apply flex gap2 justify-between w-full;
+	@apply whitespace-nowrap rounded-lg;
+	@apply hover:cursor-pointer w-fit
+  @apply p-2 text-base bg-primary dark:bg-slate-6;
+	@apply dark:text-slate-4 text-white;
+	@apply hover:darkenBg dark:hover:lightenBg;
+	@apply font-normal;
 }
+
+a {
+	text-decoration: none;
+	color: inherit;
+	@apply hover:text-blue-3;
+}
+
+section  { @apply shadow-lg}
