@@ -76,8 +76,6 @@ M.get_themedata = function()
     return { variants = cmds, name = x }
   end, theme_plugins)
 
-  vim.print(result)
-
   return result
 end
 

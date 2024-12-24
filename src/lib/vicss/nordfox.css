@@ -1,21 +1,19 @@
 .nordfox.boxbg {background-color: #2e3440; color: #cdcecf}
-.nordfox.-variable-parameter {color: #93ccdc}
 .nordfox.-ibl-indent-char-1 {color: #444c5e}
-.nordfox.-punctuation-bracket {color: #abb1bb}
 .nordfox.Keyword {color: #b48ead}
-.nordfox.Constant {color: #d89079}
+.nordfox.-keyword-operator {color: #abb1bb}
 .nordfox.SignColumn {color: #7e8188}
-.nordfox.-keyword-return {color: #bf616a}
+.nordfox.-variable-member {color: #81a1c1}
 .nordfox.String {color: #a3be8c}
+.nordfox.-punctuation-bracket {color: #abb1bb}
 .nordfox.Operator {color: #abb1bb}
-.nordfox.Special {color: #8cafd2}
 .nordfox.LineNr {color: #7e8188}
 .nordfox.Conditional {color: #c895bf}
+.nordfox.-spell {}
+.nordfox.-variable {color: #e5e9f0}
+.nordfox.Comment {color: #60728a}
 .nordfox.-function-builtin {color: #bf616a}
 .nordfox.-punctuation-delimiter {color: #abb1bb}
 .nordfox.Function {color: #8cafd2}
-.nordfox.-constructor-lua {color: #abb1bb}
-.nordfox.-variable {color: #e5e9f0}
-.nordfox.-keyword-function {color: #b48ead}
 .nordfox.-ibl-whitespace-char-1 {color: #444c5e}
-.nordfox.-variable-member {color: #81a1c1}
+.nordfox.-constructor-lua {color: #abb1bb}

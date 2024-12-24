@@ -3,11 +3,12 @@
 .tokyodark.-ibl-indent-char-1 {color: #4a5057}
 .tokyodark.Operator {color: #ee6d85}
 .tokyodark.Special {color: #a485dd}
-.tokyodark.Keyword {color: #ee6d85; font-style: italic}
-.tokyodark.Constant {color: #f6955b}
+.tokyodark.Keyword {font-style: italic; color: #ee6d85}
 .tokyodark.SignColumn {background-color: #11121d; color: #a0a8cd}
 .tokyodark.LineNr {color: #4a5057}
-.tokyodark.-variable {color: #e0e2ea}
+.tokyodark.Comment {font-style: italic; color: #4a5057}
 .tokyodark.Delimiter {color: #a0a8cd}
-.tokyodark.-ibl-whitespace-char-1 {color: #4a5057}
+.tokyodark.-variable {color: #e0e2ea}
 .tokyodark.Function {color: #95c561}
+.tokyodark.-ibl-whitespace-char-1 {color: #4a5057}
+.tokyodark.-spell {}

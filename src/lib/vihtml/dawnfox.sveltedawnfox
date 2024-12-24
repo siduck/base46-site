@@ -1,8 +1,0 @@
-<script> import "$lib/vicss/dawnfox.css" </script>
-
-<section class="dawnfox boxbg pt7 pb3  rounded-2xl">
-<pre>
-<span class="dawnfox SignColumn">  </span><span class="dawnfox LineNr">  1 </span>
-
-</pre>
-</section>

@@ -10,8 +10,8 @@ M.theme_to_html = function(name, cwd)
   local css_path = cwd .. "/src/lib/vicss/" .. name .. ".css"
   local code = utils.win_to_html(name)
 
-  utils.write_file(html_path .. name, code.html)
-  utils.write_file(css_path .. name, code.css)
+  utils.write_file(html_path, code.html)
+  utils.write_file(css_path, code.css)
 end
 
 M.base46_themes_html = function()
@@ -26,5 +26,7 @@ M.base46_themes_html = function()
   local themelist_json = vim.json.encode(themelist)
   utils.write_file(cwd .. "/src/data.json", themelist_json)
 end
+
+vim.cmd("e" .. vim.fn.stdpath "config" .. "/init.lua") 
 
 M.base46_themes_html()

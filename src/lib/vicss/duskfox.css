@@ -1,21 +1,19 @@
 .duskfox.boxbg {background-color: #232136; color: #e0def4}
-.duskfox.-variable-parameter {color: #a6dae3}
 .duskfox.-ibl-indent-char-1 {color: #373354}
-.duskfox.-punctuation-bracket {color: #cdcbe0}
 .duskfox.Keyword {color: #c4a7e7}
-.duskfox.Constant {color: #f0a4a2}
+.duskfox.-keyword-operator {color: #cdcbe0}
 .duskfox.SignColumn {color: #6e6a86}
-.duskfox.-keyword-return {color: #eb6f92}
+.duskfox.-variable-member {color: #569fba}
 .duskfox.String {color: #a3be8c}
+.duskfox.-punctuation-bracket {color: #cdcbe0}
 .duskfox.Operator {color: #cdcbe0}
-.duskfox.Special {color: #65b1cd}
 .duskfox.LineNr {color: #6e6a86}
 .duskfox.Conditional {color: #ccb1ed}
+.duskfox.-spell {}
+.duskfox.-variable {color: #e0def4}
+.duskfox.Comment {color: #817c9c}
 .duskfox.-function-builtin {color: #eb6f92}
 .duskfox.-punctuation-delimiter {color: #cdcbe0}
 .duskfox.Function {color: #65b1cd}
-.duskfox.-constructor-lua {color: #cdcbe0}
-.duskfox.-variable {color: #e0def4}
-.duskfox.-keyword-function {color: #c4a7e7}
 .duskfox.-ibl-whitespace-char-1 {color: #373354}
-.duskfox.-variable-member {color: #569fba}
+.duskfox.-constructor-lua {color: #cdcbe0}

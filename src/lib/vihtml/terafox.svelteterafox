@@ -1,8 +1,0 @@
-<script> import "$lib/vicss/terafox.css" </script>
-
-<section class="terafox boxbg pt7 pb3  rounded-2xl">
-<pre>
-<span class="terafox SignColumn">  </span><span class="terafox LineNr">  1 </span>
-
-</pre>
-</section>

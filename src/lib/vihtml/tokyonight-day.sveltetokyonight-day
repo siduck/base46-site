@@ -1,8 +1,0 @@
-<script> import "$lib/vicss/tokyonight-day.css" </script>
-
-<section class="tokyonight-day boxbg pt7 pb3  rounded-2xl">
-<pre>
-<span class="tokyonight-day SignColumn">  </span><span class="tokyonight-day LineNr">  1 </span>
-
-</pre>
-</section>
