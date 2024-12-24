@@ -1,20 +1,5 @@
 .terafox_elixir.boxbg {background-color: #152528; color: #e6eaea}
-.terafox_elixir.LineNr {color: #587b7b}
-.terafox_elixir.Keyword {color: #ad5c7c}
-.terafox_elixir.-module {color: #afd4de}
-.terafox_elixir.-punctuation-special {color: #afd4de}
-.terafox_elixir.-punctuation-bracket {color: #cbd9d8}
-.terafox_elixir.String {color: #7aa4a1}
-.terafox_elixir.Operator {color: #cbd9d8}
 .terafox_elixir.-ibl-whitespace-char-1 {color: #254147}
-.terafox_elixir.SignColumn {color: #587b7b}
-.terafox_elixir.-ibl-scope-char-1 {color: #6d7f8b}
-.terafox_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.terafox_elixir.LineNr {color: #587b7b}
 .terafox_elixir.-ibl-indent-char-1 {color: #254147}
-.terafox_elixir.-keyword-function {color: #ad5c7c}
-.terafox_elixir.Comment {color: #6d7f8b}
-.terafox_elixir.Number {color: #ff8349}
-.terafox_elixir.-variable {color: #ebebeb}
-.terafox_elixir.Function {color: #73a3b7}
-.terafox_elixir.-punctuation-delimiter {color: #cbd9d8}
-.terafox_elixir.Special {color: #73a3b7}
+.terafox_elixir.SignColumn {color: #587b7b}

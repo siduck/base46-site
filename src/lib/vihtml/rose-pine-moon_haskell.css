@@ -1,22 +1,17 @@
 .rose-pine-moon_haskell.boxbg {background-color: #232136; color: #e0def4}
-.rose-pine-moon_haskell.-variable-parameter {font-style: normal; color: #c4a7e7}
+.rose-pine-moon_haskell.Structure {color: #9ccfd8}
+.rose-pine-moon_haskell.VarId {}
+.rose-pine-moon_haskell.-ibl-indent-char-1 {color: #393552}
+.rose-pine-moon_haskell.Operator {color: #908caa}
+.rose-pine-moon_haskell.ConId {}
 .rose-pine-moon_haskell.LineNr {color: #6e6a86}
-.rose-pine-moon_haskell.-keyword-import {color: #3e8fb0}
-.rose-pine-moon_haskell.-spell {}
-.rose-pine-moon_haskell.-module {color: #e0def4}
-.rose-pine-moon_haskell.-type {color: #9ccfd8}
-.rose-pine-moon_haskell.-variable-member {color: #9ccfd8}
-.rose-pine-moon_haskell.-punctuation-bracket {color: #908caa}
-.rose-pine-moon_haskell.-keyword-directive {color: #c4a7e7}
 .rose-pine-moon_haskell.Number {color: #f6c177}
 .rose-pine-moon_haskell.-ibl-whitespace-char-1 {color: #393552}
-.rose-pine-moon_haskell.-punctuation-delimiter {color: #908caa}
 .rose-pine-moon_haskell.SignColumn {color: #e0def4}
-.rose-pine-moon_haskell.-ibl-indent-char-1 {color: #393552}
-.rose-pine-moon_haskell.-constructor {color: #9ccfd8}
+.rose-pine-moon_haskell.hsImportList {}
+.rose-pine-moon_haskell.hsImportGroup {}
+.rose-pine-moon_haskell.hsImportModuleName {}
 .rose-pine-moon_haskell.Comment {font-style: normal; color: #908caa}
-.rose-pine-moon_haskell.Character {color: #f6c177}
-.rose-pine-moon_haskell.-variable {font-style: normal; color: #e0def4}
-.rose-pine-moon_haskell.Keyword {color: #3e8fb0}
-.rose-pine-moon_haskell.Operator {color: #908caa}
-.rose-pine-moon_haskell.-function {color: #ea9a97}
+.rose-pine-moon_haskell.Include {color: #3e8fb0}
+.rose-pine-moon_haskell.SpecialComment {color: #c4a7e7}
+.rose-pine-moon_haskell.hsDelimiter {}

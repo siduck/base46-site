@@ -1,22 +1,17 @@
 .rose-pine-main_haskell.boxbg {background-color: #191724; color: #e0def4}
-.rose-pine-main_haskell.-variable-parameter {font-style: normal; color: #c4a7e7}
+.rose-pine-main_haskell.Structure {color: #9ccfd8}
+.rose-pine-main_haskell.VarId {}
+.rose-pine-main_haskell.-ibl-indent-char-1 {color: #26233a}
+.rose-pine-main_haskell.Operator {color: #908caa}
+.rose-pine-main_haskell.ConId {}
 .rose-pine-main_haskell.LineNr {color: #6e6a86}
-.rose-pine-main_haskell.-keyword-import {color: #31748f}
-.rose-pine-main_haskell.-spell {}
-.rose-pine-main_haskell.-module {color: #e0def4}
-.rose-pine-main_haskell.-type {color: #9ccfd8}
-.rose-pine-main_haskell.-variable-member {color: #9ccfd8}
-.rose-pine-main_haskell.-punctuation-bracket {color: #908caa}
-.rose-pine-main_haskell.-keyword-directive {color: #c4a7e7}
 .rose-pine-main_haskell.Number {color: #f6c177}
 .rose-pine-main_haskell.-ibl-whitespace-char-1 {color: #26233a}
-.rose-pine-main_haskell.-punctuation-delimiter {color: #908caa}
 .rose-pine-main_haskell.SignColumn {color: #e0def4}
-.rose-pine-main_haskell.-ibl-indent-char-1 {color: #26233a}
-.rose-pine-main_haskell.-constructor {color: #9ccfd8}
+.rose-pine-main_haskell.hsImportList {}
+.rose-pine-main_haskell.hsImportGroup {}
+.rose-pine-main_haskell.hsImportModuleName {}
 .rose-pine-main_haskell.Comment {font-style: normal; color: #908caa}
-.rose-pine-main_haskell.Character {color: #f6c177}
-.rose-pine-main_haskell.-variable {font-style: normal; color: #e0def4}
-.rose-pine-main_haskell.Keyword {color: #31748f}
-.rose-pine-main_haskell.Operator {color: #908caa}
-.rose-pine-main_haskell.-function {color: #ebbcba}
+.rose-pine-main_haskell.Include {color: #31748f}
+.rose-pine-main_haskell.SpecialComment {color: #c4a7e7}
+.rose-pine-main_haskell.hsDelimiter {}

@@ -1,21 +1,21 @@
 .tokyonight-moon_c.boxbg {background-color: #222436; color: #c8d3f5}
 .tokyonight-moon_c.-variable-parameter {color: #ffc777}
-.tokyonight-moon_c.LineNr {color: #3b4261}
+.tokyonight-moon_c.-punctuation-delimiter {color: #89ddff}
 .tokyonight-moon_c.Statement {color: #c099ff}
 .tokyonight-moon_c.-property {color: #4fd6be}
 .tokyonight-moon_c.Type {color: #65bcff}
 .tokyonight-moon_c.Constant {color: #ff966c}
-.tokyonight-moon_c.SignColumn {color: #3b4261; background-color: #222436}
+.tokyonight-moon_c.SignColumn {background-color: #222436; color: #3b4261}
 .tokyonight-moon_c.-type-builtin {color: #589ed7}
-.tokyonight-moon_c.-punctuation-bracket {color: #828bb8}
 .tokyonight-moon_c.String {color: #c3e88d}
 .tokyonight-moon_c.-keyword {font-style: normal; color: #fca7ea}
 .tokyonight-moon_c.-ibl-indent-char-1 {color: #3b4261}
 .tokyonight-moon_c.-ibl-whitespace-char-1 {color: #3b4261}
 .tokyonight-moon_c.-string-escape {color: #c099ff}
+.tokyonight-moon_c.-punctuation-bracket {color: #828bb8}
 .tokyonight-moon_c.PreProc {color: #86e1fc}
-.tokyonight-moon_c.Function {color: #82aaff}
+.tokyonight-moon_c.LineNr {color: #3b4261}
 .tokyonight-moon_c.-variable {color: #c8d3f5}
 .tokyonight-moon_c.-_parent {}
+.tokyonight-moon_c.Function {color: #82aaff}
 .tokyonight-moon_c.-operator {color: #89ddff}
-.tokyonight-moon_c.-punctuation-delimiter {color: #89ddff}

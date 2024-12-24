@@ -1,20 +1,5 @@
 .tokyonight_elixir.boxbg {background-color: #222436; color: #c8d3f5}
-.tokyonight_elixir.LineNr {color: #3b4261}
-.tokyonight_elixir.Constant {color: #ff966c}
-.tokyonight_elixir.-keyword-function {color: #c099ff}
-.tokyonight_elixir.-punctuation-special {color: #89ddff}
-.tokyonight_elixir.-punctuation-bracket {color: #828bb8}
-.tokyonight_elixir.String {color: #c3e88d}
-.tokyonight_elixir.-keyword {font-style: normal; color: #fca7ea}
-.tokyonight_elixir.-ibl-indent-char-1 {color: #3b4261}
 .tokyonight_elixir.-ibl-whitespace-char-1 {color: #3b4261}
-.tokyonight_elixir.-ibl-scope-char-1 {font-style: normal; color: #636da6}
-.tokyonight_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-.tokyonight_elixir.SignColumn {color: #3b4261; background-color: #222436}
-.tokyonight_elixir.PreProc {color: #86e1fc}
-.tokyonight_elixir.Comment {font-style: normal; color: #636da6}
-.tokyonight_elixir.-operator {color: #89ddff}
-.tokyonight_elixir.-variable {color: #c8d3f5}
-.tokyonight_elixir.Function {color: #82aaff}
-.tokyonight_elixir.-punctuation-delimiter {color: #89ddff}
-.tokyonight_elixir.Special {color: #65bcff}
+.tokyonight_elixir.LineNr {color: #3b4261}
+.tokyonight_elixir.-ibl-indent-char-1 {color: #3b4261}
+.tokyonight_elixir.SignColumn {background-color: #222436; color: #3b4261}

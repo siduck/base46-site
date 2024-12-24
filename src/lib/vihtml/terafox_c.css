@@ -1,24 +1,24 @@
 .terafox_c.boxbg {background-color: #152528; color: #e6eaea}
 .terafox_c.-variable-parameter {color: #afd4de}
-.terafox_c.LineNr {color: #587b7b}
+.terafox_c.-punctuation-delimiter {color: #cbd9d8}
 .terafox_c.-property {color: #5a93aa}
-.terafox_c.-function-macro {color: #e85c51}
+.terafox_c.Type {color: #fda47f}
 .terafox_c.Keyword {color: #ad5c7c}
 .terafox_c.Constant {color: #ff9664}
 .terafox_c.SignColumn {color: #587b7b}
 .terafox_c.-type-builtin {color: #afd4de}
-.terafox_c.-punctuation-bracket {color: #cbd9d8}
 .terafox_c.String {color: #7aa4a1}
-.terafox_c.Operator {color: #cbd9d8}
-.terafox_c.-ibl-whitespace-char-1 {color: #254147}
 .terafox_c.-ibl-indent-char-1 {color: #254147}
-.terafox_c.-punctuation-delimiter {color: #cbd9d8}
-.terafox_c.-keyword-return {color: #e85c51}
+.terafox_c.Operator {color: #cbd9d8}
+.terafox_c.-function-macro {color: #e85c51}
+.terafox_c.LineNr {color: #587b7b}
 .terafox_c.-string-escape {font-weight: bold; color: #fdb292}
-.terafox_c.PreProc {color: #d38d97}
-.terafox_c.Number {color: #ff8349}
 .terafox_c.Conditional {color: #b97490}
+.terafox_c.-punctuation-bracket {color: #cbd9d8}
+.terafox_c.PreProc {color: #d38d97}
+.terafox_c.-ibl-whitespace-char-1 {color: #254147}
+.terafox_c.Number {color: #ff8349}
 .terafox_c.-variable {color: #ebebeb}
 .terafox_c.-_parent {}
 .terafox_c.Function {color: #73a3b7}
-.terafox_c.Type {color: #fda47f}
+.terafox_c.-keyword-return {color: #e85c51}
