@@ -1,5 +1,5 @@
 .onedark_vivid_elixir.boxbg {background-color: #282c34; color: #abb2bf}
-.onedark_vivid_elixir.-ibl-whitespace-char-1 {color: #5c6370}
 .onedark_vivid_elixir.IndentLine {color: #3b4048}
-.onedark_vivid_elixir.LineNr {background-color: #282c34; color: #495162}
+.onedark_vivid_elixir.LineNr {color: #495162; background-color: #282c34}
 .onedark_vivid_elixir.SignColumn {background-color: #282c34}
+.onedark_vivid_elixir.-ibl-whitespace-char-1 {color: #5c6370}

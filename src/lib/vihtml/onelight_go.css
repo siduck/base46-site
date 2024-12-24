@@ -1,8 +1,8 @@
 .onelight_go.boxbg {background-color: #fafafa; color: #6a6a6a}
 .onelight_go.SignColumn {background-color: #fafafa}
-.onelight_go.IndentLine {color: #e7e7e7}
-.onelight_go.Number {color: #ee9025}
-.onelight_go.-ibl-whitespace-char-1 {color: #bebebe}
-.onelight_go.Keyword {color: #9a77cf}
-.onelight_go.LineNr {background-color: #fafafa; color: #cccccc}
 .onelight_go.Identifier {color: #e05661}
+.onelight_go.Number {color: #ee9025}
+.onelight_go.IndentLine {color: #e7e7e7}
+.onelight_go.Keyword {color: #9a77cf}
+.onelight_go.LineNr {color: #cccccc; background-color: #fafafa}
+.onelight_go.-ibl-whitespace-char-1 {color: #bebebe}

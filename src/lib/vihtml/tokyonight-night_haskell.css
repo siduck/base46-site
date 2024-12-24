@@ -7,11 +7,11 @@
 .tokyonight-night_haskell.Type {color: #2ac3de}
 .tokyonight-night_haskell.-ibl-whitespace-char-1 {color: #3b4261}
 .tokyonight-night_haskell.Constant {color: #ff9e64}
-.tokyonight-night_haskell.SignColumn {background-color: #1a1b26; color: #3b4261}
+.tokyonight-night_haskell.SignColumn {color: #3b4261; background-color: #1a1b26}
 .tokyonight-night_haskell.PreProc {color: #7dcfff}
 .tokyonight-night_haskell.hsImportGroup {}
 .tokyonight-night_haskell.hsImportModuleName {}
-.tokyonight-night_haskell.Comment {font-style: normal; color: #565f89}
+.tokyonight-night_haskell.Comment {color: #565f89; font-style: normal}
 .tokyonight-night_haskell.hsImportList {}
 .tokyonight-night_haskell.ConId {}
 .tokyonight-night_haskell.hsDelimiter {}

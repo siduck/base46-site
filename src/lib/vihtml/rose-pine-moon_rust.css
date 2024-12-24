@@ -10,7 +10,7 @@
 .rose-pine-moon_rust.-ibl-whitespace-char-1 {color: #393552}
 .rose-pine-moon_rust.Conditional {color: #3e8fb0}
 .rose-pine-moon_rust.LineNr {color: #6e6a86}
-.rose-pine-moon_rust.Comment {font-style: normal; color: #908caa}
+.rose-pine-moon_rust.Comment {color: #908caa; font-style: normal}
 .rose-pine-moon_rust.Float {color: #f6c177}
 .rose-pine-moon_rust.Include {color: #3e8fb0}
 .rose-pine-moon_rust.Function {color: #ea9a97}

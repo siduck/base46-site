@@ -1,17 +1,17 @@
 .onedark_vivid_haskell.boxbg {background-color: #282c34; color: #abb2bf}
 .onedark_vivid_haskell.Structure {color: #d55fde}
 .onedark_vivid_haskell.VarId {}
-.onedark_vivid_haskell.LineNr {background-color: #282c34; color: #495162}
+.onedark_vivid_haskell.LineNr {color: #495162; background-color: #282c34}
 .onedark_vivid_haskell.Operator {color: #2bbac5}
 .onedark_vivid_haskell.ConId {}
 .onedark_vivid_haskell.Number {color: #d19a66}
 .onedark_vivid_haskell.-ibl-whitespace-char-1 {color: #5c6370}
-.onedark_vivid_haskell.IndentLine {color: #3b4048}
+.onedark_vivid_haskell.Comment {color: #7f848e}
 .onedark_vivid_haskell.SignColumn {background-color: #282c34}
 .onedark_vivid_haskell.hsImportList {}
 .onedark_vivid_haskell.hsImportGroup {}
 .onedark_vivid_haskell.hsImportModuleName {}
-.onedark_vivid_haskell.Comment {color: #7f848e}
+.onedark_vivid_haskell.IndentLine {color: #3b4048}
 .onedark_vivid_haskell.Include {color: #d55fde}
 .onedark_vivid_haskell.SpecialComment {color: #7f848e}
 .onedark_vivid_haskell.hsDelimiter {}

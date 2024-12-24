@@ -8,11 +8,11 @@
 .onedark_dark_rust.Operator {color: #2bbac5}
 .onedark_dark_rust.-ibl-whitespace-char-1 {color: #434852}
 .onedark_dark_rust.Conditional {color: #d55fde}
-.onedark_dark_rust.LineNr {background-color: #000000; color: #495162}
+.onedark_dark_rust.LineNr {color: #495162; background-color: #000000}
 .onedark_dark_rust.Include {color: #d55fde}
 .onedark_dark_rust.Comment {color: #7f848e}
 .onedark_dark_rust.Float {color: #d19a66}
-.onedark_dark_rust.Number {color: #d19a66}
-.onedark_dark_rust.Function {color: #61afef}
-.onedark_dark_rust.StorageClass {color: #e5c07b}
 .onedark_dark_rust.IndentLine {color: #1f1f1f}
+.onedark_dark_rust.Function {color: #61afef}
+.onedark_dark_rust.Number {color: #d19a66}
+.onedark_dark_rust.StorageClass {color: #e5c07b}

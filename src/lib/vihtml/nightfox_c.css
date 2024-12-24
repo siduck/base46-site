@@ -1,6 +1,7 @@
 .nightfox_c.boxbg {background-color: #192330; color: #cdcecf}
 .nightfox_c.-variable-parameter {color: #7ad5d6}
-.nightfox_c.-punctuation-delimiter {color: #aeafb0}
+.nightfox_c.LineNr {color: #71839b}
+.nightfox_c.-function-macro {color: #c94f6d}
 .nightfox_c.-property {color: #719cd6}
 .nightfox_c.Type {color: #dbc074}
 .nightfox_c.Keyword {color: #9d79d6}
@@ -10,15 +11,14 @@
 .nightfox_c.String {color: #81b29a}
 .nightfox_c.-ibl-indent-char-1 {color: #29394f}
 .nightfox_c.Operator {color: #aeafb0}
-.nightfox_c.-function-macro {color: #c94f6d}
-.nightfox_c.LineNr {color: #71839b}
+.nightfox_c.-ibl-whitespace-char-1 {color: #29394f}
+.nightfox_c.-punctuation-bracket {color: #aeafb0}
 .nightfox_c.-string-escape {font-weight: bold; color: #e0c989}
 .nightfox_c.Conditional {color: #baa1e2}
-.nightfox_c.-punctuation-bracket {color: #aeafb0}
 .nightfox_c.PreProc {color: #dc8ed9}
-.nightfox_c.-ibl-whitespace-char-1 {color: #29394f}
 .nightfox_c.Number {color: #f4a261}
+.nightfox_c.Function {color: #86abdc}
 .nightfox_c.-variable {color: #dfdfe0}
 .nightfox_c.-_parent {}
-.nightfox_c.Function {color: #86abdc}
+.nightfox_c.-punctuation-delimiter {color: #aeafb0}
 .nightfox_c.-keyword-return {color: #c94f6d}

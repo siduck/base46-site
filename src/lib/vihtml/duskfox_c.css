@@ -1,6 +1,7 @@
 .duskfox_c.boxbg {background-color: #232136; color: #e0def4}
 .duskfox_c.-variable-parameter {color: #a6dae3}
-.duskfox_c.-punctuation-delimiter {color: #cdcbe0}
+.duskfox_c.LineNr {color: #6e6a86}
+.duskfox_c.-function-macro {color: #eb6f92}
 .duskfox_c.-property {color: #569fba}
 .duskfox_c.Type {color: #f6c177}
 .duskfox_c.Keyword {color: #c4a7e7}
@@ -10,15 +11,14 @@
 .duskfox_c.String {color: #a3be8c}
 .duskfox_c.-ibl-indent-char-1 {color: #373354}
 .duskfox_c.Operator {color: #cdcbe0}
-.duskfox_c.-function-macro {color: #eb6f92}
-.duskfox_c.LineNr {color: #6e6a86}
+.duskfox_c.-ibl-whitespace-char-1 {color: #373354}
+.duskfox_c.-punctuation-bracket {color: #cdcbe0}
 .duskfox_c.-string-escape {font-weight: bold; color: #f9cb8c}
 .duskfox_c.Conditional {color: #ccb1ed}
-.duskfox_c.-punctuation-bracket {color: #cdcbe0}
 .duskfox_c.PreProc {color: #f0a6cc}
-.duskfox_c.-ibl-whitespace-char-1 {color: #373354}
 .duskfox_c.Number {color: #ea9a97}
+.duskfox_c.Function {color: #65b1cd}
 .duskfox_c.-variable {color: #e0def4}
 .duskfox_c.-_parent {}
-.duskfox_c.Function {color: #65b1cd}
+.duskfox_c.-punctuation-delimiter {color: #cdcbe0}
 .duskfox_c.-keyword-return {color: #eb6f92}

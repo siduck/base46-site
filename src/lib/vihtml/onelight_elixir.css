@@ -1,5 +1,5 @@
 .onelight_elixir.boxbg {background-color: #fafafa; color: #6a6a6a}
-.onelight_elixir.-ibl-whitespace-char-1 {color: #bebebe}
 .onelight_elixir.IndentLine {color: #e7e7e7}
-.onelight_elixir.LineNr {background-color: #fafafa; color: #cccccc}
+.onelight_elixir.LineNr {color: #cccccc; background-color: #fafafa}
 .onelight_elixir.SignColumn {background-color: #fafafa}
+.onelight_elixir.-ibl-whitespace-char-1 {color: #bebebe}
