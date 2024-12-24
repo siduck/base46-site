@@ -1,19 +1,17 @@
 .nightfox.boxbg {background-color: #192330; color: #cdcecf}
-.nightfox.-ibl-indent-char-1 {color: #29394f}
-.nightfox.Keyword {color: #9d79d6}
-.nightfox.SignColumn {color: #71839b}
-.nightfox.-punctuation-delimiter {color: #aeafb0}
 .nightfox.String {color: #81b29a}
-.nightfox.Operator {color: #aeafb0}
+.nightfox.-ibl-indent-char-1 {color: #29394f}
 .nightfox.LineNr {color: #71839b}
-.nightfox.-keyword-operator {color: #aeafb0}
-.nightfox.-punctuation-bracket {color: #aeafb0}
-.nightfox.Conditional {color: #baa1e2}
-.nightfox.-spell {}
+.nightfox.Operator {color: #aeafb0}
 .nightfox.-constructor-lua {color: #aeafb0}
-.nightfox.Comment {color: #738091}
-.nightfox.-variable-member {color: #719cd6}
+.nightfox.Keyword {color: #9d79d6}
+.nightfox.-ibl-whitespace-char-1 {color: #29394f}
+.nightfox.Conditional {color: #baa1e2}
+.nightfox.SignColumn {color: #71839b}
+.nightfox.-punctuation-bracket {color: #aeafb0}
+.nightfox.-keyword-operator {color: #aeafb0}
+.nightfox.-function-builtin {color: #c94f6d}
 .nightfox.-variable {color: #dfdfe0}
 .nightfox.Function {color: #86abdc}
-.nightfox.-ibl-whitespace-char-1 {color: #29394f}
-.nightfox.-function-builtin {color: #c94f6d}
+.nightfox.-variable-member {color: #719cd6}
+.nightfox.-punctuation-delimiter {color: #aeafb0}

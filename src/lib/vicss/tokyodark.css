@@ -6,9 +6,7 @@
 .tokyodark.Keyword {color: #ee6d85; font-style: italic}
 .tokyodark.SignColumn {color: #a0a8cd; background-color: #11121d}
 .tokyodark.LineNr {color: #4a5057}
-.tokyodark.Comment {color: #4a5057; font-style: italic}
-.tokyodark.Delimiter {color: #a0a8cd}
 .tokyodark.-variable {color: #e0e2ea}
-.tokyodark.Function {color: #95c561}
+.tokyodark.Delimiter {color: #a0a8cd}
 .tokyodark.-ibl-whitespace-char-1 {color: #4a5057}
-.tokyodark.-spell {}
+.tokyodark.Function {color: #95c561}
