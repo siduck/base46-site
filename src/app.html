@@ -7,12 +7,6 @@
     %sveltekit.head%
 
     <script>
-      if (!localStorage.theme) {
-        localStorage.theme =
-          window.matchMedia("(prefers-color-scheme: dark)").matches
-            ? "dark"
-            : "light";
-      }
       document.querySelector("html").className = localStorage.theme;
     </script>
   </head>

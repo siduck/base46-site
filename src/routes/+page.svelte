@@ -28,10 +28,10 @@
   import "$lib/css/style.css";
 </script>
 
-<main box mxauto p3 grid gap5>
+<main box mxauto p5 grid gap5>
   <Navbar />
 
-  <div grid="~ gap10 cols-2" >
+  <div grid="~ gap10 xl:cols-2" >
     {#each themes as theme}
       <ThemeCard data={theme} />
     {/each}

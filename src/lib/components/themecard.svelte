@@ -1,15 +1,15 @@
 <script lang="ts">
+  import Skeleton from "$lib/ui/skeleton.svelte";
+
   let index = $state(0);
   let { data = [] }: any = $props();
 </script>
 
 <div class="flexcol">
-  <span font-medium text-xl class="capitalize  px5">{
-    data.variants[index]
-  }</span>
+  <span font-medium text-xl class="capitalize px5">{data.variants[index]}</span>
 
   {#await data.components[index]}
-    <p>Loading...</p>
+    <Skeleton css="h-200px" />
   {:then Component}
     <Component />
 
