@@ -5,14 +5,14 @@
 .rose-pine-main_go.Keyword {color: #31748f}
 .rose-pine-main_go.SignColumn {color: #e0def4}
 .rose-pine-main_go.Label {color: #9ccfd8}
-.rose-pine-main_go.-type {color: #9ccfd8}
-.rose-pine-main_go.-function-method-call {color: #c4a7e7}
-.rose-pine-main_go.-ibl-indent-char-1 {color: #26233a}
-.rose-pine-main_go.Number {color: #f6c177}
-.rose-pine-main_go.-ibl-whitespace-char-1 {color: #26233a}
 .rose-pine-main_go.-variable-member {color: #9ccfd8}
-.rose-pine-main_go.-function-builtin {font-weight: bold; color: #ebbcba}
-.rose-pine-main_go.-variable {color: #e0def4; font-style: normal}
-.rose-pine-main_go.-punctuation-delimiter {color: #908caa}
+.rose-pine-main_go.-ibl-indent-char-1 {color: #26233a}
 .rose-pine-main_go.Operator {color: #908caa}
+.rose-pine-main_go.-ibl-whitespace-char-1 {color: #26233a}
 .rose-pine-main_go.-function {color: #ebbcba}
+.rose-pine-main_go.-type {color: #9ccfd8}
+.rose-pine-main_go.-function-builtin {color: #ebbcba; font-weight: bold}
+.rose-pine-main_go.-variable {color: #e0def4; font-style: normal}
+.rose-pine-main_go.-function-method-call {color: #c4a7e7}
+.rose-pine-main_go.Number {color: #f6c177}
+.rose-pine-main_go.-punctuation-delimiter {color: #908caa}

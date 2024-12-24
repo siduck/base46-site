@@ -1,21 +1,21 @@
 .carbonfox_haskell.boxbg {background-color: #161616; color: #f2f4f8}
 .carbonfox_haskell.-variable-parameter {color: #52bdff}
 .carbonfox_haskell.LineNr {color: #7b7c7e}
-.carbonfox_haskell.-punctuation-delimiter {color: #b6b8bb}
 .carbonfox_haskell.-punctuation-bracket {color: #b6b8bb}
 .carbonfox_haskell.Keyword {color: #be95ff}
 .carbonfox_haskell.-spell {}
+.carbonfox_haskell.-variable-member {color: #78a9ff}
 .carbonfox_haskell.-ibl-indent-char-1 {color: #353535}
 .carbonfox_haskell.Number {color: #3ddbd9}
 .carbonfox_haskell.Special {color: #8cb6ff}
 .carbonfox_haskell.SignColumn {color: #7b7c7e}
 .carbonfox_haskell.-ibl-whitespace-char-1 {color: #353535}
+.carbonfox_haskell.Operator {color: #b6b8bb}
 .carbonfox_haskell.Type {color: #08bdba}
-.carbonfox_haskell.PreProc {color: #ff91c1}
-.carbonfox_haskell.-variable-member {color: #78a9ff}
-.carbonfox_haskell.Comment {color: #6e6f70}
 .carbonfox_haskell.-constructor {color: #33b1ff}
+.carbonfox_haskell.Comment {color: #6e6f70}
+.carbonfox_haskell.PreProc {color: #ff91c1}
 .carbonfox_haskell.-variable {color: #dfdfe0}
 .carbonfox_haskell.Function {color: #8cb6ff}
 .carbonfox_haskell.-module {color: #52bdff}
-.carbonfox_haskell.Operator {color: #b6b8bb}
+.carbonfox_haskell.-punctuation-delimiter {color: #b6b8bb}

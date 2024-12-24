@@ -1,22 +1,22 @@
 .rose-pine-dawn_haskell.boxbg {background-color: #faf4ed; color: #575279}
 .rose-pine-dawn_haskell.-variable-parameter {color: #907aa9; font-style: normal}
 .rose-pine-dawn_haskell.LineNr {color: #9893a5}
-.rose-pine-dawn_haskell.-punctuation-delimiter {color: #797593}
 .rose-pine-dawn_haskell.-punctuation-bracket {color: #797593}
 .rose-pine-dawn_haskell.Keyword {color: #286983}
 .rose-pine-dawn_haskell.-spell {}
-.rose-pine-dawn_haskell.-type {color: #56949f}
-.rose-pine-dawn_haskell.-keyword-directive {color: #907aa9}
+.rose-pine-dawn_haskell.-keyword-import {color: #286983}
+.rose-pine-dawn_haskell.-variable-member {color: #56949f}
 .rose-pine-dawn_haskell.-ibl-indent-char-1 {color: #f2e9e1}
 .rose-pine-dawn_haskell.Number {color: #ea9d34}
 .rose-pine-dawn_haskell.-ibl-whitespace-char-1 {color: #f2e9e1}
 .rose-pine-dawn_haskell.SignColumn {color: #575279}
 .rose-pine-dawn_haskell.Character {color: #ea9d34}
-.rose-pine-dawn_haskell.-keyword-import {color: #286983}
-.rose-pine-dawn_haskell.-variable-member {color: #56949f}
-.rose-pine-dawn_haskell.Comment {color: #797593; font-style: normal}
-.rose-pine-dawn_haskell.Operator {color: #797593}
-.rose-pine-dawn_haskell.-variable {color: #575279; font-style: normal}
-.rose-pine-dawn_haskell.-constructor {color: #56949f}
+.rose-pine-dawn_haskell.-punctuation-delimiter {color: #797593}
 .rose-pine-dawn_haskell.-module {color: #575279}
+.rose-pine-dawn_haskell.-constructor {color: #56949f}
+.rose-pine-dawn_haskell.Comment {color: #797593; font-style: normal}
+.rose-pine-dawn_haskell.-type {color: #56949f}
+.rose-pine-dawn_haskell.-variable {color: #575279; font-style: normal}
+.rose-pine-dawn_haskell.-keyword-directive {color: #907aa9}
+.rose-pine-dawn_haskell.Operator {color: #797593}
 .rose-pine-dawn_haskell.-function {color: #d7827e}

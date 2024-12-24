@@ -1,20 +1,20 @@
 .tokyonight-moon_elixir.boxbg {background-color: #222436; color: #c8d3f5}
 .tokyonight-moon_elixir.LineNr {color: #3b4261}
-.tokyonight-moon_elixir.-punctuation-delimiter {color: #89ddff}
 .tokyonight-moon_elixir.-punctuation-bracket {color: #828bb8}
 .tokyonight-moon_elixir.Constant {color: #ff966c}
 .tokyonight-moon_elixir.SignColumn {color: #3b4261; background-color: #222436}
-.tokyonight-moon_elixir.-punctuation-special {color: #89ddff}
 .tokyonight-moon_elixir.-keyword-function {color: #c099ff}
+.tokyonight-moon_elixir.-punctuation-special {color: #89ddff}
 .tokyonight-moon_elixir.String {color: #c3e88d}
 .tokyonight-moon_elixir.-keyword {color: #fca7ea; font-style: normal}
 .tokyonight-moon_elixir.-ibl-indent-char-1 {color: #3b4261}
 .tokyonight-moon_elixir.-ibl-whitespace-char-1 {color: #3b4261}
 .tokyonight-moon_elixir.-ibl-scope-char-1 {color: #636da6; font-style: normal}
-.tokyonight-moon_elixir.-operator {color: #89ddff}
+.tokyonight-moon_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .tokyonight-moon_elixir.PreProc {color: #86e1fc}
 .tokyonight-moon_elixir.Comment {color: #636da6; font-style: normal}
+.tokyonight-moon_elixir.Special {color: #65bcff}
 .tokyonight-moon_elixir.-variable {color: #c8d3f5}
 .tokyonight-moon_elixir.Function {color: #82aaff}
-.tokyonight-moon_elixir.Special {color: #65bcff}
-.tokyonight-moon_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.tokyonight-moon_elixir.-operator {color: #89ddff}
+.tokyonight-moon_elixir.-punctuation-delimiter {color: #89ddff}

@@ -3,6 +3,7 @@
 .onedark_elixir.-punctuation-bracket {color: #c678dd}
 .onedark_elixir.Keyword {color: #c678dd}
 .onedark_elixir.-module {color: #e5c07b}
+.onedark_elixir.-keyword-function {color: #c678dd}
 .onedark_elixir.-punctuation-special {color: #abb2bf}
 .onedark_elixir.Delimiter {color: #abb2bf}
 .onedark_elixir.-string {color: #98c379}
@@ -10,12 +11,11 @@
 .onedark_elixir.Special {color: #61afef}
 .onedark_elixir.-ibl-scope-char-1 {color: #7f848e}
 .onedark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-.onedark_elixir.SignColumn {background-color: #282c34}
 .onedark_elixir.-string-special-symbol {color: #e06c75}
-.onedark_elixir.IndentLine {color: #3b4048}
+.onedark_elixir.SignColumn {background-color: #282c34}
 .onedark_elixir.Comment {color: #7f848e}
-.onedark_elixir.-ibl-whitespace-char-1 {color: #5c6370}
+.onedark_elixir.IndentLine {color: #3b4048}
 .onedark_elixir.-variable {color: #e06c75}
+.onedark_elixir.-ibl-whitespace-char-1 {color: #5c6370}
 .onedark_elixir.-operator {color: #56b6c2}
-.onedark_elixir.-keyword-function {color: #c678dd}
 .onedark_elixir.-function {color: #61afef}

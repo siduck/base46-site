@@ -4,17 +4,17 @@
 .onedark_vivid_haskell.-punctuation-bracket {color: #d55fde}
 .onedark_vivid_haskell.Keyword {color: #d55fde}
 .onedark_vivid_haskell.-module {color: #e5c07b}
-.onedark_vivid_haskell.IndentLine {color: #3b4048}
+.onedark_vivid_haskell.-variable-member {color: #ef596f}
+.onedark_vivid_haskell.Delimiter {color: #abb2bf}
 .onedark_vivid_haskell.-character-special {color: #d55fde}
 .onedark_vivid_haskell.-ibl-whitespace-char-1 {color: #5c6370}
+.onedark_vivid_haskell.IndentLine {color: #3b4048}
 .onedark_vivid_haskell.SignColumn {background-color: #282c34}
-.onedark_vivid_haskell.-operator {color: #2bbac5}
 .onedark_vivid_haskell.Number {color: #d19a66}
-.onedark_vivid_haskell.-spell {}
 .onedark_vivid_haskell.-constructor {color: #e5c07b}
 .onedark_vivid_haskell.Comment {color: #7f848e}
-.onedark_vivid_haskell.Delimiter {color: #abb2bf}
+.onedark_vivid_haskell.-spell {}
 .onedark_vivid_haskell.-variable {color: #ef596f}
-.onedark_vivid_haskell.-variable-member {color: #ef596f}
 .onedark_vivid_haskell.Type {color: #e5c07b}
+.onedark_vivid_haskell.-operator {color: #2bbac5}
 .onedark_vivid_haskell.-function {color: #61afef}

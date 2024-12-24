@@ -2,16 +2,16 @@
 .tokyonight-night_go.LineNr {color: #3b4261}
 .tokyonight-night_go.-keyword {color: #9d7cd8; font-style: normal}
 .tokyonight-night_go.-ibl-indent-char-1 {color: #3b4261}
-.tokyonight-night_go.-punctuation-delimiter {color: #89ddff}
-.tokyonight-night_go.Type {color: #2ac3de}
+.tokyonight-night_go.-property {color: #73daca}
+.tokyonight-night_go.-punctuation-bracket {color: #a9b1d6}
 .tokyonight-night_go.-ibl-whitespace-char-1 {color: #3b4261}
 .tokyonight-night_go.-operator {color: #89ddff}
 .tokyonight-night_go.Constant {color: #ff9e64}
 .tokyonight-night_go.SignColumn {color: #3b4261; background-color: #1a1b26}
-.tokyonight-night_go.-variable-member {color: #73daca}
-.tokyonight-night_go.-property {color: #73daca}
 .tokyonight-night_go.Special {color: #2ac3de}
+.tokyonight-night_go.Type {color: #2ac3de}
+.tokyonight-night_go.-variable-member {color: #73daca}
 .tokyonight-night_go.-label {color: #7aa2f7}
 .tokyonight-night_go.Function {color: #7aa2f7}
-.tokyonight-night_go.-punctuation-bracket {color: #a9b1d6}
 .tokyonight-night_go.-variable {color: #c0caf5}
+.tokyonight-night_go.-punctuation-delimiter {color: #89ddff}

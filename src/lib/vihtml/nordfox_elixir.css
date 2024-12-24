@@ -1,20 +1,20 @@
 .nordfox_elixir.boxbg {background-color: #2e3440; color: #cdcecf}
 .nordfox_elixir.LineNr {color: #7e8188}
-.nordfox_elixir.-punctuation-delimiter {color: #abb1bb}
 .nordfox_elixir.-punctuation-bracket {color: #abb1bb}
 .nordfox_elixir.Keyword {color: #b48ead}
 .nordfox_elixir.-module {color: #93ccdc}
-.nordfox_elixir.-punctuation-special {color: #93ccdc}
 .nordfox_elixir.-keyword-function {color: #b48ead}
+.nordfox_elixir.-punctuation-special {color: #93ccdc}
 .nordfox_elixir.String {color: #a3be8c}
 .nordfox_elixir.-ibl-indent-char-1 {color: #444c5e}
-.nordfox_elixir.Number {color: #c9826b}
+.nordfox_elixir.Operator {color: #abb1bb}
 .nordfox_elixir.-ibl-whitespace-char-1 {color: #444c5e}
 .nordfox_elixir.-ibl-scope-char-1 {color: #60728a}
 .nordfox_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-.nordfox_elixir.Comment {color: #60728a}
 .nordfox_elixir.SignColumn {color: #7e8188}
+.nordfox_elixir.Comment {color: #60728a}
+.nordfox_elixir.Special {color: #8cafd2}
 .nordfox_elixir.-variable {color: #e5e9f0}
 .nordfox_elixir.Function {color: #8cafd2}
-.nordfox_elixir.Special {color: #8cafd2}
-.nordfox_elixir.Operator {color: #abb1bb}
+.nordfox_elixir.Number {color: #c9826b}
+.nordfox_elixir.-punctuation-delimiter {color: #abb1bb}

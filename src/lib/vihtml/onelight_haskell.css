@@ -4,17 +4,17 @@
 .onelight_haskell.-punctuation-bracket {color: #9a77cf}
 .onelight_haskell.Keyword {color: #9a77cf}
 .onelight_haskell.-module {color: #eea825}
-.onelight_haskell.IndentLine {color: #e7e7e7}
+.onelight_haskell.-variable-member {color: #e05661}
+.onelight_haskell.Delimiter {color: #6a6a6a}
 .onelight_haskell.-character-special {color: #9a77cf}
 .onelight_haskell.-ibl-whitespace-char-1 {color: #bebebe}
+.onelight_haskell.IndentLine {color: #e7e7e7}
 .onelight_haskell.SignColumn {background-color: #fafafa}
-.onelight_haskell.-operator {color: #56b6c2}
 .onelight_haskell.Number {color: #ee9025}
-.onelight_haskell.-spell {}
 .onelight_haskell.-constructor {color: #eea825}
 .onelight_haskell.Comment {color: #9b9fa6}
-.onelight_haskell.Delimiter {color: #6a6a6a}
+.onelight_haskell.-spell {}
 .onelight_haskell.-variable {color: #e05661}
-.onelight_haskell.-variable-member {color: #e05661}
 .onelight_haskell.Type {color: #eea825}
+.onelight_haskell.-operator {color: #56b6c2}
 .onelight_haskell.-function {color: #118dc3}
