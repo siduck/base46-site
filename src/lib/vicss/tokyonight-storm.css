@@ -1,20 +1,20 @@
 .tokyonight-storm.boxbg {background-color: #24283b; color: #c0caf5}
 .tokyonight-storm.-variable-parameter {color: #e0af68}
 .tokyonight-storm.-ibl-indent-char-1 {color: #3b4261}
-.tokyonight-storm.Statement {color: #bb9af7}
 .tokyonight-storm.-punctuation-bracket {color: #a9b1d6}
+.tokyonight-storm.-punctuation-delimiter {color: #89ddff}
 .tokyonight-storm.Constant {color: #ff9e64}
 .tokyonight-storm.SignColumn {background-color: #24283b; color: #3b4261}
 .tokyonight-storm.-module-builtin {color: #f7768e}
-.tokyonight-storm.-variable-member {color: #73daca}
 .tokyonight-storm.String {color: #9ece6a}
-.tokyonight-storm.-keyword {font-style: italic; color: #9d7cd8}
+.tokyonight-storm.-keyword {color: #9d7cd8; font-style: italic}
+.tokyonight-storm.-variable-member {color: #73daca}
 .tokyonight-storm.Special {color: #2ac3de}
 .tokyonight-storm.-operator {color: #89ddff}
-.tokyonight-storm.-keyword-function {color: #bb9af7}
 .tokyonight-storm.-constructor {color: #bb9af7}
 .tokyonight-storm.LineNr {color: #3b4261}
+.tokyonight-storm.-keyword-function {color: #bb9af7}
 .tokyonight-storm.-variable {color: #c0caf5}
 .tokyonight-storm.Function {color: #7aa2f7}
 .tokyonight-storm.-ibl-whitespace-char-1 {color: #3b4261}
-.tokyonight-storm.-punctuation-delimiter {color: #89ddff}
+.tokyonight-storm.Statement {color: #bb9af7}
