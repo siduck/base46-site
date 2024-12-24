@@ -14,10 +14,19 @@ body {
 pre * {
 	font-family: "Nerd Font";
   width: fit-content;
-	/*font-size: 17px;*/
 }
 
 pre {
 	margin: 0;
   overflow-x: auto;
+}
+
+button {
+  @apply vertCentered justify-between w-full;
+  @apply whitespace-nowrap rounded-lg;
+  @apply hover:cursor-pointer w-fit
+  @apply p-2 text-base bg-slate-1 dark:bg-dark-3;
+  @apply dark:text-slate-4 text-black;
+  @apply hover:darkenBg dark:hover:lightenBg;
+  @apply font-normal;
 }

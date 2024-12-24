@@ -1,3 +1,5 @@
+import transformerDirectives from "@unocss/transformer-directives";
+
 import {
 	defineConfig,
 	presetAttributify,
@@ -29,6 +31,8 @@ export default defineConfig({
 		["darken", { filter: "brightness(0.95)" }],
 		["nocolor", { filter: "brightness(1)" }],
 	],
+
+	transformers: [transformerDirectives()],
 
 	shortcuts: {
 		box: "2xl:max-w-[80%]",

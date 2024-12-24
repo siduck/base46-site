@@ -1,5 +1,6 @@
 <script lang="ts">
   import themelist from "../data.json";
+  import ThemeCard from "$lib/components/themecard.svelte";
 
   type ThemeData = {
     name: string;
@@ -28,12 +29,8 @@
 
 <main>
   <section grid="~ gap5 cols-2" p10>
-    {#each themes as theme (theme.name)}
-      {#await theme.components[0]}
-        <p>Loading...</p>
-      {:then Component}
-        <Component />
-      {/await}
+    {#each themes as theme}
+      <ThemeCard data={theme} />
     {/each}
   </section>
 </main>
