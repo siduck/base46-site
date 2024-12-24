@@ -4,17 +4,17 @@
 .tokyonight-night.Statement {color: #bb9af7}
 .tokyonight-night.-punctuation-bracket {color: #a9b1d6}
 .tokyonight-night.Constant {color: #ff9e64}
-.tokyonight-night.-variable-member {color: #73daca}
-.tokyonight-night.-keyword-function {color: #bb9af7}
+.tokyonight-night.SignColumn {background-color: #1a1b26; color: #3b4261}
 .tokyonight-night.-module-builtin {color: #f7768e}
+.tokyonight-night.-variable-member {color: #73daca}
 .tokyonight-night.String {color: #9ece6a}
-.tokyonight-night.-keyword {color: #9d7cd8; font-style: italic}
+.tokyonight-night.-keyword {font-style: italic; color: #9d7cd8}
 .tokyonight-night.Special {color: #2ac3de}
-.tokyonight-night.-punctuation-delimiter {color: #89ddff}
 .tokyonight-night.-operator {color: #89ddff}
+.tokyonight-night.-keyword-function {color: #bb9af7}
 .tokyonight-night.-constructor {color: #bb9af7}
 .tokyonight-night.LineNr {color: #3b4261}
 .tokyonight-night.-variable {color: #c0caf5}
 .tokyonight-night.Function {color: #7aa2f7}
 .tokyonight-night.-ibl-whitespace-char-1 {color: #3b4261}
-.tokyonight-night.SignColumn {color: #3b4261; background-color: #1a1b26}
+.tokyonight-night.-punctuation-delimiter {color: #89ddff}
