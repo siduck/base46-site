@@ -1,0 +1,21 @@
+.dayfox.boxbg {background-color: #f6f2ee; color: #3d2b5a}
+.dayfox.-variable-parameter {color: #22676d}
+.dayfox.-ibl-indent-char-1 {color: #d3c7bb}
+.dayfox.Keyword {color: #6e33ce}
+.dayfox.-punctuation-bracket {color: #643f61}
+.dayfox.Constant {color: #7f5152}
+.dayfox.-variable-member {color: #2848a9}
+.dayfox.-keyword-function {color: #6e33ce}
+.dayfox.-keyword-return {color: #a5222f}
+.dayfox.String {color: #396847}
+.dayfox.Operator {color: #643f61}
+.dayfox.Special {color: #223d90}
+.dayfox.-punctuation-delimiter {color: #643f61}
+.dayfox.Conditional {color: #5e2baf}
+.dayfox.LineNr {color: #824d5b}
+.dayfox.SignColumn {color: #824d5b}
+.dayfox.-function-builtin {color: #a5222f}
+.dayfox.-variable {color: #352c24}
+.dayfox.Function {color: #223d90}
+.dayfox.-ibl-whitespace-char-1 {color: #d3c7bb}
+.dayfox.-constructor-lua {color: #643f61}

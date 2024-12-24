@@ -1,0 +1,21 @@
+.duskfox.boxbg {background-color: #232136; color: #e0def4}
+.duskfox.-variable-parameter {color: #a6dae3}
+.duskfox.-ibl-indent-char-1 {color: #373354}
+.duskfox.Keyword {color: #c4a7e7}
+.duskfox.-punctuation-bracket {color: #cdcbe0}
+.duskfox.Constant {color: #f0a4a2}
+.duskfox.-variable-member {color: #569fba}
+.duskfox.-keyword-function {color: #c4a7e7}
+.duskfox.-keyword-return {color: #eb6f92}
+.duskfox.String {color: #a3be8c}
+.duskfox.Operator {color: #cdcbe0}
+.duskfox.Special {color: #65b1cd}
+.duskfox.-punctuation-delimiter {color: #cdcbe0}
+.duskfox.Conditional {color: #ccb1ed}
+.duskfox.LineNr {color: #6e6a86}
+.duskfox.SignColumn {color: #6e6a86}
+.duskfox.-function-builtin {color: #eb6f92}
+.duskfox.-variable {color: #e0def4}
+.duskfox.Function {color: #65b1cd}
+.duskfox.-ibl-whitespace-char-1 {color: #373354}
+.duskfox.-constructor-lua {color: #cdcbe0}

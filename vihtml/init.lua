@@ -1,8 +1,7 @@
 local utils = require "vihtml.utils"
-local state = require "vihtml.state"
 local M = {}
 
-M.save_html = function(path, str)
+M.write_file = function(path, str)
   local file = io.open(path, "wb")
 
   if file then
@@ -11,29 +10,37 @@ M.save_html = function(path, str)
   end
 end
 
-M.base46_themes_html = function()
-  require("plenary.reload").reload_module "vihtml"
-  utils.save_term_w()
+M.get_theme_list = function()
+  local list = {}
 
-  -- local list = require("nvchad.utils").list_themes()
+  for _, v in ipairs(require "themelist") do
+    list = vim.list_extend(list, v.variants)
+  end
+
+  return list
+end
+
+M.base46_themes_html = function()
   local cwd = vim.uv.cwd()
   local html_path = cwd .. "/src/lib/vihtml/"
   local css_path = cwd .. "/src/lib/vicss/"
 
-  local list = { "onedark", "nord", "everforest" }
+  local list = M.get_theme_list()
 
   for _, v in ipairs(list) do
-    require("nvconfig").base46.theme = v
-    require("base46").load_all_highlights()
+    vim.cmd("colorscheme " .. v)
 
-    local code = utils.wins_to_html(v)
+    local code = utils.win_to_html(v)
 
-    M.save_html(html_path .. v .. ".svelte", code.html)
-
-    M.save_html(css_path .. v .. ".css", code.css)
-
-    state.stl_w = 0
+    M.write_file(html_path .. v .. ".svelte", code.html)
+    M.write_file(css_path .. v .. ".css", code.css)
   end
+
+  local theme_json_path = cwd .. "/src/lib/themes.json"
+  local themes = require "themelist"
+
+  local json = vim.json.encode(themes)
+  M.write_file(theme_json_path, json)
 end
 
 M.base46_themes_html()
