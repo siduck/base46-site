@@ -1,5 +1,5 @@
 .tokyodark_haskell.boxbg {background-color: #11121d; color: #a0a8cd}
-.tokyodark_haskell.Structure {color: #7199ee; font-style: normal}
+.tokyodark_haskell.Structure {font-style: normal; color: #7199ee}
 .tokyodark_haskell.VarId {}
 .tokyodark_haskell.-ibl-indent-char-1 {color: #4a5057}
 .tokyodark_haskell.Operator {color: #ee6d85}
@@ -11,7 +11,7 @@
 .tokyodark_haskell.hsImportList {}
 .tokyodark_haskell.hsImportGroup {}
 .tokyodark_haskell.hsImportModuleName {}
-.tokyodark_haskell.Comment {color: #4a5057; font-style: normal}
+.tokyodark_haskell.Comment {font-style: normal; color: #4a5057}
 .tokyodark_haskell.Include {color: #ee6d85}
-.tokyodark_haskell.SpecialComment {color: #4a5057; font-style: normal}
+.tokyodark_haskell.SpecialComment {font-style: normal; color: #4a5057}
 .tokyodark_haskell.hsDelimiter {}

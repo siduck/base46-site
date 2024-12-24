@@ -1,7 +1,7 @@
 .tokyodark_rust.boxbg {background-color: #11121d; color: #a0a8cd}
-.tokyodark_rust.Identifier {color: #f6955b; font-style: normal}
-.tokyodark_rust.Type {color: #7199ee; font-style: normal}
-.tokyodark_rust.Keyword {color: #ee6d85; font-style: normal}
+.tokyodark_rust.Identifier {font-style: normal; color: #f6955b}
+.tokyodark_rust.Type {font-style: normal; color: #7199ee}
+.tokyodark_rust.Keyword {font-style: normal; color: #ee6d85}
 .tokyodark_rust.Constant {color: #f6955b}
 .tokyodark_rust.SignColumn {color: #a0a8cd; background-color: #11121d}
 .tokyodark_rust.Delimiter {color: #a0a8cd}
@@ -10,9 +10,9 @@
 .tokyodark_rust.-ibl-whitespace-char-1 {color: #4a5057}
 .tokyodark_rust.Conditional {color: #ee6d85}
 .tokyodark_rust.LineNr {color: #4a5057}
-.tokyodark_rust.Comment {color: #4a5057; font-style: normal}
+.tokyodark_rust.Comment {font-style: normal; color: #4a5057}
 .tokyodark_rust.Float {color: #a485dd}
 .tokyodark_rust.Include {color: #ee6d85}
 .tokyodark_rust.Function {color: #95c561}
 .tokyodark_rust.Number {color: #a485dd}
-.tokyodark_rust.StorageClass {color: #7199ee; font-style: normal}
+.tokyodark_rust.StorageClass {font-style: normal; color: #7199ee}

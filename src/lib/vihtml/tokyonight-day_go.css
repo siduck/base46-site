@@ -3,6 +3,6 @@
 .tokyonight-day_go.Identifier {color: #9854f1}
 .tokyonight-day_go.-ibl-indent-char-1 {color: #a8aecb}
 .tokyonight-day_go.-ibl-whitespace-char-1 {color: #a8aecb}
-.tokyonight-day_go.Keyword {color: #007197; font-style: normal}
+.tokyonight-day_go.Keyword {font-style: normal; color: #007197}
 .tokyonight-day_go.LineNr {color: #a8aecb}
 .tokyonight-day_go.Constant {color: #b15c00}

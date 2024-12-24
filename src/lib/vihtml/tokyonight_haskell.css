@@ -11,7 +11,7 @@
 .tokyonight_haskell.PreProc {color: #86e1fc}
 .tokyonight_haskell.hsImportGroup {}
 .tokyonight_haskell.hsImportModuleName {}
-.tokyonight_haskell.Comment {color: #636da6; font-style: normal}
+.tokyonight_haskell.Comment {font-style: normal; color: #636da6}
 .tokyonight_haskell.hsImportList {}
 .tokyonight_haskell.ConId {}
 .tokyonight_haskell.hsDelimiter {}

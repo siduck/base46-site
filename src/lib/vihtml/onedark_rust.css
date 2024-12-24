@@ -9,10 +9,10 @@
 .onedark_rust.-ibl-whitespace-char-1 {color: #5c6370}
 .onedark_rust.Conditional {color: #c678dd}
 .onedark_rust.LineNr {color: #495162; background-color: #282c34}
-.onedark_rust.Include {color: #c678dd}
+.onedark_rust.IndentLine {color: #3b4048}
 .onedark_rust.Comment {color: #7f848e}
 .onedark_rust.Float {color: #d19a66}
-.onedark_rust.IndentLine {color: #3b4048}
+.onedark_rust.Include {color: #c678dd}
 .onedark_rust.Function {color: #61afef}
-.onedark_rust.Number {color: #d19a66}
 .onedark_rust.StorageClass {color: #e5c07b}
+.onedark_rust.Number {color: #d19a66}

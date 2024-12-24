@@ -6,7 +6,7 @@
 .nightfly_rust.NightflyBlue {color: #82aaff}
 .nightfly_rust.SignColumn {color: #a1cd5e; background-color: #011627}
 .nightfly_rust.-ibl-whitespace-char-1 {color: #0e293f}
-.nightfly_rust.Comment {color: #7c8f8f; font-style: normal}
+.nightfly_rust.Comment {font-style: normal; color: #7c8f8f}
 .nightfly_rust.-ibl-indent-char-1 {color: #0e293f}
 .nightfly_rust.NightflyViolet {color: #c792ea}
 .nightfly_rust.NightflyTurquoise {color: #7fdbca}

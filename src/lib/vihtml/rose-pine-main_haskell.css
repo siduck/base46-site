@@ -11,7 +11,7 @@
 .rose-pine-main_haskell.hsImportList {}
 .rose-pine-main_haskell.hsImportGroup {}
 .rose-pine-main_haskell.hsImportModuleName {}
-.rose-pine-main_haskell.Comment {color: #908caa; font-style: normal}
+.rose-pine-main_haskell.Comment {font-style: normal; color: #908caa}
 .rose-pine-main_haskell.Include {color: #31748f}
 .rose-pine-main_haskell.SpecialComment {color: #c4a7e7}
 .rose-pine-main_haskell.hsDelimiter {}

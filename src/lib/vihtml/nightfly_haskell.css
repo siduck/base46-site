@@ -7,7 +7,7 @@
 .nightfly_haskell.NightflyBlue {color: #82aaff}
 .nightfly_haskell.SignColumn {color: #a1cd5e; background-color: #011627}
 .nightfly_haskell.hsImportList {}
-.nightfly_haskell.Comment {color: #7c8f8f; font-style: normal}
+.nightfly_haskell.Comment {font-style: normal; color: #7c8f8f}
 .nightfly_haskell.hsImportModuleName {}
 .nightfly_haskell.-ibl-whitespace-char-1 {color: #0e293f}
 .nightfly_haskell.NightflyOrange {color: #f78c6c}

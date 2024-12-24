@@ -3,11 +3,11 @@
 .tokyonight-night_rust.Statement {color: #bb9af7}
 .tokyonight-night_rust.Operator {color: #89ddff}
 .tokyonight-night_rust.Type {color: #2ac3de}
-.tokyonight-night_rust.Keyword {color: #7dcfff; font-style: normal}
+.tokyonight-night_rust.Keyword {font-style: normal; color: #7dcfff}
 .tokyonight-night_rust.Constant {color: #ff9e64}
 .tokyonight-night_rust.SignColumn {color: #3b4261; background-color: #1a1b26}
 .tokyonight-night_rust.PreProc {color: #7dcfff}
-.tokyonight-night_rust.Comment {color: #565f89; font-style: normal}
+.tokyonight-night_rust.Comment {font-style: normal; color: #565f89}
 .tokyonight-night_rust.LineNr {color: #3b4261}
 .tokyonight-night_rust.-ibl-whitespace-char-1 {color: #3b4261}
 .tokyonight-night_rust.Function {color: #7aa2f7}

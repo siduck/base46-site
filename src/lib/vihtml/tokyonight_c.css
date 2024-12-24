@@ -1,6 +1,6 @@
 .tokyonight_c.boxbg {background-color: #222436; color: #c8d3f5}
 .tokyonight_c.-variable-parameter {color: #ffc777}
-.tokyonight_c.LineNr {color: #3b4261}
+.tokyonight_c.-punctuation-bracket {color: #828bb8}
 .tokyonight_c.Statement {color: #c099ff}
 .tokyonight_c.-property {color: #4fd6be}
 .tokyonight_c.Type {color: #65bcff}
@@ -8,14 +8,14 @@
 .tokyonight_c.SignColumn {color: #3b4261; background-color: #222436}
 .tokyonight_c.-type-builtin {color: #589ed7}
 .tokyonight_c.String {color: #c3e88d}
-.tokyonight_c.-keyword {color: #fca7ea; font-style: normal}
+.tokyonight_c.-keyword {font-style: normal; color: #fca7ea}
 .tokyonight_c.-ibl-indent-char-1 {color: #3b4261}
 .tokyonight_c.-ibl-whitespace-char-1 {color: #3b4261}
-.tokyonight_c.-punctuation-bracket {color: #828bb8}
-.tokyonight_c.-operator {color: #89ddff}
+.tokyonight_c.-string-escape {color: #c099ff}
 .tokyonight_c.PreProc {color: #86e1fc}
+.tokyonight_c.LineNr {color: #3b4261}
 .tokyonight_c.Function {color: #82aaff}
 .tokyonight_c.-variable {color: #c8d3f5}
 .tokyonight_c.-_parent {}
 .tokyonight_c.-punctuation-delimiter {color: #89ddff}
-.tokyonight_c.-string-escape {color: #c099ff}
+.tokyonight_c.-operator {color: #89ddff}

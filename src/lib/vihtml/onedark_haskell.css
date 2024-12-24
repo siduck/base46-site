@@ -6,12 +6,12 @@
 .onedark_haskell.ConId {}
 .onedark_haskell.Number {color: #d19a66}
 .onedark_haskell.-ibl-whitespace-char-1 {color: #5c6370}
-.onedark_haskell.Comment {color: #7f848e}
+.onedark_haskell.IndentLine {color: #3b4048}
 .onedark_haskell.SignColumn {background-color: #282c34}
 .onedark_haskell.hsImportList {}
 .onedark_haskell.hsImportGroup {}
 .onedark_haskell.hsImportModuleName {}
-.onedark_haskell.IndentLine {color: #3b4048}
+.onedark_haskell.Comment {color: #7f848e}
 .onedark_haskell.Include {color: #c678dd}
 .onedark_haskell.SpecialComment {color: #7f848e}
 .onedark_haskell.hsDelimiter {}
