@@ -1,18 +1,18 @@
 .tokyonight.boxbg {background-color: #222436; color: #c8d3f5}
 .tokyonight.-ibl-indent-char-1 {color: #3b4261}
 .tokyonight.Statement {color: #c099ff}
-.tokyonight.SignColumn {background-color: #222436; color: #3b4261}
-.tokyonight.-variable-member {color: #4fd6be}
+.tokyonight.SignColumn {color: #3b4261; background-color: #222436}
+.tokyonight.-punctuation-delimiter {color: #89ddff}
 .tokyonight.String {color: #c3e88d}
-.tokyonight.-keyword {font-style: italic; color: #fca7ea}
+.tokyonight.-keyword {color: #fca7ea; font-style: italic}
 .tokyonight.NonText {color: #545c7e}
 .tokyonight.Special {color: #65bcff}
-.tokyonight.-operator {color: #89ddff}
+.tokyonight.-punctuation-bracket {color: #828bb8}
 .tokyonight.LineNr {color: #3b4261}
 .tokyonight.-constructor {color: #c099ff}
-.tokyonight.Comment {font-style: italic; color: #636da6}
-.tokyonight.-spell {}
-.tokyonight.-punctuation-delimiter {color: #89ddff}
-.tokyonight.Function {color: #82aaff}
+.tokyonight.Comment {color: #636da6; font-style: italic}
+.tokyonight.-variable-member {color: #4fd6be}
 .tokyonight.-variable {color: #c8d3f5}
-.tokyonight.-punctuation-bracket {color: #828bb8}
+.tokyonight.Function {color: #82aaff}
+.tokyonight.-spell {}
+.tokyonight.-operator {color: #89ddff}

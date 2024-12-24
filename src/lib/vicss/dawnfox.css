@@ -1,19 +1,19 @@
 .dawnfox.boxbg {background-color: #faf4ed; color: #575279}
 .dawnfox.-ibl-indent-char-1 {color: #ebdfe4}
 .dawnfox.Keyword {color: #907aa9}
-.dawnfox.-keyword-operator {color: #625c87}
 .dawnfox.SignColumn {color: #a8a3b3}
-.dawnfox.-variable-member {color: #286983}
+.dawnfox.-punctuation-delimiter {color: #625c87}
 .dawnfox.String {color: #618774}
-.dawnfox.-punctuation-bracket {color: #625c87}
 .dawnfox.Operator {color: #625c87}
 .dawnfox.LineNr {color: #a8a3b3}
+.dawnfox.-keyword-operator {color: #625c87}
+.dawnfox.-punctuation-bracket {color: #625c87}
 .dawnfox.Conditional {color: #816b9a}
 .dawnfox.-spell {}
-.dawnfox.-variable {color: #575279}
+.dawnfox.-constructor-lua {color: #625c87}
 .dawnfox.Comment {color: #9893a5}
-.dawnfox.-function-builtin {color: #b4637a}
-.dawnfox.-punctuation-delimiter {color: #625c87}
+.dawnfox.-variable-member {color: #286983}
+.dawnfox.-variable {color: #575279}
 .dawnfox.Function {color: #295e73}
 .dawnfox.-ibl-whitespace-char-1 {color: #ebdfe4}
-.dawnfox.-constructor-lua {color: #625c87}
+.dawnfox.-function-builtin {color: #b4637a}

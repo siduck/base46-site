@@ -1,19 +1,19 @@
 .terafox.boxbg {background-color: #152528; color: #e6eaea}
 .terafox.-ibl-indent-char-1 {color: #254147}
 .terafox.Keyword {color: #ad5c7c}
-.terafox.-keyword-operator {color: #cbd9d8}
 .terafox.SignColumn {color: #587b7b}
-.terafox.-variable-member {color: #5a93aa}
+.terafox.-punctuation-delimiter {color: #cbd9d8}
 .terafox.String {color: #7aa4a1}
-.terafox.-punctuation-bracket {color: #cbd9d8}
 .terafox.Operator {color: #cbd9d8}
 .terafox.LineNr {color: #587b7b}
+.terafox.-keyword-operator {color: #cbd9d8}
+.terafox.-punctuation-bracket {color: #cbd9d8}
 .terafox.Conditional {color: #b97490}
 .terafox.-spell {}
-.terafox.-variable {color: #ebebeb}
+.terafox.-constructor-lua {color: #cbd9d8}
 .terafox.Comment {color: #6d7f8b}
-.terafox.-function-builtin {color: #e85c51}
-.terafox.-punctuation-delimiter {color: #cbd9d8}
+.terafox.-variable-member {color: #5a93aa}
+.terafox.-variable {color: #ebebeb}
 .terafox.Function {color: #73a3b7}
 .terafox.-ibl-whitespace-char-1 {color: #254147}
-.terafox.-constructor-lua {color: #cbd9d8}
+.terafox.-function-builtin {color: #e85c51}

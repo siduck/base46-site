@@ -1,19 +1,19 @@
 .carbonfox.boxbg {background-color: #161616; color: #f2f4f8}
 .carbonfox.-ibl-indent-char-1 {color: #353535}
 .carbonfox.Keyword {color: #be95ff}
-.carbonfox.-keyword-operator {color: #b6b8bb}
 .carbonfox.SignColumn {color: #7b7c7e}
-.carbonfox.-variable-member {color: #78a9ff}
+.carbonfox.-punctuation-delimiter {color: #b6b8bb}
 .carbonfox.String {color: #25be6a}
-.carbonfox.-punctuation-bracket {color: #b6b8bb}
 .carbonfox.Operator {color: #b6b8bb}
 .carbonfox.LineNr {color: #7b7c7e}
+.carbonfox.-keyword-operator {color: #b6b8bb}
+.carbonfox.-punctuation-bracket {color: #b6b8bb}
 .carbonfox.Conditional {color: #c8a5ff}
 .carbonfox.-spell {}
-.carbonfox.-variable {color: #dfdfe0}
+.carbonfox.-constructor-lua {color: #b6b8bb}
 .carbonfox.Comment {color: #6e6f70}
-.carbonfox.-function-builtin {color: #ee5396}
-.carbonfox.-punctuation-delimiter {color: #b6b8bb}
+.carbonfox.-variable-member {color: #78a9ff}
+.carbonfox.-variable {color: #dfdfe0}
 .carbonfox.Function {color: #8cb6ff}
 .carbonfox.-ibl-whitespace-char-1 {color: #353535}
-.carbonfox.-constructor-lua {color: #b6b8bb}
+.carbonfox.-function-builtin {color: #ee5396}
