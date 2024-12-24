@@ -1,0 +1,3 @@
+.tokyonight-day.boxbg {background-color: #e1e2e7; color: #3760bf}
+.tokyonight-day.SignColumn {color: #a8aecb; background-color: #e1e2e7}
+.tokyonight-day.LineNr {color: #a8aecb}

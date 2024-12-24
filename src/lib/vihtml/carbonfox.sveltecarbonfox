@@ -1,0 +1,8 @@
+<script> import "$lib/vicss/carbonfox.css" </script>
+
+<section class="carbonfox boxbg pt7 pb3  rounded-2xl">
+<pre>
+<span class="carbonfox SignColumn">  </span><span class="carbonfox LineNr">  1 </span>
+
+</pre>
+</section>

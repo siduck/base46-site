@@ -1,0 +1,8 @@
+<script> import "$lib/vicss/dayfox.css" </script>
+
+<section class="dayfox boxbg pt7 pb3  rounded-2xl">
+<pre>
+<span class="dayfox SignColumn">  </span><span class="dayfox LineNr">  1 </span>
+
+</pre>
+</section>

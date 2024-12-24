@@ -59,24 +59,14 @@ M.get_themedata = function()
 
   local result = vim.tbl_map(function(x)
     local plugin_name = x:match "/(.*)"
-    local main_theme = plugin_name:gsub("%..+$", "")
 
     local cmds = vim.fn.readdir(lazy_path .. plugin_name .. "/colors")
-
     cmds = vim.tbl_map(function(y)
-      return y:gsub("%..+$", "") -- remove extension
+      return y:gsub("%..+$", "")
     end, cmds)
 
-    cmds = vim.tbl_filter(function(y)
-      return y ~= main_theme
-    end, cmds)
-
-    table.insert(cmds,1, main_theme)
-
-    return { variants = cmds, name = x }
+    return { cmds = cmds, name = x }
   end, theme_plugins)
-
-  vim.print(result)
 
   return result
 end

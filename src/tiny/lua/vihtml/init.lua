@@ -18,13 +18,13 @@ M.base46_themes_html = function()
   local cwd = vim.uv.cwd()
 
   for _, v in ipairs(themelist) do
-    for _, name in ipairs(v.variants) do
+    for _, name in ipairs(v.cmds) do
       M.theme_to_html(name, cwd)
     end
   end
 
   local themelist_json = vim.json.encode(themelist)
-  utils.write_file(cwd .. "/src/data.json", themelist_json)
+  utils.write_file(cwd .. "/data.json", themelist_json)
 end
 
 M.base46_themes_html()

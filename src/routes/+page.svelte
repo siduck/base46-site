@@ -1,5 +1,5 @@
 <script lang="ts">
-  import themelist from "$lib/themes.json";
+  import themelist from "../data.json";
 
   type ThemeData = {
     name: string;

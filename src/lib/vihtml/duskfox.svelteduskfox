@@ -1,0 +1,8 @@
+<script> import "$lib/vicss/duskfox.css" </script>
+
+<section class="duskfox boxbg pt7 pb3  rounded-2xl">
+<pre>
+<span class="duskfox SignColumn">  </span><span class="duskfox LineNr">  1 </span>
+
+</pre>
+</section>

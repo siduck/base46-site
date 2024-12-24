@@ -1,0 +1,8 @@
+<script> import "$lib/vicss/tokyodark.css" </script>
+
+<section class="tokyodark boxbg pt7 pb3  rounded-2xl">
+<pre>
+<span class="tokyodark SignColumn">  </span><span class="tokyodark LineNr">  1 </span>
+
+</pre>
+</section>

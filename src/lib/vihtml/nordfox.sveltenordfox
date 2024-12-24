@@ -1,0 +1,8 @@
+<script> import "$lib/vicss/nordfox.css" </script>
+
+<section class="nordfox boxbg pt7 pb3  rounded-2xl">
+<pre>
+<span class="nordfox SignColumn">  </span><span class="nordfox LineNr">  1 </span>
+
+</pre>
+</section>
