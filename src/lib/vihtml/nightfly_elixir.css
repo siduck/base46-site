@@ -1,16 +1,16 @@
 .nightfly_elixir.boxbg {background-color: #011627; color: #c3ccdc}
 .nightfly_elixir.LineNr {color: #4b6479; background-color: #011627}
 .nightfly_elixir.Statement {color: #c792ea}
-.nightfly_elixir.NightflyWhite {color: #c3ccdc}
-.nightfly_elixir.-ibl-whitespace-char-1 {color: #0e293f}
-.nightfly_elixir.-ibl-scope-char-1 {color: #7c8f8f; font-style: normal}
-.nightfly_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-.nightfly_elixir.NightflyOrange {color: #f78c6c}
-.nightfly_elixir.NightflyTan {color: #ecc48d}
-.nightfly_elixir.NightflyTurquoise {color: #7fdbca}
-.nightfly_elixir.NightflyBlue {color: #82aaff}
 .nightfly_elixir.SignColumn {color: #a1cd5e; background-color: #011627}
+.nightfly_elixir.NightflyWhite {color: #c3ccdc}
+.nightfly_elixir.NightflyTan {color: #ecc48d}
+.nightfly_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.nightfly_elixir.NightflyBlue {color: #82aaff}
+.nightfly_elixir.NightflyPurple {color: #ae81ff}
 .nightfly_elixir.-ibl-indent-char-1 {color: #0e293f}
 .nightfly_elixir.Comment {color: #7c8f8f; font-style: normal}
+.nightfly_elixir.-ibl-whitespace-char-1 {color: #0e293f}
+.nightfly_elixir.-ibl-scope-char-1 {color: #7c8f8f; font-style: normal}
+.nightfly_elixir.NightflyTurquoise {color: #7fdbca}
+.nightfly_elixir.NightflyOrange {color: #f78c6c}
 .nightfly_elixir.NightflyWatermelon {color: #ff5874}
-.nightfly_elixir.NightflyPurple {color: #ae81ff}

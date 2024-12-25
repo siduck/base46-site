@@ -1,5 +1,6 @@
 .duskfox_rust.boxbg {background-color: #232136; color: #e0def4}
 .duskfox_rust.-variable-parameter {color: #a6dae3}
+<<<<<<< HEAD
 .duskfox_rust.LineNr {color: #6e6a86}
 .duskfox_rust.-punctuation-bracket {color: #cdcbe0}
 .duskfox_rust.Keyword {color: #c4a7e7}
@@ -16,11 +17,37 @@
 .duskfox_rust.Number {color: #ea9a97}
 .duskfox_rust.-keyword-operator {color: #cdcbe0}
 .duskfox_rust.Conditional {color: #ccb1ed}
+=======
+.duskfox_rust.-keyword-function {color: #c4a7e7}
+.duskfox_rust.Type {color: #f6c177}
+.duskfox_rust.Keyword {color: #c4a7e7}
+.duskfox_rust.-punctuation-bracket {color: #cdcbe0}
+.duskfox_rust.Constant {color: #f0a4a2}
+.duskfox_rust.-module {color: #a6dae3}
+.duskfox_rust.-variable-member {color: #569fba}
+.duskfox_rust.-spell {}
+.duskfox_rust.-punctuation-delimiter {color: #cdcbe0}
+.duskfox_rust.LineNr {color: #6e6a86}
+.duskfox_rust.-ibl-indent-char-1 {color: #373354}
+.duskfox_rust.Operator {color: #cdcbe0}
+.duskfox_rust.-ibl-whitespace-char-1 {color: #373354}
+.duskfox_rust.SignColumn {color: #6e6a86}
+>>>>>>> 9625304 (add more themes)
 .duskfox_rust.-odp {}
+.duskfox_rust.Conditional {color: #ccb1ed}
+.duskfox_rust.Number {color: #ea9a97}
 .duskfox_rust.PreProc {color: #f0a6cc}
 .duskfox_rust.Comment {color: #817c9c}
+<<<<<<< HEAD
 .duskfox_rust.-module {color: #a6dae3}
 .duskfox_rust.-variable {color: #e0def4}
 .duskfox_rust.Function {color: #65b1cd}
 .duskfox_rust.-variable-builtin {color: #eb6f92}
 .duskfox_rust.-punctuation-delimiter {color: #cdcbe0}
+=======
+.duskfox_rust.-type-builtin {color: #a6dae3}
+.duskfox_rust.-variable {color: #e0def4}
+.duskfox_rust.Function {color: #65b1cd}
+.duskfox_rust.-variable-builtin {color: #eb6f92}
+.duskfox_rust.-keyword-operator {color: #cdcbe0}
+>>>>>>> 9625304 (add more themes)

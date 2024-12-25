@@ -1,0 +1,15 @@
+.tokyobones_c.boxbg {background-color: #d6d7dc; color: #333a57}
+.tokyobones_c.Identifier {color: #4a537a}
+.tokyobones_c.Statement {color: #5a4a79; font-weight: bold}
+.tokyobones_c.Number {color: #176775}
+.tokyobones_c.Type {color: #484f6b}
+.tokyobones_c.LineNr {color: #888b99}
+.tokyobones_c.Constant {color: #5b6694; font-style: normal}
+.tokyobones_c.NonText {color: #9b9da9}
+.tokyobones_c.PreProc {color: #5a4a79}
+.tokyobones_c.-ibl-indent-char-1 {color: #c8c9ce}
+.tokyobones_c.Special {color: #34548c}
+.tokyobones_c.-_parent {}
+.tokyobones_c.Function {color: #333a57}
+.tokyobones_c.Delimiter {color: #737686}
+.tokyobones_c.-constant {color: #4a537a; font-weight: bold}

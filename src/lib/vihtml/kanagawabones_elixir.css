@@ -1,0 +1,14 @@
+.kanagawabones_elixir.boxbg {background-color: #1f1f28; color: #ddd8bb}
+.kanagawabones_elixir.Identifier {color: #bbb79e}
+.kanagawabones_elixir.Statement {color: #ddd8bb; font-weight: bold}
+.kanagawabones_elixir.Number {color: #a29e89}
+.kanagawabones_elixir.Special {color: #ada992; font-weight: bold}
+.kanagawabones_elixir.-ibl-scope-char-1 {color: #696977; font-style: normal}
+.kanagawabones_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.kanagawabones_elixir.Constant {color: #a29e89; font-style: normal}
+.kanagawabones_elixir.Comment {color: #696977; font-style: normal}
+.kanagawabones_elixir.LineNr {color: #646476}
+.kanagawabones_elixir.-ibl-indent-char-1 {color: #2d2d37}
+.kanagawabones_elixir.Function {color: #ddd8bb}
+.kanagawabones_elixir.NonText {color: #58586a}
+.kanagawabones_elixir.Delimiter {color: #7d7d8d}

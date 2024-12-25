@@ -1,7 +1,8 @@
 .dayfox_go.boxbg {background-color: #f6f2ee; color: #3d2b5a}
-.dayfox_go.Number {color: #955f61}
+.dayfox_go.-ibl-whitespace-char-1 {color: #d3c7bb}
 .dayfox_go.LineNr {color: #824d5b}
 .dayfox_go.-ibl-indent-char-1 {color: #d3c7bb}
+<<<<<<< HEAD
 .dayfox_go.Operator {color: #643f61}
 .dayfox_go.Type {color: #ac5402}
 .dayfox_go.Keyword {color: #6e33ce}
@@ -15,3 +16,6 @@
 .dayfox_go.Function {color: #223d90}
 .dayfox_go.-punctuation-bracket {color: #643f61}
 .dayfox_go.-punctuation-delimiter {color: #643f61}
+=======
+.dayfox_go.SignColumn {color: #824d5b}
+>>>>>>> 9625304 (add more themes)

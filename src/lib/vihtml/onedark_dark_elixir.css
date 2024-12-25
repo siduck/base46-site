@@ -1,7 +1,7 @@
 .onedark_dark_elixir.boxbg {background-color: #000000; color: #abb2bf}
-.onedark_dark_elixir.LineNr {color: #495162; background-color: #000000}
-.onedark_dark_elixir.-punctuation-bracket {color: #d55fde}
+.onedark_dark_elixir.-keyword-function {color: #d55fde}
 .onedark_dark_elixir.Keyword {color: #d55fde}
+.onedark_dark_elixir.-punctuation-bracket {color: #d55fde}
 .onedark_dark_elixir.-module {color: #e5c07b}
 .onedark_dark_elixir.-keyword-function {color: #d55fde}
 .onedark_dark_elixir.-punctuation-special {color: #abb2bf}
@@ -11,6 +11,10 @@
 .onedark_dark_elixir.Special {color: #61afef}
 .onedark_dark_elixir.-ibl-scope-char-1 {color: #7f848e}
 .onedark_dark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+<<<<<<< HEAD
+=======
+.onedark_dark_elixir.LineNr {color: #495162; background-color: #000000}
+>>>>>>> 9625304 (add more themes)
 .onedark_dark_elixir.-string-special-symbol {color: #ef596f}
 .onedark_dark_elixir.SignColumn {background-color: #000000}
 .onedark_dark_elixir.Comment {color: #7f848e}

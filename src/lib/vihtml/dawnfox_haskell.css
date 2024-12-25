@@ -1,14 +1,26 @@
 .dawnfox_haskell.boxbg {background-color: #faf4ed; color: #575279}
 .dawnfox_haskell.-variable-parameter {color: #50848c}
 .dawnfox_haskell.LineNr {color: #a8a3b3}
+<<<<<<< HEAD
 .dawnfox_haskell.-punctuation-bracket {color: #625c87}
+=======
+.dawnfox_haskell.Type {color: #ea9d34}
+>>>>>>> 9625304 (add more themes)
 .dawnfox_haskell.Keyword {color: #907aa9}
-.dawnfox_haskell.-spell {}
+.dawnfox_haskell.-punctuation-bracket {color: #625c87}
+.dawnfox_haskell.-module {color: #50848c}
 .dawnfox_haskell.-variable-member {color: #286983}
+.dawnfox_haskell.-spell {}
+<<<<<<< HEAD
+.dawnfox_haskell.-variable-member {color: #286983}
+=======
+.dawnfox_haskell.-punctuation-delimiter {color: #625c87}
+>>>>>>> 9625304 (add more themes)
 .dawnfox_haskell.-ibl-indent-char-1 {color: #ebdfe4}
 .dawnfox_haskell.Number {color: #d7827e}
 .dawnfox_haskell.Special {color: #295e73}
 .dawnfox_haskell.SignColumn {color: #a8a3b3}
+<<<<<<< HEAD
 .dawnfox_haskell.-ibl-whitespace-char-1 {color: #ebdfe4}
 .dawnfox_haskell.Operator {color: #625c87}
 .dawnfox_haskell.Type {color: #ea9d34}
@@ -19,3 +31,12 @@
 .dawnfox_haskell.Function {color: #295e73}
 .dawnfox_haskell.-module {color: #50848c}
 .dawnfox_haskell.-punctuation-delimiter {color: #625c87}
+=======
+.dawnfox_haskell.PreProc {color: #c9709e}
+.dawnfox_haskell.Comment {color: #9893a5}
+.dawnfox_haskell.-ibl-whitespace-char-1 {color: #ebdfe4}
+.dawnfox_haskell.-variable {color: #575279}
+.dawnfox_haskell.Function {color: #295e73}
+.dawnfox_haskell.-constructor {color: #56949f}
+.dawnfox_haskell.Operator {color: #625c87}
+>>>>>>> 9625304 (add more themes)

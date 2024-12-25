@@ -1,0 +1,15 @@
+.miasma_c.boxbg {background-color: #222222; color: #d7c483}
+.miasma_c.String {color: #685742}
+.miasma_c.Identifier {color: #d7c483}
+.miasma_c.-ibl-indent-char-1 {color: #242d1d}
+.miasma_c.Number {color: #78824b}
+.miasma_c.Type {color: #78834b; font-weight: bold}
+.miasma_c.Keyword {color: #5f875f}
+.miasma_c.Constant {color: #bb7744}
+.miasma_c.SignColumn {color: #666666; background-color: #1c1c1c}
+.miasma_c.LineNr {color: #666666; background-color: #1c1c1c}
+.miasma_c.-ibl-whitespace-char-1 {color: #242d1d}
+.miasma_c.-_parent {}
+.miasma_c.Function {color: #78834b}
+.miasma_c.Delimiter {color: #d7c483}
+.miasma_c.Special {color: #bb7744}

@@ -1,7 +1,8 @@
 .nordfox_go.boxbg {background-color: #2e3440; color: #cdcecf}
-.nordfox_go.Number {color: #c9826b}
+.nordfox_go.-ibl-whitespace-char-1 {color: #444c5e}
 .nordfox_go.LineNr {color: #7e8188}
 .nordfox_go.-ibl-indent-char-1 {color: #444c5e}
+<<<<<<< HEAD
 .nordfox_go.Operator {color: #abb1bb}
 .nordfox_go.Type {color: #ebcb8b}
 .nordfox_go.Keyword {color: #b48ead}
@@ -15,3 +16,6 @@
 .nordfox_go.Function {color: #8cafd2}
 .nordfox_go.-punctuation-bracket {color: #abb1bb}
 .nordfox_go.-punctuation-delimiter {color: #abb1bb}
+=======
+.nordfox_go.SignColumn {color: #7e8188}
+>>>>>>> 9625304 (add more themes)

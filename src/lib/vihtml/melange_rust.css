@@ -1,0 +1,18 @@
+.melange_rust.boxbg {background-color: #292522; color: #ece1d7}
+.melange_rust.Identifier {color: #ece1d7}
+.melange_rust.Statement {color: #e49b5d}
+.melange_rust.Type {color: #7b9695}
+.melange_rust.Delimiter {color: #8b7449}
+.melange_rust.-spell {}
+.melange_rust.-punctuation-delimiter {color: #bd8183}
+.melange_rust.-ibl-indent-char-1 {color: #403a36}
+.melange_rust.Operator {color: #d47766}
+.melange_rust.Special {color: #ebc06d}
+.melange_rust.-string-special-symbol {color: #ece1d7; font-style: normal}
+.melange_rust.PreProc {color: #85b695}
+.melange_rust.Comment {color: #c1a78e; font-style: normal}
+.melange_rust.LineNr {color: #867462}
+.melange_rust.Number {color: #cf9bc2}
+.melange_rust.IblIndent {color: #403a36}
+.melange_rust.Function {color: #ebc06d}
+.melange_rust.-odp {}

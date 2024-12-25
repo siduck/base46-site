@@ -1,0 +1,19 @@
+.melange_elixir.boxbg {background-color: #292522; color: #ece1d7}
+.melange_elixir.Identifier {color: #ece1d7}
+.melange_elixir.Statement {color: #e49b5d}
+.melange_elixir.Delimiter {color: #8b7449}
+.melange_elixir.-punctuation-delimiter {color: #bd8183}
+.melange_elixir.-ibl-indent-char-1 {color: #403a36}
+.melange_elixir.Operator {color: #d47766}
+.melange_elixir.Special {color: #ebc06d}
+.melange_elixir.-ibl-scope-char-1 {color: #c1a78e; font-style: normal}
+.melange_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.melange_elixir.LineNr {color: #867462}
+.melange_elixir.-string-special-symbol {color: #ece1d7; font-style: normal}
+.melange_elixir.PreProc {color: #85b695}
+.melange_elixir.Comment {color: #c1a78e; font-style: normal}
+.melange_elixir.Number {color: #cf9bc2}
+.melange_elixir.Function {color: #ebc06d}
+.melange_elixir.IblIndent {color: #403a36}
+.melange_elixir.String {color: #a3a9ce; font-style: normal}
+.melange_elixir.-string-special {color: #89b3b6}

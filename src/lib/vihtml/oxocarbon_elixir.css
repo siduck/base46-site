@@ -1,0 +1,19 @@
+.oxocarbon_elixir.boxbg {background-color: #161616; color: #d0d0d0}
+.oxocarbon_elixir.-keyword-function {color: #3ddbd9}
+.oxocarbon_elixir.-punctuation-bracket {color: #3ddbd9}
+.oxocarbon_elixir.SignColumn {color: #262626; background-color: #161616}
+.oxocarbon_elixir.-punctuation-special {color: #3ddbd9}
+.oxocarbon_elixir.Structure {color: #78a9ff}
+.oxocarbon_elixir.-keyword {color: #78a9ff}
+.oxocarbon_elixir.NonText {color: #393939}
+.oxocarbon_elixir.Operator {color: #78a9ff}
+.oxocarbon_elixir.-ibl-scope-char-1 {color: #525252; font-style: normal}
+.oxocarbon_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.oxocarbon_elixir.LineNr {color: #525252; background-color: #161616}
+.oxocarbon_elixir.SpecialChar {color: #d0d0d0}
+.oxocarbon_elixir.Comment {color: #525252; font-style: normal}
+.oxocarbon_elixir.-punctuation-delimiter {color: #3ddbd9}
+.oxocarbon_elixir.-variable {color: #d0d0d0}
+.oxocarbon_elixir.Number {color: #82cfff}
+.oxocarbon_elixir.String {color: #be95ff}
+.oxocarbon_elixir.-function {color: #ff7eb6; font-weight: bold}

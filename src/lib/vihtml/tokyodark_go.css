@@ -1,15 +1,5 @@
 .tokyodark_go.boxbg {background-color: #11121d; color: #a0a8cd}
-.tokyodark_go.Identifier {color: #f6955b; font-style: normal}
-.tokyodark_go.-ibl-indent-char-1 {color: #4a5057}
-.tokyodark_go.Operator {color: #ee6d85}
-.tokyodark_go.Special {color: #a485dd}
-.tokyodark_go.Keyword {color: #ee6d85; font-style: normal}
-.tokyodark_go.LineNr {color: #4a5057}
-.tokyodark_go.SignColumn {color: #a0a8cd; background-color: #11121d}
-.tokyodark_go.Label {color: #a485dd}
 .tokyodark_go.-ibl-whitespace-char-1 {color: #4a5057}
-.tokyodark_go.Number {color: #a485dd}
-.tokyodark_go.-variable {color: #e0e2ea}
-.tokyodark_go.Function {color: #95c561}
-.tokyodark_go.Delimiter {color: #a0a8cd}
-.tokyodark_go.Type {color: #7199ee; font-style: normal}
+.tokyodark_go.LineNr {color: #4a5057}
+.tokyodark_go.-ibl-indent-char-1 {color: #4a5057}
+.tokyodark_go.SignColumn {color: #a0a8cd; background-color: #11121d}

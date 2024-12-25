@@ -3,17 +3,17 @@
 .tokyodark_rust.Type {color: #7199ee; font-style: normal}
 .tokyodark_rust.Keyword {color: #ee6d85; font-style: normal}
 .tokyodark_rust.Constant {color: #f6955b}
-.tokyodark_rust.-spell {}
+.tokyodark_rust.SignColumn {color: #a0a8cd; background-color: #11121d}
 .tokyodark_rust.Delimiter {color: #a0a8cd}
+.tokyodark_rust.-spell {}
 .tokyodark_rust.Structure {color: #7199ee; font-style: normal}
 .tokyodark_rust.-ibl-indent-char-1 {color: #4a5057}
 .tokyodark_rust.Operator {color: #ee6d85}
 .tokyodark_rust.-ibl-whitespace-char-1 {color: #4a5057}
-.tokyodark_rust.-odp {}
-.tokyodark_rust.SignColumn {color: #a0a8cd; background-color: #11121d}
+.tokyodark_rust.Number {color: #a485dd}
 .tokyodark_rust.Comment {color: #4a5057; font-style: normal}
 .tokyodark_rust.Float {color: #a485dd}
 .tokyodark_rust.-variable {color: #e0e2ea}
 .tokyodark_rust.Function {color: #95c561}
 .tokyodark_rust.-variable-builtin {color: #a485dd}
-.tokyodark_rust.Number {color: #a485dd}
+.tokyodark_rust.-odp {}

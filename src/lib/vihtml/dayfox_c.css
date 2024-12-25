@@ -1,24 +1,42 @@
 .dayfox_c.boxbg {background-color: #f6f2ee; color: #3d2b5a}
 .dayfox_c.-variable-parameter {color: #22676d}
 .dayfox_c.LineNr {color: #824d5b}
+<<<<<<< HEAD
 .dayfox_c.-function-macro {color: #a5222f}
 .dayfox_c.-punctuation-bracket {color: #643f61}
+=======
+.dayfox_c.-property {color: #2848a9}
+.dayfox_c.Type {color: #ac5402}
+>>>>>>> 9625304 (add more themes)
 .dayfox_c.Keyword {color: #6e33ce}
+.dayfox_c.-punctuation-bracket {color: #643f61}
 .dayfox_c.Constant {color: #7f5152}
 .dayfox_c.SignColumn {color: #824d5b}
 .dayfox_c.-type-builtin {color: #22676d}
+<<<<<<< HEAD
 .dayfox_c.-keyword-return {color: #a5222f}
+=======
+.dayfox_c.-function-macro {color: #a5222f}
+>>>>>>> 9625304 (add more themes)
 .dayfox_c.String {color: #396847}
 .dayfox_c.-ibl-indent-char-1 {color: #d3c7bb}
 .dayfox_c.Operator {color: #643f61}
 .dayfox_c.-ibl-whitespace-char-1 {color: #d3c7bb}
+<<<<<<< HEAD
 .dayfox_c.-string-escape {color: #924702; font-weight: bold}
 .dayfox_c.Conditional {color: #5e2baf}
 .dayfox_c.Number {color: #955f61}
 .dayfox_c.PreProc {color: #8b369a}
 .dayfox_c.-property {color: #2848a9}
 .dayfox_c.Function {color: #223d90}
+=======
+.dayfox_c.-keyword-return {color: #a5222f}
+.dayfox_c.-string-escape {color: #924702; font-weight: bold}
+.dayfox_c.Conditional {color: #5e2baf}
+.dayfox_c.PreProc {color: #8b369a}
+.dayfox_c.Number {color: #955f61}
+>>>>>>> 9625304 (add more themes)
 .dayfox_c.-variable {color: #352c24}
 .dayfox_c.-_parent {}
-.dayfox_c.Type {color: #ac5402}
+.dayfox_c.Function {color: #223d90}
 .dayfox_c.-punctuation-delimiter {color: #643f61}

@@ -1,4 +1,5 @@
 .rose-pine-main_go.boxbg {background-color: #191724; color: #e0def4}
+<<<<<<< HEAD
 .rose-pine-main_go.LineNr {color: #6e6a86}
 .rose-pine-main_go.-property {color: #9ccfd8; font-style: normal}
 .rose-pine-main_go.-punctuation-bracket {color: #908caa}
@@ -16,3 +17,9 @@
 .rose-pine-main_go.-function-method-call {color: #c4a7e7}
 .rose-pine-main_go.Number {color: #f6c177}
 .rose-pine-main_go.-punctuation-delimiter {color: #908caa}
+=======
+.rose-pine-main_go.-ibl-whitespace-char-1 {color: #26233a}
+.rose-pine-main_go.LineNr {color: #6e6a86}
+.rose-pine-main_go.-ibl-indent-char-1 {color: #26233a}
+.rose-pine-main_go.SignColumn {color: #e0def4}
+>>>>>>> 9625304 (add more themes)

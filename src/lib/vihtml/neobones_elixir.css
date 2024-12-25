@@ -1,0 +1,14 @@
+.neobones_elixir.boxbg {background-color: #0f191f; color: #c6d5cf}
+.neobones_elixir.Identifier {color: #a7b3ae}
+.neobones_elixir.Statement {color: #c6d5cf; font-weight: bold}
+.neobones_elixir.Number {color: #939e99}
+.neobones_elixir.Special {color: #9aa6a1; font-weight: bold}
+.neobones_elixir.-ibl-scope-char-1 {color: #536977; font-style: normal}
+.neobones_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.neobones_elixir.Constant {color: #939e99; font-style: normal}
+.neobones_elixir.Comment {color: #536977; font-style: normal}
+.neobones_elixir.LineNr {color: #466273}
+.neobones_elixir.-ibl-indent-char-1 {color: #1d272e}
+.neobones_elixir.Function {color: #c6d5cf}
+.neobones_elixir.NonText {color: #3e5868}
+.neobones_elixir.Delimiter {color: #5b7e94}

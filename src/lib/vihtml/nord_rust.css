@@ -1,0 +1,22 @@
+.nord_rust.boxbg {background-color: #2e3440; color: #d8dee9}
+.nord_rust.-keyword-function {color: #88c0d0; font-style: normal}
+.nord_rust.-constant {color: #ebcb8b}
+.nord_rust.-punctuation-bracket {color: #88c0d0}
+.nord_rust.SignColumn {color: #d8dee9; background-color: #2e3440}
+.nord_rust.-comment {color: #616e88; font-style: normal}
+.nord_rust.-type {color: #81a1c1}
+.nord_rust.-spell {}
+.nord_rust.-number {color: #b48ead}
+.nord_rust.-punctuation-delimiter {color: #88c0d0}
+.nord_rust.-keyword {color: #81a1c1; font-style: normal}
+.nord_rust.NonText {color: #3b4252}
+.nord_rust.-operator {color: #81a1c1}
+.nord_rust.LineNr {color: #616e88}
+.nord_rust.-odp {}
+.nord_rust.-function {color: #88c0d0; font-style: normal}
+.nord_rust.Structure {color: #81a1c1}
+.nord_rust.Float {color: #b48ead}
+.nord_rust.-variable {color: #d8dee9; font-weight: bold}
+.nord_rust.-type-builtin {color: #81a1c1}
+.nord_rust.-variable-builtin {color: #d8dee9; font-weight: bold}
+.nord_rust.-keyword-operator {color: #88c0d0; font-style: normal}

@@ -1,0 +1,21 @@
+.material-palenight_haskell.boxbg {background-color: #292d3e; color: #a6accd}
+.material-palenight_haskell.Macro {color: #89ddff}
+.material-palenight_haskell.Identifier {color: #a6accd}
+.material-palenight_haskell.-punctuation-bracket {color: #89ddff}
+.material-palenight_haskell.-module {color: #ffcb6b}
+.material-palenight_haskell.-variable-member {color: #717cb4}
+.material-palenight_haskell.-type {color: #c792ea}
+.material-palenight_haskell.-spell {}
+.material-palenight_haskell.-keyword-directive {color: #89ddff}
+.material-palenight_haskell.-punctuation-delimiter {color: #89ddff}
+.material-palenight_haskell.-keyword {color: #89ddff}
+.material-palenight_haskell.-ibl-indent-char-1 {color: #515772}
+.material-palenight_haskell.Operator {color: #89ddff}
+.material-palenight_haskell.-ibl-whitespace-char-1 {color: #515772}
+.material-palenight_haskell.-constructor {color: #82aaff}
+.material-palenight_haskell.Comment {color: #676e95}
+.material-palenight_haskell.LineNr {color: #3a3f58}
+.material-palenight_haskell.SignColumn {color: #a6accd}
+.material-palenight_haskell.Function {color: #82aaff}
+.material-palenight_haskell.Number {color: #f78c6c}
+.material-palenight_haskell.SpecialChar {color: #f07178}

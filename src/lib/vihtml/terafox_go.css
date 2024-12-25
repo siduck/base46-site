@@ -1,7 +1,8 @@
 .terafox_go.boxbg {background-color: #152528; color: #e6eaea}
-.terafox_go.Number {color: #ff8349}
+.terafox_go.-ibl-whitespace-char-1 {color: #254147}
 .terafox_go.LineNr {color: #587b7b}
 .terafox_go.-ibl-indent-char-1 {color: #254147}
+<<<<<<< HEAD
 .terafox_go.Operator {color: #cbd9d8}
 .terafox_go.Type {color: #fda47f}
 .terafox_go.Keyword {color: #ad5c7c}
@@ -15,3 +16,6 @@
 .terafox_go.Function {color: #73a3b7}
 .terafox_go.-punctuation-bracket {color: #cbd9d8}
 .terafox_go.-punctuation-delimiter {color: #cbd9d8}
+=======
+.terafox_go.SignColumn {color: #587b7b}
+>>>>>>> 9625304 (add more themes)

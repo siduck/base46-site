@@ -1,0 +1,20 @@
+.material-lighter_elixir.boxbg {background-color: #fafafa; color: #546e7a}
+.material-lighter_elixir.Identifier {color: #546e7a}
+.material-lighter_elixir.-punctuation-bracket {color: #39adb5}
+.material-lighter_elixir.-module {color: #f6a434}
+.material-lighter_elixir.-punctuation-special {color: #39adb5}
+.material-lighter_elixir.-punctuation-delimiter {color: #39adb5}
+.material-lighter_elixir.-keyword {color: #39adb5}
+.material-lighter_elixir.-ibl-indent-char-1 {color: #d2d4d5}
+.material-lighter_elixir.Operator {color: #39adb5}
+.material-lighter_elixir.-ibl-whitespace-char-1 {color: #d2d4d5}
+.material-lighter_elixir.-ibl-scope-char-1 {color: #aabfc9}
+.material-lighter_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.material-lighter_elixir.-string-special-symbol {color: #f6a434}
+.material-lighter_elixir.LineNr {color: #cfd8dc}
+.material-lighter_elixir.Comment {color: #aabfc9}
+.material-lighter_elixir.SignColumn {color: #546e7a}
+.material-lighter_elixir.Number {color: #f76d47}
+.material-lighter_elixir.Function {color: #6182b8}
+.material-lighter_elixir.String {color: #91b859}
+.material-lighter_elixir.-string-special {color: #94a7b0}

@@ -1,0 +1,15 @@
+.randombones_haskell.boxbg {background-color: #f0f0ca; color: #353535}
+.randombones_haskell.Identifier {color: #505050}
+.randombones_haskell.Statement {color: #156a29; font-weight: bold}
+.randombones_haskell.Number {color: #2a6535; font-style: normal}
+.randombones_haskell.Type {color: #5b5b42}
+.randombones_haskell.LineNr {color: #9a9a81}
+.randombones_haskell.Constant {color: #636363; font-style: normal}
+.randombones_haskell.NonText {color: #b0b093}
+.randombones_haskell.PreProc {color: #35663d}
+.randombones_haskell.Comment {color: #8c8c7c; font-style: normal}
+.randombones_haskell.-ibl-indent-char-1 {color: #dfdfc2}
+.randombones_haskell.Function {color: #353535}
+.randombones_haskell.Delimiter {color: #85856f}
+.randombones_haskell.-spell {}
+.randombones_haskell.Special {color: #5c5c5c; font-weight: bold}

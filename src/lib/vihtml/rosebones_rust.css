@@ -1,0 +1,15 @@
+.rosebones_rust.boxbg {background-color: #fbf6f0; color: #724341}
+.rosebones_rust.Identifier {color: #935855}
+.rosebones_rust.Statement {color: #286a84}
+.rosebones_rust.Number {color: #ab6763}
+.rosebones_rust.-constant {color: #935855; font-weight: bold}
+.rosebones_rust.LineNr {color: #b69a6e}
+.rosebones_rust.Constant {color: #ab6763; font-style: normal}
+.rosebones_rust.NonText {color: #ceaf7e}
+.rosebones_rust.-ibl-indent-char-1 {color: #f0e3d4}
+.rosebones_rust.Comment {color: #a18e72; font-style: normal}
+.rosebones_rust.Type {color: #57527a}
+.rosebones_rust.Function {color: #724341}
+.rosebones_rust.Delimiter {color: #9b835d}
+.rosebones_rust.-spell {}
+.rosebones_rust.-odp {}

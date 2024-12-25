@@ -1,0 +1,15 @@
+.vimbones_c.boxbg {background-color: #f0f0ca; color: #353535}
+.vimbones_c.Identifier {color: #505050}
+.vimbones_c.Statement {color: #156a29; font-weight: bold}
+.vimbones_c.Number {color: #2a6535; font-style: normal}
+.vimbones_c.Type {color: #5b5b42}
+.vimbones_c.LineNr {color: #9a9a81}
+.vimbones_c.Constant {color: #636363; font-style: normal}
+.vimbones_c.NonText {color: #b0b093}
+.vimbones_c.PreProc {color: #35663d}
+.vimbones_c.-ibl-indent-char-1 {color: #dfdfc2}
+.vimbones_c.Special {color: #5c5c5c; font-weight: bold}
+.vimbones_c.-_parent {}
+.vimbones_c.Function {color: #353535}
+.vimbones_c.Delimiter {color: #85856f}
+.vimbones_c.-constant {color: #505050; font-weight: bold}

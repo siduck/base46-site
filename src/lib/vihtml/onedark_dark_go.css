@@ -1,4 +1,5 @@
 .onedark_dark_go.boxbg {background-color: #000000; color: #abb2bf}
+<<<<<<< HEAD
 .onedark_dark_go.LineNr {color: #495162; background-color: #000000}
 .onedark_dark_go.-punctuation-bracket {color: #d55fde}
 .onedark_dark_go.Keyword {color: #d55fde}
@@ -16,3 +17,9 @@
 .onedark_dark_go.IndentLine {color: #1f1f1f}
 .onedark_dark_go.-function-method {color: #61afef}
 .onedark_dark_go.-function-builtin-go {color: #2bbac5}
+=======
+.onedark_dark_go.IndentLine {color: #1f1f1f}
+.onedark_dark_go.LineNr {color: #495162; background-color: #000000}
+.onedark_dark_go.SignColumn {background-color: #000000}
+.onedark_dark_go.-ibl-whitespace-char-1 {color: #434852}
+>>>>>>> 9625304 (add more themes)

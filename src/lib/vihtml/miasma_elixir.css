@@ -1,0 +1,16 @@
+.miasma_elixir.boxbg {background-color: #222222; color: #d7c483}
+.miasma_elixir.String {color: #685742}
+.miasma_elixir.Identifier {color: #d7c483}
+.miasma_elixir.-ibl-indent-char-1 {color: #242d1d}
+.miasma_elixir.Number {color: #78824b}
+.miasma_elixir.Special {color: #bb7744}
+.miasma_elixir.Keyword {color: #5f875f}
+.miasma_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.miasma_elixir.SignColumn {color: #666666; background-color: #1c1c1c}
+.miasma_elixir.LineNr {color: #666666; background-color: #1c1c1c}
+.miasma_elixir.Comment {color: #666666}
+.miasma_elixir.-ibl-whitespace-char-1 {color: #242d1d}
+.miasma_elixir.-ibl-scope-char-1 {color: #666666}
+.miasma_elixir.Function {color: #78834b}
+.miasma_elixir.Delimiter {color: #d7c483}
+.miasma_elixir.Type {color: #78834b; font-weight: bold}

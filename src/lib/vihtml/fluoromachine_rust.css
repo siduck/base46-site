@@ -1,0 +1,19 @@
+.fluoromachine_rust.boxbg {background-color: #262335; color: #8ba7a7}
+.fluoromachine_rust.-variable-parameter {color: #ff8b39}
+.fluoromachine_rust.Identifier {color: #61e2ff}
+.fluoromachine_rust.Type {color: #af6df9}
+.fluoromachine_rust.Keyword {color: #fc199a; font-weight: bold; background-color: #31233a}
+.fluoromachine_rust.-punctuation-bracket {color: #af6df9}
+.fluoromachine_rust.Constant {color: #af6df9; font-weight: bold; background-color: #2d273f}
+.fluoromachine_rust.-module {color: #61e2ff}
+.fluoromachine_rust.-variable-member {color: #61e2ff}
+.fluoromachine_rust.Delimiter {color: #fc199a}
+.fluoromachine_rust.-spell {}
+.fluoromachine_rust.-ibl-indent-char-1 {color: #57367c}
+.fluoromachine_rust.-ibl-whitespace-char-1 {color: #495495}
+.fluoromachine_rust.Comment {color: #495495}
+.fluoromachine_rust.LineNr {color: #57367c; background-color: #262335}
+.fluoromachine_rust.SignColumn {background-color: #262335}
+.fluoromachine_rust.Function {color: #ffcc00; font-weight: bold; background-color: #312b32}
+.fluoromachine_rust.-variable-builtin {color: #af6df9}
+.fluoromachine_rust.-odp {}

@@ -1,0 +1,14 @@
+.nordbones_haskell.boxbg {background-color: #2f3541; color: #ebeef3}
+.nordbones_haskell.Identifier {color: #ebeef3}
+.nordbones_haskell.Statement {color: #81a1c1}
+.nordbones_haskell.Number {color: #8fbcba; font-style: normal}
+.nordbones_haskell.Special {color: #abbad0; font-weight: bold}
+.nordbones_haskell.Constant {color: #9eafc9; font-style: normal}
+.nordbones_haskell.LineNr {color: #69758c}
+.nordbones_haskell.NonText {color: #606b81}
+.nordbones_haskell.Comment {color: #737c90; font-style: normal}
+.nordbones_haskell.-ibl-indent-char-1 {color: #3d424e}
+.nordbones_haskell.Function {color: #87bfce}
+.nordbones_haskell.Delimiter {color: #818eab}
+.nordbones_haskell.-spell {}
+.nordbones_haskell.Type {color: #5e81ab}

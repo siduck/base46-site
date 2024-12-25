@@ -1,0 +1,14 @@
+.forestbones_elixir.boxbg {background-color: #2c343a; color: #e7dcc4}
+.forestbones_elixir.Identifier {color: #c6baa0}
+.forestbones_elixir.Statement {color: #a9c181; font-weight: bold}
+.forestbones_elixir.Number {color: #ada28b}
+.forestbones_elixir.Special {color: #b5aa92; font-weight: bold}
+.forestbones_elixir.-ibl-scope-char-1 {color: #6e7b85; font-style: normal}
+.forestbones_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.forestbones_elixir.Constant {color: #ada28b; font-style: normal}
+.forestbones_elixir.Comment {color: #6e7b85; font-style: normal}
+.forestbones_elixir.LineNr {color: #667783}
+.forestbones_elixir.-ibl-indent-char-1 {color: #394147}
+.forestbones_elixir.Function {color: #e7dcc4}
+.forestbones_elixir.NonText {color: #5d6d78}
+.forestbones_elixir.Delimiter {color: #7b8e9d}

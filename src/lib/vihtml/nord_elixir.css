@@ -1,0 +1,19 @@
+.nord_elixir.boxbg {background-color: #2e3440; color: #d8dee9}
+.nord_elixir.-keyword-function {color: #88c0d0; font-style: normal}
+.nord_elixir.-punctuation-bracket {color: #88c0d0}
+.nord_elixir.SignColumn {color: #d8dee9; background-color: #2e3440}
+.nord_elixir.-comment {color: #616e88; font-style: normal}
+.nord_elixir.-punctuation-special {color: #88c0d0}
+.nord_elixir.-string {color: #a3be8c; font-style: normal}
+.nord_elixir.-number {color: #b48ead}
+.nord_elixir.Structure {color: #81a1c1}
+.nord_elixir.-keyword {color: #81a1c1; font-style: normal}
+.nord_elixir.NonText {color: #3b4252}
+.nord_elixir.-ibl-scope-char-1 {color: #616e88; font-style: normal}
+.nord_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.nord_elixir.LineNr {color: #616e88}
+.nord_elixir.SpecialChar {color: #ebcb8b}
+.nord_elixir.-variable {color: #d8dee9; font-weight: bold}
+.nord_elixir.-operator {color: #81a1c1}
+.nord_elixir.-punctuation-delimiter {color: #88c0d0}
+.nord_elixir.-function {color: #88c0d0; font-style: normal}

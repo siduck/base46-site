@@ -1,0 +1,21 @@
+.bluloco_haskell.boxbg {background-color: #282c34; color: #abb2bf}
+.bluloco_haskell.Identifier {color: #abb2bf}
+.bluloco_haskell.Statement {color: #10b3fe}
+.bluloco_haskell.Type {color: #ff6682}
+.bluloco_haskell.-punctuation-bracket {color: #7c84da}
+.bluloco_haskell.-function-call {color: #3fc66c}
+.bluloco_haskell.Character {color: #ff956b}
+.bluloco_haskell.-spell {}
+.bluloco_haskell.-number {color: #ff7af8}
+.bluloco_haskell.-punctuation-delimiter {color: #7c84da}
+.bluloco_haskell.-namespace {color: #ff859d}
+.bluloco_haskell.-ibl-indent-char-1 {color: #3c495d}
+.bluloco_haskell.-ibl-whitespace-char-1 {color: #3c495d}
+.bluloco_haskell.-operator {color: #7c84da}
+.bluloco_haskell.Property {color: #ce9888}
+.bluloco_haskell.-parameter {color: #8acdef}
+.bluloco_haskell.LineNr {color: #636d83}
+.bluloco_haskell.Normal {color: #abb2bf; background-color: #282c34}
+.bluloco_haskell.-comment {color: #636d83}
+.bluloco_haskell.-constructor {color: #ff6682}
+.bluloco_haskell.-function {color: #3fc66c}

@@ -1,4 +1,5 @@
 .tokyonight-moon_go.boxbg {background-color: #222436; color: #c8d3f5}
+<<<<<<< HEAD
 .tokyonight-moon_go.LineNr {color: #3b4261}
 .tokyonight-moon_go.-keyword {color: #fca7ea; font-style: normal}
 .tokyonight-moon_go.-ibl-indent-char-1 {color: #3b4261}
@@ -15,3 +16,9 @@
 .tokyonight-moon_go.Function {color: #82aaff}
 .tokyonight-moon_go.-variable {color: #c8d3f5}
 .tokyonight-moon_go.-punctuation-delimiter {color: #89ddff}
+=======
+.tokyonight-moon_go.-ibl-whitespace-char-1 {color: #3b4261}
+.tokyonight-moon_go.LineNr {color: #3b4261}
+.tokyonight-moon_go.-ibl-indent-char-1 {color: #3b4261}
+.tokyonight-moon_go.SignColumn {color: #3b4261; background-color: #222436}
+>>>>>>> 9625304 (add more themes)

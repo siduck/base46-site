@@ -1,0 +1,14 @@
+.neobones_haskell.boxbg {background-color: #0f191f; color: #c6d5cf}
+.neobones_haskell.Identifier {color: #a7b3ae}
+.neobones_haskell.Statement {color: #c6d5cf; font-weight: bold}
+.neobones_haskell.Number {color: #939e99}
+.neobones_haskell.Special {color: #9aa6a1; font-weight: bold}
+.neobones_haskell.Constant {color: #939e99; font-style: normal}
+.neobones_haskell.LineNr {color: #466273}
+.neobones_haskell.NonText {color: #3e5868}
+.neobones_haskell.Comment {color: #536977; font-style: normal}
+.neobones_haskell.-ibl-indent-char-1 {color: #1d272e}
+.neobones_haskell.Function {color: #c6d5cf}
+.neobones_haskell.Delimiter {color: #5b7e94}
+.neobones_haskell.-spell {}
+.neobones_haskell.Type {color: #6e99b2}

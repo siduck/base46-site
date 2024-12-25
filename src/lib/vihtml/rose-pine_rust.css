@@ -1,4 +1,5 @@
 .rose-pine_rust.boxbg {background-color: #191724; color: #e0def4}
+<<<<<<< HEAD
 .rose-pine_rust.-variable-parameter {color: #c4a7e7; font-style: normal}
 .rose-pine_rust.-keyword-conditional {color: #31748f}
 .rose-pine_rust.-punctuation-bracket {color: #908caa}
@@ -21,5 +22,29 @@
 .rose-pine_rust.-type {color: #9ccfd8}
 .rose-pine_rust.-variable {color: #e0def4; font-style: normal}
 .rose-pine_rust.-module {color: #e0def4}
+=======
+.rose-pine_rust.-keyword-import {color: #31748f}
+.rose-pine_rust.LineNr {color: #6e6a86}
+.rose-pine_rust.-constant {color: #f6c177}
+.rose-pine_rust.Keyword {color: #31748f}
+.rose-pine_rust.-punctuation-bracket {color: #908caa}
+.rose-pine_rust.-module {color: #e0def4}
+.rose-pine_rust.-type-builtin {color: #9ccfd8; font-weight: bold}
+.rose-pine_rust.-type {color: #9ccfd8}
+.rose-pine_rust.-keyword-conditional {color: #31748f}
+.rose-pine_rust.-spell {}
+.rose-pine_rust.-punctuation-delimiter {color: #908caa}
+.rose-pine_rust.-ibl-indent-char-1 {color: #26233a}
+.rose-pine_rust.Operator {color: #908caa}
+.rose-pine_rust.-ibl-whitespace-char-1 {color: #26233a}
+.rose-pine_rust.SignColumn {color: #e0def4}
+.rose-pine_rust.-odp {}
+.rose-pine_rust.Number {color: #f6c177}
+.rose-pine_rust.-keyword-operator {color: #908caa}
+.rose-pine_rust.Comment {color: #908caa; font-style: normal}
+.rose-pine_rust.-variable-parameter {color: #c4a7e7; font-style: normal}
+.rose-pine_rust.-variable {color: #e0def4; font-style: normal}
+.rose-pine_rust.-variable-member {color: #9ccfd8}
+>>>>>>> 9625304 (add more themes)
 .rose-pine_rust.-variable-builtin {color: #eb6f92; font-weight: bold}
 .rose-pine_rust.-function {color: #ebbcba}

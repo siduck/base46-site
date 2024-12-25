@@ -1,5 +1,6 @@
 .carbonfox_rust.boxbg {background-color: #161616; color: #f2f4f8}
 .carbonfox_rust.-variable-parameter {color: #52bdff}
+<<<<<<< HEAD
 .carbonfox_rust.LineNr {color: #7b7c7e}
 .carbonfox_rust.-punctuation-bracket {color: #b6b8bb}
 .carbonfox_rust.Keyword {color: #be95ff}
@@ -16,11 +17,37 @@
 .carbonfox_rust.Number {color: #3ddbd9}
 .carbonfox_rust.-keyword-operator {color: #b6b8bb}
 .carbonfox_rust.Conditional {color: #c8a5ff}
+=======
+.carbonfox_rust.-keyword-function {color: #be95ff}
+.carbonfox_rust.Type {color: #08bdba}
+.carbonfox_rust.Keyword {color: #be95ff}
+.carbonfox_rust.-punctuation-bracket {color: #b6b8bb}
+.carbonfox_rust.Constant {color: #5ae0df}
+.carbonfox_rust.-module {color: #52bdff}
+.carbonfox_rust.-variable-member {color: #78a9ff}
+.carbonfox_rust.-spell {}
+.carbonfox_rust.-punctuation-delimiter {color: #b6b8bb}
+.carbonfox_rust.LineNr {color: #7b7c7e}
+.carbonfox_rust.-ibl-indent-char-1 {color: #353535}
+.carbonfox_rust.Operator {color: #b6b8bb}
+.carbonfox_rust.-ibl-whitespace-char-1 {color: #353535}
+.carbonfox_rust.SignColumn {color: #7b7c7e}
+>>>>>>> 9625304 (add more themes)
 .carbonfox_rust.-odp {}
+.carbonfox_rust.Conditional {color: #c8a5ff}
+.carbonfox_rust.Number {color: #3ddbd9}
 .carbonfox_rust.PreProc {color: #ff91c1}
 .carbonfox_rust.Comment {color: #6e6f70}
+<<<<<<< HEAD
 .carbonfox_rust.-module {color: #52bdff}
 .carbonfox_rust.-variable {color: #dfdfe0}
 .carbonfox_rust.Function {color: #8cb6ff}
 .carbonfox_rust.-variable-builtin {color: #ee5396}
 .carbonfox_rust.-punctuation-delimiter {color: #b6b8bb}
+=======
+.carbonfox_rust.-type-builtin {color: #52bdff}
+.carbonfox_rust.-variable {color: #dfdfe0}
+.carbonfox_rust.Function {color: #8cb6ff}
+.carbonfox_rust.-variable-builtin {color: #ee5396}
+.carbonfox_rust.-keyword-operator {color: #b6b8bb}
+>>>>>>> 9625304 (add more themes)

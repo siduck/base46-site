@@ -1,0 +1,15 @@
+.randombones_c.boxbg {background-color: #f0f0ca; color: #353535}
+.randombones_c.Identifier {color: #505050}
+.randombones_c.Statement {color: #156a29; font-weight: bold}
+.randombones_c.Number {color: #2a6535; font-style: normal}
+.randombones_c.Type {color: #5b5b42}
+.randombones_c.LineNr {color: #9a9a81}
+.randombones_c.Constant {color: #636363; font-style: normal}
+.randombones_c.NonText {color: #b0b093}
+.randombones_c.PreProc {color: #35663d}
+.randombones_c.-ibl-indent-char-1 {color: #dfdfc2}
+.randombones_c.Special {color: #5c5c5c; font-weight: bold}
+.randombones_c.-_parent {}
+.randombones_c.Function {color: #353535}
+.randombones_c.Delimiter {color: #85856f}
+.randombones_c.-constant {color: #505050; font-weight: bold}

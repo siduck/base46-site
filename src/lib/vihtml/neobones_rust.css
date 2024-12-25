@@ -1,0 +1,15 @@
+.neobones_rust.boxbg {background-color: #0f191f; color: #c6d5cf}
+.neobones_rust.Identifier {color: #a7b3ae}
+.neobones_rust.Statement {color: #c6d5cf; font-weight: bold}
+.neobones_rust.Number {color: #939e99}
+.neobones_rust.-constant {color: #a7b3ae; font-weight: bold}
+.neobones_rust.LineNr {color: #466273}
+.neobones_rust.Constant {color: #939e99; font-style: normal}
+.neobones_rust.NonText {color: #3e5868}
+.neobones_rust.-ibl-indent-char-1 {color: #1d272e}
+.neobones_rust.Comment {color: #536977; font-style: normal}
+.neobones_rust.Type {color: #6e99b2}
+.neobones_rust.Function {color: #c6d5cf}
+.neobones_rust.Delimiter {color: #5b7e94}
+.neobones_rust.-spell {}
+.neobones_rust.-odp {}

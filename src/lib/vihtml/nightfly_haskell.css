@@ -2,16 +2,16 @@
 .nightfly_haskell.SignColumn {color: #a1cd5e; background-color: #011627}
 .nightfly_haskell.LineNr {color: #4b6479; background-color: #011627}
 .nightfly_haskell.Statement {color: #c792ea}
-.nightfly_haskell.NightflyWhite {color: #c3ccdc}
-.nightfly_haskell.Type {color: #21c7a8}
 .nightfly_haskell.-ibl-whitespace-char-1 {color: #0e293f}
-.nightfly_haskell.-ibl-indent-char-1 {color: #0e293f}
-.nightfly_haskell.NightflyWatermelon {color: #ff5874}
-.nightfly_haskell.-spell {}
-.nightfly_haskell.NightflyTurquoise {color: #7fdbca}
-.nightfly_haskell.Comment {color: #7c8f8f; font-style: normal}
-.nightfly_haskell.NightflyOrange {color: #f78c6c}
+.nightfly_haskell.Type {color: #21c7a8}
 .nightfly_haskell.NightflyOrchid {color: #e39aa6}
+.nightfly_haskell.-ibl-indent-char-1 {color: #0e293f}
+.nightfly_haskell.NightflyTurquoise {color: #7fdbca}
+.nightfly_haskell.NightflyWatermelon {color: #ff5874}
+.nightfly_haskell.NightflyOrange {color: #f78c6c}
+.nightfly_haskell.NightflyEmerald {color: #21c7a8}
 .nightfly_haskell.NightflyBlue {color: #82aaff}
 .nightfly_haskell.NightflyLavender {color: #b0b2f4}
-.nightfly_haskell.NightflyEmerald {color: #21c7a8}
+.nightfly_haskell.NightflyWhite {color: #c3ccdc}
+.nightfly_haskell.-spell {}
+.nightfly_haskell.Comment {color: #7c8f8f; font-style: normal}

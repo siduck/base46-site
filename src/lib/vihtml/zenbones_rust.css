@@ -1,0 +1,15 @@
+.zenbones_rust.boxbg {background-color: #1c1917; color: #b4bdc3}
+.zenbones_rust.Identifier {color: #979fa4}
+.zenbones_rust.Statement {color: #b4bdc3; font-weight: bold}
+.zenbones_rust.Number {color: #868c91}
+.zenbones_rust.-constant {color: #979fa4; font-weight: bold}
+.zenbones_rust.LineNr {color: #685f5a}
+.zenbones_rust.Constant {color: #868c91; font-style: normal}
+.zenbones_rust.NonText {color: #5c534f}
+.zenbones_rust.-ibl-indent-char-1 {color: #2b2725}
+.zenbones_rust.Comment {color: #6e6763; font-style: normal}
+.zenbones_rust.Type {color: #a1938c}
+.zenbones_rust.Function {color: #b4bdc3}
+.zenbones_rust.Delimiter {color: #867a74}
+.zenbones_rust.-spell {}
+.zenbones_rust.-odp {}

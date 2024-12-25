@@ -1,0 +1,16 @@
+.randombones_rust.boxbg {background-color: #f0f0ca; color: #353535}
+.randombones_rust.Identifier {color: #505050}
+.randombones_rust.Statement {color: #156a29; font-weight: bold}
+.randombones_rust.Number {color: #2a6535; font-style: normal}
+.randombones_rust.Type {color: #5b5b42}
+.randombones_rust.LineNr {color: #9a9a81}
+.randombones_rust.NonText {color: #b0b093}
+.randombones_rust.Constant {color: #636363; font-style: normal}
+.randombones_rust.-ibl-indent-char-1 {color: #dfdfc2}
+.randombones_rust.PreProc {color: #35663d}
+.randombones_rust.Comment {color: #8c8c7c; font-style: normal}
+.randombones_rust.-constant {color: #505050; font-weight: bold}
+.randombones_rust.Function {color: #353535}
+.randombones_rust.Delimiter {color: #85856f}
+.randombones_rust.-spell {}
+.randombones_rust.-odp {}

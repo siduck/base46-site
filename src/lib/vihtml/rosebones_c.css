@@ -1,0 +1,14 @@
+.rosebones_c.boxbg {background-color: #fbf6f0; color: #724341}
+.rosebones_c.Identifier {color: #935855}
+.rosebones_c.Statement {color: #286a84}
+.rosebones_c.Number {color: #ab6763}
+.rosebones_c.-constant {color: #935855; font-weight: bold}
+.rosebones_c.Constant {color: #ab6763; font-style: normal}
+.rosebones_c.LineNr {color: #b69a6e}
+.rosebones_c.NonText {color: #ceaf7e}
+.rosebones_c.-ibl-indent-char-1 {color: #f0e3d4}
+.rosebones_c.Special {color: #5795a0}
+.rosebones_c.Type {color: #57527a}
+.rosebones_c.-_parent {}
+.rosebones_c.Delimiter {color: #9b835d}
+.rosebones_c.Function {color: #724341}

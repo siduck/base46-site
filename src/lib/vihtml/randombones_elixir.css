@@ -1,0 +1,14 @@
+.randombones_elixir.boxbg {background-color: #f0f0ca; color: #353535}
+.randombones_elixir.Identifier {color: #505050}
+.randombones_elixir.Statement {color: #156a29; font-weight: bold}
+.randombones_elixir.Number {color: #2a6535; font-style: normal}
+.randombones_elixir.Special {color: #5c5c5c; font-weight: bold}
+.randombones_elixir.-ibl-scope-char-1 {color: #8c8c7c; font-style: normal}
+.randombones_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.randombones_elixir.Constant {color: #636363; font-style: normal}
+.randombones_elixir.Comment {color: #8c8c7c; font-style: normal}
+.randombones_elixir.LineNr {color: #9a9a81}
+.randombones_elixir.-ibl-indent-char-1 {color: #dfdfc2}
+.randombones_elixir.Function {color: #353535}
+.randombones_elixir.NonText {color: #b0b093}
+.randombones_elixir.Delimiter {color: #85856f}

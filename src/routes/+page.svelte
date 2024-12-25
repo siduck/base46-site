@@ -49,7 +49,10 @@
   <div flexrow>
     {#each languages as lang}
       <button
-        class={"capitalize btnalt " + (lang == cur_lang ? "!bg-slate-2" : "")}
+        class={"capitalize btnalt " + (lang == cur_lang
+        ? "!bg-slate-2 dark:!bg-slate-6"
+        : " bg-slate1 dark:!bg-slate-8")}
+        border="1px solid slate3 dark:0"
         onclick={() => cur_lang = lang}
       >
         <div class={"text-lg " + icons[lang]}></div> {lang}
@@ -57,7 +60,7 @@
     {/each}
   </div>
 
-  <div grid="~ gap-x-10 xl:cols-2">
+  <div grid="~ gap10 xl:cols-2">
     {#each themes as theme}
       <ThemeCard data={theme} lang={cur_lang} />
     {/each}

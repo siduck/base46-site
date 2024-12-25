@@ -1,0 +1,16 @@
+.vimbones_rust.boxbg {background-color: #f0f0ca; color: #353535}
+.vimbones_rust.Identifier {color: #505050}
+.vimbones_rust.Statement {color: #156a29; font-weight: bold}
+.vimbones_rust.Number {color: #2a6535; font-style: normal}
+.vimbones_rust.Type {color: #5b5b42}
+.vimbones_rust.LineNr {color: #9a9a81}
+.vimbones_rust.NonText {color: #b0b093}
+.vimbones_rust.Constant {color: #636363; font-style: normal}
+.vimbones_rust.-ibl-indent-char-1 {color: #dfdfc2}
+.vimbones_rust.PreProc {color: #35663d}
+.vimbones_rust.Comment {color: #8c8c7c; font-style: normal}
+.vimbones_rust.-constant {color: #505050; font-weight: bold}
+.vimbones_rust.Function {color: #353535}
+.vimbones_rust.Delimiter {color: #85856f}
+.vimbones_rust.-spell {}
+.vimbones_rust.-odp {}

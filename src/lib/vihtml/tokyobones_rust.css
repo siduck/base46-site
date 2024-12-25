@@ -1,0 +1,16 @@
+.tokyobones_rust.boxbg {background-color: #d6d7dc; color: #333a57}
+.tokyobones_rust.Identifier {color: #4a537a}
+.tokyobones_rust.Statement {color: #5a4a79; font-weight: bold}
+.tokyobones_rust.Number {color: #176775}
+.tokyobones_rust.Type {color: #484f6b}
+.tokyobones_rust.LineNr {color: #888b99}
+.tokyobones_rust.NonText {color: #9b9da9}
+.tokyobones_rust.Constant {color: #5b6694; font-style: normal}
+.tokyobones_rust.-ibl-indent-char-1 {color: #c8c9ce}
+.tokyobones_rust.PreProc {color: #5a4a79}
+.tokyobones_rust.Comment {color: #7c7e89; font-style: normal}
+.tokyobones_rust.-constant {color: #4a537a; font-weight: bold}
+.tokyobones_rust.Function {color: #333a57}
+.tokyobones_rust.Delimiter {color: #737686}
+.tokyobones_rust.-spell {}
+.tokyobones_rust.-odp {}

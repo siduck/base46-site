@@ -1,4 +1,5 @@
 .tokyonight-night_elixir.boxbg {background-color: #1a1b26; color: #c0caf5}
+<<<<<<< HEAD
 .tokyonight-night_elixir.LineNr {color: #3b4261}
 .tokyonight-night_elixir.-punctuation-bracket {color: #a9b1d6}
 .tokyonight-night_elixir.Constant {color: #ff9e64}
@@ -6,11 +7,20 @@
 .tokyonight-night_elixir.-keyword-function {color: #bb9af7}
 .tokyonight-night_elixir.-punctuation-special {color: #89ddff}
 .tokyonight-night_elixir.String {color: #9ece6a}
+=======
+.tokyonight-night_elixir.-keyword-function {color: #bb9af7}
+.tokyonight-night_elixir.-punctuation-bracket {color: #a9b1d6}
+.tokyonight-night_elixir.Constant {color: #ff9e64}
+.tokyonight-night_elixir.SignColumn {color: #3b4261; background-color: #1a1b26}
+.tokyonight-night_elixir.-punctuation-special {color: #89ddff}
+.tokyonight-night_elixir.-punctuation-delimiter {color: #89ddff}
+>>>>>>> 9625304 (add more themes)
 .tokyonight-night_elixir.-keyword {color: #9d7cd8; font-style: normal}
 .tokyonight-night_elixir.-ibl-indent-char-1 {color: #3b4261}
 .tokyonight-night_elixir.-ibl-whitespace-char-1 {color: #3b4261}
 .tokyonight-night_elixir.-ibl-scope-char-1 {color: #565f89; font-style: normal}
 .tokyonight-night_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+<<<<<<< HEAD
 .tokyonight-night_elixir.PreProc {color: #7dcfff}
 .tokyonight-night_elixir.Comment {color: #565f89; font-style: normal}
 .tokyonight-night_elixir.Special {color: #2ac3de}
@@ -18,3 +28,13 @@
 .tokyonight-night_elixir.Function {color: #7aa2f7}
 .tokyonight-night_elixir.-operator {color: #89ddff}
 .tokyonight-night_elixir.-punctuation-delimiter {color: #89ddff}
+=======
+.tokyonight-night_elixir.LineNr {color: #3b4261}
+.tokyonight-night_elixir.PreProc {color: #7dcfff}
+.tokyonight-night_elixir.Comment {color: #565f89; font-style: normal}
+.tokyonight-night_elixir.-operator {color: #89ddff}
+.tokyonight-night_elixir.-variable {color: #c0caf5}
+.tokyonight-night_elixir.Function {color: #7aa2f7}
+.tokyonight-night_elixir.String {color: #9ece6a}
+.tokyonight-night_elixir.Special {color: #2ac3de}
+>>>>>>> 9625304 (add more themes)

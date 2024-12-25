@@ -1,0 +1,15 @@
+.vimbones_haskell.boxbg {background-color: #f0f0ca; color: #353535}
+.vimbones_haskell.Identifier {color: #505050}
+.vimbones_haskell.Statement {color: #156a29; font-weight: bold}
+.vimbones_haskell.Number {color: #2a6535; font-style: normal}
+.vimbones_haskell.Type {color: #5b5b42}
+.vimbones_haskell.LineNr {color: #9a9a81}
+.vimbones_haskell.Constant {color: #636363; font-style: normal}
+.vimbones_haskell.NonText {color: #b0b093}
+.vimbones_haskell.PreProc {color: #35663d}
+.vimbones_haskell.Comment {color: #8c8c7c; font-style: normal}
+.vimbones_haskell.-ibl-indent-char-1 {color: #dfdfc2}
+.vimbones_haskell.Function {color: #353535}
+.vimbones_haskell.Delimiter {color: #85856f}
+.vimbones_haskell.-spell {}
+.vimbones_haskell.Special {color: #5c5c5c; font-weight: bold}

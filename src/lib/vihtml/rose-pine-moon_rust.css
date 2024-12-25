@@ -1,4 +1,5 @@
 .rose-pine-moon_rust.boxbg {background-color: #232136; color: #e0def4}
+<<<<<<< HEAD
 .rose-pine-moon_rust.-variable-parameter {color: #c4a7e7; font-style: normal}
 .rose-pine-moon_rust.-keyword-conditional {color: #3e8fb0}
 .rose-pine-moon_rust.-punctuation-bracket {color: #908caa}
@@ -21,5 +22,29 @@
 .rose-pine-moon_rust.-type {color: #9ccfd8}
 .rose-pine-moon_rust.-variable {color: #e0def4; font-style: normal}
 .rose-pine-moon_rust.-module {color: #e0def4}
+=======
+.rose-pine-moon_rust.-keyword-import {color: #3e8fb0}
+.rose-pine-moon_rust.LineNr {color: #6e6a86}
+.rose-pine-moon_rust.-constant {color: #f6c177}
+.rose-pine-moon_rust.Keyword {color: #3e8fb0}
+.rose-pine-moon_rust.-punctuation-bracket {color: #908caa}
+.rose-pine-moon_rust.-module {color: #e0def4}
+.rose-pine-moon_rust.-type-builtin {color: #9ccfd8; font-weight: bold}
+.rose-pine-moon_rust.-type {color: #9ccfd8}
+.rose-pine-moon_rust.-keyword-conditional {color: #3e8fb0}
+.rose-pine-moon_rust.-spell {}
+.rose-pine-moon_rust.-punctuation-delimiter {color: #908caa}
+.rose-pine-moon_rust.-ibl-indent-char-1 {color: #393552}
+.rose-pine-moon_rust.Operator {color: #908caa}
+.rose-pine-moon_rust.-ibl-whitespace-char-1 {color: #393552}
+.rose-pine-moon_rust.SignColumn {color: #e0def4}
+.rose-pine-moon_rust.-odp {}
+.rose-pine-moon_rust.Number {color: #f6c177}
+.rose-pine-moon_rust.-keyword-operator {color: #908caa}
+.rose-pine-moon_rust.Comment {color: #908caa; font-style: normal}
+.rose-pine-moon_rust.-variable-parameter {color: #c4a7e7; font-style: normal}
+.rose-pine-moon_rust.-variable {color: #e0def4; font-style: normal}
+.rose-pine-moon_rust.-variable-member {color: #9ccfd8}
+>>>>>>> 9625304 (add more themes)
 .rose-pine-moon_rust.-variable-builtin {color: #eb6f92; font-weight: bold}
 .rose-pine-moon_rust.-function {color: #ea9a97}

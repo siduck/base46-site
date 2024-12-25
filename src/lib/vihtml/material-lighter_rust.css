@@ -1,0 +1,22 @@
+.material-lighter_rust.boxbg {background-color: #fafafa; color: #546e7a}
+.material-lighter_rust.Macro {color: #39adb5}
+.material-lighter_rust.Identifier {color: #546e7a}
+.material-lighter_rust.-constant {color: #f6a434}
+.material-lighter_rust.-punctuation-bracket {color: #39adb5}
+.material-lighter_rust.-module {color: #f6a434}
+.material-lighter_rust.-variable-member {color: #94a7b0}
+.material-lighter_rust.-type {color: #7c4dff}
+.material-lighter_rust.-spell {}
+.material-lighter_rust.-punctuation-delimiter {color: #39adb5}
+.material-lighter_rust.-keyword {color: #39adb5}
+.material-lighter_rust.-ibl-indent-char-1 {color: #d2d4d5}
+.material-lighter_rust.Number {color: #f76d47}
+.material-lighter_rust.-ibl-whitespace-char-1 {color: #d2d4d5}
+.material-lighter_rust.Conditional {color: #7c4dff}
+.material-lighter_rust.LineNr {color: #cfd8dc}
+.material-lighter_rust.Comment {color: #aabfc9}
+.material-lighter_rust.SignColumn {color: #546e7a}
+.material-lighter_rust.Operator {color: #39adb5}
+.material-lighter_rust.Function {color: #6182b8}
+.material-lighter_rust.-type-builtin {color: #7c4dff}
+.material-lighter_rust.-odp {}

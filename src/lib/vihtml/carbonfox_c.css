@@ -1,24 +1,42 @@
 .carbonfox_c.boxbg {background-color: #161616; color: #f2f4f8}
 .carbonfox_c.-variable-parameter {color: #52bdff}
 .carbonfox_c.LineNr {color: #7b7c7e}
+<<<<<<< HEAD
 .carbonfox_c.-function-macro {color: #ee5396}
 .carbonfox_c.-punctuation-bracket {color: #b6b8bb}
+=======
+.carbonfox_c.-property {color: #78a9ff}
+.carbonfox_c.Type {color: #08bdba}
+>>>>>>> 9625304 (add more themes)
 .carbonfox_c.Keyword {color: #be95ff}
+.carbonfox_c.-punctuation-bracket {color: #b6b8bb}
 .carbonfox_c.Constant {color: #5ae0df}
 .carbonfox_c.SignColumn {color: #7b7c7e}
 .carbonfox_c.-type-builtin {color: #52bdff}
+<<<<<<< HEAD
 .carbonfox_c.-keyword-return {color: #ee5396}
+=======
+.carbonfox_c.-function-macro {color: #ee5396}
+>>>>>>> 9625304 (add more themes)
 .carbonfox_c.String {color: #25be6a}
 .carbonfox_c.-ibl-indent-char-1 {color: #353535}
 .carbonfox_c.Operator {color: #b6b8bb}
 .carbonfox_c.-ibl-whitespace-char-1 {color: #353535}
+<<<<<<< HEAD
 .carbonfox_c.-string-escape {color: #2dc7c4; font-weight: bold}
 .carbonfox_c.Conditional {color: #c8a5ff}
 .carbonfox_c.Number {color: #3ddbd9}
 .carbonfox_c.PreProc {color: #ff91c1}
 .carbonfox_c.-property {color: #78a9ff}
 .carbonfox_c.Function {color: #8cb6ff}
+=======
+.carbonfox_c.-keyword-return {color: #ee5396}
+.carbonfox_c.-string-escape {color: #2dc7c4; font-weight: bold}
+.carbonfox_c.Conditional {color: #c8a5ff}
+.carbonfox_c.PreProc {color: #ff91c1}
+.carbonfox_c.Number {color: #3ddbd9}
+>>>>>>> 9625304 (add more themes)
 .carbonfox_c.-variable {color: #dfdfe0}
 .carbonfox_c.-_parent {}
-.carbonfox_c.Type {color: #08bdba}
+.carbonfox_c.Function {color: #8cb6ff}
 .carbonfox_c.-punctuation-delimiter {color: #b6b8bb}

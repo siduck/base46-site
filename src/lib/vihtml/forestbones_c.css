@@ -1,0 +1,15 @@
+.forestbones_c.boxbg {background-color: #2c343a; color: #e7dcc4}
+.forestbones_c.Identifier {color: #c6baa0}
+.forestbones_c.Statement {color: #a9c181; font-weight: bold}
+.forestbones_c.Number {color: #ada28b}
+.forestbones_c.Type {color: #7fbcb4}
+.forestbones_c.LineNr {color: #667783}
+.forestbones_c.Constant {color: #ada28b; font-style: normal}
+.forestbones_c.NonText {color: #5d6d78}
+.forestbones_c.PreProc {color: #83c193}
+.forestbones_c.-ibl-indent-char-1 {color: #394147}
+.forestbones_c.Special {color: #b5aa92; font-weight: bold}
+.forestbones_c.-_parent {}
+.forestbones_c.Function {color: #e7dcc4}
+.forestbones_c.Delimiter {color: #7b8e9d}
+.forestbones_c.-constant {color: #c6baa0; font-weight: bold}

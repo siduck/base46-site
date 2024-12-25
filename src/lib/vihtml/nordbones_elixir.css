@@ -1,0 +1,14 @@
+.nordbones_elixir.boxbg {background-color: #2f3541; color: #ebeef3}
+.nordbones_elixir.Identifier {color: #ebeef3}
+.nordbones_elixir.Statement {color: #81a1c1}
+.nordbones_elixir.Number {color: #8fbcba; font-style: normal}
+.nordbones_elixir.Special {color: #abbad0; font-weight: bold}
+.nordbones_elixir.-ibl-scope-char-1 {color: #737c90; font-style: normal}
+.nordbones_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.nordbones_elixir.Constant {color: #9eafc9; font-style: normal}
+.nordbones_elixir.Comment {color: #737c90; font-style: normal}
+.nordbones_elixir.LineNr {color: #69758c}
+.nordbones_elixir.-ibl-indent-char-1 {color: #3d424e}
+.nordbones_elixir.Function {color: #87bfce}
+.nordbones_elixir.NonText {color: #606b81}
+.nordbones_elixir.Delimiter {color: #818eab}

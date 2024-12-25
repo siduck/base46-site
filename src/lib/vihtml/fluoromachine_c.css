@@ -1,0 +1,16 @@
+.fluoromachine_c.boxbg {background-color: #262335; color: #8ba7a7}
+.fluoromachine_c.String {color: #af6df9}
+.fluoromachine_c.Identifier {color: #61e2ff}
+.fluoromachine_c.-ibl-indent-char-1 {color: #57367c}
+.fluoromachine_c.-property {color: #61e2ff}
+.fluoromachine_c.Type {color: #af6df9}
+.fluoromachine_c.Keyword {color: #fc199a; font-weight: bold; background-color: #31233a}
+.fluoromachine_c.-punctuation-bracket {color: #af6df9}
+.fluoromachine_c.Constant {color: #af6df9; font-weight: bold; background-color: #2d273f}
+.fluoromachine_c.SignColumn {background-color: #262335}
+.fluoromachine_c.LineNr {color: #57367c; background-color: #262335}
+.fluoromachine_c.-ibl-whitespace-char-1 {color: #495495}
+.fluoromachine_c.-_parent {}
+.fluoromachine_c.Function {color: #ffcc00; font-weight: bold; background-color: #312b32}
+.fluoromachine_c.Delimiter {color: #fc199a}
+.fluoromachine_c.-variable-parameter {color: #ff8b39}

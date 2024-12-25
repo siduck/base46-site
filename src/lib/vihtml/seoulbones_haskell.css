@@ -1,0 +1,16 @@
+.seoulbones_haskell.boxbg {background-color: #e2e2e2; color: #555555}
+.seoulbones_haskell.Identifier {color: #555555}
+.seoulbones_haskell.Statement {color: #0084a3; font-weight: bold}
+.seoulbones_haskell.Number {color: #896500}
+.seoulbones_haskell.Type {color: #6d4c52}
+.seoulbones_haskell.Keyword {color: #ca6284; font-weight: bold}
+.seoulbones_haskell.LineNr {color: #919191}
+.seoulbones_haskell.Constant {color: #7c7c7c; font-style: normal}
+.seoulbones_haskell.NonText {color: #a6a6a6}
+.seoulbones_haskell.PreProc {color: #be6a84}
+.seoulbones_haskell.Comment {color: #628562; font-style: normal}
+.seoulbones_haskell.-ibl-indent-char-1 {color: #d4d4d4}
+.seoulbones_haskell.Function {color: #6c6b20}
+.seoulbones_haskell.Delimiter {color: #7c7c7c}
+.seoulbones_haskell.-spell {}
+.seoulbones_haskell.Special {color: #755f74}
