@@ -5,13 +5,13 @@
 .oxocarbon_haskell.Operator {color: #78a9ff}
 .oxocarbon_haskell.Type {color: #78a9ff}
 .oxocarbon_haskell.LineNr {color: #525252; background-color: #161616}
-.oxocarbon_haskell.-punctuation-bracket {color: #3ddbd9}
-.oxocarbon_haskell.SpecialChar {color: #d0d0d0}
 .oxocarbon_haskell.SignColumn {color: #262626; background-color: #161616}
+.oxocarbon_haskell.SpecialChar {color: #d0d0d0}
+.oxocarbon_haskell.-spell {}
 .oxocarbon_haskell.-constructor {color: #78a9ff}
-.oxocarbon_haskell.Comment {color: #525252; font-style: normal}
+.oxocarbon_haskell.-punctuation-bracket {color: #3ddbd9}
 .oxocarbon_haskell.Number {color: #82cfff}
 .oxocarbon_haskell.-variable {color: #d0d0d0}
+.oxocarbon_haskell.Comment {color: #525252; font-style: normal}
 .oxocarbon_haskell.-punctuation-delimiter {color: #3ddbd9}
-.oxocarbon_haskell.-spell {}
-.oxocarbon_haskell.-function {color: #ff7eb6; font-weight: bold}
+.oxocarbon_haskell.-function {font-weight: bold; color: #ff7eb6}

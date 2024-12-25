@@ -1,9 +1,9 @@
 .bamboo-multiplex_elixir.boxbg {background-color: #232923; color: #ece1c0}
-.bamboo-multiplex_elixir.LineNr {color: #5a5e5a}
+.bamboo-multiplex_elixir.-variable-member {color: #68baae}
 .bamboo-multiplex_elixir.Keyword {color: #a09af8}
 .bamboo-multiplex_elixir.Constant {color: #ef9946}
-.bamboo-multiplex_elixir.SignColumn {color: #ece1c0}
-.bamboo-multiplex_elixir.-variable-member {color: #68baae}
+.bamboo-multiplex_elixir.-module {color: #88c1e9; font-style: normal}
+.bamboo-multiplex_elixir.-comment {color: #dcbf84; font-style: normal}
 .bamboo-multiplex_elixir.Delimiter {color: #818781}
 .bamboo-multiplex_elixir.String {color: #81af58}
 .bamboo-multiplex_elixir.-ibl-indent-char-1 {color: #5a5e5a}
@@ -11,8 +11,8 @@
 .bamboo-multiplex_elixir.Special {color: #dc4f62}
 .bamboo-multiplex_elixir.-ibl-scope-char-1 {color: #818781; font-style: normal}
 .bamboo-multiplex_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-.bamboo-multiplex_elixir.-comment {color: #dcbf84; font-style: normal}
+.bamboo-multiplex_elixir.LineNr {color: #5a5e5a}
 .bamboo-multiplex_elixir.-variable {color: #ece1c0}
 .bamboo-multiplex_elixir.Function {color: #409cdc}
 .bamboo-multiplex_elixir.-ibl-whitespace-char-1 {color: #5a5e5a}
-.bamboo-multiplex_elixir.-module {color: #88c1e9; font-style: normal}
+.bamboo-multiplex_elixir.SignColumn {color: #ece1c0}

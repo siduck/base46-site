@@ -1,50 +1,25 @@
 .rose-pine-main_rust.boxbg {background-color: #191724; color: #e0def4}
-<<<<<<< HEAD
 .rose-pine-main_rust.-variable-parameter {color: #c4a7e7; font-style: normal}
+.rose-pine-main_rust.-variable-member {color: #9ccfd8}
 .rose-pine-main_rust.-keyword-conditional {color: #31748f}
-.rose-pine-main_rust.-punctuation-bracket {color: #908caa}
+.rose-pine-main_rust.-punctuation-delimiter {color: #908caa}
 .rose-pine-main_rust.Keyword {color: #31748f}
 .rose-pine-main_rust.-spell {}
-.rose-pine-main_rust.-type-builtin {color: #9ccfd8; font-weight: bold}
-.rose-pine-main_rust.-keyword-import {color: #31748f}
-.rose-pine-main_rust.-variable-member {color: #9ccfd8}
+.rose-pine-main_rust.-type-builtin {font-weight: bold; color: #9ccfd8}
+.rose-pine-main_rust.-type {color: #9ccfd8}
 .rose-pine-main_rust.LineNr {color: #6e6a86}
 .rose-pine-main_rust.SignColumn {color: #e0def4}
 .rose-pine-main_rust.-ibl-indent-char-1 {color: #26233a}
 .rose-pine-main_rust.Operator {color: #908caa}
-.rose-pine-main_rust.-ibl-whitespace-char-1 {color: #26233a}
-.rose-pine-main_rust.-punctuation-delimiter {color: #908caa}
-.rose-pine-main_rust.Number {color: #f6c177}
-.rose-pine-main_rust.-keyword-operator {color: #908caa}
-.rose-pine-main_rust.-odp {}
-.rose-pine-main_rust.-constant {color: #f6c177}
-.rose-pine-main_rust.Comment {color: #908caa; font-style: normal}
-.rose-pine-main_rust.-type {color: #9ccfd8}
-.rose-pine-main_rust.-variable {color: #e0def4; font-style: normal}
-.rose-pine-main_rust.-module {color: #e0def4}
-=======
 .rose-pine-main_rust.-keyword-import {color: #31748f}
-.rose-pine-main_rust.LineNr {color: #6e6a86}
+.rose-pine-main_rust.-keyword-operator {color: #908caa}
+.rose-pine-main_rust.-ibl-whitespace-char-1 {color: #26233a}
+.rose-pine-main_rust.-odp {}
+.rose-pine-main_rust.Number {color: #f6c177}
 .rose-pine-main_rust.-constant {color: #f6c177}
-.rose-pine-main_rust.Keyword {color: #31748f}
 .rose-pine-main_rust.-punctuation-bracket {color: #908caa}
 .rose-pine-main_rust.-module {color: #e0def4}
-.rose-pine-main_rust.-type-builtin {color: #9ccfd8; font-weight: bold}
-.rose-pine-main_rust.-type {color: #9ccfd8}
-.rose-pine-main_rust.-keyword-conditional {color: #31748f}
-.rose-pine-main_rust.-spell {}
-.rose-pine-main_rust.-punctuation-delimiter {color: #908caa}
-.rose-pine-main_rust.-ibl-indent-char-1 {color: #26233a}
-.rose-pine-main_rust.Operator {color: #908caa}
-.rose-pine-main_rust.-ibl-whitespace-char-1 {color: #26233a}
-.rose-pine-main_rust.SignColumn {color: #e0def4}
-.rose-pine-main_rust.-odp {}
-.rose-pine-main_rust.Number {color: #f6c177}
-.rose-pine-main_rust.-keyword-operator {color: #908caa}
-.rose-pine-main_rust.Comment {color: #908caa; font-style: normal}
-.rose-pine-main_rust.-variable-parameter {color: #c4a7e7; font-style: normal}
 .rose-pine-main_rust.-variable {color: #e0def4; font-style: normal}
-.rose-pine-main_rust.-variable-member {color: #9ccfd8}
->>>>>>> 9625304 (add more themes)
-.rose-pine-main_rust.-variable-builtin {color: #eb6f92; font-weight: bold}
+.rose-pine-main_rust.Comment {color: #908caa; font-style: normal}
+.rose-pine-main_rust.-variable-builtin {font-weight: bold; color: #eb6f92}
 .rose-pine-main_rust.-function {color: #ebbcba}

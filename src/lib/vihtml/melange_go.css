@@ -1,4 +1,14 @@
 .melange_go.boxbg {background-color: #292522; color: #ece1d7}
+.melange_go.Identifier {color: #ece1d7}
+.melange_go.Statement {color: #e49b5d}
+.melange_go.Operator {color: #d47766}
+.melange_go.Type {color: #7b9695}
+.melange_go.LineNr {color: #867462}
 .melange_go.IblIndent {color: #403a36}
 .melange_go.-ibl-indent-char-1 {color: #403a36}
-.melange_go.LineNr {color: #867462}
+.melange_go.Number {color: #cf9bc2}
+.melange_go.Special {color: #ebc06d}
+.melange_go.-label {color: #89b3b6}
+.melange_go.Delimiter {color: #8b7449}
+.melange_go.-punctuation-delimiter {color: #bd8183}
+.melange_go.Function {color: #ebc06d}

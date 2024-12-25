@@ -1,16 +1,16 @@
 .night-owl_elixir.boxbg {background-color: #021727; color: #d6deeb}
 .night-owl_elixir.LineNr {color: #4b6479}
+.night-owl_elixir.-nowl-indentChar {color: #1f395d}
 .night-owl_elixir.Keyword {color: #c792ea}
-.night-owl_elixir.-punctuation-bracket {color: #af6df9}
 .night-owl_elixir.Constant {color: #82aaff; font-style: normal}
 .night-owl_elixir.SignColumn {background-color: #021727}
-.night-owl_elixir.-nowl-indentChar {color: #1f395d}
 .night-owl_elixir.-punctuation-special {color: #fc199a}
 .night-owl_elixir.Delimiter {color: #d6deeb}
 .night-owl_elixir.String {color: #ecc48d}
 .night-owl_elixir.Number {color: #f78c6c}
 .night-owl_elixir.-ibl-scope-char-1 {color: #637777; font-style: normal}
 .night-owl_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.night-owl_elixir.-punctuation-bracket {color: #af6df9}
 .night-owl_elixir.Comment {color: #637777; font-style: normal}
 .night-owl_elixir.-variable {color: #d7dbe0}
 .night-owl_elixir.Function {color: #82aaff; font-style: normal}

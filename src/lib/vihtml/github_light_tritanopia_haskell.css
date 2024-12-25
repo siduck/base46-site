@@ -1,19 +1,19 @@
 .github_light_tritanopia_haskell.boxbg {background-color: #ffffff; color: #1b1f24}
 .github_light_tritanopia_haskell.-variable-parameter {color: #1b1f24}
-.github_light_tritanopia_haskell.LineNr {color: #6e7781}
-.github_light_tritanopia_haskell.Keyword {color: #cf222e}
-.github_light_tritanopia_haskell.-punctuation-bracket {color: #1b1f24}
-.github_light_tritanopia_haskell.-module {color: #cf222e}
 .github_light_tritanopia_haskell.-variable-member {color: #0550ae}
+.github_light_tritanopia_haskell.Keyword {color: #cf222e}
+.github_light_tritanopia_haskell.-module {color: #cf222e}
 .github_light_tritanopia_haskell.-type {color: #a40e26}
-.github_light_tritanopia_haskell.-spell {}
 .github_light_tritanopia_haskell.-ibl-indent-char-1 {color: #eaeef2}
 .github_light_tritanopia_haskell.Operator {color: #0550ae}
-.github_light_tritanopia_haskell.-ibl-whitespace-char-1 {color: #eaeef2}
+.github_light_tritanopia_haskell.Special {color: #1b1f24}
+.github_light_tritanopia_haskell.LineNr {color: #6e7781}
+.github_light_tritanopia_haskell.SignColumn {color: #57606a}
+.github_light_tritanopia_haskell.-punctuation-bracket {color: #1b1f24}
 .github_light_tritanopia_haskell.-constructor {color: #a40e26}
 .github_light_tritanopia_haskell.Comment {color: #57606a}
-.github_light_tritanopia_haskell.SignColumn {color: #57606a}
+.github_light_tritanopia_haskell.-spell {}
 .github_light_tritanopia_haskell.-variable {color: #1b1f24}
 .github_light_tritanopia_haskell.Function {color: #6639ba}
 .github_light_tritanopia_haskell.Number {color: #0550ae}
-.github_light_tritanopia_haskell.Special {color: #1b1f24}
+.github_light_tritanopia_haskell.-ibl-whitespace-char-1 {color: #eaeef2}

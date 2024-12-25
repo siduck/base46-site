@@ -4,14 +4,14 @@
 .nordic_c.-ibl-indent-char-1 {color: #4c566a}
 .nordic_c.-ibl-whitespace-char-1 {color: #4c566a}
 .nordic_c.Type {color: #ebcb8b}
-.nordic_c.Field {color: #8fbcbb}
+.nordic_c.Keyword {color: #d08770}
 .nordic_c.-operator {color: #c0c8d8}
 .nordic_c.Constant {color: #be9db8}
 .nordic_c.SignColumn {color: #3b4252; background-color: #242933}
 .nordic_c.-string-escape {color: #be9db8}
 .nordic_c.-_parent {}
 .nordic_c.Function {color: #88c0d0}
-.nordic_c.Variable {color: #c0c8d8}
-.nordic_c.Delimiter {color: #60728a; font-style: normal}
-.nordic_c.Keyword {color: #d08770}
 .nordic_c.String {color: #a3be8c}
+.nordic_c.Delimiter {color: #60728a; font-style: normal}
+.nordic_c.Variable {color: #c0c8d8}
+.nordic_c.Field {color: #8fbcbb}

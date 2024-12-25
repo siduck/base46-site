@@ -1,19 +1,19 @@
 .github_dark_default_haskell.boxbg {background-color: #0d1117; color: #e6edf3}
 .github_dark_default_haskell.-variable-parameter {color: #e6edf3}
-.github_dark_default_haskell.LineNr {color: #6e7681}
-.github_dark_default_haskell.Keyword {color: #ff7b72}
-.github_dark_default_haskell.-punctuation-bracket {color: #e6edf3}
-.github_dark_default_haskell.-module {color: #ff7b72}
 .github_dark_default_haskell.-variable-member {color: #79c0ff}
+.github_dark_default_haskell.Keyword {color: #ff7b72}
+.github_dark_default_haskell.-module {color: #ff7b72}
 .github_dark_default_haskell.-type {color: #ffa657}
-.github_dark_default_haskell.-spell {}
 .github_dark_default_haskell.-ibl-indent-char-1 {color: #484f58}
 .github_dark_default_haskell.Operator {color: #79c0ff}
-.github_dark_default_haskell.-ibl-whitespace-char-1 {color: #484f58}
+.github_dark_default_haskell.Special {color: #e6edf3}
+.github_dark_default_haskell.LineNr {color: #6e7681}
+.github_dark_default_haskell.SignColumn {color: #6e7681}
+.github_dark_default_haskell.-punctuation-bracket {color: #e6edf3}
 .github_dark_default_haskell.-constructor {color: #ffa657}
 .github_dark_default_haskell.Comment {color: #8b949e}
-.github_dark_default_haskell.SignColumn {color: #6e7681}
+.github_dark_default_haskell.-spell {}
 .github_dark_default_haskell.-variable {color: #e6edf3}
 .github_dark_default_haskell.Function {color: #d2a8ff}
 .github_dark_default_haskell.Number {color: #79c0ff}
-.github_dark_default_haskell.Special {color: #e6edf3}
+.github_dark_default_haskell.-ibl-whitespace-char-1 {color: #484f58}

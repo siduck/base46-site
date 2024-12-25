@@ -1,25 +1,18 @@
 .rose-pine_go.boxbg {background-color: #191724; color: #e0def4}
-<<<<<<< HEAD
-.rose-pine_go.LineNr {color: #6e6a86}
+.rose-pine_go.-function-method-call {color: #c4a7e7}
 .rose-pine_go.-property {color: #9ccfd8; font-style: normal}
-.rose-pine_go.-punctuation-bracket {color: #908caa}
+.rose-pine_go.-punctuation-delimiter {color: #908caa}
 .rose-pine_go.Keyword {color: #31748f}
 .rose-pine_go.SignColumn {color: #e0def4}
 .rose-pine_go.Label {color: #9ccfd8}
-.rose-pine_go.-variable-member {color: #9ccfd8}
+.rose-pine_go.-type {color: #9ccfd8}
 .rose-pine_go.-ibl-indent-char-1 {color: #26233a}
 .rose-pine_go.Operator {color: #908caa}
 .rose-pine_go.-ibl-whitespace-char-1 {color: #26233a}
-.rose-pine_go.-function {color: #ebbcba}
-.rose-pine_go.-type {color: #9ccfd8}
-.rose-pine_go.-function-builtin {color: #ebbcba; font-weight: bold}
-.rose-pine_go.-variable {color: #e0def4; font-style: normal}
-.rose-pine_go.-function-method-call {color: #c4a7e7}
-.rose-pine_go.Number {color: #f6c177}
-.rose-pine_go.-punctuation-delimiter {color: #908caa}
-=======
-.rose-pine_go.-ibl-whitespace-char-1 {color: #26233a}
 .rose-pine_go.LineNr {color: #6e6a86}
-.rose-pine_go.-ibl-indent-char-1 {color: #26233a}
-.rose-pine_go.SignColumn {color: #e0def4}
->>>>>>> 9625304 (add more themes)
+.rose-pine_go.-punctuation-bracket {color: #908caa}
+.rose-pine_go.-function-builtin {font-weight: bold; color: #ebbcba}
+.rose-pine_go.-variable {color: #e0def4; font-style: normal}
+.rose-pine_go.-variable-member {color: #9ccfd8}
+.rose-pine_go.Number {color: #f6c177}
+.rose-pine_go.-function {color: #ebbcba}

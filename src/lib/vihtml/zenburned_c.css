@@ -1,6 +1,6 @@
 .zenburned_c.boxbg {background-color: #404040; color: #f0e4cf}
 .zenburned_c.Identifier {color: #d5be95}
-.zenburned_c.Statement {color: #dca2a2; font-weight: bold}
+.zenburned_c.Statement {font-weight: bold; color: #dca2a2}
 .zenburned_c.Number {color: #baa681}
 .zenburned_c.Type {color: #a8a8a8}
 .zenburned_c.LineNr {color: #7f7f7f}
@@ -12,4 +12,4 @@
 .zenburned_c.-_parent {}
 .zenburned_c.Function {color: #f0e4cf}
 .zenburned_c.Delimiter {color: #939393}
-.zenburned_c.-constant {color: #d5be95; font-weight: bold}
+.zenburned_c.-constant {font-weight: bold; color: #d5be95}

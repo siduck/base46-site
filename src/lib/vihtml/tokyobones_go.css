@@ -1,4 +1,11 @@
-.tokyobones_go.boxbg {background-color: #d6d7dc; color: #333a57}
-.tokyobones_go.LineNr {color: #888b99}
-.tokyobones_go.-ibl-indent-char-1 {color: #c8c9ce}
-.tokyobones_go.NonText {color: #9b9da9}
+.tokyobones_go.boxbg {background-color: #1a1b26; color: #c0caf5}
+.tokyobones_go.Identifier {color: #98abef}
+.tokyobones_go.-ibl-indent-char-1 {color: #282935}
+.tokyobones_go.Number {color: #2bc4de}
+.tokyobones_go.Type {color: #9394aa}
+.tokyobones_go.LineNr {color: #5f617e}
+.tokyobones_go.NonText {color: #535570}
+.tokyobones_go.Delimiter {color: #787a94}
+.tokyobones_go.Function {color: #c0caf5}
+.tokyobones_go.Special {color: #7ba2f7}
+.tokyobones_go.Statement {font-weight: bold; color: #bb9bf7}

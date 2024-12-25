@@ -1,20 +1,20 @@
 .bamboo-multiplex_rust.boxbg {background-color: #232923; color: #ece1c0}
 .bamboo-multiplex_rust.-variable-parameter {color: #e07870; font-style: normal}
-.bamboo-multiplex_rust.LineNr {color: #5a5e5a}
+.bamboo-multiplex_rust.-variable-member {color: #68baae}
 .bamboo-multiplex_rust.Type {color: #ceba49}
 .bamboo-multiplex_rust.Keyword {color: #a09af8}
 .bamboo-multiplex_rust.Constant {color: #ef9946}
 .bamboo-multiplex_rust.-module {color: #88c1e9; font-style: normal}
 .bamboo-multiplex_rust.-comment {color: #dcbf84; font-style: normal}
 .bamboo-multiplex_rust.Delimiter {color: #818781}
-.bamboo-multiplex_rust.-spell {}
 .bamboo-multiplex_rust.-ibl-indent-char-1 {color: #5a5e5a}
 .bamboo-multiplex_rust.Operator {color: #bdb5e3}
 .bamboo-multiplex_rust.-ibl-whitespace-char-1 {color: #5a5e5a}
 .bamboo-multiplex_rust.Conditional {color: #a09af8; font-style: normal}
+.bamboo-multiplex_rust.LineNr {color: #5a5e5a}
 .bamboo-multiplex_rust.PreProc {color: #a09af8}
 .bamboo-multiplex_rust.SignColumn {color: #ece1c0}
-.bamboo-multiplex_rust.-variable-member {color: #68baae}
+.bamboo-multiplex_rust.-spell {}
 .bamboo-multiplex_rust.-variable {color: #ece1c0}
 .bamboo-multiplex_rust.Function {color: #409cdc}
 .bamboo-multiplex_rust.-variable-builtin {color: #dc4f62}

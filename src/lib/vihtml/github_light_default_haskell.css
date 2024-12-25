@@ -1,19 +1,19 @@
 .github_light_default_haskell.boxbg {background-color: #ffffff; color: #1f2328}
 .github_light_default_haskell.-variable-parameter {color: #1f2328}
-.github_light_default_haskell.LineNr {color: #6e7781}
-.github_light_default_haskell.Keyword {color: #cf222e}
-.github_light_default_haskell.-punctuation-bracket {color: #1f2328}
-.github_light_default_haskell.-module {color: #cf222e}
 .github_light_default_haskell.-variable-member {color: #0550ae}
+.github_light_default_haskell.Keyword {color: #cf222e}
+.github_light_default_haskell.-module {color: #cf222e}
 .github_light_default_haskell.-type {color: #953800}
-.github_light_default_haskell.-spell {}
 .github_light_default_haskell.-ibl-indent-char-1 {color: #e7eaf0}
 .github_light_default_haskell.Operator {color: #0550ae}
-.github_light_default_haskell.-ibl-whitespace-char-1 {color: #e7eaf0}
+.github_light_default_haskell.Special {color: #1f2328}
+.github_light_default_haskell.LineNr {color: #6e7781}
+.github_light_default_haskell.SignColumn {color: #57606a}
+.github_light_default_haskell.-punctuation-bracket {color: #1f2328}
 .github_light_default_haskell.-constructor {color: #953800}
 .github_light_default_haskell.Comment {color: #57606a}
-.github_light_default_haskell.SignColumn {color: #57606a}
+.github_light_default_haskell.-spell {}
 .github_light_default_haskell.-variable {color: #1f2328}
 .github_light_default_haskell.Function {color: #6639ba}
 .github_light_default_haskell.Number {color: #0550ae}
-.github_light_default_haskell.Special {color: #1f2328}
+.github_light_default_haskell.-ibl-whitespace-char-1 {color: #e7eaf0}

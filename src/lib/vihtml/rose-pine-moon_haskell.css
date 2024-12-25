@@ -1,41 +1,22 @@
 .rose-pine-moon_haskell.boxbg {background-color: #232136; color: #e0def4}
+.rose-pine-moon_haskell.-variable-parameter {color: #c4a7e7; font-style: normal}
+.rose-pine-moon_haskell.-variable-member {color: #9ccfd8}
+.rose-pine-moon_haskell.-keyword-directive {color: #c4a7e7}
+.rose-pine-moon_haskell.-punctuation-delimiter {color: #908caa}
+.rose-pine-moon_haskell.Keyword {color: #3e8fb0}
+.rose-pine-moon_haskell.-module {color: #e0def4}
+.rose-pine-moon_haskell.-type {color: #9ccfd8}
+.rose-pine-moon_haskell.-ibl-indent-char-1 {color: #393552}
+.rose-pine-moon_haskell.Operator {color: #908caa}
 .rose-pine-moon_haskell.-keyword-import {color: #3e8fb0}
 .rose-pine-moon_haskell.LineNr {color: #6e6a86}
-<<<<<<< HEAD
-.rose-pine-moon_haskell.-punctuation-bracket {color: #908caa}
-.rose-pine-moon_haskell.Keyword {color: #3e8fb0}
-.rose-pine-moon_haskell.-spell {}
-.rose-pine-moon_haskell.-keyword-import {color: #3e8fb0}
-.rose-pine-moon_haskell.-variable-member {color: #9ccfd8}
-=======
-.rose-pine-moon_haskell.Keyword {color: #3e8fb0}
-.rose-pine-moon_haskell.-punctuation-bracket {color: #908caa}
-.rose-pine-moon_haskell.-module {color: #e0def4}
-.rose-pine-moon_haskell.-variable-member {color: #9ccfd8}
-.rose-pine-moon_haskell.-type {color: #9ccfd8}
-.rose-pine-moon_haskell.-spell {}
-.rose-pine-moon_haskell.-keyword-directive {color: #c4a7e7}
-.rose-pine-moon_haskell.-punctuation-delimiter {color: #908caa}
->>>>>>> 9625304 (add more themes)
-.rose-pine-moon_haskell.-ibl-indent-char-1 {color: #393552}
-.rose-pine-moon_haskell.Number {color: #f6c177}
-.rose-pine-moon_haskell.-ibl-whitespace-char-1 {color: #393552}
 .rose-pine-moon_haskell.SignColumn {color: #e0def4}
-<<<<<<< HEAD
+.rose-pine-moon_haskell.-ibl-whitespace-char-1 {color: #393552}
 .rose-pine-moon_haskell.Character {color: #f6c177}
-.rose-pine-moon_haskell.-punctuation-delimiter {color: #908caa}
-.rose-pine-moon_haskell.-module {color: #e0def4}
 .rose-pine-moon_haskell.-constructor {color: #9ccfd8}
-.rose-pine-moon_haskell.Comment {color: #908caa; font-style: normal}
-.rose-pine-moon_haskell.-type {color: #9ccfd8}
+.rose-pine-moon_haskell.-punctuation-bracket {color: #908caa}
+.rose-pine-moon_haskell.Number {color: #f6c177}
 .rose-pine-moon_haskell.-variable {color: #e0def4; font-style: normal}
-.rose-pine-moon_haskell.-keyword-directive {color: #c4a7e7}
-=======
-.rose-pine-moon_haskell.-constructor {color: #9ccfd8}
 .rose-pine-moon_haskell.Comment {color: #908caa; font-style: normal}
-.rose-pine-moon_haskell.Character {color: #f6c177}
-.rose-pine-moon_haskell.-variable {color: #e0def4; font-style: normal}
-.rose-pine-moon_haskell.-variable-parameter {color: #c4a7e7; font-style: normal}
->>>>>>> 9625304 (add more themes)
-.rose-pine-moon_haskell.Operator {color: #908caa}
+.rose-pine-moon_haskell.-spell {}
 .rose-pine-moon_haskell.-function {color: #ea9a97}

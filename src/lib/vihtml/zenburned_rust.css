@@ -1,16 +1,16 @@
 .zenburned_rust.boxbg {background-color: #404040; color: #f0e4cf}
 .zenburned_rust.Identifier {color: #d5be95}
-.zenburned_rust.Statement {color: #dca2a2; font-weight: bold}
+.zenburned_rust.Statement {font-weight: bold; color: #dca2a2}
 .zenburned_rust.Number {color: #baa681}
 .zenburned_rust.Type {color: #a8a8a8}
 .zenburned_rust.LineNr {color: #7f7f7f}
 .zenburned_rust.NonText {color: #747474}
 .zenburned_rust.Constant {color: #baa681; font-style: normal}
-.zenburned_rust.-ibl-indent-char-1 {color: #4e4e4e}
+.zenburned_rust.-spell {}
 .zenburned_rust.PreProc {color: #ffcdab}
 .zenburned_rust.Comment {color: #848484; font-style: normal}
-.zenburned_rust.-constant {color: #d5be95; font-weight: bold}
-.zenburned_rust.Function {color: #f0e4cf}
-.zenburned_rust.Delimiter {color: #939393}
-.zenburned_rust.-spell {}
+.zenburned_rust.-ibl-indent-char-1 {color: #4e4e4e}
 .zenburned_rust.-odp {}
+.zenburned_rust.Delimiter {color: #939393}
+.zenburned_rust.Function {color: #f0e4cf}
+.zenburned_rust.-constant {font-weight: bold; color: #d5be95}

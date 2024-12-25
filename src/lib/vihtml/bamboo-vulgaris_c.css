@@ -1,22 +1,22 @@
 .bamboo-vulgaris_c.boxbg {background-color: #252623; color: #f1e9d2}
 .bamboo-vulgaris_c.-variable-parameter {color: #f08080; font-style: normal}
-.bamboo-vulgaris_c.LineNr {color: #5b5e5a}
+.bamboo-vulgaris_c.-variable-member {color: #70c2be}
+.bamboo-vulgaris_c.-keyword-directive-define {font-weight: bold; color: #aaaaff}
 .bamboo-vulgaris_c.Type {color: #dbb651}
 .bamboo-vulgaris_c.Keyword {color: #aaaaff}
 .bamboo-vulgaris_c.Constant {color: #ff9966}
 .bamboo-vulgaris_c.SignColumn {color: #f1e9d2}
-.bamboo-vulgaris_c.-variable-member {color: #70c2be}
-.bamboo-vulgaris_c.-function-macro {color: #df73ff}
 .bamboo-vulgaris_c.Delimiter {color: #838781}
 .bamboo-vulgaris_c.String {color: #8fb573}
-.bamboo-vulgaris_c.-keyword-directive-define {color: #aaaaff; font-weight: bold}
+.bamboo-vulgaris_c.-ibl-indent-char-1 {color: #5b5e5a}
 .bamboo-vulgaris_c.Operator {color: #c5c2ee}
 .bamboo-vulgaris_c.-ibl-whitespace-char-1 {color: #5b5e5a}
 .bamboo-vulgaris_c.-string-escape {color: #f08080}
+.bamboo-vulgaris_c.LineNr {color: #5b5e5a}
 .bamboo-vulgaris_c.PreProc {color: #aaaaff}
-.bamboo-vulgaris_c.-ibl-indent-char-1 {color: #5b5e5a}
-.bamboo-vulgaris_c.Function {color: #57a5e5}
+.bamboo-vulgaris_c.-function-macro {color: #df73ff}
+.bamboo-vulgaris_c.Macro {color: #df73ff}
 .bamboo-vulgaris_c.-variable {color: #f1e9d2}
 .bamboo-vulgaris_c.-_parent {}
-.bamboo-vulgaris_c.Macro {color: #df73ff}
+.bamboo-vulgaris_c.Function {color: #57a5e5}
 .bamboo-vulgaris_c.-keyword-modifier {color: #aaaaff; font-style: normal}

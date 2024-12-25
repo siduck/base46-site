@@ -2,7 +2,7 @@
 .nordbones_elixir.Identifier {color: #ebeef3}
 .nordbones_elixir.Statement {color: #81a1c1}
 .nordbones_elixir.Number {color: #8fbcba; font-style: normal}
-.nordbones_elixir.Special {color: #abbad0; font-weight: bold}
+.nordbones_elixir.Special {font-weight: bold; color: #abbad0}
 .nordbones_elixir.-ibl-scope-char-1 {color: #737c90; font-style: normal}
 .nordbones_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .nordbones_elixir.Constant {color: #9eafc9; font-style: normal}

@@ -1,0 +1,23 @@
+.bamboo_python.boxbg {background-color: #252623; color: #f1e9d2}
+.bamboo_python.-variable-parameter {color: #f08080; font-style: normal}
+.bamboo_python.-variable-member {color: #70c2be}
+.bamboo_python.Type {color: #dbb651}
+.bamboo_python.Keyword {color: #aaaaff}
+.bamboo_python.Constant {color: #ff9966}
+.bamboo_python.-module {color: #96c7ef; font-style: normal}
+.bamboo_python.Delimiter {color: #838781}
+.bamboo_python.String {color: #8fb573}
+.bamboo_python.-ibl-indent-char-1 {color: #5b5e5a}
+.bamboo_python.Operator {color: #c5c2ee}
+.bamboo_python.Special {color: #e75a7c}
+.bamboo_python.LineNr {color: #5b5e5a}
+.bamboo_python.SignColumn {color: #f1e9d2}
+.bamboo_python.-nowl {}
+.bamboo_python.-ibl-whitespace-char-1 {color: #5b5e5a}
+.bamboo_python.PreProc {color: #aaaaff}
+.bamboo_python.Conditional {color: #aaaaff; font-style: normal}
+.bamboo_python.-odp {}
+.bamboo_python.-variable {color: #f1e9d2}
+.bamboo_python.Function {color: #57a5e5}
+.bamboo_python.-variable-builtin {color: #e75a7c}
+.bamboo_python.-none {}

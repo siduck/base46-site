@@ -4,14 +4,14 @@
 .fluoromachine_haskell.-ibl-indent-char-1 {color: #57367c}
 .fluoromachine_haskell.LineNr {color: #57367c; background-color: #262335}
 .fluoromachine_haskell.Type {color: #af6df9}
-.fluoromachine_haskell.Keyword {color: #fc199a; font-weight: bold; background-color: #31233a}
-.fluoromachine_haskell.-punctuation-bracket {color: #af6df9}
-.fluoromachine_haskell.Constant {color: #af6df9; font-weight: bold; background-color: #2d273f}
-.fluoromachine_haskell.-module {color: #61e2ff}
-.fluoromachine_haskell.-variable-member {color: #61e2ff}
-.fluoromachine_haskell.Comment {color: #495495}
+.fluoromachine_haskell.Keyword {font-weight: bold; color: #fc199a; background-color: #31233a}
 .fluoromachine_haskell.SignColumn {background-color: #262335}
+.fluoromachine_haskell.Constant {font-weight: bold; color: #af6df9; background-color: #2d273f}
+.fluoromachine_haskell.-module {color: #61e2ff}
 .fluoromachine_haskell.-ibl-whitespace-char-1 {color: #495495}
+.fluoromachine_haskell.-punctuation-bracket {color: #af6df9}
+.fluoromachine_haskell.-variable-member {color: #61e2ff}
+.fluoromachine_haskell.Function {font-weight: bold; color: #ffcc00; background-color: #312b32}
 .fluoromachine_haskell.Delimiter {color: #fc199a}
+.fluoromachine_haskell.Comment {color: #495495}
 .fluoromachine_haskell.-spell {}
-.fluoromachine_haskell.Function {color: #ffcc00; font-weight: bold; background-color: #312b32}

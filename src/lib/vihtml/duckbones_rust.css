@@ -1,16 +1,16 @@
 .duckbones_rust.boxbg {background-color: #0e101a; color: #ebefc0}
 .duckbones_rust.Identifier {color: #c6caa1}
-.duckbones_rust.Statement {color: #795ccc; font-weight: bold}
+.duckbones_rust.Statement {font-weight: bold; color: #795ccc}
 .duckbones_rust.Number {color: #aeb18d}
 .duckbones_rust.Type {color: #898fb1}
 .duckbones_rust.LineNr {color: #51587a}
 .duckbones_rust.NonText {color: #484e6d}
 .duckbones_rust.Constant {color: #aeb18d; font-style: normal}
-.duckbones_rust.-ibl-indent-char-1 {color: #1f212d}
+.duckbones_rust.-spell {}
 .duckbones_rust.PreProc {color: #00a3cb}
 .duckbones_rust.Comment {color: #5a5f7b; font-style: normal}
-.duckbones_rust.-constant {color: #c6caa1; font-weight: bold}
-.duckbones_rust.Function {color: #ebefc0}
-.duckbones_rust.Delimiter {color: #6d759d}
-.duckbones_rust.-spell {}
+.duckbones_rust.-ibl-indent-char-1 {color: #1f212d}
 .duckbones_rust.-odp {}
+.duckbones_rust.Delimiter {color: #6d759d}
+.duckbones_rust.Function {color: #ebefc0}
+.duckbones_rust.-constant {font-weight: bold; color: #c6caa1}

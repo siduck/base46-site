@@ -1,15 +1,13 @@
 .material_c.boxbg {background-color: #25363b; color: #b0bec5}
 .material_c.Macro {color: #89ddff}
 .material_c.Identifier {color: #b0bec5}
-.material_c.-constant-macro {color: #89ddff}
+.material_c.-keyword-directive {color: #89ddff}
 .material_c.-property {color: #7c9ead}
 .material_c.-constant {color: #ffcb6b}
-.material_c.-punctuation-bracket {color: #89ddff}
 .material_c.SignColumn {color: #b0bec5}
 .material_c.-type-builtin {color: #c792ea}
 .material_c.-type-definition {}
-.material_c.-keyword-directive {color: #89ddff}
-.material_c.-punctuation-delimiter {color: #89ddff}
+.material_c.String {color: #c3e88d}
 .material_c.-keyword {color: #89ddff}
 .material_c.-ibl-indent-char-1 {color: #3e5f64}
 .material_c.Operator {color: #89ddff}
@@ -18,7 +16,9 @@
 .material_c.LineNr {color: #426367}
 .material_c.Number {color: #f78c6c}
 .material_c.Repeat {color: #c792ea}
-.material_c.String {color: #c3e88d}
-.material_c.-_parent {}
+.material_c.-punctuation-bracket {color: #89ddff}
+.material_c.-constant-macro {color: #89ddff}
 .material_c.Function {color: #82aaff}
+.material_c.-_parent {}
 .material_c.-type {color: #c792ea}
+.material_c.-punctuation-delimiter {color: #89ddff}

@@ -1,4 +1,11 @@
 .zenburned_go.boxbg {background-color: #404040; color: #f0e4cf}
-.zenburned_go.LineNr {color: #7f7f7f}
+.zenburned_go.Identifier {color: #d5be95}
 .zenburned_go.-ibl-indent-char-1 {color: #4e4e4e}
+.zenburned_go.Number {color: #baa681}
+.zenburned_go.Type {color: #a8a8a8}
+.zenburned_go.LineNr {color: #7f7f7f}
 .zenburned_go.NonText {color: #747474}
+.zenburned_go.Delimiter {color: #939393}
+.zenburned_go.Function {color: #f0e4cf}
+.zenburned_go.Special {color: #f0f08f}
+.zenburned_go.Statement {font-weight: bold; color: #dca2a2}

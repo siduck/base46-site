@@ -1,8 +1,8 @@
 .zenwritten_elixir.boxbg {background-color: #191919; color: #bbbbbb}
 .zenwritten_elixir.Identifier {color: #9e9e9e}
-.zenwritten_elixir.Statement {color: #bbbbbb; font-weight: bold}
+.zenwritten_elixir.Statement {font-weight: bold; color: #bbbbbb}
 .zenwritten_elixir.Number {color: #8b8b8b}
-.zenwritten_elixir.Special {color: #939393; font-weight: bold}
+.zenwritten_elixir.Special {font-weight: bold; color: #939393}
 .zenwritten_elixir.-ibl-scope-char-1 {color: #686868; font-style: normal}
 .zenwritten_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .zenwritten_elixir.Constant {color: #8b8b8b; font-style: normal}

@@ -1,24 +1,24 @@
 .github_light_tritanopia_rust.boxbg {background-color: #ffffff; color: #1b1f24}
 .github_light_tritanopia_rust.-variable-parameter {color: #1b1f24}
-.github_light_tritanopia_rust.-keyword-function {color: #cf222e}
+.github_light_tritanopia_rust.-variable-member {color: #0550ae}
 .github_light_tritanopia_rust.Keyword {color: #cf222e}
-.github_light_tritanopia_rust.-punctuation-bracket {color: #1b1f24}
 .github_light_tritanopia_rust.Constant {color: #0550ae}
-.github_light_tritanopia_rust.-module-rust {}
+.github_light_tritanopia_rust.-spell {}
 .github_light_tritanopia_rust.-type-builtin {color: #cf222e}
 .github_light_tritanopia_rust.-type {color: #a40e26}
-.github_light_tritanopia_rust.-spell {}
+.github_light_tritanopia_rust.-module-rust {}
+.github_light_tritanopia_rust.LineNr {color: #6e7781}
 .github_light_tritanopia_rust.-ibl-indent-char-1 {color: #eaeef2}
 .github_light_tritanopia_rust.Operator {color: #0550ae}
 .github_light_tritanopia_rust.Special {color: #1b1f24}
-.github_light_tritanopia_rust.LineNr {color: #6e7781}
+.github_light_tritanopia_rust.-keyword-operator {color: #cf222e}
 .github_light_tritanopia_rust.SignColumn {color: #57606a}
 .github_light_tritanopia_rust.-ibl-whitespace-char-1 {color: #eaeef2}
 .github_light_tritanopia_rust.-odp {}
 .github_light_tritanopia_rust.Number {color: #0550ae}
 .github_light_tritanopia_rust.Comment {color: #57606a}
-.github_light_tritanopia_rust.-variable-member {color: #0550ae}
+.github_light_tritanopia_rust.-punctuation-bracket {color: #1b1f24}
 .github_light_tritanopia_rust.-variable {color: #1b1f24}
 .github_light_tritanopia_rust.Function {color: #6639ba}
 .github_light_tritanopia_rust.-variable-builtin {color: #0550ae}
-.github_light_tritanopia_rust.-keyword-operator {color: #cf222e}
+.github_light_tritanopia_rust.-keyword-function {color: #cf222e}

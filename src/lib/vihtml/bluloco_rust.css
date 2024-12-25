@@ -1,23 +1,23 @@
 .bluloco_rust.boxbg {background-color: #282c34; color: #abb2bf}
+.bluloco_rust.-function-call {color: #3fc66c}
 .bluloco_rust.Identifier {color: #abb2bf}
 .bluloco_rust.Statement {color: #10b3fe}
-.bluloco_rust.Type {color: #ff6682}
-.bluloco_rust.-punctuation-bracket {color: #7c84da}
-.bluloco_rust.-function-call {color: #3fc66c}
-.bluloco_rust.-spell {}
-.bluloco_rust.-number {color: #ff7af8}
-.bluloco_rust.-punctuation-delimiter {color: #7c84da}
 .bluloco_rust.-namespace {color: #ff859d}
+.bluloco_rust.-punctuation-delimiter {color: #7c84da}
+.bluloco_rust.-spell {}
+.bluloco_rust.-comment {color: #636d83}
+.bluloco_rust.-number {color: #ff7af8}
 .bluloco_rust.-ibl-indent-char-1 {color: #3c495d}
 .bluloco_rust.Number {color: #ff7af8}
 .bluloco_rust.-ibl-whitespace-char-1 {color: #3c495d}
-.bluloco_rust.-operator {color: #7c84da}
 .bluloco_rust.LineNr {color: #636d83}
+.bluloco_rust.-operator {color: #7c84da}
 .bluloco_rust.Normal {color: #abb2bf; background-color: #282c34}
-.bluloco_rust.Property {color: #ce9888}
-.bluloco_rust.-parameter {color: #8acdef}
 .bluloco_rust.-odp {}
-.bluloco_rust.-comment {color: #636d83}
+.bluloco_rust.-parameter {color: #8acdef}
+.bluloco_rust.-punctuation-bracket {color: #7c84da}
 .bluloco_rust.-constant {color: #a081fe}
 .bluloco_rust.-type-builtin {color: #10b3fe}
+.bluloco_rust.Property {color: #ce9888}
+.bluloco_rust.Type {color: #ff6682}
 .bluloco_rust.-function {color: #3fc66c}

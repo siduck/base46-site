@@ -1,17 +1,17 @@
-.seoulbones_c.boxbg {background-color: #e2e2e2; color: #555555}
-.seoulbones_c.String {color: #4a7587; font-style: normal}
-.seoulbones_c.Identifier {color: #555555}
-.seoulbones_c.Statement {color: #0084a3; font-weight: bold}
-.seoulbones_c.Number {color: #896500}
-.seoulbones_c.Type {color: #6d4c52}
-.seoulbones_c.Keyword {color: #ca6284; font-weight: bold}
-.seoulbones_c.LineNr {color: #919191}
-.seoulbones_c.Constant {color: #7c7c7c; font-style: normal}
-.seoulbones_c.NonText {color: #a6a6a6}
-.seoulbones_c.PreProc {color: #be6a84}
-.seoulbones_c.-ibl-indent-char-1 {color: #d4d4d4}
-.seoulbones_c.Special {color: #755f74}
+.seoulbones_c.boxbg {background-color: #4b4b4b; color: #dddddd}
+.seoulbones_c.String {color: #abc4db; font-style: normal}
+.seoulbones_c.Identifier {color: #dddddd}
+.seoulbones_c.Statement {font-weight: bold; color: #97bdde}
+.seoulbones_c.Number {color: #f7e0b3}
+.seoulbones_c.Type {color: #aeaeae}
+.seoulbones_c.Keyword {font-weight: bold; color: #dc8ca3}
+.seoulbones_c.LineNr {color: #868686}
+.seoulbones_c.Constant {color: #a3a3a3; font-style: normal}
+.seoulbones_c.NonText {color: #7c7c7c}
+.seoulbones_c.PreProc {color: #d590a3}
+.seoulbones_c.-ibl-indent-char-1 {color: #575757}
+.seoulbones_c.Special {color: #bcbcd3}
 .seoulbones_c.-_parent {}
-.seoulbones_c.Delimiter {color: #7c7c7c}
-.seoulbones_c.Function {color: #6c6b20}
-.seoulbones_c.-constant {color: #6d6d6d; font-weight: bold}
+.seoulbones_c.Delimiter {color: #9b9b9b}
+.seoulbones_c.Function {color: #dfdfc1}
+.seoulbones_c.-constant {font-weight: bold; color: #bbbbbb}

@@ -1,19 +1,19 @@
 .nordic_rust.boxbg {background-color: #242933; color: #c0c8d8}
 .nordic_rust.Macro {color: #bf616a}
-.nordic_rust.LineNr {color: #3b4252}
+.nordic_rust.-odp {}
 .nordic_rust.Type {color: #ebcb8b}
 .nordic_rust.Keyword {color: #d08770}
 .nordic_rust.Constant {color: #be9db8}
 .nordic_rust.-module {color: #ebcb8b}
 .nordic_rust.Delimiter {color: #60728a; font-style: normal}
-.nordic_rust.-spell {}
+.nordic_rust.Field {color: #8fbcbb}
 .nordic_rust.-ibl-indent-char-1 {color: #4c566a}
 .nordic_rust.-ibl-whitespace-char-1 {color: #4c566a}
-.nordic_rust.Builtin {color: #5e81ac}
 .nordic_rust.-operator {color: #c0c8d8}
-.nordic_rust.Comment {color: #4c566a; font-style: normal}
+.nordic_rust.LineNr {color: #3b4252}
+.nordic_rust.Builtin {color: #5e81ac}
 .nordic_rust.SignColumn {color: #3b4252; background-color: #242933}
-.nordic_rust.Field {color: #8fbcbb}
-.nordic_rust.Function {color: #88c0d0}
 .nordic_rust.Variable {color: #c0c8d8}
-.nordic_rust.-odp {}
+.nordic_rust.Function {color: #88c0d0}
+.nordic_rust.Comment {color: #4c566a; font-style: normal}
+.nordic_rust.-spell {}

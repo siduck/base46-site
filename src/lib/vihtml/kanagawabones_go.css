@@ -1,4 +1,11 @@
 .kanagawabones_go.boxbg {background-color: #1f1f28; color: #ddd8bb}
-.kanagawabones_go.LineNr {color: #646476}
+.kanagawabones_go.Identifier {color: #bbb79e}
 .kanagawabones_go.-ibl-indent-char-1 {color: #2d2d37}
+.kanagawabones_go.Number {color: #a29e89}
+.kanagawabones_go.Type {color: #9797a5}
+.kanagawabones_go.LineNr {color: #646476}
 .kanagawabones_go.NonText {color: #58586a}
+.kanagawabones_go.Delimiter {color: #7d7d8d}
+.kanagawabones_go.Function {color: #ddd8bb}
+.kanagawabones_go.Special {font-weight: bold; color: #ada992}
+.kanagawabones_go.Statement {font-weight: bold; color: #ddd8bb}

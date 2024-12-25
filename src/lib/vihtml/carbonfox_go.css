@@ -1,21 +1,17 @@
 .carbonfox_go.boxbg {background-color: #161616; color: #f2f4f8}
-.carbonfox_go.-ibl-whitespace-char-1 {color: #353535}
 .carbonfox_go.LineNr {color: #7b7c7e}
+.carbonfox_go.-variable-member {color: #78a9ff}
 .carbonfox_go.-ibl-indent-char-1 {color: #353535}
-<<<<<<< HEAD
 .carbonfox_go.Operator {color: #b6b8bb}
 .carbonfox_go.Type {color: #08bdba}
 .carbonfox_go.Keyword {color: #be95ff}
 .carbonfox_go.-ibl-whitespace-char-1 {color: #353535}
 .carbonfox_go.Conditional {color: #c8a5ff}
 .carbonfox_go.SignColumn {color: #7b7c7e}
-.carbonfox_go.-property {color: #78a9ff}
+.carbonfox_go.Number {color: #3ddbd9}
+.carbonfox_go.-punctuation-bracket {color: #b6b8bb}
 .carbonfox_go.-function-builtin {color: #ee5396}
-.carbonfox_go.-variable-member {color: #78a9ff}
 .carbonfox_go.-variable {color: #dfdfe0}
 .carbonfox_go.Function {color: #8cb6ff}
-.carbonfox_go.-punctuation-bracket {color: #b6b8bb}
+.carbonfox_go.-property {color: #78a9ff}
 .carbonfox_go.-punctuation-delimiter {color: #b6b8bb}
-=======
-.carbonfox_go.SignColumn {color: #7b7c7e}
->>>>>>> 9625304 (add more themes)

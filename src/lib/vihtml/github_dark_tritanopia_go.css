@@ -1,5 +1,16 @@
 .github_dark_tritanopia_go.boxbg {background-color: #0d1117; color: #c9d1d9}
-.github_dark_tritanopia_go.-ibl-whitespace-char-1 {color: #484f58}
-.github_dark_tritanopia_go.LineNr {color: #6e7681}
+.github_dark_tritanopia_go.-tag {color: #a5d6ff}
+.github_dark_tritanopia_go.-variable-member {color: #79c0ff}
 .github_dark_tritanopia_go.-ibl-indent-char-1 {color: #484f58}
+.github_dark_tritanopia_go.Operator {color: #79c0ff}
+.github_dark_tritanopia_go.Special {color: #c9d1d9}
+.github_dark_tritanopia_go.Keyword {color: #ff7b72}
+.github_dark_tritanopia_go.LineNr {color: #6e7681}
 .github_dark_tritanopia_go.SignColumn {color: #6e7681}
+.github_dark_tritanopia_go.-ibl-whitespace-char-1 {color: #484f58}
+.github_dark_tritanopia_go.-punctuation-bracket {color: #c9d1d9}
+.github_dark_tritanopia_go.-type {color: #ffa198}
+.github_dark_tritanopia_go.-variable {color: #c9d1d9}
+.github_dark_tritanopia_go.Function {color: #d2a8ff}
+.github_dark_tritanopia_go.Number {color: #79c0ff}
+.github_dark_tritanopia_go.-function-builtin {}

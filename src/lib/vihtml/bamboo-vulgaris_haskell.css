@@ -1,20 +1,20 @@
 .bamboo-vulgaris_haskell.boxbg {background-color: #252623; color: #f1e9d2}
 .bamboo-vulgaris_haskell.-variable-parameter {color: #f08080; font-style: normal}
-.bamboo-vulgaris_haskell.LineNr {color: #5b5e5a}
+.bamboo-vulgaris_haskell.-variable-member {color: #70c2be}
 .bamboo-vulgaris_haskell.Type {color: #dbb651}
 .bamboo-vulgaris_haskell.Keyword {color: #aaaaff}
 .bamboo-vulgaris_haskell.Constant {color: #ff9966}
 .bamboo-vulgaris_haskell.-module {color: #96c7ef; font-style: normal}
-.bamboo-vulgaris_haskell.-variable-member {color: #70c2be}
+.bamboo-vulgaris_haskell.-comment {color: #e2c792; font-style: normal}
 .bamboo-vulgaris_haskell.Delimiter {color: #838781}
-.bamboo-vulgaris_haskell.-spell {}
 .bamboo-vulgaris_haskell.-ibl-indent-char-1 {color: #5b5e5a}
 .bamboo-vulgaris_haskell.Operator {color: #c5c2ee}
 .bamboo-vulgaris_haskell.Special {color: #e75a7c}
+.bamboo-vulgaris_haskell.LineNr {color: #5b5e5a}
 .bamboo-vulgaris_haskell.PreProc {color: #aaaaff}
 .bamboo-vulgaris_haskell.SignColumn {color: #f1e9d2}
 .bamboo-vulgaris_haskell.-ibl-whitespace-char-1 {color: #5b5e5a}
 .bamboo-vulgaris_haskell.-variable {color: #f1e9d2}
 .bamboo-vulgaris_haskell.Function {color: #57a5e5}
-.bamboo-vulgaris_haskell.-comment {color: #e2c792; font-style: normal}
-.bamboo-vulgaris_haskell.-constructor {color: #dbb651; font-weight: bold}
+.bamboo-vulgaris_haskell.-spell {}
+.bamboo-vulgaris_haskell.-constructor {font-weight: bold; color: #dbb651}

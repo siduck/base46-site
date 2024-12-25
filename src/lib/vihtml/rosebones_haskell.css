@@ -1,14 +1,14 @@
-.rosebones_haskell.boxbg {background-color: #fbf6f0; color: #724341}
-.rosebones_haskell.Identifier {color: #935855}
-.rosebones_haskell.Statement {color: #286a84}
-.rosebones_haskell.Number {color: #ab6763}
-.rosebones_haskell.Special {color: #5795a0}
-.rosebones_haskell.Constant {color: #ab6763; font-style: normal}
-.rosebones_haskell.LineNr {color: #b69a6e}
-.rosebones_haskell.NonText {color: #ceaf7e}
-.rosebones_haskell.Comment {color: #a18e72; font-style: normal}
-.rosebones_haskell.-ibl-indent-char-1 {color: #f0e3d4}
-.rosebones_haskell.Function {color: #724341}
-.rosebones_haskell.Delimiter {color: #9b835d}
+.rosebones_haskell.boxbg {background-color: #1a1825; color: #e1d4d4}
+.rosebones_haskell.Identifier {color: #cab0af}
+.rosebones_haskell.Statement {color: #317490}
+.rosebones_haskell.Number {color: #bc9493}
+.rosebones_haskell.Special {color: #9ccfd8}
+.rosebones_haskell.Constant {color: #bc9493; font-style: normal}
 .rosebones_haskell.-spell {}
-.rosebones_haskell.Type {color: #57527a}
+.rosebones_haskell.LineNr {color: #625d7f}
+.rosebones_haskell.Comment {color: #69657e; font-style: normal}
+.rosebones_haskell.NonText {color: #565172}
+.rosebones_haskell.-ibl-indent-char-1 {color: #282635}
+.rosebones_haskell.Delimiter {color: #7d7997}
+.rosebones_haskell.Function {color: #e1d4d4}
+.rosebones_haskell.Type {color: #dfdef1}

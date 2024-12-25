@@ -1,24 +1,24 @@
 .github_dark_default_rust.boxbg {background-color: #0d1117; color: #e6edf3}
 .github_dark_default_rust.-variable-parameter {color: #e6edf3}
-.github_dark_default_rust.-keyword-function {color: #ff7b72}
+.github_dark_default_rust.-variable-member {color: #79c0ff}
 .github_dark_default_rust.Keyword {color: #ff7b72}
-.github_dark_default_rust.-punctuation-bracket {color: #e6edf3}
 .github_dark_default_rust.Constant {color: #79c0ff}
-.github_dark_default_rust.-module-rust {}
+.github_dark_default_rust.-spell {}
 .github_dark_default_rust.-type-builtin {color: #ff7b72}
 .github_dark_default_rust.-type {color: #ffa657}
-.github_dark_default_rust.-spell {}
+.github_dark_default_rust.-module-rust {}
+.github_dark_default_rust.LineNr {color: #6e7681}
 .github_dark_default_rust.-ibl-indent-char-1 {color: #484f58}
 .github_dark_default_rust.Operator {color: #79c0ff}
 .github_dark_default_rust.Special {color: #e6edf3}
-.github_dark_default_rust.LineNr {color: #6e7681}
+.github_dark_default_rust.-keyword-operator {color: #ff7b72}
 .github_dark_default_rust.SignColumn {color: #6e7681}
 .github_dark_default_rust.-ibl-whitespace-char-1 {color: #484f58}
 .github_dark_default_rust.-odp {}
 .github_dark_default_rust.Number {color: #79c0ff}
 .github_dark_default_rust.Comment {color: #8b949e}
-.github_dark_default_rust.-variable-member {color: #79c0ff}
+.github_dark_default_rust.-punctuation-bracket {color: #e6edf3}
 .github_dark_default_rust.-variable {color: #e6edf3}
 .github_dark_default_rust.Function {color: #d2a8ff}
 .github_dark_default_rust.-variable-builtin {color: #79c0ff}
-.github_dark_default_rust.-keyword-operator {color: #ff7b72}
+.github_dark_default_rust.-keyword-function {color: #ff7b72}

@@ -1,40 +1,20 @@
 .tokyonight-storm_elixir.boxbg {background-color: #24283b; color: #c0caf5}
-<<<<<<< HEAD
 .tokyonight-storm_elixir.LineNr {color: #3b4261}
-.tokyonight-storm_elixir.-punctuation-bracket {color: #a9b1d6}
+.tokyonight-storm_elixir.-punctuation-delimiter {color: #89ddff}
 .tokyonight-storm_elixir.Constant {color: #ff9e64}
 .tokyonight-storm_elixir.SignColumn {color: #3b4261; background-color: #24283b}
-.tokyonight-storm_elixir.-keyword-function {color: #bb9af7}
 .tokyonight-storm_elixir.-punctuation-special {color: #89ddff}
 .tokyonight-storm_elixir.String {color: #9ece6a}
-=======
-.tokyonight-storm_elixir.-keyword-function {color: #bb9af7}
-.tokyonight-storm_elixir.-punctuation-bracket {color: #a9b1d6}
-.tokyonight-storm_elixir.Constant {color: #ff9e64}
-.tokyonight-storm_elixir.SignColumn {color: #3b4261; background-color: #24283b}
-.tokyonight-storm_elixir.-punctuation-special {color: #89ddff}
-.tokyonight-storm_elixir.-punctuation-delimiter {color: #89ddff}
->>>>>>> 9625304 (add more themes)
 .tokyonight-storm_elixir.-keyword {color: #9d7cd8; font-style: normal}
 .tokyonight-storm_elixir.-ibl-indent-char-1 {color: #3b4261}
+.tokyonight-storm_elixir.-keyword-function {color: #bb9af7}
 .tokyonight-storm_elixir.-ibl-whitespace-char-1 {color: #3b4261}
 .tokyonight-storm_elixir.-ibl-scope-char-1 {color: #565f89; font-style: normal}
+.tokyonight-storm_elixir.-operator {color: #89ddff}
+.tokyonight-storm_elixir.PreProc {color: #7dcfff}
+.tokyonight-storm_elixir.-punctuation-bracket {color: #a9b1d6}
+.tokyonight-storm_elixir.Special {color: #2ac3de}
+.tokyonight-storm_elixir.-variable {color: #c0caf5}
+.tokyonight-storm_elixir.Function {color: #7aa2f7}
+.tokyonight-storm_elixir.Comment {color: #565f89; font-style: normal}
 .tokyonight-storm_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-<<<<<<< HEAD
-.tokyonight-storm_elixir.PreProc {color: #7dcfff}
-.tokyonight-storm_elixir.Comment {color: #565f89; font-style: normal}
-.tokyonight-storm_elixir.Special {color: #2ac3de}
-.tokyonight-storm_elixir.-variable {color: #c0caf5}
-.tokyonight-storm_elixir.Function {color: #7aa2f7}
-.tokyonight-storm_elixir.-operator {color: #89ddff}
-.tokyonight-storm_elixir.-punctuation-delimiter {color: #89ddff}
-=======
-.tokyonight-storm_elixir.LineNr {color: #3b4261}
-.tokyonight-storm_elixir.PreProc {color: #7dcfff}
-.tokyonight-storm_elixir.Comment {color: #565f89; font-style: normal}
-.tokyonight-storm_elixir.-operator {color: #89ddff}
-.tokyonight-storm_elixir.-variable {color: #c0caf5}
-.tokyonight-storm_elixir.Function {color: #7aa2f7}
-.tokyonight-storm_elixir.String {color: #9ece6a}
-.tokyonight-storm_elixir.Special {color: #2ac3de}
->>>>>>> 9625304 (add more themes)

@@ -1,9 +1,9 @@
 .material-deep-ocean_elixir.boxbg {background-color: #0f111a; color: #a6accd}
 .material-deep-ocean_elixir.Identifier {color: #a6accd}
-.material-deep-ocean_elixir.-punctuation-bracket {color: #89ddff}
+.material-deep-ocean_elixir.-punctuation-delimiter {color: #89ddff}
 .material-deep-ocean_elixir.-module {color: #ffcb6b}
 .material-deep-ocean_elixir.-punctuation-special {color: #89ddff}
-.material-deep-ocean_elixir.-punctuation-delimiter {color: #89ddff}
+.material-deep-ocean_elixir.String {color: #c3e88d}
 .material-deep-ocean_elixir.-keyword {color: #89ddff}
 .material-deep-ocean_elixir.-ibl-indent-char-1 {color: #464b5d}
 .material-deep-ocean_elixir.Operator {color: #89ddff}
@@ -16,5 +16,5 @@
 .material-deep-ocean_elixir.SignColumn {color: #a6accd}
 .material-deep-ocean_elixir.Number {color: #f78c6c}
 .material-deep-ocean_elixir.Function {color: #82aaff}
-.material-deep-ocean_elixir.String {color: #c3e88d}
+.material-deep-ocean_elixir.-punctuation-bracket {color: #89ddff}
 .material-deep-ocean_elixir.-string-special {color: #717cb4}

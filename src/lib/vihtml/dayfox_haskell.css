@@ -1,42 +1,21 @@
 .dayfox_haskell.boxbg {background-color: #f6f2ee; color: #3d2b5a}
 .dayfox_haskell.-variable-parameter {color: #22676d}
-.dayfox_haskell.LineNr {color: #824d5b}
-<<<<<<< HEAD
-.dayfox_haskell.-punctuation-bracket {color: #643f61}
-=======
+.dayfox_haskell.-variable-member {color: #2848a9}
 .dayfox_haskell.Type {color: #ac5402}
->>>>>>> 9625304 (add more themes)
 .dayfox_haskell.Keyword {color: #6e33ce}
-.dayfox_haskell.-punctuation-bracket {color: #643f61}
-.dayfox_haskell.-module {color: #22676d}
-.dayfox_haskell.-variable-member {color: #2848a9}
 .dayfox_haskell.-spell {}
-<<<<<<< HEAD
-.dayfox_haskell.-variable-member {color: #2848a9}
-=======
-.dayfox_haskell.-punctuation-delimiter {color: #643f61}
->>>>>>> 9625304 (add more themes)
+.dayfox_haskell.LineNr {color: #824d5b}
 .dayfox_haskell.-ibl-indent-char-1 {color: #d3c7bb}
-.dayfox_haskell.Number {color: #955f61}
+.dayfox_haskell.Operator {color: #643f61}
 .dayfox_haskell.Special {color: #223d90}
 .dayfox_haskell.SignColumn {color: #824d5b}
-<<<<<<< HEAD
 .dayfox_haskell.-ibl-whitespace-char-1 {color: #d3c7bb}
-.dayfox_haskell.Operator {color: #643f61}
-.dayfox_haskell.Type {color: #ac5402}
-.dayfox_haskell.-constructor {color: #287980}
+.dayfox_haskell.-punctuation-delimiter {color: #643f61}
 .dayfox_haskell.Comment {color: #837a72}
 .dayfox_haskell.PreProc {color: #8b369a}
+.dayfox_haskell.-punctuation-bracket {color: #643f61}
+.dayfox_haskell.-constructor {color: #287980}
 .dayfox_haskell.-variable {color: #352c24}
 .dayfox_haskell.Function {color: #223d90}
 .dayfox_haskell.-module {color: #22676d}
-.dayfox_haskell.-punctuation-delimiter {color: #643f61}
-=======
-.dayfox_haskell.PreProc {color: #8b369a}
-.dayfox_haskell.Comment {color: #837a72}
-.dayfox_haskell.-ibl-whitespace-char-1 {color: #d3c7bb}
-.dayfox_haskell.-variable {color: #352c24}
-.dayfox_haskell.Function {color: #223d90}
-.dayfox_haskell.-constructor {color: #287980}
-.dayfox_haskell.Operator {color: #643f61}
->>>>>>> 9625304 (add more themes)
+.dayfox_haskell.Number {color: #955f61}

@@ -1,13 +1,13 @@
 .zenbones_c.boxbg {background-color: #1c1917; color: #b4bdc3}
 .zenbones_c.Identifier {color: #979fa4}
-.zenbones_c.Statement {color: #b4bdc3; font-weight: bold}
+.zenbones_c.Statement {font-weight: bold; color: #b4bdc3}
 .zenbones_c.Number {color: #868c91}
-.zenbones_c.-constant {color: #979fa4; font-weight: bold}
+.zenbones_c.-constant {font-weight: bold; color: #979fa4}
 .zenbones_c.Constant {color: #868c91; font-style: normal}
 .zenbones_c.LineNr {color: #685f5a}
 .zenbones_c.NonText {color: #5c534f}
 .zenbones_c.-ibl-indent-char-1 {color: #2b2725}
-.zenbones_c.Special {color: #8d9499; font-weight: bold}
+.zenbones_c.Special {font-weight: bold; color: #8d9499}
 .zenbones_c.Type {color: #a1938c}
 .zenbones_c.-_parent {}
 .zenbones_c.Delimiter {color: #867a74}

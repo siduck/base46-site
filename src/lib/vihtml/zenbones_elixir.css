@@ -1,8 +1,8 @@
 .zenbones_elixir.boxbg {background-color: #1c1917; color: #b4bdc3}
 .zenbones_elixir.Identifier {color: #979fa4}
-.zenbones_elixir.Statement {color: #b4bdc3; font-weight: bold}
+.zenbones_elixir.Statement {font-weight: bold; color: #b4bdc3}
 .zenbones_elixir.Number {color: #868c91}
-.zenbones_elixir.Special {color: #8d9499; font-weight: bold}
+.zenbones_elixir.Special {font-weight: bold; color: #8d9499}
 .zenbones_elixir.-ibl-scope-char-1 {color: #6e6763; font-style: normal}
 .zenbones_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .zenbones_elixir.Constant {color: #868c91; font-style: normal}

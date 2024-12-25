@@ -1,4 +1,11 @@
 .duckbones_go.boxbg {background-color: #0e101a; color: #ebefc0}
-.duckbones_go.LineNr {color: #51587a}
+.duckbones_go.Identifier {color: #c6caa1}
 .duckbones_go.-ibl-indent-char-1 {color: #1f212d}
+.duckbones_go.Number {color: #aeb18d}
+.duckbones_go.Type {color: #898fb1}
+.duckbones_go.LineNr {color: #51587a}
 .duckbones_go.NonText {color: #484e6d}
+.duckbones_go.Delimiter {color: #6d759d}
+.duckbones_go.Function {color: #ebefc0}
+.duckbones_go.Special {color: #5dcd97}
+.duckbones_go.Statement {font-weight: bold; color: #795ccc}

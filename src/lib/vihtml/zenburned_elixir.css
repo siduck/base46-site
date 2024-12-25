@@ -1,6 +1,6 @@
 .zenburned_elixir.boxbg {background-color: #404040; color: #f0e4cf}
 .zenburned_elixir.Identifier {color: #d5be95}
-.zenburned_elixir.Statement {color: #dca2a2; font-weight: bold}
+.zenburned_elixir.Statement {font-weight: bold; color: #dca2a2}
 .zenburned_elixir.Number {color: #baa681}
 .zenburned_elixir.Special {color: #f0f08f}
 .zenburned_elixir.-ibl-scope-char-1 {color: #848484; font-style: normal}

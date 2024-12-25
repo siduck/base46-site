@@ -1,5 +1,16 @@
 .github_light_high_contrast_go.boxbg {background-color: #ffffff; color: #010409}
-.github_light_high_contrast_go.-ibl-whitespace-char-1 {color: #e7ecf0}
-.github_light_high_contrast_go.LineNr {color: #66707b}
+.github_light_high_contrast_go.-tag {color: #024c1a}
+.github_light_high_contrast_go.-variable-member {color: #023b95}
 .github_light_high_contrast_go.-ibl-indent-char-1 {color: #e7ecf0}
+.github_light_high_contrast_go.Operator {color: #023b95}
+.github_light_high_contrast_go.Special {color: #010409}
+.github_light_high_contrast_go.Keyword {color: #a0111f}
+.github_light_high_contrast_go.LineNr {color: #66707b}
 .github_light_high_contrast_go.SignColumn {color: #4b535d}
+.github_light_high_contrast_go.-ibl-whitespace-char-1 {color: #e7ecf0}
+.github_light_high_contrast_go.-punctuation-bracket {color: #010409}
+.github_light_high_contrast_go.-type {color: #702c00}
+.github_light_high_contrast_go.-variable {color: #010409}
+.github_light_high_contrast_go.Function {color: #512598}
+.github_light_high_contrast_go.Number {color: #023b95}
+.github_light_high_contrast_go.-function-builtin {}

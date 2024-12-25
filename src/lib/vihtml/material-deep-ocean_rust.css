@@ -1,22 +1,22 @@
 .material-deep-ocean_rust.boxbg {background-color: #0f111a; color: #a6accd}
 .material-deep-ocean_rust.Macro {color: #89ddff}
 .material-deep-ocean_rust.Identifier {color: #a6accd}
-.material-deep-ocean_rust.-constant {color: #ffcb6b}
-.material-deep-ocean_rust.-punctuation-bracket {color: #89ddff}
-.material-deep-ocean_rust.-module {color: #ffcb6b}
-.material-deep-ocean_rust.-variable-member {color: #717cb4}
-.material-deep-ocean_rust.-type {color: #c792ea}
-.material-deep-ocean_rust.-spell {}
 .material-deep-ocean_rust.-punctuation-delimiter {color: #89ddff}
+.material-deep-ocean_rust.-spell {}
+.material-deep-ocean_rust.-type-builtin {color: #c792ea}
+.material-deep-ocean_rust.-type {color: #c792ea}
 .material-deep-ocean_rust.-keyword {color: #89ddff}
 .material-deep-ocean_rust.-ibl-indent-char-1 {color: #464b5d}
 .material-deep-ocean_rust.Number {color: #f78c6c}
 .material-deep-ocean_rust.-ibl-whitespace-char-1 {color: #464b5d}
-.material-deep-ocean_rust.Conditional {color: #c792ea}
 .material-deep-ocean_rust.LineNr {color: #3b3f51}
-.material-deep-ocean_rust.Comment {color: #464b5d}
 .material-deep-ocean_rust.SignColumn {color: #a6accd}
-.material-deep-ocean_rust.Operator {color: #89ddff}
-.material-deep-ocean_rust.Function {color: #82aaff}
-.material-deep-ocean_rust.-type-builtin {color: #c792ea}
+.material-deep-ocean_rust.Conditional {color: #c792ea}
 .material-deep-ocean_rust.-odp {}
+.material-deep-ocean_rust.Comment {color: #464b5d}
+.material-deep-ocean_rust.-punctuation-bracket {color: #89ddff}
+.material-deep-ocean_rust.-module {color: #ffcb6b}
+.material-deep-ocean_rust.-constant {color: #ffcb6b}
+.material-deep-ocean_rust.Function {color: #82aaff}
+.material-deep-ocean_rust.-variable-member {color: #717cb4}
+.material-deep-ocean_rust.Operator {color: #89ddff}

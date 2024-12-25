@@ -1,0 +1,19 @@
+.melange_python.boxbg {background-color: #292522; color: #ece1d7}
+.melange_python.Identifier {color: #ece1d7}
+.melange_python.Statement {color: #e49b5d}
+.melange_python.Type {color: #7b9695}
+.melange_python.-none {}
+.melange_python.Delimiter {color: #8b7449}
+.melange_python.String {color: #a3a9ce; font-style: normal}
+.melange_python.-ibl-indent-char-1 {color: #403a36}
+.melange_python.Operator {color: #d47766}
+.melange_python.Special {color: #ebc06d}
+.melange_python.-nowl {}
+.melange_python.-string-special-symbol {color: #ece1d7; font-style: normal}
+.melange_python.PreProc {color: #85b695}
+.melange_python.LineNr {color: #867462}
+.melange_python.IblIndent {color: #403a36}
+.melange_python.-punctuation-delimiter {color: #bd8183}
+.melange_python.Function {color: #ebc06d}
+.melange_python.-odp {}
+.melange_python.Number {color: #cf9bc2}

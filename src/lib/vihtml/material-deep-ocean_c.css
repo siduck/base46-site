@@ -1,15 +1,13 @@
 .material-deep-ocean_c.boxbg {background-color: #0f111a; color: #a6accd}
 .material-deep-ocean_c.Macro {color: #89ddff}
 .material-deep-ocean_c.Identifier {color: #a6accd}
-.material-deep-ocean_c.-constant-macro {color: #89ddff}
+.material-deep-ocean_c.-keyword-directive {color: #89ddff}
 .material-deep-ocean_c.-property {color: #717cb4}
 .material-deep-ocean_c.-constant {color: #ffcb6b}
-.material-deep-ocean_c.-punctuation-bracket {color: #89ddff}
 .material-deep-ocean_c.SignColumn {color: #a6accd}
 .material-deep-ocean_c.-type-builtin {color: #c792ea}
 .material-deep-ocean_c.-type-definition {}
-.material-deep-ocean_c.-keyword-directive {color: #89ddff}
-.material-deep-ocean_c.-punctuation-delimiter {color: #89ddff}
+.material-deep-ocean_c.String {color: #c3e88d}
 .material-deep-ocean_c.-keyword {color: #89ddff}
 .material-deep-ocean_c.-ibl-indent-char-1 {color: #464b5d}
 .material-deep-ocean_c.Operator {color: #89ddff}
@@ -18,7 +16,9 @@
 .material-deep-ocean_c.LineNr {color: #3b3f51}
 .material-deep-ocean_c.Number {color: #f78c6c}
 .material-deep-ocean_c.Repeat {color: #c792ea}
-.material-deep-ocean_c.String {color: #c3e88d}
-.material-deep-ocean_c.-_parent {}
+.material-deep-ocean_c.-punctuation-bracket {color: #89ddff}
+.material-deep-ocean_c.-constant-macro {color: #89ddff}
 .material-deep-ocean_c.Function {color: #82aaff}
+.material-deep-ocean_c.-_parent {}
 .material-deep-ocean_c.-type {color: #c792ea}
+.material-deep-ocean_c.-punctuation-delimiter {color: #89ddff}

@@ -1,5 +1,4 @@
 .melange_haskell.boxbg {background-color: #292522; color: #ece1d7}
-.melange_haskell.-punctuation-delimiter {color: #bd8183}
 .melange_haskell.Identifier {color: #ece1d7}
 .melange_haskell.Statement {color: #e49b5d}
 .melange_haskell.Operator {color: #d47766}
@@ -7,10 +6,11 @@
 .melange_haskell.LineNr {color: #867462}
 .melange_haskell.IblIndent {color: #403a36}
 .melange_haskell.-ibl-indent-char-1 {color: #403a36}
+.melange_haskell.-spell {}
 .melange_haskell.PreProc {color: #85b695}
 .melange_haskell.Comment {color: #c1a78e; font-style: normal}
 .melange_haskell.Number {color: #cf9bc2}
 .melange_haskell.Function {color: #ebc06d}
 .melange_haskell.Delimiter {color: #8b7449}
-.melange_haskell.-spell {}
 .melange_haskell.Special {color: #ebc06d}
+.melange_haskell.-punctuation-delimiter {color: #bd8183}

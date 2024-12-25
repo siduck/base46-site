@@ -1,4 +1,11 @@
-.randombones_go.boxbg {background-color: #f0f0ca; color: #353535}
-.randombones_go.LineNr {color: #9a9a81}
-.randombones_go.-ibl-indent-char-1 {color: #dfdfc2}
-.randombones_go.NonText {color: #b0b093}
+.randombones_go.boxbg {background-color: #1f1f28; color: #ddd8bb}
+.randombones_go.Identifier {color: #bbb79e}
+.randombones_go.-ibl-indent-char-1 {color: #2d2d37}
+.randombones_go.Number {color: #a29e89}
+.randombones_go.Type {color: #9797a5}
+.randombones_go.LineNr {color: #646476}
+.randombones_go.NonText {color: #58586a}
+.randombones_go.Delimiter {color: #7d7d8d}
+.randombones_go.Function {color: #ddd8bb}
+.randombones_go.Special {font-weight: bold; color: #ada992}
+.randombones_go.Statement {font-weight: bold; color: #ddd8bb}

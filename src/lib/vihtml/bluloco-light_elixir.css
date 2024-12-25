@@ -1,21 +1,21 @@
 .bluloco-light_elixir.boxbg {background-color: #fafafa; color: #383a42}
+.bluloco-light_elixir.-function-call {color: #239549}
 .bluloco-light_elixir.Identifier {color: #383a42}
 .bluloco-light_elixir.Statement {color: #0096db}
-.bluloco-light_elixir.-symbol {color: #8541f1}
-.bluloco-light_elixir.-punctuation-bracket {color: #7c84da}
+.bluloco-light_elixir.-namespace {color: #ee5874}
+.bluloco-light_elixir.-punctuation-delimiter {color: #7c84da}
 .bluloco-light_elixir.-comment {color: #a0a1a7}
 .bluloco-light_elixir.Character {color: #de631b}
 .bluloco-light_elixir.-number {color: #cd32c0}
-.bluloco-light_elixir.-punctuation-delimiter {color: #7c84da}
-.bluloco-light_elixir.-namespace {color: #ee5874}
+.bluloco-light_elixir.String {color: #c4a231}
 .bluloco-light_elixir.-ibl-indent-char-1 {color: #d2d8da}
 .bluloco-light_elixir.-ibl-whitespace-char-1 {color: #d2d8da}
 .bluloco-light_elixir.-ibl-scope-char-1 {color: #a0a1a7}
-.bluloco-light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-.bluloco-light_elixir.LineNr {color: #a0a1a7}
-.bluloco-light_elixir.Normal {color: #383a42; background-color: #fafafa}
-.bluloco-light_elixir.-function-call {color: #239549}
 .bluloco-light_elixir.-operator {color: #7c84da}
+.bluloco-light_elixir.LineNr {color: #a0a1a7}
+.bluloco-light_elixir.-punctuation-bracket {color: #7c84da}
+.bluloco-light_elixir.Normal {color: #383a42; background-color: #fafafa}
+.bluloco-light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.bluloco-light_elixir.-symbol {color: #8541f1}
 .bluloco-light_elixir.-punctuation-special {color: #7c84da}
-.bluloco-light_elixir.String {color: #c4a231}
 .bluloco-light_elixir.-function {color: #239549}

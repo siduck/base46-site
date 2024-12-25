@@ -1,5 +1,17 @@
 .poimandres_go.boxbg {background-color: #1b1e28; color: #e4f0fb}
-.poimandres_go.-ibl-whitespace-char-1 {color: #506477}
+.poimandres_go.-function-call {color: #a6accd}
 .poimandres_go.LineNr {color: #506477}
 .poimandres_go.-ibl-indent-char-1 {color: #506477}
+.poimandres_go.Operator {color: #add7ff}
+.poimandres_go.Type {color: #a6accd}
+.poimandres_go.Keyword {color: #91b4d5}
+.poimandres_go.Number {color: #5de4c7}
+.poimandres_go.-ibl-whitespace-char-1 {color: #506477}
 .poimandres_go.SignColumn {color: #e4f0fb}
+.poimandres_go.-property {color: #add7ff}
+.poimandres_go.-punctuation-bracket {color: #e4f0fb}
+.poimandres_go.-function-builtin {color: #add7ff}
+.poimandres_go.-label {color: #91b4d5}
+.poimandres_go.Function {color: #add7ff}
+.poimandres_go.-punctuation-delimiter {color: #91b4d5}
+.poimandres_go.-variable {color: #e4f0fb}

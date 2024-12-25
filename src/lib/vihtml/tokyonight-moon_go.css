@@ -1,24 +1,17 @@
 .tokyonight-moon_go.boxbg {background-color: #222436; color: #c8d3f5}
-<<<<<<< HEAD
 .tokyonight-moon_go.LineNr {color: #3b4261}
-.tokyonight-moon_go.-keyword {color: #fca7ea; font-style: normal}
+.tokyonight-moon_go.-variable-member {color: #4fd6be}
 .tokyonight-moon_go.-ibl-indent-char-1 {color: #3b4261}
 .tokyonight-moon_go.-property {color: #4fd6be}
-.tokyonight-moon_go.-punctuation-bracket {color: #828bb8}
+.tokyonight-moon_go.Type {color: #65bcff}
 .tokyonight-moon_go.-ibl-whitespace-char-1 {color: #3b4261}
 .tokyonight-moon_go.-operator {color: #89ddff}
 .tokyonight-moon_go.Constant {color: #ff966c}
 .tokyonight-moon_go.SignColumn {color: #3b4261; background-color: #222436}
 .tokyonight-moon_go.Special {color: #65bcff}
-.tokyonight-moon_go.Type {color: #65bcff}
-.tokyonight-moon_go.-variable-member {color: #4fd6be}
+.tokyonight-moon_go.-punctuation-bracket {color: #828bb8}
+.tokyonight-moon_go.-punctuation-delimiter {color: #89ddff}
 .tokyonight-moon_go.-label {color: #82aaff}
 .tokyonight-moon_go.Function {color: #82aaff}
 .tokyonight-moon_go.-variable {color: #c8d3f5}
-.tokyonight-moon_go.-punctuation-delimiter {color: #89ddff}
-=======
-.tokyonight-moon_go.-ibl-whitespace-char-1 {color: #3b4261}
-.tokyonight-moon_go.LineNr {color: #3b4261}
-.tokyonight-moon_go.-ibl-indent-char-1 {color: #3b4261}
-.tokyonight-moon_go.SignColumn {color: #3b4261; background-color: #222436}
->>>>>>> 9625304 (add more themes)
+.tokyonight-moon_go.-keyword {color: #fca7ea; font-style: normal}

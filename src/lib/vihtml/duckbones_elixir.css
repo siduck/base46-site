@@ -1,6 +1,6 @@
 .duckbones_elixir.boxbg {background-color: #0e101a; color: #ebefc0}
 .duckbones_elixir.Identifier {color: #c6caa1}
-.duckbones_elixir.Statement {color: #795ccc; font-weight: bold}
+.duckbones_elixir.Statement {font-weight: bold; color: #795ccc}
 .duckbones_elixir.Number {color: #aeb18d}
 .duckbones_elixir.Special {color: #5dcd97}
 .duckbones_elixir.-ibl-scope-char-1 {color: #5a5f7b; font-style: normal}

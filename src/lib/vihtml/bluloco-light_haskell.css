@@ -1,21 +1,21 @@
 .bluloco-light_haskell.boxbg {background-color: #fafafa; color: #383a42}
+.bluloco-light_haskell.-function-call {color: #239549}
 .bluloco-light_haskell.Identifier {color: #383a42}
 .bluloco-light_haskell.Statement {color: #0096db}
-.bluloco-light_haskell.Type {color: #d32752}
-.bluloco-light_haskell.-punctuation-bracket {color: #7c84da}
-.bluloco-light_haskell.-function-call {color: #239549}
-.bluloco-light_haskell.Character {color: #de631b}
-.bluloco-light_haskell.-spell {}
-.bluloco-light_haskell.-number {color: #cd32c0}
-.bluloco-light_haskell.-punctuation-delimiter {color: #7c84da}
 .bluloco-light_haskell.-namespace {color: #ee5874}
+.bluloco-light_haskell.Type {color: #d32752}
+.bluloco-light_haskell.-spell {}
+.bluloco-light_haskell.-comment {color: #a0a1a7}
+.bluloco-light_haskell.Character {color: #de631b}
+.bluloco-light_haskell.-number {color: #cd32c0}
 .bluloco-light_haskell.-ibl-indent-char-1 {color: #d2d8da}
 .bluloco-light_haskell.-ibl-whitespace-char-1 {color: #d2d8da}
 .bluloco-light_haskell.-operator {color: #7c84da}
-.bluloco-light_haskell.Property {color: #9e5947}
-.bluloco-light_haskell.-parameter {color: #40b7c4}
 .bluloco-light_haskell.LineNr {color: #a0a1a7}
-.bluloco-light_haskell.Normal {color: #383a42; background-color: #fafafa}
-.bluloco-light_haskell.-comment {color: #a0a1a7}
 .bluloco-light_haskell.-constructor {color: #d32752}
+.bluloco-light_haskell.-punctuation-bracket {color: #7c84da}
+.bluloco-light_haskell.Normal {color: #383a42; background-color: #fafafa}
+.bluloco-light_haskell.-parameter {color: #40b7c4}
+.bluloco-light_haskell.Property {color: #9e5947}
+.bluloco-light_haskell.-punctuation-delimiter {color: #7c84da}
 .bluloco-light_haskell.-function {color: #239549}

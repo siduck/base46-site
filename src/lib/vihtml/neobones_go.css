@@ -1,4 +1,11 @@
 .neobones_go.boxbg {background-color: #0f191f; color: #c6d5cf}
-.neobones_go.LineNr {color: #466273}
+.neobones_go.Identifier {color: #a7b3ae}
 .neobones_go.-ibl-indent-char-1 {color: #1d272e}
+.neobones_go.Number {color: #939e99}
+.neobones_go.Type {color: #6e99b2}
+.neobones_go.LineNr {color: #466273}
 .neobones_go.NonText {color: #3e5868}
+.neobones_go.Delimiter {color: #5b7e94}
+.neobones_go.Function {color: #c6d5cf}
+.neobones_go.Special {font-weight: bold; color: #9aa6a1}
+.neobones_go.Statement {font-weight: bold; color: #c6d5cf}

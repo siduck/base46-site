@@ -1,9 +1,9 @@
 .material_elixir.boxbg {background-color: #25363b; color: #b0bec5}
 .material_elixir.Identifier {color: #b0bec5}
-.material_elixir.-punctuation-bracket {color: #89ddff}
+.material_elixir.-punctuation-delimiter {color: #89ddff}
 .material_elixir.-module {color: #ffcb6b}
 .material_elixir.-punctuation-special {color: #89ddff}
-.material_elixir.-punctuation-delimiter {color: #89ddff}
+.material_elixir.String {color: #c3e88d}
 .material_elixir.-keyword {color: #89ddff}
 .material_elixir.-ibl-indent-char-1 {color: #3e5f64}
 .material_elixir.Operator {color: #89ddff}
@@ -16,5 +16,5 @@
 .material_elixir.SignColumn {color: #b0bec5}
 .material_elixir.Number {color: #f78c6c}
 .material_elixir.Function {color: #82aaff}
-.material_elixir.String {color: #c3e88d}
+.material_elixir.-punctuation-bracket {color: #89ddff}
 .material_elixir.-string-special {color: #7c9ead}

@@ -1,20 +1,20 @@
 .github_dark_c.boxbg {background-color: #30363d; color: #e6edf3}
 .github_dark_c.-variable-parameter {color: #e6edf3}
-.github_dark_c.LineNr {color: #6e7681}
+.github_dark_c.-variable-member {color: #79c0ff}
 .github_dark_c.Type {color: #ffa657}
 .github_dark_c.Keyword {color: #ff7b72}
-.github_dark_c.-punctuation-bracket {color: #e6edf3}
 .github_dark_c.Constant {color: #79c0ff}
 .github_dark_c.SignColumn {color: #6e7681}
-.github_dark_c.-variable-member {color: #79c0ff}
+.github_dark_c.-type-builtin {color: #ff7b72}
 .github_dark_c.String {color: #a5d6ff}
 .github_dark_c.-ibl-indent-char-1 {color: #484f58}
 .github_dark_c.Number {color: #79c0ff}
 .github_dark_c.Special {color: #e6edf3}
-.github_dark_c.-string-escape {color: #a5d6ff; font-weight: bold}
+.github_dark_c.-string-escape {font-weight: bold; color: #a5d6ff}
+.github_dark_c.LineNr {color: #6e7681}
 .github_dark_c.-ibl-whitespace-char-1 {color: #484f58}
 .github_dark_c.PreProc {color: #ff7b72}
-.github_dark_c.-type-builtin {color: #ff7b72}
+.github_dark_c.-punctuation-bracket {color: #e6edf3}
 .github_dark_c.Function {color: #d2a8ff}
 .github_dark_c.-variable {color: #e6edf3}
 .github_dark_c.-_parent {}

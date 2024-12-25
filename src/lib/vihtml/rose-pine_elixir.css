@@ -1,27 +1,19 @@
 .rose-pine_elixir.boxbg {background-color: #191724; color: #e0def4}
 .rose-pine_elixir.Identifier {color: #e0def4}
-<<<<<<< HEAD
-.rose-pine_elixir.-punctuation-bracket {color: #908caa}
-=======
->>>>>>> 9625304 (add more themes)
+.rose-pine_elixir.-punctuation-delimiter {color: #908caa}
 .rose-pine_elixir.Keyword {color: #31748f}
-.rose-pine_elixir.-punctuation-bracket {color: #908caa}
 .rose-pine_elixir.-module {color: #e0def4}
 .rose-pine_elixir.-punctuation-special {color: #908caa}
-.rose-pine_elixir.-punctuation-delimiter {color: #908caa}
+.rose-pine_elixir.String {color: #f6c177}
 .rose-pine_elixir.-ibl-indent-char-1 {color: #26233a}
 .rose-pine_elixir.Operator {color: #908caa}
 .rose-pine_elixir.-ibl-whitespace-char-1 {color: #26233a}
 .rose-pine_elixir.-ibl-scope-char-1 {color: #908caa; font-style: normal}
 .rose-pine_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .rose-pine_elixir.LineNr {color: #6e6a86}
-.rose-pine_elixir.Comment {color: #908caa; font-style: normal}
+.rose-pine_elixir.-punctuation-bracket {color: #908caa}
 .rose-pine_elixir.SignColumn {color: #e0def4}
 .rose-pine_elixir.-variable {color: #e0def4; font-style: normal}
-<<<<<<< HEAD
-.rose-pine_elixir.-punctuation-delimiter {color: #908caa}
-=======
-.rose-pine_elixir.String {color: #f6c177}
->>>>>>> 9625304 (add more themes)
+.rose-pine_elixir.Comment {color: #908caa; font-style: normal}
 .rose-pine_elixir.Number {color: #f6c177}
 .rose-pine_elixir.-function {color: #ebbcba}

@@ -1,14 +1,14 @@
 .zenwritten_haskell.boxbg {background-color: #191919; color: #bbbbbb}
 .zenwritten_haskell.Identifier {color: #9e9e9e}
-.zenwritten_haskell.Statement {color: #bbbbbb; font-weight: bold}
+.zenwritten_haskell.Statement {font-weight: bold; color: #bbbbbb}
 .zenwritten_haskell.Number {color: #8b8b8b}
-.zenwritten_haskell.Special {color: #939393; font-weight: bold}
+.zenwritten_haskell.Special {font-weight: bold; color: #939393}
 .zenwritten_haskell.Constant {color: #8b8b8b; font-style: normal}
-.zenwritten_haskell.LineNr {color: #616161}
-.zenwritten_haskell.NonText {color: #555555}
-.zenwritten_haskell.Comment {color: #686868; font-style: normal}
-.zenwritten_haskell.-ibl-indent-char-1 {color: #282828}
-.zenwritten_haskell.Function {color: #bbbbbb}
-.zenwritten_haskell.Delimiter {color: #7c7c7c}
 .zenwritten_haskell.-spell {}
+.zenwritten_haskell.LineNr {color: #616161}
+.zenwritten_haskell.Comment {color: #686868; font-style: normal}
+.zenwritten_haskell.NonText {color: #555555}
+.zenwritten_haskell.-ibl-indent-char-1 {color: #282828}
+.zenwritten_haskell.Delimiter {color: #7c7c7c}
+.zenwritten_haskell.Function {color: #bbbbbb}
 .zenwritten_haskell.Type {color: #969696}

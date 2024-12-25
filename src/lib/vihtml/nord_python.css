@@ -1,0 +1,22 @@
+.nord_python.boxbg {background-color: #2e3440; color: #d8dee9}
+.nord_python.-odp {}
+.nord_python.-punctuation-delimiter {color: #88c0d0}
+.nord_python.-none {}
+.nord_python.SignColumn {color: #d8dee9; background-color: #2e3440}
+.nord_python.-punctuation-special {color: #88c0d0}
+.nord_python.-string {color: #a3be8c; font-style: normal}
+.nord_python.Structure {color: #81a1c1}
+.nord_python.-keyword {color: #81a1c1; font-style: normal}
+.nord_python.NonText {color: #3b4252}
+.nord_python.-keyword-function {color: #88c0d0; font-style: normal}
+.nord_python.-keyword-operator {color: #88c0d0; font-style: normal}
+.nord_python.-operator {color: #81a1c1}
+.nord_python.-nowl {}
+.nord_python.LineNr {color: #616e88}
+.nord_python.-keyword-return {color: #88c0d0; font-style: normal}
+.nord_python.-punctuation-bracket {color: #88c0d0}
+.nord_python.-boolean {font-weight: bold; color: #81a1c1}
+.nord_python.-variable {font-weight: bold; color: #d8dee9}
+.nord_python.-type {color: #81a1c1}
+.nord_python.-variable-builtin {font-weight: bold; color: #d8dee9}
+.nord_python.-function {color: #88c0d0; font-style: normal}

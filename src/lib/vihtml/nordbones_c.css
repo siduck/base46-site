@@ -2,12 +2,12 @@
 .nordbones_c.Identifier {color: #ebeef3}
 .nordbones_c.Statement {color: #81a1c1}
 .nordbones_c.Number {color: #8fbcba; font-style: normal}
-.nordbones_c.-constant {color: #bfcadb; font-weight: bold}
+.nordbones_c.-constant {font-weight: bold; color: #bfcadb}
 .nordbones_c.Constant {color: #9eafc9; font-style: normal}
 .nordbones_c.LineNr {color: #69758c}
 .nordbones_c.NonText {color: #606b81}
 .nordbones_c.-ibl-indent-char-1 {color: #3d424e}
-.nordbones_c.Special {color: #abbad0; font-weight: bold}
+.nordbones_c.Special {font-weight: bold; color: #abbad0}
 .nordbones_c.Type {color: #5e81ab}
 .nordbones_c.-_parent {}
 .nordbones_c.Delimiter {color: #818eab}

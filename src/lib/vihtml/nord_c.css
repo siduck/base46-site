@@ -1,22 +1,22 @@
 .nord_c.boxbg {background-color: #2e3440; color: #d8dee9}
 .nord_c.Macro {color: #81a1c1}
 .nord_c.LineNr {color: #616e88}
-.nord_c.-constant-macro {color: #8fbcbb; font-weight: bold}
+.nord_c.-constant-macro {font-weight: bold; color: #8fbcbb}
 .nord_c.-property {color: #5e81ac; font-style: normal}
 .nord_c.-constant {color: #ebcb8b}
-.nord_c.-punctuation-bracket {color: #88c0d0}
+.nord_c.-keyword-return {color: #88c0d0; font-style: normal}
 .nord_c.SignColumn {color: #d8dee9; background-color: #2e3440}
 .nord_c.-type-builtin {color: #81a1c1}
 .nord_c.-type {color: #81a1c1}
 .nord_c.Typedef {color: #81a1c1}
 .nord_c.-string {color: #a3be8c; font-style: normal}
 .nord_c.-number {color: #b48ead}
-.nord_c.-punctuation-delimiter {color: #88c0d0}
 .nord_c.-keyword {color: #81a1c1; font-style: normal}
 .nord_c.NonText {color: #3b4252}
-.nord_c.-keyword-return {color: #88c0d0; font-style: normal}
 .nord_c.-operator {color: #81a1c1}
-.nord_c.-variable {color: #d8dee9; font-weight: bold}
-.nord_c.-_parent {}
+.nord_c.-punctuation-bracket {color: #88c0d0}
 .nord_c.-string-escape {color: #b48ead; font-style: normal}
+.nord_c.-variable {font-weight: bold; color: #d8dee9}
+.nord_c.-_parent {}
+.nord_c.-punctuation-delimiter {color: #88c0d0}
 .nord_c.-function {color: #88c0d0; font-style: normal}

@@ -3,7 +3,7 @@
 .miasma_c.Identifier {color: #d7c483}
 .miasma_c.-ibl-indent-char-1 {color: #242d1d}
 .miasma_c.Number {color: #78824b}
-.miasma_c.Type {color: #78834b; font-weight: bold}
+.miasma_c.Type {font-weight: bold; color: #78834b}
 .miasma_c.Keyword {color: #5f875f}
 .miasma_c.Constant {color: #bb7744}
 .miasma_c.SignColumn {color: #666666; background-color: #1c1c1c}

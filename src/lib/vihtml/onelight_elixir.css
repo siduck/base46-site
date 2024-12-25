@@ -1,25 +1,21 @@
 .onelight_elixir.boxbg {background-color: #fafafa; color: #6a6a6a}
-.onelight_elixir.-keyword-function {color: #9a77cf}
+.onelight_elixir.LineNr {color: #cccccc; background-color: #fafafa}
 .onelight_elixir.Keyword {color: #9a77cf}
-.onelight_elixir.-punctuation-bracket {color: #9a77cf}
 .onelight_elixir.-module {color: #eea825}
-.onelight_elixir.-keyword-function {color: #9a77cf}
 .onelight_elixir.-punctuation-special {color: #6a6a6a}
 .onelight_elixir.Delimiter {color: #6a6a6a}
 .onelight_elixir.-string {color: #1da912}
-.onelight_elixir.Number {color: #ee9025}
+.onelight_elixir.SignColumn {background-color: #fafafa}
+.onelight_elixir.-keyword-function {color: #9a77cf}
 .onelight_elixir.Special {color: #118dc3}
 .onelight_elixir.-ibl-scope-char-1 {color: #9b9fa6}
 .onelight_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-<<<<<<< HEAD
-=======
-.onelight_elixir.LineNr {color: #cccccc; background-color: #fafafa}
->>>>>>> 9625304 (add more themes)
-.onelight_elixir.-string-special-symbol {color: #e05661}
-.onelight_elixir.SignColumn {background-color: #fafafa}
-.onelight_elixir.Comment {color: #9b9fa6}
 .onelight_elixir.IndentLine {color: #e7e7e7}
-.onelight_elixir.-variable {color: #e05661}
+.onelight_elixir.-string-special-symbol {color: #e05661}
 .onelight_elixir.-ibl-whitespace-char-1 {color: #bebebe}
+.onelight_elixir.Comment {color: #9b9fa6}
 .onelight_elixir.-operator {color: #56b6c2}
+.onelight_elixir.-variable {color: #e05661}
+.onelight_elixir.-punctuation-bracket {color: #9a77cf}
+.onelight_elixir.Number {color: #ee9025}
 .onelight_elixir.-function {color: #118dc3}

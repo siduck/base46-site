@@ -1,13 +1,8 @@
 <script lang="ts">
-  import themelist from "../data.json";
   import ThemeCard from "$lib/components/themecard.svelte";
   import Navbar from "$lib/components/navbar.svelte";
-
-  type ThemeData = {
-    name: string;
-    variants: string[];
-    components: Promise<any>[];
-  };
+  import { store } from "$lib/store.svelte";
+  import type { ThemeData } from "$lib/types";
 
   let languages = ["rust", "elixir", "go", "python", "c", "haskell"];
   let cur_lang = $state("rust");
@@ -21,6 +16,8 @@
     python: "i-lineicons:python",
   };
 
+  store.items = store.data.slice(0, 5);
+
   let themes: ThemeData[] = $state([]);
 
   const getComponent = async (theme: string) => {
@@ -30,7 +27,7 @@
   };
 
   $effect(() => {
-    themes = themelist.map((theme) => {
+    themes = store.items.map((theme) => {
       return {
         name: theme.name,
         variants: theme.variants,

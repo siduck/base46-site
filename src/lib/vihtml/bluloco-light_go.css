@@ -1,5 +1,17 @@
 .bluloco-light_go.boxbg {background-color: #fafafa; color: #383a42}
-.bluloco-light_go.-ibl-whitespace-char-1 {color: #d2d8da}
+.bluloco-light_go.-function-call {color: #239549}
+.bluloco-light_go.Identifier {color: #383a42}
+.bluloco-light_go.Statement {color: #0096db}
 .bluloco-light_go.LineNr {color: #a0a1a7}
-.bluloco-light_go.-ibl-indent-char-1 {color: #d2d8da}
+.bluloco-light_go.Type {color: #d32752}
 .bluloco-light_go.Normal {color: #383a42; background-color: #fafafa}
+.bluloco-light_go.-operator {color: #7c84da}
+.bluloco-light_go.-ibl-whitespace-char-1 {color: #d2d8da}
+.bluloco-light_go.-ibl-indent-char-1 {color: #d2d8da}
+.bluloco-light_go.-punctuation-delimiter {color: #7c84da}
+.bluloco-light_go.-punctuation-bracket {color: #7c84da}
+.bluloco-light_go.-function-builtin {color: #239549}
+.bluloco-light_go.-label {color: #047486}
+.bluloco-light_go.Property {color: #9e5947}
+.bluloco-light_go.-method {color: #239549}
+.bluloco-light_go.-number {color: #cd32c0}

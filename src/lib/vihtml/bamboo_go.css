@@ -1,5 +1,15 @@
 .bamboo_go.boxbg {background-color: #252623; color: #f1e9d2}
-.bamboo_go.-ibl-whitespace-char-1 {color: #5b5e5a}
-.bamboo_go.LineNr {color: #5b5e5a}
+.bamboo_go.-variable-member {color: #70c2be}
 .bamboo_go.-ibl-indent-char-1 {color: #5b5e5a}
+.bamboo_go.Operator {color: #c5c2ee}
+.bamboo_go.Type {color: #dbb651}
+.bamboo_go.Keyword {color: #aaaaff}
+.bamboo_go.Constant {color: #ff9966}
 .bamboo_go.SignColumn {color: #f1e9d2}
+.bamboo_go.Label {font-weight: bold; color: #e75a7c}
+.bamboo_go.LineNr {color: #5b5e5a}
+.bamboo_go.-function-builtin {color: #ff9966}
+.bamboo_go.-variable {color: #f1e9d2}
+.bamboo_go.Function {color: #57a5e5}
+.bamboo_go.-ibl-whitespace-char-1 {color: #5b5e5a}
+.bamboo_go.Delimiter {color: #838781}

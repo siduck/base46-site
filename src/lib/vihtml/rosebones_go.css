@@ -1,4 +1,11 @@
-.rosebones_go.boxbg {background-color: #fbf6f0; color: #724341}
-.rosebones_go.LineNr {color: #b69a6e}
-.rosebones_go.-ibl-indent-char-1 {color: #f0e3d4}
-.rosebones_go.NonText {color: #ceaf7e}
+.rosebones_go.boxbg {background-color: #1a1825; color: #e1d4d4}
+.rosebones_go.Identifier {color: #cab0af}
+.rosebones_go.-ibl-indent-char-1 {color: #282635}
+.rosebones_go.Number {color: #bc9493}
+.rosebones_go.Type {color: #dfdef1}
+.rosebones_go.LineNr {color: #625d7f}
+.rosebones_go.NonText {color: #565172}
+.rosebones_go.Delimiter {color: #7d7997}
+.rosebones_go.Function {color: #e1d4d4}
+.rosebones_go.Special {color: #9ccfd8}
+.rosebones_go.Statement {color: #317490}

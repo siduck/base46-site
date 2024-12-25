@@ -1,15 +1,15 @@
 .duckbones_haskell.boxbg {background-color: #0e101a; color: #ebefc0}
 .duckbones_haskell.Identifier {color: #c6caa1}
-.duckbones_haskell.Statement {color: #795ccc; font-weight: bold}
+.duckbones_haskell.Statement {font-weight: bold; color: #795ccc}
 .duckbones_haskell.Number {color: #aeb18d}
 .duckbones_haskell.Type {color: #898fb1}
 .duckbones_haskell.LineNr {color: #51587a}
 .duckbones_haskell.Constant {color: #aeb18d; font-style: normal}
-.duckbones_haskell.NonText {color: #484e6d}
+.duckbones_haskell.-spell {}
 .duckbones_haskell.PreProc {color: #00a3cb}
 .duckbones_haskell.Comment {color: #5a5f7b; font-style: normal}
+.duckbones_haskell.NonText {color: #484e6d}
 .duckbones_haskell.-ibl-indent-char-1 {color: #1f212d}
-.duckbones_haskell.Function {color: #ebefc0}
 .duckbones_haskell.Delimiter {color: #6d759d}
-.duckbones_haskell.-spell {}
+.duckbones_haskell.Function {color: #ebefc0}
 .duckbones_haskell.Special {color: #5dcd97}

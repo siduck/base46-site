@@ -1,37 +1,20 @@
 .onelight_haskell.boxbg {background-color: #fafafa; color: #6a6a6a}
 .onelight_haskell.-variable-parameter {color: #e05661}
-.onelight_haskell.LineNr {color: #cccccc; background-color: #fafafa}
+.onelight_haskell.-variable-member {color: #e05661}
 .onelight_haskell.Type {color: #eea825}
 .onelight_haskell.Keyword {color: #9a77cf}
-<<<<<<< HEAD
 .onelight_haskell.-module {color: #eea825}
-.onelight_haskell.-variable-member {color: #e05661}
-.onelight_haskell.Delimiter {color: #6a6a6a}
-.onelight_haskell.-character-special {color: #9a77cf}
-.onelight_haskell.-ibl-whitespace-char-1 {color: #bebebe}
 .onelight_haskell.IndentLine {color: #e7e7e7}
-.onelight_haskell.SignColumn {background-color: #fafafa}
+.onelight_haskell.Delimiter {color: #6a6a6a}
 .onelight_haskell.Number {color: #ee9025}
-.onelight_haskell.-constructor {color: #eea825}
-.onelight_haskell.Comment {color: #9b9fa6}
-.onelight_haskell.-spell {}
-.onelight_haskell.-variable {color: #e05661}
-.onelight_haskell.Type {color: #eea825}
+.onelight_haskell.-ibl-whitespace-char-1 {color: #bebebe}
 .onelight_haskell.-operator {color: #56b6c2}
-=======
+.onelight_haskell.LineNr {color: #cccccc; background-color: #fafafa}
+.onelight_haskell.SignColumn {background-color: #fafafa}
+.onelight_haskell.-constructor {color: #eea825}
 .onelight_haskell.-punctuation-bracket {color: #9a77cf}
-.onelight_haskell.IndentLine {color: #e7e7e7}
-.onelight_haskell.-variable-member {color: #e05661}
-.onelight_haskell.Delimiter {color: #6a6a6a}
-.onelight_haskell.-spell {}
 .onelight_haskell.-character-special {color: #9a77cf}
-.onelight_haskell.-ibl-whitespace-char-1 {color: #bebebe}
-.onelight_haskell.-operator {color: #56b6c2}
-.onelight_haskell.-constructor {color: #eea825}
-.onelight_haskell.Comment {color: #9b9fa6}
-.onelight_haskell.SignColumn {background-color: #fafafa}
 .onelight_haskell.-variable {color: #e05661}
-.onelight_haskell.Number {color: #ee9025}
-.onelight_haskell.-module {color: #eea825}
->>>>>>> 9625304 (add more themes)
+.onelight_haskell.-spell {}
+.onelight_haskell.Comment {color: #9b9fa6}
 .onelight_haskell.-function {color: #118dc3}

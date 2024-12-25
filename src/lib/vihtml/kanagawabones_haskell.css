@@ -1,14 +1,14 @@
 .kanagawabones_haskell.boxbg {background-color: #1f1f28; color: #ddd8bb}
 .kanagawabones_haskell.Identifier {color: #bbb79e}
-.kanagawabones_haskell.Statement {color: #ddd8bb; font-weight: bold}
+.kanagawabones_haskell.Statement {font-weight: bold; color: #ddd8bb}
 .kanagawabones_haskell.Number {color: #a29e89}
-.kanagawabones_haskell.Special {color: #ada992; font-weight: bold}
+.kanagawabones_haskell.Special {font-weight: bold; color: #ada992}
 .kanagawabones_haskell.Constant {color: #a29e89; font-style: normal}
-.kanagawabones_haskell.LineNr {color: #646476}
-.kanagawabones_haskell.NonText {color: #58586a}
-.kanagawabones_haskell.Comment {color: #696977; font-style: normal}
-.kanagawabones_haskell.-ibl-indent-char-1 {color: #2d2d37}
-.kanagawabones_haskell.Function {color: #ddd8bb}
-.kanagawabones_haskell.Delimiter {color: #7d7d8d}
 .kanagawabones_haskell.-spell {}
+.kanagawabones_haskell.LineNr {color: #646476}
+.kanagawabones_haskell.Comment {color: #696977; font-style: normal}
+.kanagawabones_haskell.NonText {color: #58586a}
+.kanagawabones_haskell.-ibl-indent-char-1 {color: #2d2d37}
+.kanagawabones_haskell.Delimiter {color: #7d7d8d}
+.kanagawabones_haskell.Function {color: #ddd8bb}
 .kanagawabones_haskell.Type {color: #9797a5}

@@ -1,6 +1,6 @@
 .duckbones_c.boxbg {background-color: #0e101a; color: #ebefc0}
 .duckbones_c.Identifier {color: #c6caa1}
-.duckbones_c.Statement {color: #795ccc; font-weight: bold}
+.duckbones_c.Statement {font-weight: bold; color: #795ccc}
 .duckbones_c.Number {color: #aeb18d}
 .duckbones_c.Type {color: #898fb1}
 .duckbones_c.LineNr {color: #51587a}
@@ -12,4 +12,4 @@
 .duckbones_c.-_parent {}
 .duckbones_c.Function {color: #ebefc0}
 .duckbones_c.Delimiter {color: #6d759d}
-.duckbones_c.-constant {color: #c6caa1; font-weight: bold}
+.duckbones_c.-constant {font-weight: bold; color: #c6caa1}

@@ -1,15 +1,15 @@
 .kanagawabones_rust.boxbg {background-color: #1f1f28; color: #ddd8bb}
 .kanagawabones_rust.Identifier {color: #bbb79e}
-.kanagawabones_rust.Statement {color: #ddd8bb; font-weight: bold}
+.kanagawabones_rust.Statement {font-weight: bold; color: #ddd8bb}
 .kanagawabones_rust.Number {color: #a29e89}
-.kanagawabones_rust.-constant {color: #bbb79e; font-weight: bold}
+.kanagawabones_rust.-constant {font-weight: bold; color: #bbb79e}
 .kanagawabones_rust.LineNr {color: #646476}
 .kanagawabones_rust.Constant {color: #a29e89; font-style: normal}
-.kanagawabones_rust.NonText {color: #58586a}
-.kanagawabones_rust.-ibl-indent-char-1 {color: #2d2d37}
-.kanagawabones_rust.Comment {color: #696977; font-style: normal}
-.kanagawabones_rust.Type {color: #9797a5}
-.kanagawabones_rust.Function {color: #ddd8bb}
-.kanagawabones_rust.Delimiter {color: #7d7d8d}
 .kanagawabones_rust.-spell {}
+.kanagawabones_rust.NonText {color: #58586a}
+.kanagawabones_rust.Comment {color: #696977; font-style: normal}
+.kanagawabones_rust.-ibl-indent-char-1 {color: #2d2d37}
 .kanagawabones_rust.-odp {}
+.kanagawabones_rust.Delimiter {color: #7d7d8d}
+.kanagawabones_rust.Function {color: #ddd8bb}
+.kanagawabones_rust.Type {color: #9797a5}

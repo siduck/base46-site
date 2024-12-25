@@ -3,18 +3,18 @@
 .night-owl_c.LineNr {color: #4b6479}
 .night-owl_c.Statement {color: #c792ea; font-style: normal}
 .night-owl_c.-property {color: #baebe2}
-.night-owl_c.Type {color: #ffcb8b}
+.night-owl_c.-nowl-indentChar {color: #1f395d}
 .night-owl_c.Keyword {color: #c792ea}
-.night-owl_c.-punctuation-bracket {color: #af6df9}
 .night-owl_c.Constant {color: #82aaff; font-style: normal}
 .night-owl_c.Whitespace {color: #273845}
 .night-owl_c.-type-builtin {color: #c5e478}
-.night-owl_c.-nowl-indentChar {color: #1f395d}
 .night-owl_c.-type {color: #ffcb8b; font-style: normal}
 .night-owl_c.Delimiter {color: #d6deeb}
 .night-owl_c.String {color: #ecc48d}
 .night-owl_c.Number {color: #f78c6c}
+.night-owl_c.-punctuation-bracket {color: #af6df9}
+.night-owl_c.SignColumn {background-color: #021727}
 .night-owl_c.-variable {color: #d7dbe0}
 .night-owl_c.-_parent {}
-.night-owl_c.SignColumn {background-color: #021727}
 .night-owl_c.Function {color: #82aaff; font-style: normal}
+.night-owl_c.Type {color: #ffcb8b}

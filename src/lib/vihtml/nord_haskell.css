@@ -4,14 +4,14 @@
 .nord_haskell.NonText {color: #3b4252}
 .nord_haskell.LineNr {color: #616e88}
 .nord_haskell.-punctuation-delimiter {color: #88c0d0}
-.nord_haskell.SpecialChar {color: #ebcb8b}
-.nord_haskell.-operator {color: #81a1c1}
-.nord_haskell.-number {color: #b48ead}
 .nord_haskell.SignColumn {color: #d8dee9; background-color: #2e3440}
-.nord_haskell.-comment {color: #616e88; font-style: normal}
-.nord_haskell.-constructor {color: #81a1c1}
-.nord_haskell.-type {color: #81a1c1}
-.nord_haskell.-variable {color: #d8dee9; font-weight: bold}
-.nord_haskell.-punctuation-bracket {color: #88c0d0}
+.nord_haskell.-operator {color: #81a1c1}
+.nord_haskell.SpecialChar {color: #ebcb8b}
 .nord_haskell.-spell {}
+.nord_haskell.-comment {color: #616e88; font-style: normal}
+.nord_haskell.-punctuation-bracket {color: #88c0d0}
+.nord_haskell.-type {color: #81a1c1}
+.nord_haskell.-variable {font-weight: bold; color: #d8dee9}
+.nord_haskell.-number {color: #b48ead}
+.nord_haskell.-constructor {color: #81a1c1}
 .nord_haskell.-function {color: #88c0d0; font-style: normal}
