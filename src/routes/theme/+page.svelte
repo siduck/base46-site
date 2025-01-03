@@ -10,6 +10,7 @@
   const searchParams = page.url.searchParams;
   const theme = searchParams.get("name") || "onedark";
   const terminal = searchParams.get("terminal") || "alacritty";
+  const lang = searchParams.get('lang')||'rust'
 
   let data: ThemeData|undefined = $state();
   let cur_term = $state(terminal);
@@ -24,7 +25,7 @@
 
   data = {
     name: theme,
-    component: getComponent(theme + "_" + "rust"),
+    component: getComponent(theme + "_" + lang),
     colors: themedata.colors,
     type: themedata.type,
   };

@@ -5,7 +5,7 @@
 </script>
 
 <div class="flexcol [&_section]:bg-red">
-  <a href={`/theme?name=${data.name}`}>
+  <a href={`/theme?name=${data.name}&lang=${lang}`}>
     <button font-medium capitalize badge bg-blue2 px5 text-black>
       {data.name}
     </button>

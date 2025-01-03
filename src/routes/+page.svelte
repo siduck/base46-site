@@ -14,8 +14,8 @@
     c: "i-devicon:c",
     python: "i-lineicons:python",
     ruby: "i-devicon:ruby",
-    javascript: "i-devicon:javascript",
-    sh:'i-line-md:hash'
+    typescript: "i-devicon:typescript",
+    sh: "i-line-md:hash",
   };
 
   let themes: ThemeData[] = $state([]);
@@ -30,10 +30,10 @@
       };
     });
   });
-
 </script>
 
-<br/>
+<br />
+
 <div flexrow>
   {#each Object.keys(icons) as lang}
     <button
@@ -48,10 +48,11 @@
   {/each}
 </div>
 
-<br/>
+<br />
+
 <div grid="~ gap-x-8 gap-y-6 xl:cols-2">
   {#each themes as data}
-    <ThemeCard {data} />
+    <ThemeCard {data} lang={cur_lang} />
   {/each}
 </div>
 
