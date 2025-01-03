@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo "Setting up nvim"
 curl -LO https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz
 tar -zxf nvim-linux64.tar.gz
