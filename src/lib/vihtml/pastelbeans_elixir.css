@@ -1,19 +1,19 @@
 .pastelbeans_elixir.boxbg {background-color: #151515; color: #d0d0d0}
-.pastelbeans_elixir.LineNr {color: #424242}
 .pastelbeans_elixir.-punctuation-delimiter {color: #888888}
-.pastelbeans_elixir.-punctuation-bracket {color: #888888}
+.pastelbeans_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .pastelbeans_elixir.-function-call {color: #bbdaff}
 .pastelbeans_elixir.-module {color: #ffdab9}
-.pastelbeans_elixir.-keyword-function {color: #ff9da4}
 .pastelbeans_elixir.-string {color: #d1f1a9}
 .pastelbeans_elixir.-ibl-scope-char-1 {color: #525252}
 .pastelbeans_elixir.-keyword {color: #ff9da4}
 .pastelbeans_elixir.NonText {color: #505050}
 .pastelbeans_elixir.Special {color: #c0e9ff}
 .pastelbeans_elixir.-operator {color: #d0d0d0}
+.pastelbeans_elixir.LineNr {color: #424242}
 .pastelbeans_elixir.SignColumn {color: #505050}
 .pastelbeans_elixir.SpecialChar {color: #888888}
+.pastelbeans_elixir.-keyword-function {color: #ff9da4}
 .pastelbeans_elixir.-variable {color: #d0d0d0}
+.pastelbeans_elixir.-punctuation-bracket {color: #888888}
 .pastelbeans_elixir.-number {color: #ffeb99}
-.pastelbeans_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .pastelbeans_elixir.-function {color: #bbdaff}

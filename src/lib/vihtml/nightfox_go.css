@@ -1,17 +1,17 @@
 .nightfox_go.boxbg {background-color: #192330; color: #c0c8d5}
-.nightfox_go.LineNr {color: #495360}
-.nightfox_go.-keyword {color: #5cc6c8}
-.nightfox_go.NonText {color: #3d4754}
 .nightfox_go.-punctuation-delimiter {color: #c0c8d5}
-.nightfox_go.Type {color: #dbc074}
+.nightfox_go.-keyword {color: #5cc6c8}
 .nightfox_go.-function-call {color: #86abdc}
+.nightfox_go.-property {color: #e26886}
+.nightfox_go.Type {color: #dbc074}
+.nightfox_go.LineNr {color: #495360}
 .nightfox_go.-operator {color: #9d79d6}
-.nightfox_go.-variable {color: #c0c8d5}
+.nightfox_go.NonText {color: #3d4754}
 .nightfox_go.SignColumn {color: #3d4754}
 .nightfox_go.Label {color: #dbc074}
+.nightfox_go.-punctuation-bracket {color: #c0c8d5}
+.nightfox_go.-variable-member {color: #e26886}
+.nightfox_go.-variable {color: #c0c8d5}
 .nightfox_go.-function-method-call {color: #86abdc}
 .nightfox_go.-function-builtin {color: #86abdc}
-.nightfox_go.-variable-member {color: #e26886}
-.nightfox_go.-property {color: #e26886}
-.nightfox_go.-punctuation-bracket {color: #c0c8d5}
 .nightfox_go.-number {color: #fe9373}

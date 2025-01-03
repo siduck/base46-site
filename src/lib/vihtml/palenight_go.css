@@ -1,17 +1,17 @@
 .palenight_go.boxbg {background-color: #292d3e; color: #d3d3d3}
-.palenight_go.LineNr {color: #515566}
-.palenight_go.-keyword {color: #c792ea}
-.palenight_go.NonText {color: #676e95}
 .palenight_go.-punctuation-delimiter {color: #ff5370}
-.palenight_go.Type {color: #ffcb6b}
+.palenight_go.-keyword {color: #c792ea}
 .palenight_go.-function-call {color: #82aaff}
+.palenight_go.-property {color: #f07178}
+.palenight_go.Type {color: #ffcb6b}
+.palenight_go.LineNr {color: #515566}
 .palenight_go.-operator {color: #d3d3d3}
-.palenight_go.-variable {color: #d3d3d3}
+.palenight_go.NonText {color: #676e95}
 .palenight_go.SignColumn {color: #676e95}
 .palenight_go.Label {color: #ffcb6b}
+.palenight_go.-punctuation-bracket {color: #ff5370}
+.palenight_go.-variable-member {color: #f07178}
+.palenight_go.-variable {color: #d3d3d3}
 .palenight_go.-function-method-call {color: #82aaff}
 .palenight_go.-function-builtin {color: #82aaff}
-.palenight_go.-variable-member {color: #f07178}
-.palenight_go.-property {color: #f07178}
-.palenight_go.-punctuation-bracket {color: #ff5370}
 .palenight_go.-number {color: #ffa282}

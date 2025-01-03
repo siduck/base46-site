@@ -1,13 +1,12 @@
 .solarized_osaka_python.boxbg {background-color: #011219; color: #9eabac}
-.solarized_osaka_python.-variable-parameter {color: #c94c16}
-.solarized_osaka_python.LineNr {color: #405055}
 .solarized_osaka_python.-punctuation-delimiter {color: #c94c16}
 .solarized_osaka_python.-punctuation-bracket {color: #c94c16}
+.solarized_osaka_python.Type {color: #b28500}
 .solarized_osaka_python.-none {}
-.solarized_osaka_python.-module {color: #268bd2}
 .solarized_osaka_python.-keyword-conditional {color: #849900}
 .solarized_osaka_python.-keyword-operator {color: #849900}
-.solarized_osaka_python.-keyword-function {color: #849900}
+.solarized_osaka_python.-module {color: #268bd2}
+.solarized_osaka_python.-variable-member {color: #268bd2}
 .solarized_osaka_python.Include {color: #849900}
 .solarized_osaka_python.-string {color: #29a298}
 .solarized_osaka_python.Boolean {color: #519aba}
@@ -15,10 +14,11 @@
 .solarized_osaka_python.NonText {color: #044a67}
 .solarized_osaka_python.Special {color: #c94c16}
 .solarized_osaka_python.-operator {color: #849900}
+.solarized_osaka_python.LineNr {color: #405055}
 .solarized_osaka_python.SignColumn {color: #044a67}
-.solarized_osaka_python.-function-method {color: #268bd2}
-.solarized_osaka_python.-variable-member {color: #268bd2}
+.solarized_osaka_python.-variable-parameter {color: #c94c16}
+.solarized_osaka_python.-keyword-function {color: #849900}
 .solarized_osaka_python.-variable {color: #9eabac}
-.solarized_osaka_python.Type {color: #b28500}
+.solarized_osaka_python.-function-method {color: #268bd2}
 .solarized_osaka_python.-variable-builtin {color: #519aba}
 .solarized_osaka_python.-function {color: #268bd2}

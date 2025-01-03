@@ -1,22 +1,22 @@
 .github_dark_haskell.boxbg {background-color: #24292e; color: #c9d1d9}
-.github_dark_haskell.-variable-parameter {color: #b392e9}
-.github_dark_haskell.LineNr {color: #4c5156}
 .github_dark_haskell.-punctuation-delimiter {color: #85e89d}
-.github_dark_haskell.Type {color: #ffdf5d}
+.github_dark_haskell.-punctuation-bracket {color: #ffab70}
 .github_dark_haskell.-function-call {color: #6ab1f0}
 .github_dark_haskell.-keyword-directive {color: #ffdf5d}
 .github_dark_haskell.-module {color: #b392e9}
 .github_dark_haskell.-comment {color: #565b60}
+.github_dark_haskell.-variable-member {color: #b392e9}
 .github_dark_haskell.Include {color: #6ab1f0}
 .github_dark_haskell.-number {color: #ffab70}
 .github_dark_haskell.-keyword {color: #ff7f8d}
 .github_dark_haskell.-spell {}
 .github_dark_haskell.-operator {color: #c9d1d9}
+.github_dark_haskell.LineNr {color: #4c5156}
 .github_dark_haskell.SignColumn {color: #42474c}
 .github_dark_haskell.-constructor {color: #85e89d}
 .github_dark_haskell.NonText {color: #42474c}
 .github_dark_haskell.SpecialChar {color: #85e89d}
-.github_dark_haskell.-variable-member {color: #b392e9}
-.github_dark_haskell.-punctuation-bracket {color: #ffab70}
 .github_dark_haskell.-variable {color: #c9d1d9}
+.github_dark_haskell.-variable-parameter {color: #b392e9}
+.github_dark_haskell.Type {color: #ffdf5d}
 .github_dark_haskell.-function {color: #6ab1f0}

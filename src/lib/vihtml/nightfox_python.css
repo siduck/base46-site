@@ -1,13 +1,12 @@
 .nightfox_python.boxbg {background-color: #192330; color: #c0c8d5}
-.nightfox_python.-variable-parameter {color: #5cc6c8}
-.nightfox_python.LineNr {color: #495360}
 .nightfox_python.-punctuation-delimiter {color: #c0c8d5}
 .nightfox_python.-punctuation-bracket {color: #c0c8d5}
+.nightfox_python.Type {color: #dbc074}
 .nightfox_python.-none {}
-.nightfox_python.-module {color: #e26886}
 .nightfox_python.-keyword-conditional {color: #9d79d6}
 .nightfox_python.-keyword-operator {color: #9d79d6}
-.nightfox_python.-keyword-function {color: #9d79d6}
+.nightfox_python.-module {color: #e26886}
+.nightfox_python.-variable-member {color: #e26886}
 .nightfox_python.Include {color: #86abdc}
 .nightfox_python.-string {color: #8ebaa4}
 .nightfox_python.Boolean {color: #fe9373}
@@ -15,10 +14,11 @@
 .nightfox_python.NonText {color: #3d4754}
 .nightfox_python.Special {color: #7ad4d6}
 .nightfox_python.-operator {color: #9d79d6}
+.nightfox_python.LineNr {color: #495360}
 .nightfox_python.SignColumn {color: #3d4754}
-.nightfox_python.-function-method {color: #86abdc}
-.nightfox_python.-variable-member {color: #e26886}
+.nightfox_python.-variable-parameter {color: #5cc6c8}
+.nightfox_python.-keyword-function {color: #9d79d6}
 .nightfox_python.-variable {color: #c0c8d5}
-.nightfox_python.Type {color: #dbc074}
+.nightfox_python.-function-method {color: #86abdc}
 .nightfox_python.-variable-builtin {color: #fe9373}
 .nightfox_python.-function {color: #86abdc}

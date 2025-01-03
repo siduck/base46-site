@@ -1,22 +1,22 @@
 .aquarium_haskell.boxbg {background-color: #20202a; color: #bac0cb}
-.aquarium_haskell.-variable-parameter {color: #ebb9b9}
-.aquarium_haskell.LineNr {color: #484852}
 .aquarium_haskell.-punctuation-delimiter {color: #eac1c1}
-.aquarium_haskell.Type {color: #e6dfb8}
+.aquarium_haskell.-punctuation-bracket {color: #eac1c1}
 .aquarium_haskell.-function-call {color: #a3b8ef}
 .aquarium_haskell.-keyword-directive {color: #e6dfb8}
 .aquarium_haskell.-module {color: #ebb9b9}
 .aquarium_haskell.-comment {color: #4e4e58}
+.aquarium_haskell.-variable-member {color: #ebb9b9}
 .aquarium_haskell.Include {color: #a3b8ef}
 .aquarium_haskell.-number {color: #e8cca7}
 .aquarium_haskell.-keyword {color: #f6bbe7}
 .aquarium_haskell.-spell {}
 .aquarium_haskell.-operator {color: #bac0cb}
+.aquarium_haskell.LineNr {color: #484852}
 .aquarium_haskell.SignColumn {color: #313449}
 .aquarium_haskell.-constructor {color: #b8dceb}
 .aquarium_haskell.NonText {color: #313449}
 .aquarium_haskell.SpecialChar {color: #eac1c1}
-.aquarium_haskell.-variable-member {color: #ebb9b9}
-.aquarium_haskell.-punctuation-bracket {color: #eac1c1}
 .aquarium_haskell.-variable {color: #bac0cb}
+.aquarium_haskell.-variable-parameter {color: #ebb9b9}
+.aquarium_haskell.Type {color: #e6dfb8}
 .aquarium_haskell.-function {color: #a3b8ef}

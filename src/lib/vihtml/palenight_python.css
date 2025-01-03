@@ -1,13 +1,12 @@
 .palenight_python.boxbg {background-color: #292d3e; color: #d3d3d3}
-.palenight_python.-variable-parameter {color: #f07178}
-.palenight_python.LineNr {color: #515566}
 .palenight_python.-punctuation-delimiter {color: #ff5370}
 .palenight_python.-punctuation-bracket {color: #ff5370}
+.palenight_python.Type {color: #ffcb6b}
 .palenight_python.-none {}
-.palenight_python.-module {color: #f07178}
 .palenight_python.-keyword-conditional {color: #c792ea}
 .palenight_python.-keyword-operator {color: #c792ea}
-.palenight_python.-keyword-function {color: #c792ea}
+.palenight_python.-module {color: #f07178}
+.palenight_python.-variable-member {color: #f07178}
 .palenight_python.Include {color: #82aaff}
 .palenight_python.-string {color: #c3e88d}
 .palenight_python.Boolean {color: #ffa282}
@@ -15,10 +14,11 @@
 .palenight_python.NonText {color: #676e95}
 .palenight_python.Special {color: #89ddff}
 .palenight_python.-operator {color: #d3d3d3}
+.palenight_python.LineNr {color: #515566}
 .palenight_python.SignColumn {color: #676e95}
-.palenight_python.-function-method {color: #82aaff}
-.palenight_python.-variable-member {color: #f07178}
+.palenight_python.-variable-parameter {color: #f07178}
+.palenight_python.-keyword-function {color: #c792ea}
 .palenight_python.-variable {color: #d3d3d3}
-.palenight_python.Type {color: #ffcb6b}
+.palenight_python.-function-method {color: #82aaff}
 .palenight_python.-variable-builtin {color: #ffa282}
 .palenight_python.-function {color: #82aaff}

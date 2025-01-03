@@ -1,17 +1,17 @@
 .flexoki_go.boxbg {background-color: #100f0f; color: #cecdc3}
-.flexoki_go.LineNr {color: #393636}
-.flexoki_go.-keyword {color: #3aa99f}
-.flexoki_go.NonText {color: #393636}
 .flexoki_go.-punctuation-delimiter {color: #519aba}
-.flexoki_go.Type {color: #8b7ec8}
+.flexoki_go.-keyword {color: #3aa99f}
 .flexoki_go.-function-call {color: #4385be}
+.flexoki_go.-property {color: #d14d41}
+.flexoki_go.Type {color: #8b7ec8}
+.flexoki_go.LineNr {color: #393636}
 .flexoki_go.-operator {color: #cecdc3}
-.flexoki_go.-variable {color: #cecdc3}
+.flexoki_go.NonText {color: #393636}
 .flexoki_go.SignColumn {color: #393636}
 .flexoki_go.Label {color: #8b7ec8}
+.flexoki_go.-punctuation-bracket {color: #d0a215}
+.flexoki_go.-variable-member {color: #d14d41}
+.flexoki_go.-variable {color: #cecdc3}
 .flexoki_go.-function-method-call {color: #4385be}
 .flexoki_go.-function-builtin {color: #4385be}
-.flexoki_go.-variable-member {color: #d14d41}
-.flexoki_go.-property {color: #d14d41}
-.flexoki_go.-punctuation-bracket {color: #d0a215}
 .flexoki_go.-number {color: #da702c}

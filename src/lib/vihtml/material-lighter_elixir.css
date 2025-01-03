@@ -1,7 +1,6 @@
 .material-lighter_elixir.boxbg {background-color: #fafafa; color: #435862}
-.material-lighter_elixir.LineNr {color: #c4c4c4}
 .material-lighter_elixir.-punctuation-delimiter {color: #39adb5}
-.material-lighter_elixir.-punctuation-bracket {color: #39adb5}
+.material-lighter_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .material-lighter_elixir.-function-call {color: #6182b8}
 .material-lighter_elixir.-module {color: #546e7a}
 .material-lighter_elixir.-punctuation-special {color: #39adb5}
@@ -10,10 +9,11 @@
 .material-lighter_elixir.-keyword {color: #7c4dff}
 .material-lighter_elixir.NonText {color: #d2d4d5}
 .material-lighter_elixir.-operator {color: #39adb5}
+.material-lighter_elixir.LineNr {color: #c4c4c4}
 .material-lighter_elixir.SignColumn {color: #d2d4d5}
 .material-lighter_elixir.SpecialChar {color: #e53935}
-.material-lighter_elixir.-number {color: #f76d47}
-.material-lighter_elixir.-variable {color: #546e7a}
 .material-lighter_elixir.-keyword-function {color: #7c4dff}
-.material-lighter_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.material-lighter_elixir.-variable {color: #546e7a}
+.material-lighter_elixir.-number {color: #f76d47}
+.material-lighter_elixir.-punctuation-bracket {color: #39adb5}
 .material-lighter_elixir.-function {color: #6182b8}

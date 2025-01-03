@@ -1,19 +1,19 @@
 .penumbra_light_elixir.boxbg {background-color: #fff7ed; color: #636363}
-.penumbra_light_elixir.LineNr {color: #cec6bc}
 .penumbra_light_elixir.-punctuation-delimiter {color: #ca7081}
-.penumbra_light_elixir.-punctuation-bracket {color: #8a8a8a}
+.penumbra_light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .penumbra_light_elixir.-function-call {color: #4380bc}
 .penumbra_light_elixir.-module {color: #ca7081}
-.penumbra_light_elixir.-keyword-function {color: #ac78bd}
 .penumbra_light_elixir.-string {color: #3ea57b}
 .penumbra_light_elixir.-ibl-scope-char-1 {color: #b0a89e}
 .penumbra_light_elixir.-keyword {color: #ac78bd}
 .penumbra_light_elixir.NonText {color: #cecece}
 .penumbra_light_elixir.Special {color: #22839b}
 .penumbra_light_elixir.-operator {color: #636363}
+.penumbra_light_elixir.LineNr {color: #cec6bc}
 .penumbra_light_elixir.SignColumn {color: #cecece}
 .penumbra_light_elixir.SpecialChar {color: #ca7081}
+.penumbra_light_elixir.-keyword-function {color: #ac78bd}
 .penumbra_light_elixir.-variable {color: #636363}
+.penumbra_light_elixir.-punctuation-bracket {color: #8a8a8a}
 .penumbra_light_elixir.-number {color: #5a79c1}
-.penumbra_light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .penumbra_light_elixir.-function {color: #4380bc}

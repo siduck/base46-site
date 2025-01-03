@@ -1,22 +1,22 @@
 .nano-light_haskell.boxbg {background-color: #ffffff; color: #37474f}
-.nano-light_haskell.-variable-parameter {color: #37474f}
-.nano-light_haskell.LineNr {color: #c4c4c4}
 .nano-light_haskell.-punctuation-delimiter {color: #8497a0}
-.nano-light_haskell.Type {color: #673ab7}
+.nano-light_haskell.-punctuation-bracket {color: #8497a0}
 .nano-light_haskell.-function-call {font-weight: bold; color: #263238}
 .nano-light_haskell.-keyword-directive {color: #673ab7}
 .nano-light_haskell.-module {color: #263238}
 .nano-light_haskell.-comment {color: #b5b5b5}
+.nano-light_haskell.-variable-member {color: #673ab7}
 .nano-light_haskell.Include {color: #263238}
 .nano-light_haskell.-number {color: #8497a0}
 .nano-light_haskell.-keyword {color: #673ab7}
 .nano-light_haskell.-spell {}
 .nano-light_haskell.-operator {color: #37474f}
+.nano-light_haskell.LineNr {color: #c4c4c4}
 .nano-light_haskell.SignColumn {color: #c4c4c4}
 .nano-light_haskell.-constructor {color: #673ab7}
 .nano-light_haskell.NonText {color: #c4c4c4}
 .nano-light_haskell.SpecialChar {color: #8497a0}
-.nano-light_haskell.-variable-member {color: #673ab7}
-.nano-light_haskell.-punctuation-bracket {color: #8497a0}
 .nano-light_haskell.-variable {color: #37474f}
+.nano-light_haskell.-variable-parameter {color: #37474f}
+.nano-light_haskell.Type {color: #673ab7}
 .nano-light_haskell.-function {font-weight: bold; color: #263238}

@@ -1,19 +1,19 @@
 .mountain_elixir.boxbg {background-color: #0f0f0f; color: #d8d8d8}
-.mountain_elixir.LineNr {color: #373737}
 .mountain_elixir.-punctuation-delimiter {color: #b39193}
-.mountain_elixir.-punctuation-bracket {color: #b39193}
+.mountain_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .mountain_elixir.-function-call {color: #a5a0c2}
 .mountain_elixir.-module {color: #b18f91}
-.mountain_elixir.-keyword-function {color: #ac8aac}
 .mountain_elixir.-string {color: #8aac8b}
 .mountain_elixir.-ibl-scope-char-1 {color: #535353}
 .mountain_elixir.-keyword {color: #ac8aac}
 .mountain_elixir.NonText {color: #222222}
 .mountain_elixir.Special {color: #91b2b3}
 .mountain_elixir.-operator {color: #d8d8d8}
+.mountain_elixir.LineNr {color: #373737}
 .mountain_elixir.SignColumn {color: #222222}
 .mountain_elixir.SpecialChar {color: #b39193}
+.mountain_elixir.-keyword-function {color: #ac8aac}
 .mountain_elixir.-variable {color: #d8d8d8}
+.mountain_elixir.-punctuation-bracket {color: #b39193}
 .mountain_elixir.-number {color: #d8bb92}
-.mountain_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .mountain_elixir.-function {color: #a5a0c2}

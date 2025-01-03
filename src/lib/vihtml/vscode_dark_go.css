@@ -1,17 +1,17 @@
 .vscode_dark_go.boxbg {background-color: #1e1e1e; color: #d4d4d4}
-.vscode_dark_go.LineNr {color: #444444}
-.vscode_dark_go.-keyword {color: #569cd6}
-.vscode_dark_go.NonText {color: #3c3c3c}
 .vscode_dark_go.-punctuation-delimiter {color: #e9e9e9}
-.vscode_dark_go.Type {color: #d7ba7d}
+.vscode_dark_go.-keyword {color: #569cd6}
 .vscode_dark_go.-function-call {color: #dcdcaa}
+.vscode_dark_go.-property {color: #d16969}
+.vscode_dark_go.Type {color: #d7ba7d}
+.vscode_dark_go.LineNr {color: #444444}
 .vscode_dark_go.-operator {color: #d4d4d4}
-.vscode_dark_go.-variable {color: #9cdcfe}
+.vscode_dark_go.NonText {color: #3c3c3c}
 .vscode_dark_go.SignColumn {color: #3c3c3c}
 .vscode_dark_go.Label {color: #d7ba7d}
+.vscode_dark_go.-punctuation-bracket {color: #e9e9e9}
+.vscode_dark_go.-variable-member {color: #d16969}
+.vscode_dark_go.-variable {color: #9cdcfe}
 .vscode_dark_go.-function-method-call {color: #dcdcaa}
 .vscode_dark_go.-function-builtin {color: #dcdcaa}
-.vscode_dark_go.-variable-member {color: #d16969}
-.vscode_dark_go.-property {color: #d16969}
-.vscode_dark_go.-punctuation-bracket {color: #e9e9e9}
 .vscode_dark_go.-number {color: #b5cea8}

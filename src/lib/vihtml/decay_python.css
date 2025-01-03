@@ -1,13 +1,12 @@
 .decay_python.boxbg {background-color: #171b20; color: #b6beca}
-.decay_python.-variable-parameter {color: #70a5eb}
-.decay_python.LineNr {color: #41454a}
 .decay_python.-punctuation-delimiter {color: #9cd1ff}
 .decay_python.-punctuation-bracket {color: #9cd1ff}
+.decay_python.Type {color: #f1cf8a}
 .decay_python.-none {}
-.decay_python.-module {color: #70a5eb}
 .decay_python.-keyword-conditional {color: #c68aee}
 .decay_python.-keyword-operator {color: #c68aee}
-.decay_python.-keyword-function {color: #c68aee}
+.decay_python.-module {color: #70a5eb}
+.decay_python.-variable-member {color: #70a5eb}
 .decay_python.Include {color: #86aaec}
 .decay_python.-string {color: #78dba9}
 .decay_python.Boolean {color: #e9a180}
@@ -15,10 +14,11 @@
 .decay_python.NonText {color: #485263}
 .decay_python.Special {color: #e26c7c}
 .decay_python.-operator {color: #b6beca}
+.decay_python.LineNr {color: #41454a}
 .decay_python.SignColumn {color: #485263}
-.decay_python.-function-method {color: #86aaec}
-.decay_python.-variable-member {color: #70a5eb}
+.decay_python.-variable-parameter {color: #70a5eb}
+.decay_python.-keyword-function {color: #c68aee}
 .decay_python.-variable {color: #b6beca}
-.decay_python.Type {color: #f1cf8a}
+.decay_python.-function-method {color: #86aaec}
 .decay_python.-variable-builtin {color: #e9a180}
 .decay_python.-function {color: #86aaec}

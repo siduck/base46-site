@@ -1,22 +1,22 @@
 .rosepine-dawn_haskell.boxbg {background-color: #faf4ed; color: #575279}
-.rosepine-dawn_haskell.-variable-parameter {color: #907aa9}
-.rosepine-dawn_haskell.LineNr {color: #b0acb9}
 .rosepine-dawn_haskell.-punctuation-delimiter {color: #a39ead}
-.rosepine-dawn_haskell.Type {color: #3e8fb0}
+.rosepine-dawn_haskell.-punctuation-bracket {color: #a39ead}
 .rosepine-dawn_haskell.-function-call {color: #907aa9}
 .rosepine-dawn_haskell.-keyword-directive {color: #d7827e}
 .rosepine-dawn_haskell.-module {color: #b4637a}
 .rosepine-dawn_haskell.-comment {color: #a39ead}
+.rosepine-dawn_haskell.-variable-member {color: #b4637a}
 .rosepine-dawn_haskell.Include {color: #907aa9}
 .rosepine-dawn_haskell.-number {color: #ea9d34}
 .rosepine-dawn_haskell.-keyword {color: #ea9d34}
 .rosepine-dawn_haskell.-spell {}
 .rosepine-dawn_haskell.-operator {color: #575279}
+.rosepine-dawn_haskell.LineNr {color: #b0acb9}
 .rosepine-dawn_haskell.SignColumn {color: #9893a5}
 .rosepine-dawn_haskell.-constructor {color: #286983}
 .rosepine-dawn_haskell.NonText {color: #9893a5}
 .rosepine-dawn_haskell.SpecialChar {color: #a39ead}
-.rosepine-dawn_haskell.-variable-member {color: #b4637a}
-.rosepine-dawn_haskell.-punctuation-bracket {color: #a39ead}
 .rosepine-dawn_haskell.-variable {color: #575279}
+.rosepine-dawn_haskell.-variable-parameter {color: #907aa9}
+.rosepine-dawn_haskell.Type {color: #3e8fb0}
 .rosepine-dawn_haskell.-function {color: #907aa9}

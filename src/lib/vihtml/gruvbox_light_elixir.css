@@ -1,19 +1,19 @@
 .gruvbox_light_elixir.boxbg {background-color: #f2e5bc; color: #504945}
-.gruvbox_light_elixir.LineNr {color: #c0b38a}
 .gruvbox_light_elixir.-punctuation-delimiter {color: #d65d0e}
-.gruvbox_light_elixir.-punctuation-bracket {color: #d65d0e}
+.gruvbox_light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .gruvbox_light_elixir.-function-call {color: #076678}
 .gruvbox_light_elixir.-module {color: #9d0006}
-.gruvbox_light_elixir.-keyword-function {color: #8f3f71}
 .gruvbox_light_elixir.-string {color: #79740e}
 .gruvbox_light_elixir.-ibl-scope-char-1 {color: #a2956c}
 .gruvbox_light_elixir.-keyword {color: #8f3f71}
 .gruvbox_light_elixir.NonText {color: #d8cba2}
 .gruvbox_light_elixir.Special {color: #427b58}
 .gruvbox_light_elixir.-operator {color: #504945}
+.gruvbox_light_elixir.LineNr {color: #c0b38a}
 .gruvbox_light_elixir.SignColumn {color: #d8cba2}
 .gruvbox_light_elixir.SpecialChar {color: #d65d0e}
+.gruvbox_light_elixir.-keyword-function {color: #8f3f71}
 .gruvbox_light_elixir.-variable {color: #504945}
+.gruvbox_light_elixir.-punctuation-bracket {color: #d65d0e}
 .gruvbox_light_elixir.-number {color: #af3a03}
-.gruvbox_light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .gruvbox_light_elixir.-function {color: #076678}

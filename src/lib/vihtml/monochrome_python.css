@@ -1,13 +1,12 @@
 .monochrome_python.boxbg {background-color: #101010; color: #bfc5d0}
-.monochrome_python.-variable-parameter {color: #eee8d5}
-.monochrome_python.LineNr {color: #424242}
 .monochrome_python.-punctuation-delimiter {color: #ced4df}
 .monochrome_python.-punctuation-bracket {color: #ec8989}
+.monochrome_python.Type {color: #859ba2}
 .monochrome_python.-none {}
-.monochrome_python.-module {color: #eee8d5}
 .monochrome_python.-keyword-conditional {color: #dad4c3}
 .monochrome_python.-keyword-operator {color: #dad4c3}
-.monochrome_python.-keyword-function {color: #dad4c3}
+.monochrome_python.-module {color: #eee8d5}
+.monochrome_python.-variable-member {color: #eee8d5}
 .monochrome_python.Include {color: #ced4df}
 .monochrome_python.-string {color: #7b9198}
 .monochrome_python.Boolean {color: #b8b7b1}
@@ -15,10 +14,11 @@
 .monochrome_python.NonText {color: #383838}
 .monochrome_python.Special {color: #dfdfda}
 .monochrome_python.-operator {color: #bfc5d0}
+.monochrome_python.LineNr {color: #424242}
 .monochrome_python.SignColumn {color: #383838}
-.monochrome_python.-function-method {color: #ced4df}
-.monochrome_python.-variable-member {color: #eee8d5}
+.monochrome_python.-variable-parameter {color: #eee8d5}
+.monochrome_python.-keyword-function {color: #dad4c3}
 .monochrome_python.-variable {color: #bfc5d0}
-.monochrome_python.Type {color: #859ba2}
+.monochrome_python.-function-method {color: #ced4df}
 .monochrome_python.-variable-builtin {color: #b8b7b1}
 .monochrome_python.-function {color: #ced4df}

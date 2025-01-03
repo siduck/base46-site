@@ -1,13 +1,12 @@
 .pastelbeans_python.boxbg {background-color: #151515; color: #d0d0d0}
-.pastelbeans_python.-variable-parameter {color: #ffdab9}
-.pastelbeans_python.LineNr {color: #424242}
 .pastelbeans_python.-punctuation-delimiter {color: #888888}
 .pastelbeans_python.-punctuation-bracket {color: #888888}
+.pastelbeans_python.Type {color: #ebbbff}
 .pastelbeans_python.-none {}
-.pastelbeans_python.-module {color: #ffdab9}
 .pastelbeans_python.-keyword-conditional {color: #ff9da4}
 .pastelbeans_python.-keyword-operator {color: #ff9da4}
-.pastelbeans_python.-keyword-function {color: #ff9da4}
+.pastelbeans_python.-module {color: #ffdab9}
+.pastelbeans_python.-variable-member {color: #ffdab9}
 .pastelbeans_python.Include {color: #bbdaff}
 .pastelbeans_python.-string {color: #d1f1a9}
 .pastelbeans_python.Boolean {color: #ffeb99}
@@ -15,10 +14,11 @@
 .pastelbeans_python.NonText {color: #505050}
 .pastelbeans_python.Special {color: #c0e9ff}
 .pastelbeans_python.-operator {color: #d0d0d0}
+.pastelbeans_python.LineNr {color: #424242}
 .pastelbeans_python.SignColumn {color: #505050}
-.pastelbeans_python.-function-method {color: #bbdaff}
-.pastelbeans_python.-variable-member {color: #ffdab9}
+.pastelbeans_python.-variable-parameter {color: #ffdab9}
+.pastelbeans_python.-keyword-function {color: #ff9da4}
 .pastelbeans_python.-variable {color: #d0d0d0}
-.pastelbeans_python.Type {color: #ebbbff}
+.pastelbeans_python.-function-method {color: #bbdaff}
 .pastelbeans_python.-variable-builtin {color: #ffeb99}
 .pastelbeans_python.-function {color: #bbdaff}

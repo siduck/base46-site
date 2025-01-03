@@ -1,22 +1,22 @@
 .flexoki-light_haskell.boxbg {background-color: #fffcf0; color: #2a2929}
-.flexoki-light_haskell.-variable-parameter {color: #a02f6f}
-.flexoki-light_haskell.LineNr {color: #b8b5ad}
 .flexoki-light_haskell.-punctuation-delimiter {color: #519aba}
-.flexoki-light_haskell.Type {color: #5e409d}
+.flexoki-light_haskell.-punctuation-bracket {color: #ad8301}
 .flexoki-light_haskell.-function-call {color: #205ea6}
 .flexoki-light_haskell.-keyword-directive {color: #5e409d}
 .flexoki-light_haskell.-module {color: #af3029}
 .flexoki-light_haskell.-comment {color: #adaba3}
+.flexoki-light_haskell.-variable-member {color: #af3029}
 .flexoki-light_haskell.Include {color: #ad8301}
 .flexoki-light_haskell.-number {color: #bc5215}
 .flexoki-light_haskell.-keyword {color: #24837b}
 .flexoki-light_haskell.-spell {}
 .flexoki-light_haskell.-operator {color: #2a2929}
+.flexoki-light_haskell.LineNr {color: #b8b5ad}
 .flexoki-light_haskell.SignColumn {color: #b8b5ad}
 .flexoki-light_haskell.-constructor {color: #24837b}
 .flexoki-light_haskell.NonText {color: #b8b5ad}
 .flexoki-light_haskell.SpecialChar {color: #519aba}
-.flexoki-light_haskell.-variable-member {color: #af3029}
-.flexoki-light_haskell.-punctuation-bracket {color: #ad8301}
 .flexoki-light_haskell.-variable {color: #2a2929}
+.flexoki-light_haskell.-variable-parameter {color: #a02f6f}
+.flexoki-light_haskell.Type {color: #5e409d}
 .flexoki-light_haskell.-function {color: #205ea6}

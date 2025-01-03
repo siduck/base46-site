@@ -1,17 +1,17 @@
 .monochrome_go.boxbg {background-color: #101010; color: #bfc5d0}
-.monochrome_go.LineNr {color: #424242}
-.monochrome_go.-keyword {color: #dad4c3}
-.monochrome_go.NonText {color: #383838}
 .monochrome_go.-punctuation-delimiter {color: #ced4df}
-.monochrome_go.Type {color: #859ba2}
+.monochrome_go.-keyword {color: #dad4c3}
 .monochrome_go.-function-call {color: #ced4df}
+.monochrome_go.-property {color: #eee8d5}
+.monochrome_go.Type {color: #859ba2}
+.monochrome_go.LineNr {color: #424242}
 .monochrome_go.-operator {color: #bfc5d0}
-.monochrome_go.-variable {color: #bfc5d0}
+.monochrome_go.NonText {color: #383838}
 .monochrome_go.SignColumn {color: #383838}
 .monochrome_go.Label {color: #859ba2}
+.monochrome_go.-punctuation-bracket {color: #ec8989}
+.monochrome_go.-variable-member {color: #eee8d5}
+.monochrome_go.-variable {color: #bfc5d0}
 .monochrome_go.-function-method-call {color: #ced4df}
 .monochrome_go.-function-builtin {color: #ced4df}
-.monochrome_go.-variable-member {color: #eee8d5}
-.monochrome_go.-property {color: #eee8d5}
-.monochrome_go.-punctuation-bracket {color: #ec8989}
 .monochrome_go.-number {color: #b8b7b1}

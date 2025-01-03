@@ -1,22 +1,22 @@
 .blossom_light_haskell.boxbg {background-color: #e6dfdc; color: #746862}
-.blossom_light_haskell.-variable-parameter {color: #8779a8}
-.blossom_light_haskell.LineNr {color: #b9b2af}
 .blossom_light_haskell.-punctuation-delimiter {color: #976153}
-.blossom_light_haskell.Type {color: #738199}
+.blossom_light_haskell.-punctuation-bracket {color: #976153}
 .blossom_light_haskell.-function-call {color: #b3816a}
 .blossom_light_haskell.-keyword-directive {color: #738199}
 .blossom_light_haskell.-module {color: #8779a8}
 .blossom_light_haskell.-comment {color: #b2aba8}
+.blossom_light_haskell.-variable-member {color: #8779a8}
 .blossom_light_haskell.Include {color: #b3816a}
 .blossom_light_haskell.-number {color: #a87678}
 .blossom_light_haskell.-keyword {color: #7e8e8e}
 .blossom_light_haskell.-spell {}
 .blossom_light_haskell.-operator {color: #746862}
+.blossom_light_haskell.LineNr {color: #b9b2af}
 .blossom_light_haskell.SignColumn {color: #d1cac7}
 .blossom_light_haskell.-constructor {color: #5e908e}
 .blossom_light_haskell.NonText {color: #d1cac7}
 .blossom_light_haskell.SpecialChar {color: #976153}
-.blossom_light_haskell.-variable-member {color: #8779a8}
-.blossom_light_haskell.-punctuation-bracket {color: #976153}
 .blossom_light_haskell.-variable {color: #746862}
+.blossom_light_haskell.-variable-parameter {color: #8779a8}
+.blossom_light_haskell.Type {color: #738199}
 .blossom_light_haskell.-function {color: #b3816a}

@@ -1,22 +1,22 @@
 .chadtain_haskell.boxbg {background-color: #1a2026; color: #bebebe}
-.chadtain_haskell.-variable-parameter {color: #ac8a8c}
-.chadtain_haskell.LineNr {color: #42484e}
 .chadtain_haskell.-punctuation-delimiter {color: #ac8a8c}
-.chadtain_haskell.Type {color: #aca98a}
+.chadtain_haskell.-punctuation-bracket {color: #ac8a8c}
 .chadtain_haskell.-function-call {color: #7797b7}
 .chadtain_haskell.-keyword-directive {color: #aca98a}
 .chadtain_haskell.-module {color: #ac8a8c}
 .chadtain_haskell.-comment {color: #474d53}
+.chadtain_haskell.-variable-member {color: #ac8a8c}
 .chadtain_haskell.Include {color: #7797b7}
 .chadtain_haskell.-number {color: #c9938a}
 .chadtain_haskell.-keyword {color: #948fb1}
 .chadtain_haskell.-spell {}
 .chadtain_haskell.-operator {color: #bebebe}
+.chadtain_haskell.LineNr {color: #42484e}
 .chadtain_haskell.SignColumn {color: #2e343a}
 .chadtain_haskell.-constructor {color: #8aabac}
 .chadtain_haskell.NonText {color: #2e343a}
 .chadtain_haskell.SpecialChar {color: #ac8a8c}
-.chadtain_haskell.-variable-member {color: #ac8a8c}
-.chadtain_haskell.-punctuation-bracket {color: #ac8a8c}
 .chadtain_haskell.-variable {color: #bebebe}
+.chadtain_haskell.-variable-parameter {color: #ac8a8c}
+.chadtain_haskell.Type {color: #aca98a}
 .chadtain_haskell.-function {color: #7797b7}

@@ -1,13 +1,12 @@
 .chadracula_python.boxbg {background-color: #282936; color: #e9e9f4}
-.chadracula_python.-variable-parameter {color: #c197fd}
-.chadracula_python.LineNr {color: #5e5f69}
 .chadracula_python.-punctuation-delimiter {color: #f8f8f2}
 .chadracula_python.-punctuation-bracket {color: #f8f8f2}
+.chadracula_python.Type {color: #62d6e8}
 .chadracula_python.-none {}
-.chadracula_python.-module {color: #c197fd}
 .chadracula_python.-keyword-conditional {color: #ff86d3}
 .chadracula_python.-keyword-operator {color: #ff86d3}
-.chadracula_python.-keyword-function {color: #ff86d3}
+.chadracula_python.-module {color: #c197fd}
+.chadracula_python.-variable-member {color: #c197fd}
 .chadracula_python.Include {color: #50fa7b}
 .chadracula_python.-string {color: #f1fa8c}
 .chadracula_python.Boolean {color: #ffb86c}
@@ -15,10 +14,11 @@
 .chadracula_python.NonText {color: #626483}
 .chadracula_python.Special {color: #8be9fd}
 .chadracula_python.-operator {color: #e9e9f4}
+.chadracula_python.LineNr {color: #5e5f69}
 .chadracula_python.SignColumn {color: #626483}
-.chadracula_python.-function-method {color: #50fa7b}
-.chadracula_python.-variable-member {color: #c197fd}
+.chadracula_python.-variable-parameter {color: #c197fd}
+.chadracula_python.-keyword-function {color: #ff86d3}
 .chadracula_python.-variable {color: #e9e9f4}
-.chadracula_python.Type {color: #62d6e8}
+.chadracula_python.-function-method {color: #50fa7b}
 .chadracula_python.-variable-builtin {color: #ffb86c}
 .chadracula_python.-function {color: #50fa7b}

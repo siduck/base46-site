@@ -1,17 +1,17 @@
 .tundra_go.boxbg {background-color: #111827; color: #f3f4f6}
-.tundra_go.LineNr {color: #3e4554}
-.tundra_go.-keyword {color: #fca5a5}
-.tundra_go.NonText {color: #323948}
 .tundra_go.-punctuation-delimiter {color: #9ca3af}
-.tundra_go.Type {color: #fecdd3}
+.tundra_go.-keyword {color: #fca5a5}
 .tundra_go.-function-call {color: #bae6fd}
+.tundra_go.-property {color: #ddd6fe}
+.tundra_go.Type {color: #fecdd3}
+.tundra_go.LineNr {color: #3e4554}
 .tundra_go.-operator {color: #f3f4f6}
-.tundra_go.-variable {color: #f3f4f6}
+.tundra_go.NonText {color: #323948}
 .tundra_go.SignColumn {color: #323948}
 .tundra_go.Label {color: #fbc19d}
+.tundra_go.-punctuation-bracket {color: #9ca3af}
+.tundra_go.-variable-member {color: #ddd6fe}
+.tundra_go.-variable {color: #f3f4f6}
 .tundra_go.-function-method-call {color: #bae6fd}
 .tundra_go.-function-builtin {color: #fbc19d}
-.tundra_go.-variable-member {color: #ddd6fe}
-.tundra_go.-property {color: #ddd6fe}
-.tundra_go.-punctuation-bracket {color: #9ca3af}
 .tundra_go.-number {color: #e8d4b0}

@@ -1,25 +1,25 @@
 .nightfox_c.boxbg {background-color: #192330; color: #c0c8d5}
 .nightfox_c.-variable-parameter {color: #5cc6c8}
-.nightfox_c.LineNr {color: #495360}
-.nightfox_c.-constant-macro {color: #e26886}
-.nightfox_c.-property {color: #e26886}
 .nightfox_c.-punctuation-bracket {color: #c0c8d5}
-.nightfox_c.-function-call {color: #86abdc}
+.nightfox_c.-constant-macro {color: #e26886}
 .nightfox_c.-function-macro {color: #e26886}
+.nightfox_c.-constant {color: #e26886}
 .nightfox_c.-keyword-repeat {color: #dbc074}
-.nightfox_c.-type-builtin {color: #dbc074}
+.nightfox_c.-_parent {}
 .nightfox_c.-keyword-return {color: #9d79d6}
+.nightfox_c.SignColumn {color: #3d4754}
+.nightfox_c.-type-builtin {color: #dbc074}
 .nightfox_c.Include {color: #86abdc}
 .nightfox_c.-string {color: #8ebaa4}
 .nightfox_c.-number {color: #fe9373}
 .nightfox_c.-keyword {color: #5cc6c8}
 .nightfox_c.NonText {color: #3d4754}
 .nightfox_c.-operator {color: #9d79d6}
-.nightfox_c.SignColumn {color: #3d4754}
+.nightfox_c.LineNr {color: #495360}
 .nightfox_c.-string-escape {color: #7ad4d6}
-.nightfox_c.-_parent {}
-.nightfox_c.-constant {color: #e26886}
+.nightfox_c.-function-call {color: #86abdc}
 .nightfox_c.-keyword-directive-define {color: #9d79d6}
+.nightfox_c.-property {color: #e26886}
 .nightfox_c.-variable {color: #c0c8d5}
 .nightfox_c.-punctuation-delimiter {color: #c0c8d5}
 .nightfox_c.Type {color: #dbc074}

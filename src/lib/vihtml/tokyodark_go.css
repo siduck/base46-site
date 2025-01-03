@@ -1,17 +1,17 @@
 .tokyodark_go.boxbg {background-color: #11121d; color: #abb2bf}
-.tokyodark_go.LineNr {color: #474853}
-.tokyodark_go.-keyword {color: #a485dd}
-.tokyodark_go.NonText {color: #282934}
 .tokyodark_go.-punctuation-delimiter {color: #f3627a}
-.tokyodark_go.Type {color: #7199ee}
+.tokyodark_go.-keyword {color: #a485dd}
 .tokyodark_go.-function-call {color: #95c561}
+.tokyodark_go.-property {color: #ee6d85}
+.tokyodark_go.Type {color: #7199ee}
+.tokyodark_go.LineNr {color: #474853}
 .tokyodark_go.-operator {color: #abb2bf}
-.tokyodark_go.-variable {color: #abb2bf}
+.tokyodark_go.NonText {color: #282934}
 .tokyodark_go.SignColumn {color: #282934}
 .tokyodark_go.Label {color: #7199ee}
+.tokyodark_go.-punctuation-bracket {color: #f3627a}
+.tokyodark_go.-variable-member {color: #ee6d85}
+.tokyodark_go.-variable {color: #abb2bf}
 .tokyodark_go.-function-method-call {color: #95c561}
 .tokyodark_go.-function-builtin {color: #95c561}
-.tokyodark_go.-variable-member {color: #ee6d85}
-.tokyodark_go.-property {color: #ee6d85}
-.tokyodark_go.-punctuation-bracket {color: #f3627a}
 .tokyodark_go.-number {color: #7199ee}

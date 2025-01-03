@@ -1,17 +1,17 @@
 .pastelDark_go.boxbg {background-color: #131a21; color: #ced4df}
-.pastelDark_go.LineNr {color: #363d44}
-.pastelDark_go.-keyword {color: #c2a2e3}
-.pastelDark_go.NonText {color: #40474e}
 .pastelDark_go.-punctuation-delimiter {color: #e88e9b}
-.pastelDark_go.Type {color: #f5d595}
+.pastelDark_go.-keyword {color: #c2a2e3}
 .pastelDark_go.-function-call {color: #a3b8ef}
+.pastelDark_go.-property {color: #ef8891}
+.pastelDark_go.Type {color: #f5d595}
+.pastelDark_go.LineNr {color: #363d44}
 .pastelDark_go.-operator {color: #ced4df}
-.pastelDark_go.-variable {color: #ced4df}
+.pastelDark_go.NonText {color: #40474e}
 .pastelDark_go.SignColumn {color: #40474e}
 .pastelDark_go.Label {color: #f5d595}
+.pastelDark_go.-punctuation-bracket {color: #e88e9b}
+.pastelDark_go.-variable-member {color: #ef8891}
+.pastelDark_go.-variable {color: #ced4df}
 .pastelDark_go.-function-method-call {color: #a3b8ef}
 .pastelDark_go.-function-builtin {color: #a3b8ef}
-.pastelDark_go.-variable-member {color: #ef8891}
-.pastelDark_go.-property {color: #ef8891}
-.pastelDark_go.-punctuation-bracket {color: #e88e9b}
 .pastelDark_go.-number {color: #eda685}

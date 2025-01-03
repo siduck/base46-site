@@ -1,22 +1,22 @@
 .falcon_haskell.boxbg {background-color: #020222; color: #eeeef5}
-.falcon_haskell.-variable-parameter {color: #bfdaff}
-.falcon_haskell.LineNr {color: #393959}
 .falcon_haskell.-punctuation-delimiter {color: #dfdfe5}
-.falcon_haskell.Type {color: #dfdfe5}
+.falcon_haskell.-punctuation-bracket {color: #dfdfe5}
 .falcon_haskell.-function-call {color: #ffc552}
 .falcon_haskell.-keyword-directive {color: #ffc552}
 .falcon_haskell.-module {color: #bfdaff}
 .falcon_haskell.-comment {color: #434363}
+.falcon_haskell.-variable-member {color: #bfdaff}
 .falcon_haskell.Include {color: #cfc1b2}
 .falcon_haskell.-number {color: #b4b4b9}
 .falcon_haskell.-keyword {color: #ffc552}
 .falcon_haskell.-spell {}
 .falcon_haskell.-operator {color: #eeeef5}
+.falcon_haskell.LineNr {color: #393959}
 .falcon_haskell.SignColumn {color: #202040}
 .falcon_haskell.-constructor {color: #b4b4b9}
 .falcon_haskell.NonText {color: #202040}
 .falcon_haskell.SpecialChar {color: #dfdfe5}
-.falcon_haskell.-variable-member {color: #bfdaff}
-.falcon_haskell.-punctuation-bracket {color: #dfdfe5}
 .falcon_haskell.-variable {color: #eeeef5}
+.falcon_haskell.-variable-parameter {color: #bfdaff}
+.falcon_haskell.Type {color: #dfdfe5}
 .falcon_haskell.-function {color: #ffc552}

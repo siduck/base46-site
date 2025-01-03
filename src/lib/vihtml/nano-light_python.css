@@ -1,13 +1,12 @@
 .nano-light_python.boxbg {background-color: #ffffff; color: #37474f}
-.nano-light_python.-variable-parameter {color: #37474f}
-.nano-light_python.LineNr {color: #c4c4c4}
 .nano-light_python.-punctuation-delimiter {color: #8497a0}
 .nano-light_python.-punctuation-bracket {color: #8497a0}
+.nano-light_python.Type {color: #673ab7}
 .nano-light_python.-none {}
-.nano-light_python.-module {color: #263238}
 .nano-light_python.-keyword-conditional {color: #37474f}
 .nano-light_python.-keyword-operator {color: #37474f}
-.nano-light_python.-keyword-function {color: #37474f}
+.nano-light_python.-module {color: #263238}
+.nano-light_python.-variable-member {color: #673ab7}
 .nano-light_python.Include {color: #263238}
 .nano-light_python.-string {color: #8497a0}
 .nano-light_python.Boolean {color: #8497a0}
@@ -15,10 +14,11 @@
 .nano-light_python.NonText {color: #c4c4c4}
 .nano-light_python.Special {color: #673ab7}
 .nano-light_python.-operator {color: #37474f}
+.nano-light_python.LineNr {color: #c4c4c4}
 .nano-light_python.SignColumn {color: #c4c4c4}
-.nano-light_python.-function-method {color: #263238}
-.nano-light_python.-variable-member {color: #673ab7}
+.nano-light_python.-variable-parameter {color: #37474f}
+.nano-light_python.-keyword-function {color: #37474f}
 .nano-light_python.-variable {color: #37474f}
-.nano-light_python.Type {color: #673ab7}
+.nano-light_python.-function-method {color: #263238}
 .nano-light_python.-variable-builtin {color: #8497a0}
 .nano-light_python.-function {font-weight: bold; color: #263238}

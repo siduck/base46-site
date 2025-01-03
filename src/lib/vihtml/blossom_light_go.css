@@ -1,17 +1,17 @@
 .blossom_light_go.boxbg {background-color: #e6dfdc; color: #746862}
-.blossom_light_go.LineNr {color: #b9b2af}
-.blossom_light_go.-keyword {color: #7e8e8e}
-.blossom_light_go.NonText {color: #d1cac7}
 .blossom_light_go.-punctuation-delimiter {color: #976153}
-.blossom_light_go.Type {color: #738199}
+.blossom_light_go.-keyword {color: #7e8e8e}
 .blossom_light_go.-function-call {color: #b3816a}
+.blossom_light_go.-property {color: #8779a8}
+.blossom_light_go.Type {color: #738199}
+.blossom_light_go.LineNr {color: #b9b2af}
 .blossom_light_go.-operator {color: #746862}
-.blossom_light_go.-variable {color: #746862}
+.blossom_light_go.NonText {color: #d1cac7}
 .blossom_light_go.SignColumn {color: #d1cac7}
 .blossom_light_go.Label {color: #738199}
+.blossom_light_go.-punctuation-bracket {color: #976153}
+.blossom_light_go.-variable-member {color: #8779a8}
+.blossom_light_go.-variable {color: #746862}
 .blossom_light_go.-function-method-call {color: #b3816a}
 .blossom_light_go.-function-builtin {color: #b3816a}
-.blossom_light_go.-variable-member {color: #8779a8}
-.blossom_light_go.-property {color: #8779a8}
-.blossom_light_go.-punctuation-bracket {color: #976153}
 .blossom_light_go.-number {color: #a87678}

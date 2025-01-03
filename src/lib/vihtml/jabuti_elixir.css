@@ -1,19 +1,19 @@
 .jabuti_elixir.boxbg {background-color: #292a37; color: #c0cbe3}
-.jabuti_elixir.LineNr {color: #50526b}
 .jabuti_elixir.-punctuation-delimiter {color: #8b8da9}
-.jabuti_elixir.-punctuation-bracket {color: #8b8da9}
+.jabuti_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .jabuti_elixir.-function-call {color: #3fc6de}
 .jabuti_elixir.-module {color: #ec6a88}
-.jabuti_elixir.-keyword-function {color: #be95ff}
 .jabuti_elixir.-string {color: #3fdaa4}
 .jabuti_elixir.-ibl-scope-char-1 {color: #67698a}
 .jabuti_elixir.-keyword {color: #be95ff}
 .jabuti_elixir.NonText {color: #45475d}
 .jabuti_elixir.Special {color: #ff7eb6}
 .jabuti_elixir.-operator {color: #c0cbe3}
+.jabuti_elixir.LineNr {color: #50526b}
 .jabuti_elixir.SignColumn {color: #45475d}
 .jabuti_elixir.SpecialChar {color: #8b8da9}
+.jabuti_elixir.-keyword-function {color: #be95ff}
 .jabuti_elixir.-variable {color: #c0cbe3}
+.jabuti_elixir.-punctuation-bracket {color: #8b8da9}
 .jabuti_elixir.-number {color: #efb993}
-.jabuti_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .jabuti_elixir.-function {color: #3fc6de}

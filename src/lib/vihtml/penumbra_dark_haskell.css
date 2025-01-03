@@ -1,22 +1,22 @@
 .penumbra_dark_haskell.boxbg {background-color: #303338; color: #cecece}
-.penumbra_dark_haskell.-variable-parameter {color: #ce9042}
-.penumbra_dark_haskell.LineNr {color: #5c5f64}
 .penumbra_dark_haskell.-punctuation-delimiter {color: #a1a641}
-.penumbra_dark_haskell.Type {color: #ca7081}
+.penumbra_dark_haskell.-punctuation-bracket {color: #999999}
 .penumbra_dark_haskell.-function-call {color: #7a9bec}
 .penumbra_dark_haskell.-keyword-directive {color: #ca7081}
 .penumbra_dark_haskell.-module {color: #999999}
 .penumbra_dark_haskell.-comment {color: #676a6f}
+.penumbra_dark_haskell.-variable-member {color: #999999}
 .penumbra_dark_haskell.Include {color: #7a9bec}
 .penumbra_dark_haskell.-number {color: #be85d1}
 .penumbra_dark_haskell.-keyword {color: #be85d1}
 .penumbra_dark_haskell.-spell {}
 .penumbra_dark_haskell.-operator {color: #cecece}
+.penumbra_dark_haskell.LineNr {color: #5c5f64}
 .penumbra_dark_haskell.SignColumn {color: #484b50}
 .penumbra_dark_haskell.-constructor {color: #ce9042}
 .penumbra_dark_haskell.NonText {color: #484b50}
 .penumbra_dark_haskell.SpecialChar {color: #a1a641}
-.penumbra_dark_haskell.-variable-member {color: #999999}
-.penumbra_dark_haskell.-punctuation-bracket {color: #999999}
 .penumbra_dark_haskell.-variable {color: #cecece}
+.penumbra_dark_haskell.-variable-parameter {color: #ce9042}
+.penumbra_dark_haskell.Type {color: #ca7081}
 .penumbra_dark_haskell.-function {color: #7a9bec}

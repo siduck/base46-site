@@ -1,13 +1,12 @@
 .tokyodark_python.boxbg {background-color: #11121d; color: #abb2bf}
-.tokyodark_python.-variable-parameter {color: #ee6d85}
-.tokyodark_python.LineNr {color: #474853}
 .tokyodark_python.-punctuation-delimiter {color: #f3627a}
 .tokyodark_python.-punctuation-bracket {color: #f3627a}
+.tokyodark_python.Type {color: #7199ee}
 .tokyodark_python.-none {}
-.tokyodark_python.-module {color: #ee6d85}
 .tokyodark_python.-keyword-conditional {color: #a485dd}
 .tokyodark_python.-keyword-operator {color: #a485dd}
-.tokyodark_python.-keyword-function {color: #a485dd}
+.tokyodark_python.-module {color: #ee6d85}
+.tokyodark_python.-variable-member {color: #ee6d85}
 .tokyodark_python.Include {color: #95c561}
 .tokyodark_python.-string {color: #dfae67}
 .tokyodark_python.Boolean {color: #7199ee}
@@ -15,10 +14,11 @@
 .tokyodark_python.NonText {color: #282934}
 .tokyodark_python.Special {color: #a485dd}
 .tokyodark_python.-operator {color: #abb2bf}
+.tokyodark_python.LineNr {color: #474853}
 .tokyodark_python.SignColumn {color: #282934}
-.tokyodark_python.-function-method {color: #95c561}
-.tokyodark_python.-variable-member {color: #ee6d85}
+.tokyodark_python.-variable-parameter {color: #ee6d85}
+.tokyodark_python.-keyword-function {color: #a485dd}
 .tokyodark_python.-variable {color: #abb2bf}
-.tokyodark_python.Type {color: #7199ee}
+.tokyodark_python.-function-method {color: #95c561}
 .tokyodark_python.-variable-builtin {color: #7199ee}
 .tokyodark_python.-function {color: #95c561}

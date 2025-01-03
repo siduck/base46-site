@@ -1,19 +1,19 @@
 .nano-light_elixir.boxbg {background-color: #ffffff; color: #37474f}
-.nano-light_elixir.LineNr {color: #c4c4c4}
 .nano-light_elixir.-punctuation-delimiter {color: #8497a0}
-.nano-light_elixir.-punctuation-bracket {color: #8497a0}
+.nano-light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .nano-light_elixir.-function-call {font-weight: bold; color: #263238}
 .nano-light_elixir.-module {color: #263238}
-.nano-light_elixir.-keyword-function {color: #37474f}
 .nano-light_elixir.-string {color: #8497a0}
 .nano-light_elixir.-ibl-scope-char-1 {color: #848484}
 .nano-light_elixir.-keyword {color: #673ab7}
 .nano-light_elixir.NonText {color: #c4c4c4}
 .nano-light_elixir.Special {color: #673ab7}
 .nano-light_elixir.-operator {color: #37474f}
+.nano-light_elixir.LineNr {color: #c4c4c4}
 .nano-light_elixir.SignColumn {color: #c4c4c4}
 .nano-light_elixir.SpecialChar {color: #8497a0}
+.nano-light_elixir.-keyword-function {color: #37474f}
 .nano-light_elixir.-variable {color: #37474f}
+.nano-light_elixir.-punctuation-bracket {color: #8497a0}
 .nano-light_elixir.-number {color: #8497a0}
-.nano-light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .nano-light_elixir.-function {font-weight: bold; color: #263238}

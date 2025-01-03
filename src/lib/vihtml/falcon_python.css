@@ -1,13 +1,12 @@
 .falcon_python.boxbg {background-color: #020222; color: #eeeef5}
-.falcon_python.-variable-parameter {color: #bfdaff}
-.falcon_python.LineNr {color: #393959}
 .falcon_python.-punctuation-delimiter {color: #dfdfe5}
 .falcon_python.-punctuation-bracket {color: #dfdfe5}
+.falcon_python.Type {color: #dfdfe5}
 .falcon_python.-none {}
-.falcon_python.-module {color: #bfdaff}
 .falcon_python.-keyword-conditional {color: #8bccbf}
 .falcon_python.-keyword-operator {color: #8bccbf}
-.falcon_python.-keyword-function {color: #8bccbf}
+.falcon_python.-module {color: #bfdaff}
+.falcon_python.-variable-member {color: #bfdaff}
 .falcon_python.Include {color: #cfc1b2}
 .falcon_python.-string {color: #c8d0e3}
 .falcon_python.Boolean {color: #b4b4b9}
@@ -15,10 +14,11 @@
 .falcon_python.NonText {color: #202040}
 .falcon_python.Special {color: #b4b4b9}
 .falcon_python.-operator {color: #eeeef5}
+.falcon_python.LineNr {color: #393959}
 .falcon_python.SignColumn {color: #202040}
-.falcon_python.-function-method {color: #ffc552}
-.falcon_python.-variable-member {color: #bfdaff}
+.falcon_python.-variable-parameter {color: #bfdaff}
+.falcon_python.-keyword-function {color: #8bccbf}
 .falcon_python.-variable {color: #eeeef5}
-.falcon_python.Type {color: #dfdfe5}
+.falcon_python.-function-method {color: #ffc552}
 .falcon_python.-variable-builtin {color: #b4b4b9}
 .falcon_python.-function {color: #ffc552}

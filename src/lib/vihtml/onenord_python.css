@@ -1,13 +1,12 @@
 .onenord_python.boxbg {background-color: #2a303c; color: #bfc5d0}
-.onenord_python.-variable-parameter {color: #d57780}
-.onenord_python.LineNr {color: #4d535f}
 .onenord_python.-punctuation-delimiter {color: #d57780}
 .onenord_python.-punctuation-bracket {color: #d57780}
+.onenord_python.Type {color: #ebcb8b}
 .onenord_python.-none {}
-.onenord_python.-module {color: #d57780}
 .onenord_python.-keyword-conditional {color: #b48ead}
 .onenord_python.-keyword-operator {color: #b48ead}
-.onenord_python.-keyword-function {color: #b48ead}
+.onenord_python.-module {color: #d57780}
+.onenord_python.-variable-member {color: #d57780}
 .onenord_python.Include {color: #81a1c1}
 .onenord_python.-string {color: #a3be8c}
 .onenord_python.Boolean {color: #e39a83}
@@ -15,10 +14,11 @@
 .onenord_python.NonText {color: #4c566a}
 .onenord_python.Special {color: #97b7d7}
 .onenord_python.-operator {color: #bfc5d0}
+.onenord_python.LineNr {color: #4d535f}
 .onenord_python.SignColumn {color: #4c566a}
-.onenord_python.-function-method {color: #81a1c1}
-.onenord_python.-variable-member {color: #d57780}
+.onenord_python.-variable-parameter {color: #d57780}
+.onenord_python.-keyword-function {color: #b48ead}
 .onenord_python.-variable {color: #bfc5d0}
-.onenord_python.Type {color: #ebcb8b}
+.onenord_python.-function-method {color: #81a1c1}
 .onenord_python.-variable-builtin {color: #e39a83}
 .onenord_python.-function {color: #81a1c1}

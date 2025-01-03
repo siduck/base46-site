@@ -1,22 +1,22 @@
 .vscode_dark_haskell.boxbg {background-color: #1e1e1e; color: #d4d4d4}
-.vscode_dark_haskell.-variable-parameter {color: #569cd6}
-.vscode_dark_haskell.LineNr {color: #444444}
 .vscode_dark_haskell.-punctuation-delimiter {color: #e9e9e9}
-.vscode_dark_haskell.Type {color: #d7ba7d}
+.vscode_dark_haskell.-punctuation-bracket {color: #e9e9e9}
 .vscode_dark_haskell.-function-call {color: #dcdcaa}
 .vscode_dark_haskell.-keyword-directive {color: #d7ba7d}
 .vscode_dark_haskell.-module {color: #d16969}
 .vscode_dark_haskell.-comment {color: #4e4e4e}
+.vscode_dark_haskell.-variable-member {color: #d16969}
 .vscode_dark_haskell.Include {color: #dcdcaa}
 .vscode_dark_haskell.-number {color: #b5cea8}
 .vscode_dark_haskell.-keyword {color: #569cd6}
 .vscode_dark_haskell.-spell {}
 .vscode_dark_haskell.-operator {color: #d4d4d4}
+.vscode_dark_haskell.LineNr {color: #444444}
 .vscode_dark_haskell.SignColumn {color: #3c3c3c}
 .vscode_dark_haskell.-constructor {color: #9cdcfe}
 .vscode_dark_haskell.NonText {color: #3c3c3c}
 .vscode_dark_haskell.SpecialChar {color: #e9e9e9}
-.vscode_dark_haskell.-variable-member {color: #d16969}
-.vscode_dark_haskell.-punctuation-bracket {color: #e9e9e9}
 .vscode_dark_haskell.-variable {color: #9cdcfe}
+.vscode_dark_haskell.-variable-parameter {color: #569cd6}
+.vscode_dark_haskell.Type {color: #d7ba7d}
 .vscode_dark_haskell.-function {color: #dcdcaa}

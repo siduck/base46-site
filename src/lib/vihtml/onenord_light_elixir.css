@@ -1,19 +1,19 @@
 .onenord_light_elixir.boxbg {background-color: #d8dee9; color: #3e4450}
-.onenord_light_elixir.LineNr {color: #a9afba}
 .onenord_light_elixir.-punctuation-delimiter {color: #a3454e}
-.onenord_light_elixir.-punctuation-bracket {color: #5b7b9b}
+.onenord_light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .onenord_light_elixir.-function-call {color: #3f5f7f}
 .onenord_light_elixir.-module {color: #a3454e}
-.onenord_light_elixir.-keyword-function {color: #8d6786}
 .onenord_light_elixir.-string {color: #75905e}
 .onenord_light_elixir.-ibl-scope-char-1 {color: #8b919c}
 .onenord_light_elixir.-keyword {color: #8d6786}
 .onenord_light_elixir.NonText {color: #dfdfe0}
 .onenord_light_elixir.Special {color: #5b7b9b}
 .onenord_light_elixir.-operator {color: #3e4450}
+.onenord_light_elixir.LineNr {color: #a9afba}
 .onenord_light_elixir.SignColumn {color: #dfdfe0}
 .onenord_light_elixir.SpecialChar {color: #a3454e}
+.onenord_light_elixir.-keyword-function {color: #8d6786}
 .onenord_light_elixir.-variable {color: #3e4450}
+.onenord_light_elixir.-punctuation-bracket {color: #5b7b9b}
 .onenord_light_elixir.-number {color: #b46b54}
-.onenord_light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .onenord_light_elixir.-function {color: #3f5f7f}

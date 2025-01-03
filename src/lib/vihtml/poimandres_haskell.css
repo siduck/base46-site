@@ -1,22 +1,22 @@
 .poimandres_haskell.boxbg {background-color: #1b1e28; color: #a6accd}
-.poimandres_haskell.-variable-parameter {color: #a6accd}
-.poimandres_haskell.LineNr {color: #48506a}
 .poimandres_haskell.-punctuation-delimiter {color: #add7ff}
-.poimandres_haskell.Type {color: #a6accd}
+.poimandres_haskell.-punctuation-bracket {color: #a6accd}
 .poimandres_haskell.-function-call {color: #a6accd}
 .poimandres_haskell.-keyword-directive {color: #5de4c7}
 .poimandres_haskell.-module {color: #a6accd}
 .poimandres_haskell.-comment {color: #515977}
+.poimandres_haskell.-variable-member {color: #a6accd}
 .poimandres_haskell.Include {color: #89ddff}
 .poimandres_haskell.-number {color: #d0679d}
 .poimandres_haskell.-keyword {color: #91b4d5}
 .poimandres_haskell.-spell {}
 .poimandres_haskell.-operator {color: #91b4d5}
+.poimandres_haskell.LineNr {color: #48506a}
 .poimandres_haskell.SignColumn {color: #3b4258}
 .poimandres_haskell.-constructor {color: #515977}
 .poimandres_haskell.NonText {color: #3b4258}
 .poimandres_haskell.SpecialChar {color: #ffffff}
-.poimandres_haskell.-variable-member {color: #a6accd}
-.poimandres_haskell.-punctuation-bracket {color: #a6accd}
 .poimandres_haskell.-variable {color: #ffffff}
+.poimandres_haskell.-variable-parameter {color: #a6accd}
+.poimandres_haskell.Type {color: #a6accd}
 .poimandres_haskell.-function {color: #add7ff}

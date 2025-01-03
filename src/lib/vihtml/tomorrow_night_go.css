@@ -1,17 +1,17 @@
 .tomorrow_night_go.boxbg {background-color: #1d1f21; color: #c5c8c6}
-.tomorrow_night_go.LineNr {color: #434547}
-.tomorrow_night_go.-keyword {color: #b294bb}
-.tomorrow_night_go.NonText {color: #969896}
 .tomorrow_night_go.-punctuation-delimiter {color: #a3685a}
-.tomorrow_night_go.Type {color: #f0c674}
+.tomorrow_night_go.-keyword {color: #b294bb}
 .tomorrow_night_go.-function-call {color: #81a2be}
+.tomorrow_night_go.-property {color: #cc6666}
+.tomorrow_night_go.Type {color: #f0c674}
+.tomorrow_night_go.LineNr {color: #434547}
 .tomorrow_night_go.-operator {color: #c5c8c6}
-.tomorrow_night_go.-variable {color: #c5c8c6}
+.tomorrow_night_go.NonText {color: #969896}
 .tomorrow_night_go.SignColumn {color: #969896}
 .tomorrow_night_go.Label {color: #f0c674}
+.tomorrow_night_go.-punctuation-bracket {color: #a3685a}
+.tomorrow_night_go.-variable-member {color: #cc6666}
+.tomorrow_night_go.-variable {color: #c5c8c6}
 .tomorrow_night_go.-function-method-call {color: #81a2be}
 .tomorrow_night_go.-function-builtin {color: #d7bd8d}
-.tomorrow_night_go.-variable-member {color: #cc6666}
-.tomorrow_night_go.-property {color: #cc6666}
-.tomorrow_night_go.-punctuation-bracket {color: #a3685a}
 .tomorrow_night_go.-number {color: #de935f}

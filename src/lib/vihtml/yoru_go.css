@@ -1,17 +1,17 @@
 .yoru_go.boxbg {background-color: #0c0e0f; color: #edeff0}
-.yoru_go.LineNr {color: #343637}
-.yoru_go.-keyword {color: #c58cec}
-.yoru_go.NonText {color: #1f2122}
 .yoru_go.-punctuation-delimiter {color: #e8646a}
-.yoru_go.Type {color: #e79881}
+.yoru_go.-keyword {color: #c58cec}
 .yoru_go.-function-call {color: #709ad2}
+.yoru_go.-property {color: #f26e74}
+.yoru_go.Type {color: #e79881}
+.yoru_go.LineNr {color: #343637}
 .yoru_go.-operator {color: #edeff0}
-.yoru_go.-variable {color: #edeff0}
+.yoru_go.NonText {color: #1f2122}
 .yoru_go.SignColumn {color: #1f2122}
 .yoru_go.Label {color: #e79881}
+.yoru_go.-punctuation-bracket {color: #e8646a}
+.yoru_go.-variable-member {color: #f26e74}
+.yoru_go.-variable {color: #edeff0}
 .yoru_go.-function-method-call {color: #709ad2}
 .yoru_go.-function-builtin {color: #709ad2}
-.yoru_go.-variable-member {color: #f26e74}
-.yoru_go.-property {color: #f26e74}
-.yoru_go.-punctuation-bracket {color: #e8646a}
 .yoru_go.-number {color: #ecd28b}

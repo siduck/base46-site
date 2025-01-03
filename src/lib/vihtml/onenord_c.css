@@ -1,25 +1,25 @@
 .onenord_c.boxbg {background-color: #2a303c; color: #bfc5d0}
 .onenord_c.-variable-parameter {color: #d57780}
-.onenord_c.LineNr {color: #4d535f}
-.onenord_c.-constant-macro {color: #d57780}
-.onenord_c.-property {color: #d57780}
 .onenord_c.-punctuation-bracket {color: #d57780}
-.onenord_c.-function-call {color: #81a1c1}
+.onenord_c.-constant-macro {color: #d57780}
 .onenord_c.-function-macro {color: #d57780}
+.onenord_c.-constant {color: #d57780}
 .onenord_c.-keyword-repeat {color: #ebcb8b}
-.onenord_c.-type-builtin {color: #ebcb8b}
+.onenord_c.-_parent {}
 .onenord_c.-keyword-return {color: #b48ead}
+.onenord_c.SignColumn {color: #4c566a}
+.onenord_c.-type-builtin {color: #ebcb8b}
 .onenord_c.Include {color: #81a1c1}
 .onenord_c.-string {color: #a3be8c}
 .onenord_c.-number {color: #e39a83}
 .onenord_c.-keyword {color: #b48ead}
 .onenord_c.NonText {color: #4c566a}
 .onenord_c.-operator {color: #bfc5d0}
-.onenord_c.SignColumn {color: #4c566a}
+.onenord_c.LineNr {color: #4d535f}
 .onenord_c.-string-escape {color: #97b7d7}
-.onenord_c.-_parent {}
-.onenord_c.-constant {color: #d57780}
+.onenord_c.-function-call {color: #81a1c1}
 .onenord_c.-keyword-directive-define {color: #b48ead}
+.onenord_c.-property {color: #d57780}
 .onenord_c.-variable {color: #bfc5d0}
 .onenord_c.-punctuation-delimiter {color: #d57780}
 .onenord_c.Type {color: #ebcb8b}

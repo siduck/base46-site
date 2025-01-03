@@ -1,19 +1,19 @@
 .everforest_elixir.boxbg {background-color: #2b3339; color: #d3c6aa}
-.everforest_elixir.LineNr {color: #4e565c}
 .everforest_elixir.-punctuation-delimiter {color: #d699b6}
-.everforest_elixir.-punctuation-bracket {color: #d699b6}
+.everforest_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .everforest_elixir.-function-call {color: #a7c080}
 .everforest_elixir.-module {color: #7fbbb3}
-.everforest_elixir.-keyword-function {color: #e67e80}
 .everforest_elixir.-string {color: #dbbc7f}
 .everforest_elixir.-ibl-scope-char-1 {color: #656d73}
 .everforest_elixir.-keyword {color: #e67e80}
 .everforest_elixir.NonText {color: #424a50}
 .everforest_elixir.Special {color: #e69875}
 .everforest_elixir.-operator {color: #d3c6aa}
+.everforest_elixir.LineNr {color: #4e565c}
 .everforest_elixir.SignColumn {color: #424a50}
 .everforest_elixir.SpecialChar {color: #d699b6}
+.everforest_elixir.-keyword-function {color: #e67e80}
 .everforest_elixir.-variable {color: #d3c6aa}
+.everforest_elixir.-punctuation-bracket {color: #d699b6}
 .everforest_elixir.-number {color: #d699b6}
-.everforest_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .everforest_elixir.-function {color: #a7c080}

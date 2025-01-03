@@ -1,17 +1,17 @@
 .github_dark_go.boxbg {background-color: #24292e; color: #c9d1d9}
-.github_dark_go.LineNr {color: #4c5156}
-.github_dark_go.-keyword {color: #ff7f8d}
-.github_dark_go.NonText {color: #42474c}
 .github_dark_go.-punctuation-delimiter {color: #85e89d}
-.github_dark_go.Type {color: #ffdf5d}
+.github_dark_go.-keyword {color: #ff7f8d}
 .github_dark_go.-function-call {color: #6ab1f0}
+.github_dark_go.-property {color: #b392e9}
+.github_dark_go.Type {color: #ffdf5d}
+.github_dark_go.LineNr {color: #4c5156}
 .github_dark_go.-operator {color: #c9d1d9}
-.github_dark_go.-variable {color: #c9d1d9}
+.github_dark_go.NonText {color: #42474c}
 .github_dark_go.SignColumn {color: #42474c}
 .github_dark_go.Label {color: #ffdf5d}
+.github_dark_go.-punctuation-bracket {color: #ffab70}
+.github_dark_go.-variable-member {color: #b392e9}
+.github_dark_go.-variable {color: #c9d1d9}
 .github_dark_go.-function-method-call {color: #6ab1f0}
 .github_dark_go.-function-builtin {color: #6ab1f0}
-.github_dark_go.-variable-member {color: #b392e9}
-.github_dark_go.-property {color: #b392e9}
-.github_dark_go.-punctuation-bracket {color: #ffab70}
 .github_dark_go.-number {color: #ffab70}

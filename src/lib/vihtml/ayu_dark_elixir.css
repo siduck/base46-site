@@ -1,19 +1,19 @@
 .ayu_dark_elixir.boxbg {background-color: #0b0e14; color: #c9c7be}
-.ayu_dark_elixir.LineNr {color: #33363c}
 .ayu_dark_elixir.-punctuation-delimiter {color: #cba6f7}
-.ayu_dark_elixir.-punctuation-bracket {color: #cba6f7}
+.ayu_dark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .ayu_dark_elixir.-function-call {color: #f07174}
 .ayu_dark_elixir.-module {color: #c9c7be}
-.ayu_dark_elixir.-keyword-function {color: #ffb454}
 .ayu_dark_elixir.-string {color: #aad84c}
 .ayu_dark_elixir.-ibl-scope-char-1 {color: #54575d}
 .ayu_dark_elixir.-keyword {color: #ffb454}
 .ayu_dark_elixir.NonText {color: #2b2e34}
 .ayu_dark_elixir.Special {color: #ffb454}
 .ayu_dark_elixir.-operator {color: #c9c7be}
+.ayu_dark_elixir.LineNr {color: #33363c}
 .ayu_dark_elixir.SignColumn {color: #2b2e34}
 .ayu_dark_elixir.SpecialChar {color: #cba6f7}
+.ayu_dark_elixir.-keyword-function {color: #ffb454}
 .ayu_dark_elixir.-variable {color: #c9c7be}
+.ayu_dark_elixir.-punctuation-bracket {color: #cba6f7}
 .ayu_dark_elixir.-number {color: #ffee99}
-.ayu_dark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .ayu_dark_elixir.-function {color: #ffa455}

@@ -1,25 +1,25 @@
 .tokyodark_c.boxbg {background-color: #11121d; color: #abb2bf}
 .tokyodark_c.-variable-parameter {color: #ee6d85}
-.tokyodark_c.LineNr {color: #474853}
-.tokyodark_c.-constant-macro {color: #ee6d85}
-.tokyodark_c.-property {color: #ee6d85}
 .tokyodark_c.-punctuation-bracket {color: #f3627a}
-.tokyodark_c.-function-call {color: #95c561}
+.tokyodark_c.-constant-macro {color: #ee6d85}
 .tokyodark_c.-function-macro {color: #ee6d85}
+.tokyodark_c.-constant {color: #ee6d85}
 .tokyodark_c.-keyword-repeat {color: #7199ee}
-.tokyodark_c.-type-builtin {color: #7199ee}
+.tokyodark_c.-_parent {}
 .tokyodark_c.-keyword-return {color: #a485dd}
+.tokyodark_c.SignColumn {color: #282934}
+.tokyodark_c.-type-builtin {color: #7199ee}
 .tokyodark_c.Include {color: #95c561}
 .tokyodark_c.-string {color: #dfae67}
 .tokyodark_c.-number {color: #7199ee}
 .tokyodark_c.-keyword {color: #a485dd}
 .tokyodark_c.NonText {color: #282934}
 .tokyodark_c.-operator {color: #abb2bf}
-.tokyodark_c.SignColumn {color: #282934}
+.tokyodark_c.LineNr {color: #474853}
 .tokyodark_c.-string-escape {color: #a485dd}
-.tokyodark_c.-_parent {}
-.tokyodark_c.-constant {color: #ee6d85}
+.tokyodark_c.-function-call {color: #95c561}
 .tokyodark_c.-keyword-directive-define {color: #a485dd}
+.tokyodark_c.-property {color: #ee6d85}
 .tokyodark_c.-variable {color: #abb2bf}
 .tokyodark_c.-punctuation-delimiter {color: #f3627a}
 .tokyodark_c.Type {color: #7199ee}

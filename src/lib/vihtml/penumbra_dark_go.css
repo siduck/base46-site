@@ -1,17 +1,17 @@
 .penumbra_dark_go.boxbg {background-color: #303338; color: #cecece}
-.penumbra_dark_go.LineNr {color: #5c5f64}
-.penumbra_dark_go.-keyword {color: #be85d1}
-.penumbra_dark_go.NonText {color: #484b50}
 .penumbra_dark_go.-punctuation-delimiter {color: #a1a641}
-.penumbra_dark_go.Type {color: #ca7081}
+.penumbra_dark_go.-keyword {color: #be85d1}
 .penumbra_dark_go.-function-call {color: #7a9bec}
+.penumbra_dark_go.-property {color: #999999}
+.penumbra_dark_go.Type {color: #ca7081}
+.penumbra_dark_go.LineNr {color: #5c5f64}
 .penumbra_dark_go.-operator {color: #cecece}
-.penumbra_dark_go.-variable {color: #cecece}
+.penumbra_dark_go.NonText {color: #484b50}
 .penumbra_dark_go.SignColumn {color: #484b50}
 .penumbra_dark_go.Label {color: #ca7081}
+.penumbra_dark_go.-punctuation-bracket {color: #999999}
+.penumbra_dark_go.-variable-member {color: #999999}
+.penumbra_dark_go.-variable {color: #cecece}
 .penumbra_dark_go.-function-method-call {color: #7a9bec}
 .penumbra_dark_go.-function-builtin {color: #7a9bec}
-.penumbra_dark_go.-variable-member {color: #999999}
-.penumbra_dark_go.-property {color: #999999}
-.penumbra_dark_go.-punctuation-bracket {color: #999999}
 .penumbra_dark_go.-number {color: #be85d1}

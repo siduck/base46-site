@@ -1,17 +1,17 @@
 .ashes_go.boxbg {background-color: #1c2023; color: #c7ccd1}
-.ashes_go.LineNr {color: #44484b}
-.ashes_go.-keyword {color: #c795ae}
-.ashes_go.NonText {color: #44484b}
 .ashes_go.-punctuation-delimiter {color: #c79595}
-.ashes_go.Type {color: #aec795}
+.ashes_go.-keyword {color: #c795ae}
 .ashes_go.-function-call {color: #ae95c7}
+.ashes_go.-property {color: #c7ae95}
+.ashes_go.Type {color: #aec795}
+.ashes_go.LineNr {color: #44484b}
 .ashes_go.-operator {color: #c7ccd1}
-.ashes_go.-variable {color: #c7ccd1}
+.ashes_go.NonText {color: #44484b}
 .ashes_go.SignColumn {color: #44484b}
 .ashes_go.Label {color: #aec795}
+.ashes_go.-punctuation-bracket {color: #c79595}
+.ashes_go.-variable-member {color: #c7ae95}
+.ashes_go.-variable {color: #c7ccd1}
 .ashes_go.-function-method-call {color: #ae95c7}
 .ashes_go.-function-builtin {color: #ae95c7}
-.ashes_go.-variable-member {color: #c7ae95}
-.ashes_go.-property {color: #c7ae95}
-.ashes_go.-punctuation-bracket {color: #c79595}
 .ashes_go.-number {color: #c7c795}

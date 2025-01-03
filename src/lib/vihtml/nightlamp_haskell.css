@@ -1,22 +1,22 @@
 .nightlamp_haskell.boxbg {background-color: #18191f; color: #b8af9e}
-.nightlamp_haskell.-variable-parameter {color: #b8aad9}
-.nightlamp_haskell.LineNr {color: #3d3e44}
 .nightlamp_haskell.-punctuation-delimiter {color: #90a0a0}
-.nightlamp_haskell.Type {color: #ccb89c}
+.nightlamp_haskell.-punctuation-bracket {color: #90a0a0}
 .nightlamp_haskell.-function-call {color: #b58385}
 .nightlamp_haskell.-keyword-directive {color: #ccb89c}
 .nightlamp_haskell.-module {color: #b8aad9}
 .nightlamp_haskell.-comment {color: #48494f}
+.nightlamp_haskell.-variable-member {color: #b8aad9}
 .nightlamp_haskell.Include {color: #b58385}
 .nightlamp_haskell.-number {color: #cd9672}
 .nightlamp_haskell.-keyword {color: #8e9cb4}
 .nightlamp_haskell.-spell {}
 .nightlamp_haskell.-operator {color: #b8af9e}
+.nightlamp_haskell.LineNr {color: #3d3e44}
 .nightlamp_haskell.SignColumn {color: #3c3d43}
 .nightlamp_haskell.-constructor {color: #7aacaa}
 .nightlamp_haskell.NonText {color: #3c3d43}
 .nightlamp_haskell.SpecialChar {color: #90a0a0}
-.nightlamp_haskell.-variable-member {color: #b8aad9}
-.nightlamp_haskell.-punctuation-bracket {color: #90a0a0}
 .nightlamp_haskell.-variable {color: #b8af9e}
+.nightlamp_haskell.-variable-parameter {color: #b8aad9}
+.nightlamp_haskell.Type {color: #ccb89c}
 .nightlamp_haskell.-function {color: #b58385}

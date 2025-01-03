@@ -1,17 +1,17 @@
 .mountain_go.boxbg {background-color: #0f0f0f; color: #d8d8d8}
-.mountain_go.LineNr {color: #373737}
-.mountain_go.-keyword {color: #ac8aac}
-.mountain_go.NonText {color: #222222}
 .mountain_go.-punctuation-delimiter {color: #b39193}
-.mountain_go.Type {color: #b1ae8f}
+.mountain_go.-keyword {color: #ac8aac}
 .mountain_go.-function-call {color: #a5a0c2}
+.mountain_go.-property {color: #b18f91}
+.mountain_go.Type {color: #b1ae8f}
+.mountain_go.LineNr {color: #373737}
 .mountain_go.-operator {color: #d8d8d8}
-.mountain_go.-variable {color: #d8d8d8}
+.mountain_go.NonText {color: #222222}
 .mountain_go.SignColumn {color: #222222}
 .mountain_go.Label {color: #b1ae8f}
+.mountain_go.-punctuation-bracket {color: #b39193}
+.mountain_go.-variable-member {color: #b18f91}
+.mountain_go.-variable {color: #d8d8d8}
 .mountain_go.-function-method-call {color: #a5a0c2}
 .mountain_go.-function-builtin {color: #a5a0c2}
-.mountain_go.-variable-member {color: #b18f91}
-.mountain_go.-property {color: #b18f91}
-.mountain_go.-punctuation-bracket {color: #b39193}
 .mountain_go.-number {color: #d8bb92}

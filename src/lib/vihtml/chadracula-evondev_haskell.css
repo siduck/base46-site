@@ -1,22 +1,22 @@
 .chadracula-evondev_haskell.boxbg {background-color: #141423; color: #e9e9f4}
-.chadracula-evondev_haskell.-variable-parameter {color: #c197fd}
-.chadracula-evondev_haskell.LineNr {color: #414171}
 .chadracula-evondev_haskell.-punctuation-delimiter {color: #7e7eb5}
-.chadracula-evondev_haskell.Type {color: #2cccff}
+.chadracula-evondev_haskell.-punctuation-bracket {color: #7e7eb5}
 .chadracula-evondev_haskell.-function-call {color: #20e3b2}
 .chadracula-evondev_haskell.-keyword-directive {color: #62d6e8}
 .chadracula-evondev_haskell.-module {color: #f8f8f2}
 .chadracula-evondev_haskell.-comment {color: #4b4b83}
+.chadracula-evondev_haskell.-variable-member {color: #c197fd}
 .chadracula-evondev_haskell.Include {color: #ff6bcb}
 .chadracula-evondev_haskell.-number {color: #bd93f9}
 .chadracula-evondev_haskell.-keyword {color: #ff6bcb}
 .chadracula-evondev_haskell.-spell {}
 .chadracula-evondev_haskell.-operator {color: #e9e9f4}
+.chadracula-evondev_haskell.LineNr {color: #414171}
 .chadracula-evondev_haskell.SignColumn {color: #373760}
 .chadracula-evondev_haskell.-constructor {color: #8be9fd}
 .chadracula-evondev_haskell.NonText {color: #373760}
 .chadracula-evondev_haskell.SpecialChar {color: #7e7eb5}
-.chadracula-evondev_haskell.-variable-member {color: #c197fd}
-.chadracula-evondev_haskell.-punctuation-bracket {color: #7e7eb5}
 .chadracula-evondev_haskell.-variable {color: #e9e9f4}
+.chadracula-evondev_haskell.-variable-parameter {color: #c197fd}
+.chadracula-evondev_haskell.Type {color: #2cccff}
 .chadracula-evondev_haskell.-function {color: #50fa7b}

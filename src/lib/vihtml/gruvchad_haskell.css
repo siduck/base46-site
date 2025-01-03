@@ -1,22 +1,22 @@
 .gruvchad_haskell.boxbg {background-color: #1e2122; color: #c0b196}
-.gruvchad_haskell.-variable-parameter {color: #ec6b64}
-.gruvchad_haskell.LineNr {color: #484b4c}
 .gruvchad_haskell.-punctuation-delimiter {color: #d65d0e}
-.gruvchad_haskell.Type {color: #e0c080}
+.gruvchad_haskell.-punctuation-bracket {color: #d65d0e}
 .gruvchad_haskell.-function-call {color: #7daea3}
 .gruvchad_haskell.-keyword-directive {color: #e0c080}
 .gruvchad_haskell.-module {color: #ec6b64}
 .gruvchad_haskell.-comment {color: #575a5b}
+.gruvchad_haskell.-variable-member {color: #ec6b64}
 .gruvchad_haskell.Include {color: #7daea3}
 .gruvchad_haskell.-number {color: #e78a4e}
 .gruvchad_haskell.-keyword {color: #d3869b}
 .gruvchad_haskell.-spell {}
 .gruvchad_haskell.-operator {color: #c0b196}
+.gruvchad_haskell.LineNr {color: #484b4c}
 .gruvchad_haskell.SignColumn {color: #404344}
 .gruvchad_haskell.-constructor {color: #86b17f}
 .gruvchad_haskell.NonText {color: #404344}
 .gruvchad_haskell.SpecialChar {color: #d65d0e}
-.gruvchad_haskell.-variable-member {color: #ec6b64}
-.gruvchad_haskell.-punctuation-bracket {color: #d65d0e}
 .gruvchad_haskell.-variable {color: #c0b196}
+.gruvchad_haskell.-variable-parameter {color: #ec6b64}
+.gruvchad_haskell.Type {color: #e0c080}
 .gruvchad_haskell.-function {color: #7daea3}

@@ -1,13 +1,12 @@
 .yoru_python.boxbg {background-color: #0c0e0f; color: #edeff0}
-.yoru_python.-variable-parameter {color: #f26e74}
-.yoru_python.LineNr {color: #343637}
 .yoru_python.-punctuation-delimiter {color: #e8646a}
 .yoru_python.-punctuation-bracket {color: #e8646a}
+.yoru_python.Type {color: #e79881}
 .yoru_python.-none {}
-.yoru_python.-module {color: #f26e74}
 .yoru_python.-keyword-conditional {color: #c58cec}
 .yoru_python.-keyword-operator {color: #c58cec}
-.yoru_python.-keyword-function {color: #c58cec}
+.yoru_python.-module {color: #f26e74}
+.yoru_python.-variable-member {color: #f26e74}
 .yoru_python.Include {color: #709ad2}
 .yoru_python.-string {color: #82c29c}
 .yoru_python.Boolean {color: #ecd28b}
@@ -15,10 +14,11 @@
 .yoru_python.NonText {color: #1f2122}
 .yoru_python.Special {color: #6791c9}
 .yoru_python.-operator {color: #edeff0}
+.yoru_python.LineNr {color: #343637}
 .yoru_python.SignColumn {color: #1f2122}
-.yoru_python.-function-method {color: #709ad2}
-.yoru_python.-variable-member {color: #f26e74}
+.yoru_python.-variable-parameter {color: #f26e74}
+.yoru_python.-keyword-function {color: #c58cec}
 .yoru_python.-variable {color: #edeff0}
-.yoru_python.Type {color: #e79881}
+.yoru_python.-function-method {color: #709ad2}
 .yoru_python.-variable-builtin {color: #ecd28b}
 .yoru_python.-function {color: #709ad2}

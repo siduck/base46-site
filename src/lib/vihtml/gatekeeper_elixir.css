@@ -1,19 +1,19 @@
 .gatekeeper_elixir.boxbg {background-color: #101010; color: #d8d9dd}
-.gatekeeper_elixir.LineNr {color: #363636}
 .gatekeeper_elixir.-punctuation-delimiter {color: #ffccaa}
-.gatekeeper_elixir.-punctuation-bracket {color: #ffccaa}
+.gatekeeper_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .gatekeeper_elixir.-function-call {color: #c54bcf}
 .gatekeeper_elixir.-module {color: #ffb20f}
-.gatekeeper_elixir.-keyword-function {color: #ff4394}
 .gatekeeper_elixir.-string {color: #00e756}
 .gatekeeper_elixir.-ibl-scope-char-1 {color: #4d4d4d}
 .gatekeeper_elixir.-keyword {color: #ff4394}
 .gatekeeper_elixir.NonText {color: #252525}
 .gatekeeper_elixir.Special {color: #29adff}
 .gatekeeper_elixir.-operator {color: #d8d9dd}
+.gatekeeper_elixir.LineNr {color: #363636}
 .gatekeeper_elixir.SignColumn {color: #252525}
 .gatekeeper_elixir.SpecialChar {color: #ffccaa}
+.gatekeeper_elixir.-keyword-function {color: #ff4394}
 .gatekeeper_elixir.-variable {color: #ffa300}
+.gatekeeper_elixir.-punctuation-bracket {color: #ffccaa}
 .gatekeeper_elixir.-number {color: #ff004d}
-.gatekeeper_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .gatekeeper_elixir.-function {color: #c54bcf}

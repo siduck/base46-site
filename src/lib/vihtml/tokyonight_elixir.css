@@ -1,19 +1,19 @@
 .tokyonight_elixir.boxbg {background-color: #1a1b26; color: #a9b1d6}
-.tokyonight_elixir.LineNr {color: #40486a}
 .tokyonight_elixir.-punctuation-delimiter {color: #f7768e}
-.tokyonight_elixir.-punctuation-bracket {color: #bb9af7}
+.tokyonight_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .tokyonight_elixir.-function-call {color: #7aa2f7}
 .tokyonight_elixir.-module {color: #73daca}
-.tokyonight_elixir.-keyword-function {color: #bb9af7}
 .tokyonight_elixir.-string {color: #9ece6a}
 .tokyonight_elixir.-ibl-scope-char-1 {color: #545c7e}
 .tokyonight_elixir.-keyword {color: #bb9af7}
 .tokyonight_elixir.NonText {color: #444b6a}
 .tokyonight_elixir.Special {color: #b4f9f8}
 .tokyonight_elixir.-operator {color: #a9b1d6}
+.tokyonight_elixir.LineNr {color: #40486a}
 .tokyonight_elixir.SignColumn {color: #444b6a}
 .tokyonight_elixir.SpecialChar {color: #f7768e}
+.tokyonight_elixir.-keyword-function {color: #bb9af7}
 .tokyonight_elixir.-variable {color: #a9b1d6}
+.tokyonight_elixir.-punctuation-bracket {color: #bb9af7}
 .tokyonight_elixir.-number {color: #ff9e64}
-.tokyonight_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
 .tokyonight_elixir.-function {color: #2ac3de}

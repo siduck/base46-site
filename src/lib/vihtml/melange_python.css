@@ -1,13 +1,12 @@
 .melange_python.boxbg {background-color: #2a2520; color: #ece1d7}
-.melange_python.-variable-parameter {color: #ece1d7}
-.melange_python.LineNr {color: #57524d}
 .melange_python.-punctuation-delimiter {color: #8e733f}
 .melange_python.-punctuation-bracket {color: #8e733f}
+.melange_python.Type {color: #99d59d}
 .melange_python.-none {}
-.melange_python.-module {color: #ece1d7}
 .melange_python.-keyword-conditional {color: #e49b5d}
 .melange_python.-keyword-operator {color: #e49b5d}
-.melange_python.-keyword-function {color: #e49b5d}
+.melange_python.-module {color: #ece1d7}
+.melange_python.-variable-member {color: #ece1d7}
 .melange_python.Include {color: #99d59d}
 .melange_python.-string {color: #9aacce}
 .melange_python.Boolean {color: #c47fd5}
@@ -15,10 +14,11 @@
 .melange_python.NonText {color: #4d4843}
 .melange_python.Special {color: #ebc06d}
 .melange_python.-operator {color: #ece1d7}
+.melange_python.LineNr {color: #57524d}
 .melange_python.SignColumn {color: #4d4843}
-.melange_python.-function-method {color: #ebc06d}
-.melange_python.-variable-member {color: #ece1d7}
+.melange_python.-variable-parameter {color: #ece1d7}
+.melange_python.-keyword-function {color: #e49b5d}
 .melange_python.-variable {color: #ece1d7}
-.melange_python.Type {color: #99d59d}
+.melange_python.-function-method {color: #ebc06d}
 .melange_python.-variable-builtin {color: #86a3a3}
 .melange_python.-function {color: #ebc06d}
