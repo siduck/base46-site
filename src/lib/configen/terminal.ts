@@ -85,7 +85,7 @@ const alacritty = (colors: any) => {
 };
 
 const kitty = (colors: any) => {
-  let config = "\n";
+  let config = "";
 
   const format = (color: any, name: any) => `${name} ${color}`;
 
@@ -116,8 +116,52 @@ const kitty = (colors: any) => {
 
   // Add indexed colors (if any)
   if (colors.base0F) {
-    config += format(colors.base0F, "color16") + "\n";
+    config += format(colors.base0F, "color16");
   }
+
+  config = `\n${config}\n`;
+
+  return config;
+};
+
+const ghostty = (colors: any) => {
+  const format = (color: string, name: string) => `${name} = ${color}`;
+
+  let config = "";
+
+  // Generate palette colors for base00 to base0F (0 to 15)
+  const paletteOrder = [
+    "base00",
+    "base01",
+    "base02",
+    "base03",
+    "base04",
+    "base05",
+    "base06",
+    "base07",
+    "base08",
+    "base09",
+    "base0A",
+    "base0B",
+    "base0C",
+    "base0D",
+    "base0E",
+    "base0F",
+  ];
+
+  paletteOrder.forEach((colorKey, i) => {
+    config += `palette = ${i}=${colors[colorKey]}\n`;
+  });
+
+  // Generate background, foreground, cursor, and selection colors
+  config += format(colors.base00, "background") + "\n";
+  config += format(colors.base05, "foreground") + "\n";
+  config += format(colors.base0D, "cursor-color") + "\n";
+  config += format(colors.base03, "selection-background") + "\n";
+  config += format(colors.base05, "selection-foreground");
+
+  // Add newline for readability
+  config = `\n${config}\n`;
 
   return config;
 };
@@ -125,4 +169,5 @@ const kitty = (colors: any) => {
 export const genTerminalConfig = {
   alacritty,
   kitty,
+  ghostty,
 };
