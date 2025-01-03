@@ -15,6 +15,7 @@
     python: "i-lineicons:python",
     ruby: "i-devicon:ruby",
     javascript: "i-devicon:javascript",
+    sh:'i-line-md:hash'
   };
 
   let themes: ThemeData[] = $state([]);
