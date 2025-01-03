@@ -18,7 +18,7 @@
   $effect(() => {
     store.items = store.data.filter((theme: ThemeData) => {
       return theme.name.toLowerCase().startsWith(searchValue.toLowerCase());
-    });
+    }).slice(store.curindex, (store.curindex+1) * store.pagelimit);
   });
 </script>
 

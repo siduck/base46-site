@@ -16,8 +16,6 @@
     python: "i-lineicons:python",
   };
 
-  store.items = store.data.slice(0, 5);
-
   let themes: ThemeData[] = $state([]);
 
   const getComponent = async (theme: string) => {
@@ -60,5 +58,10 @@
     {#each themes as theme}
       <ThemeCard data={theme} lang={cur_lang} />
     {/each}
+  </div>
+
+  <div flexrow my10 mxauto>
+    <button onclick={() => store.curindex -= 1}>Prev Page</button>
+    <button onclick={() => store.curindex += 1}>Next Page</button>
   </div>
 </main>

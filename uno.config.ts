@@ -19,7 +19,7 @@ export default defineConfig({
 
 	theme: {
 		colors: {
-			primary: "#1e293b",
+			primary: "#131a21",
 			pale: "#F6F8FB",
 		},
 	},
