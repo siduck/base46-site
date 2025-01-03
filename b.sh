@@ -1,0 +1,3 @@
+ls
+apt
+uname -a
