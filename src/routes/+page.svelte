@@ -4,16 +4,16 @@
   import { store } from "$lib/store.svelte";
   import type { ThemeData } from "$lib/types";
 
-  let languages = ["rust", "elixir", "go", "python", "c", "haskell"];
   let cur_lang = $state("rust");
 
   const icons = {
-    rust: "i-mdi:language-rust",
+    rust: "i-devicon-rust",
     go: "i-logos:go text-sm",
     elixir: "i-devicon:elixir",
     haskell: "i-devicon:haskell",
     c: "i-devicon:c",
     python: "i-lineicons:python",
+    ruby: "i-devicon:ruby",
   };
 
   let themes: ThemeData[] = $state([]);
@@ -41,7 +41,7 @@
   <Navbar />
 
   <div flexrow>
-    {#each languages as lang}
+    {#each Object.keys(icons) as lang}
       <button
         class={"capitalize btnalt " + (lang == cur_lang
         ? "!bg-slate-2 dark:!bg-slate-6"
