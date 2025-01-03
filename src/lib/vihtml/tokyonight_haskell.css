@@ -1,22 +1,22 @@
 .tokyonight_haskell.boxbg {background-color: #1a1b26; color: #a9b1d6}
 .tokyonight_haskell.-variable-parameter {color: #ff9e64}
-.tokyonight_haskell.-keyword-directive {color: #0db9d7}
-.tokyonight_haskell.-function-call {color: #7aa2f7}
+.tokyonight_haskell.LineNr {color: #40486a}
 .tokyonight_haskell.-punctuation-delimiter {color: #f7768e}
+.tokyonight_haskell.Type {color: #0db9d7}
+.tokyonight_haskell.-function-call {color: #7aa2f7}
+.tokyonight_haskell.-keyword-directive {color: #0db9d7}
 .tokyonight_haskell.-module {color: #73daca}
 .tokyonight_haskell.-comment {color: #565f89}
 .tokyonight_haskell.Include {color: #2ac3de}
 .tokyonight_haskell.-number {color: #ff9e64}
 .tokyonight_haskell.-keyword {color: #bb9af7}
 .tokyonight_haskell.-spell {}
-.tokyonight_haskell.LineNr {color: #40486a}
 .tokyonight_haskell.-operator {color: #a9b1d6}
-.tokyonight_haskell.-punctuation-bracket {color: #bb9af7}
 .tokyonight_haskell.SignColumn {color: #444b6a}
 .tokyonight_haskell.-constructor {color: #b4f9f8}
-.tokyonight_haskell.-variable-member {color: #73daca}
 .tokyonight_haskell.NonText {color: #444b6a}
-.tokyonight_haskell.-variable {color: #a9b1d6}
 .tokyonight_haskell.SpecialChar {color: #f7768e}
-.tokyonight_haskell.Type {color: #0db9d7}
+.tokyonight_haskell.-variable-member {color: #73daca}
+.tokyonight_haskell.-punctuation-bracket {color: #bb9af7}
+.tokyonight_haskell.-variable {color: #a9b1d6}
 .tokyonight_haskell.-function {color: #2ac3de}

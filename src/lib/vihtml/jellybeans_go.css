@@ -1,17 +1,17 @@
 .jellybeans_go.boxbg {background-color: #151515; color: #d9d9c4}
 .jellybeans_go.LineNr {color: #424242}
 .jellybeans_go.-keyword {color: #e18be1}
-.jellybeans_go.-function-call {color: #8fa5cd}
-.jellybeans_go.-property {color: #c6b5da}
-.jellybeans_go.Type {color: #e1b655}
 .jellybeans_go.NonText {color: #424242}
+.jellybeans_go.-punctuation-delimiter {color: #cf6a4c}
+.jellybeans_go.Type {color: #e1b655}
+.jellybeans_go.-function-call {color: #8fa5cd}
 .jellybeans_go.-operator {color: #d9d9c4}
-.jellybeans_go.-punctuation-bracket {color: #cf6a4c}
+.jellybeans_go.-variable {color: #d9d9c4}
 .jellybeans_go.SignColumn {color: #424242}
 .jellybeans_go.Label {color: #e1b655}
-.jellybeans_go.-variable-member {color: #c6b5da}
-.jellybeans_go.-function-builtin {color: #8fa5cd}
-.jellybeans_go.-variable {color: #d9d9c4}
-.jellybeans_go.-punctuation-delimiter {color: #cf6a4c}
 .jellybeans_go.-function-method-call {color: #8fa5cd}
+.jellybeans_go.-function-builtin {color: #8fa5cd}
+.jellybeans_go.-variable-member {color: #c6b5da}
+.jellybeans_go.-property {color: #c6b5da}
+.jellybeans_go.-punctuation-bracket {color: #cf6a4c}
 .jellybeans_go.-number {color: #c99f4a}

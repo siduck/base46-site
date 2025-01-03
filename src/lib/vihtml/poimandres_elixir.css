@@ -1,18 +1,18 @@
 .poimandres_elixir.boxbg {background-color: #1b1e28; color: #a6accd}
 .poimandres_elixir.LineNr {color: #48506a}
-.poimandres_elixir.-function-call {color: #a6accd}
 .poimandres_elixir.-punctuation-delimiter {color: #add7ff}
+.poimandres_elixir.-punctuation-bracket {color: #a6accd}
+.poimandres_elixir.-function-call {color: #a6accd}
 .poimandres_elixir.-module {color: #a6accd}
+.poimandres_elixir.-keyword-function {color: #91b4d5}
 .poimandres_elixir.-string {color: #5de4c7}
 .poimandres_elixir.-ibl-scope-char-1 {color: #657096}
 .poimandres_elixir.-keyword {color: #91b4d5}
 .poimandres_elixir.NonText {color: #3b4258}
 .poimandres_elixir.Special {color: #89ddff}
 .poimandres_elixir.-operator {color: #91b4d5}
-.poimandres_elixir.-punctuation-bracket {color: #a6accd}
 .poimandres_elixir.SignColumn {color: #3b4258}
 .poimandres_elixir.SpecialChar {color: #ffffff}
-.poimandres_elixir.-keyword-function {color: #91b4d5}
 .poimandres_elixir.-variable {color: #ffffff}
 .poimandres_elixir.-number {color: #d0679d}
 .poimandres_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

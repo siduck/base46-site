@@ -1,17 +1,17 @@
 .dark_horizon_go.boxbg {background-color: #0e0e0e; color: #c9c7be}
 .dark_horizon_go.LineNr {color: #363636}
 .dark_horizon_go.-keyword {color: #6be4e6}
-.dark_horizon_go.-function-call {color: #32d5e3}
-.dark_horizon_go.-property {color: #6be4e6}
-.dark_horizon_go.Type {color: #169ac9}
 .dark_horizon_go.NonText {color: #363636}
+.dark_horizon_go.-punctuation-delimiter {color: #fdb830}
+.dark_horizon_go.Type {color: #169ac9}
+.dark_horizon_go.-function-call {color: #32d5e3}
 .dark_horizon_go.-operator {color: #c9c7be}
-.dark_horizon_go.-punctuation-bracket {color: #fdb830}
+.dark_horizon_go.-variable {color: #c9c7be}
 .dark_horizon_go.SignColumn {color: #363636}
 .dark_horizon_go.Label {color: #169ac9}
-.dark_horizon_go.-variable-member {color: #db627e}
-.dark_horizon_go.-function-builtin {color: #32d5e3}
-.dark_horizon_go.-variable {color: #c9c7be}
-.dark_horizon_go.-punctuation-delimiter {color: #fdb830}
 .dark_horizon_go.-function-method-call {color: #32d5e3}
+.dark_horizon_go.-function-builtin {color: #32d5e3}
+.dark_horizon_go.-variable-member {color: #db627e}
+.dark_horizon_go.-property {color: #6be4e6}
+.dark_horizon_go.-punctuation-bracket {color: #fdb830}
 .dark_horizon_go.-number {color: #eaa273}

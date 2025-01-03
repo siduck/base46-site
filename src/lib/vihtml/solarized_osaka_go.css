@@ -1,17 +1,17 @@
 .solarized_osaka_go.boxbg {background-color: #011219; color: #9eabac}
 .solarized_osaka_go.LineNr {color: #405055}
 .solarized_osaka_go.-keyword {color: #849900}
-.solarized_osaka_go.-function-call {color: #268bd2}
-.solarized_osaka_go.-property {color: #268bd2}
-.solarized_osaka_go.Type {color: #b28500}
 .solarized_osaka_go.NonText {color: #044a67}
+.solarized_osaka_go.-punctuation-delimiter {color: #c94c16}
+.solarized_osaka_go.Type {color: #b28500}
+.solarized_osaka_go.-function-call {color: #268bd2}
 .solarized_osaka_go.-operator {color: #849900}
-.solarized_osaka_go.-punctuation-bracket {color: #c94c16}
+.solarized_osaka_go.-variable {color: #9eabac}
 .solarized_osaka_go.SignColumn {color: #044a67}
 .solarized_osaka_go.Label {color: #b28500}
-.solarized_osaka_go.-variable-member {color: #268bd2}
-.solarized_osaka_go.-function-builtin {color: #c94c16}
-.solarized_osaka_go.-variable {color: #9eabac}
-.solarized_osaka_go.-punctuation-delimiter {color: #c94c16}
 .solarized_osaka_go.-function-method-call {color: #268bd2}
+.solarized_osaka_go.-function-builtin {color: #c94c16}
+.solarized_osaka_go.-variable-member {color: #268bd2}
+.solarized_osaka_go.-property {color: #268bd2}
+.solarized_osaka_go.-punctuation-bracket {color: #c94c16}
 .solarized_osaka_go.-number {color: #519aba}

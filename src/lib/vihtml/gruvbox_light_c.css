@@ -1,25 +1,25 @@
 .gruvbox_light_c.boxbg {background-color: #f2e5bc; color: #504945}
 .gruvbox_light_c.-variable-parameter {color: #9d0006}
-.gruvbox_light_c.-keyword-directive-define {color: #8f3f71}
+.gruvbox_light_c.LineNr {color: #c0b38a}
 .gruvbox_light_c.-constant-macro {color: #9d0006}
 .gruvbox_light_c.-property {color: #9d0006}
-.gruvbox_light_c.-constant {color: #9d0006}
-.gruvbox_light_c.-_parent {}
-.gruvbox_light_c.SignColumn {color: #d8cba2}
+.gruvbox_light_c.-punctuation-bracket {color: #d65d0e}
+.gruvbox_light_c.-function-call {color: #076678}
+.gruvbox_light_c.-function-macro {color: #9d0006}
+.gruvbox_light_c.-keyword-repeat {color: #b57614}
 .gruvbox_light_c.-type-builtin {color: #b57614}
+.gruvbox_light_c.-keyword-return {color: #8f3f71}
 .gruvbox_light_c.Include {color: #076678}
 .gruvbox_light_c.-string {color: #79740e}
 .gruvbox_light_c.-number {color: #af3a03}
 .gruvbox_light_c.-keyword {color: #8f3f71}
 .gruvbox_light_c.NonText {color: #d8cba2}
-.gruvbox_light_c.LineNr {color: #c0b38a}
-.gruvbox_light_c.-string-escape {color: #427b58}
 .gruvbox_light_c.-operator {color: #504945}
-.gruvbox_light_c.-punctuation-bracket {color: #d65d0e}
-.gruvbox_light_c.-keyword-repeat {color: #b57614}
-.gruvbox_light_c.-function-call {color: #076678}
-.gruvbox_light_c.-function-macro {color: #9d0006}
-.gruvbox_light_c.-keyword-return {color: #8f3f71}
+.gruvbox_light_c.SignColumn {color: #d8cba2}
+.gruvbox_light_c.-string-escape {color: #427b58}
+.gruvbox_light_c.-_parent {}
+.gruvbox_light_c.-constant {color: #9d0006}
+.gruvbox_light_c.-keyword-directive-define {color: #8f3f71}
 .gruvbox_light_c.-variable {color: #504945}
 .gruvbox_light_c.-punctuation-delimiter {color: #d65d0e}
 .gruvbox_light_c.Type {color: #b57614}

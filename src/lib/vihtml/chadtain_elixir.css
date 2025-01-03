@@ -1,18 +1,18 @@
 .chadtain_elixir.boxbg {background-color: #1a2026; color: #bebebe}
 .chadtain_elixir.LineNr {color: #42484e}
-.chadtain_elixir.-function-call {color: #7797b7}
 .chadtain_elixir.-punctuation-delimiter {color: #ac8a8c}
+.chadtain_elixir.-punctuation-bracket {color: #ac8a8c}
+.chadtain_elixir.-function-call {color: #7797b7}
 .chadtain_elixir.-module {color: #ac8a8c}
+.chadtain_elixir.-keyword-function {color: #948fb1}
 .chadtain_elixir.-string {color: #8aac8b}
 .chadtain_elixir.-ibl-scope-char-1 {color: #565c62}
 .chadtain_elixir.-keyword {color: #948fb1}
 .chadtain_elixir.NonText {color: #2e343a}
 .chadtain_elixir.Special {color: #8aabac}
 .chadtain_elixir.-operator {color: #bebebe}
-.chadtain_elixir.-punctuation-bracket {color: #ac8a8c}
 .chadtain_elixir.SignColumn {color: #2e343a}
 .chadtain_elixir.SpecialChar {color: #ac8a8c}
-.chadtain_elixir.-keyword-function {color: #948fb1}
 .chadtain_elixir.-variable {color: #bebebe}
 .chadtain_elixir.-number {color: #c9938a}
 .chadtain_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

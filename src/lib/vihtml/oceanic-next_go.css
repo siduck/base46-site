@@ -1,17 +1,17 @@
 .oceanic-next_go.boxbg {background-color: #1b2b34; color: #c0c5ce}
 .oceanic-next_go.LineNr {color: #43535c}
 .oceanic-next_go.-keyword {color: #c594c5}
-.oceanic-next_go.-function-call {color: #6699cc}
-.oceanic-next_go.-property {color: #6cbdbc}
-.oceanic-next_go.Type {color: #f99157}
 .oceanic-next_go.NonText {color: #65737e}
+.oceanic-next_go.-punctuation-delimiter {color: #ec5f67}
+.oceanic-next_go.Type {color: #f99157}
+.oceanic-next_go.-function-call {color: #6699cc}
 .oceanic-next_go.-operator {color: #c0c5ce}
-.oceanic-next_go.-punctuation-bracket {color: #ec5f67}
+.oceanic-next_go.-variable {color: #c0c5ce}
 .oceanic-next_go.SignColumn {color: #65737e}
 .oceanic-next_go.Label {color: #f99157}
-.oceanic-next_go.-variable-member {color: #6cbdbc}
-.oceanic-next_go.-function-builtin {color: #6699cc}
-.oceanic-next_go.-variable {color: #c0c5ce}
-.oceanic-next_go.-punctuation-delimiter {color: #ec5f67}
 .oceanic-next_go.-function-method-call {color: #6699cc}
+.oceanic-next_go.-function-builtin {color: #6699cc}
+.oceanic-next_go.-variable-member {color: #6cbdbc}
+.oceanic-next_go.-property {color: #6cbdbc}
+.oceanic-next_go.-punctuation-bracket {color: #ec5f67}
 .oceanic-next_go.-number {color: #fac863}

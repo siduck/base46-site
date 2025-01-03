@@ -1,17 +1,17 @@
 .everforest_light_go.boxbg {background-color: #fff9e8; color: #495157}
 .everforest_light_go.LineNr {color: #b3ad9c}
 .everforest_light_go.-keyword {color: #c85552}
-.everforest_light_go.-function-call {color: #87a060}
-.everforest_light_go.-property {color: #5f9b93}
-.everforest_light_go.Type {color: #8da101}
 .everforest_light_go.NonText {color: #e5dfce}
+.everforest_light_go.-punctuation-delimiter {color: #c85552}
+.everforest_light_go.Type {color: #8da101}
+.everforest_light_go.-function-call {color: #87a060}
 .everforest_light_go.-operator {color: #495157}
-.everforest_light_go.-punctuation-bracket {color: #c85552}
+.everforest_light_go.-variable {color: #495157}
 .everforest_light_go.SignColumn {color: #e5dfce}
 .everforest_light_go.Label {color: #8da101}
-.everforest_light_go.-variable-member {color: #495157}
-.everforest_light_go.-function-builtin {color: #87a060}
-.everforest_light_go.-variable {color: #495157}
-.everforest_light_go.-punctuation-delimiter {color: #c85552}
 .everforest_light_go.-function-method-call {color: #87a060}
+.everforest_light_go.-function-builtin {color: #87a060}
+.everforest_light_go.-variable-member {color: #495157}
+.everforest_light_go.-property {color: #5f9b93}
+.everforest_light_go.-punctuation-bracket {color: #c85552}
 .everforest_light_go.-number {color: #b67996}

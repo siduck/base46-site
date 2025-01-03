@@ -1,18 +1,18 @@
 .jellybeans_elixir.boxbg {background-color: #151515; color: #d9d9c4}
 .jellybeans_elixir.LineNr {color: #424242}
-.jellybeans_elixir.-function-call {color: #8fa5cd}
 .jellybeans_elixir.-punctuation-delimiter {color: #cf6a4c}
+.jellybeans_elixir.-punctuation-bracket {color: #cf6a4c}
+.jellybeans_elixir.-function-call {color: #8fa5cd}
 .jellybeans_elixir.-module {color: #c6b5da}
+.jellybeans_elixir.-keyword-function {color: #e18be1}
 .jellybeans_elixir.-string {color: #99ad6a}
 .jellybeans_elixir.-ibl-scope-char-1 {color: #525252}
 .jellybeans_elixir.-keyword {color: #e18be1}
 .jellybeans_elixir.NonText {color: #424242}
 .jellybeans_elixir.Special {color: #99ad6a}
 .jellybeans_elixir.-operator {color: #d9d9c4}
-.jellybeans_elixir.-punctuation-bracket {color: #cf6a4c}
 .jellybeans_elixir.SignColumn {color: #424242}
 .jellybeans_elixir.SpecialChar {color: #cf6a4c}
-.jellybeans_elixir.-keyword-function {color: #e18be1}
 .jellybeans_elixir.-variable {color: #d9d9c4}
 .jellybeans_elixir.-number {color: #c99f4a}
 .jellybeans_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

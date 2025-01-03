@@ -1,17 +1,17 @@
 .aquarium_go.boxbg {background-color: #20202a; color: #bac0cb}
 .aquarium_go.LineNr {color: #484852}
 .aquarium_go.-keyword {color: #f6bbe7}
-.aquarium_go.-function-call {color: #a3b8ef}
-.aquarium_go.-property {color: #ebb9b9}
-.aquarium_go.Type {color: #e6dfb8}
 .aquarium_go.NonText {color: #313449}
+.aquarium_go.-punctuation-delimiter {color: #eac1c1}
+.aquarium_go.Type {color: #e6dfb8}
+.aquarium_go.-function-call {color: #a3b8ef}
 .aquarium_go.-operator {color: #bac0cb}
-.aquarium_go.-punctuation-bracket {color: #eac1c1}
+.aquarium_go.-variable {color: #bac0cb}
 .aquarium_go.SignColumn {color: #313449}
 .aquarium_go.Label {color: #e6dfb8}
-.aquarium_go.-variable-member {color: #ebb9b9}
-.aquarium_go.-function-builtin {color: #a3b8ef}
-.aquarium_go.-variable {color: #bac0cb}
-.aquarium_go.-punctuation-delimiter {color: #eac1c1}
 .aquarium_go.-function-method-call {color: #a3b8ef}
+.aquarium_go.-function-builtin {color: #a3b8ef}
+.aquarium_go.-variable-member {color: #ebb9b9}
+.aquarium_go.-property {color: #ebb9b9}
+.aquarium_go.-punctuation-bracket {color: #eac1c1}
 .aquarium_go.-number {color: #e8cca7}

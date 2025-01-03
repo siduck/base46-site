@@ -1,18 +1,18 @@
 .wombat_elixir.boxbg {background-color: #202020; color: #d6d2c9}
 .wombat_elixir.LineNr {color: #4b4b4b}
-.wombat_elixir.-function-call {color: #88b8f6}
 .wombat_elixir.-punctuation-delimiter {color: #dc8c64}
+.wombat_elixir.-punctuation-bracket {color: #feedba}
+.wombat_elixir.-function-call {color: #88b8f6}
 .wombat_elixir.-module {color: #ffcc66}
+.wombat_elixir.-keyword-function {color: #ff8f7e}
 .wombat_elixir.-string {color: #aee474}
 .wombat_elixir.-ibl-scope-char-1 {color: #646464}
 .wombat_elixir.-keyword {color: #ff8f7e}
 .wombat_elixir.NonText {color: #3e3e3e}
 .wombat_elixir.Special {color: #7eb6bc}
 .wombat_elixir.-operator {color: #d6d2c9}
-.wombat_elixir.-punctuation-bracket {color: #feedba}
 .wombat_elixir.SignColumn {color: #3e3e3e}
 .wombat_elixir.SpecialChar {color: #dc8c64}
-.wombat_elixir.-keyword-function {color: #ff8f7e}
 .wombat_elixir.-variable {color: #d6d2c9}
 .wombat_elixir.-number {color: #dc8cff}
 .wombat_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

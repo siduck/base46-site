@@ -1,18 +1,18 @@
 .yoru_elixir.boxbg {background-color: #0c0e0f; color: #edeff0}
 .yoru_elixir.LineNr {color: #343637}
-.yoru_elixir.-function-call {color: #709ad2}
 .yoru_elixir.-punctuation-delimiter {color: #e8646a}
+.yoru_elixir.-punctuation-bracket {color: #e8646a}
+.yoru_elixir.-function-call {color: #709ad2}
 .yoru_elixir.-module {color: #f26e74}
+.yoru_elixir.-keyword-function {color: #c58cec}
 .yoru_elixir.-string {color: #82c29c}
 .yoru_elixir.-ibl-scope-char-1 {color: #505253}
 .yoru_elixir.-keyword {color: #c58cec}
 .yoru_elixir.NonText {color: #1f2122}
 .yoru_elixir.Special {color: #6791c9}
 .yoru_elixir.-operator {color: #edeff0}
-.yoru_elixir.-punctuation-bracket {color: #e8646a}
 .yoru_elixir.SignColumn {color: #1f2122}
 .yoru_elixir.SpecialChar {color: #e8646a}
-.yoru_elixir.-keyword-function {color: #c58cec}
 .yoru_elixir.-variable {color: #edeff0}
 .yoru_elixir.-number {color: #ecd28b}
 .yoru_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

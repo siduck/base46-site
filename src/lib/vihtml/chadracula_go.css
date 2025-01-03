@@ -1,17 +1,17 @@
 .chadracula_go.boxbg {background-color: #282936; color: #e9e9f4}
 .chadracula_go.LineNr {color: #5e5f69}
 .chadracula_go.-keyword {color: #ff86d3}
-.chadracula_go.-function-call {color: #50fa7b}
-.chadracula_go.-property {color: #c197fd}
-.chadracula_go.Type {color: #62d6e8}
 .chadracula_go.NonText {color: #626483}
+.chadracula_go.-punctuation-delimiter {color: #f8f8f2}
+.chadracula_go.Type {color: #62d6e8}
+.chadracula_go.-function-call {color: #50fa7b}
 .chadracula_go.-operator {color: #e9e9f4}
-.chadracula_go.-punctuation-bracket {color: #f8f8f2}
+.chadracula_go.-variable {color: #e9e9f4}
 .chadracula_go.SignColumn {color: #626483}
 .chadracula_go.Label {color: #62d6e8}
-.chadracula_go.-variable-member {color: #c197fd}
-.chadracula_go.-function-builtin {color: #50fa7b}
-.chadracula_go.-variable {color: #e9e9f4}
-.chadracula_go.-punctuation-delimiter {color: #f8f8f2}
 .chadracula_go.-function-method-call {color: #50fa7b}
+.chadracula_go.-function-builtin {color: #50fa7b}
+.chadracula_go.-variable-member {color: #c197fd}
+.chadracula_go.-property {color: #c197fd}
+.chadracula_go.-punctuation-bracket {color: #f8f8f2}
 .chadracula_go.-number {color: #ffb86c}

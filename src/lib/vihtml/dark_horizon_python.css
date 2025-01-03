@@ -2,23 +2,23 @@
 .dark_horizon_python.-variable-parameter {color: #db627e}
 .dark_horizon_python.LineNr {color: #363636}
 .dark_horizon_python.-punctuation-delimiter {color: #fdb830}
+.dark_horizon_python.-punctuation-bracket {color: #fdb830}
 .dark_horizon_python.-none {}
 .dark_horizon_python.-module {color: #db627e}
-.dark_horizon_python.Include {color: #6be4e6; font-weight: bold}
+.dark_horizon_python.-keyword-conditional {color: #6be4e6}
+.dark_horizon_python.-keyword-operator {color: #6be4e6}
+.dark_horizon_python.-keyword-function {color: #6be4e6}
+.dark_horizon_python.Include {font-weight: bold; color: #6be4e6}
 .dark_horizon_python.-string {color: #e3a587}
 .dark_horizon_python.Boolean {color: #eaa273}
 .dark_horizon_python.-keyword {color: #6be4e6}
 .dark_horizon_python.NonText {color: #363636}
-.dark_horizon_python.SignColumn {color: #363636}
 .dark_horizon_python.Special {color: #f09483}
-.dark_horizon_python.-keyword-operator {color: #6be4e6}
 .dark_horizon_python.-operator {color: #c9c7be}
-.dark_horizon_python.-punctuation-bracket {color: #fdb830}
-.dark_horizon_python.-keyword-conditional {color: #6be4e6}
-.dark_horizon_python.-variable-builtin {color: #eaa273}
+.dark_horizon_python.SignColumn {color: #363636}
+.dark_horizon_python.-function-method {color: #32d5e3}
 .dark_horizon_python.-variable-member {color: #db627e}
-.dark_horizon_python.-keyword-function {color: #6be4e6}
 .dark_horizon_python.-variable {color: #c9c7be}
 .dark_horizon_python.Type {color: #169ac9}
-.dark_horizon_python.-function-method {color: #32d5e3}
+.dark_horizon_python.-variable-builtin {color: #eaa273}
 .dark_horizon_python.-function {color: #32d5e3}

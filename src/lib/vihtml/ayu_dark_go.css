@@ -1,17 +1,17 @@
 .ayu_dark_go.boxbg {background-color: #0b0e14; color: #c9c7be}
 .ayu_dark_go.LineNr {color: #33363c}
 .ayu_dark_go.-keyword {color: #ffb454}
-.ayu_dark_go.-function-call {color: #f07174}
-.ayu_dark_go.-property {color: #c9c7be}
-.ayu_dark_go.Type {color: #56c3f9}
 .ayu_dark_go.NonText {color: #2b2e34}
+.ayu_dark_go.-punctuation-delimiter {color: #cba6f7}
+.ayu_dark_go.Type {color: #56c3f9}
+.ayu_dark_go.-function-call {color: #f07174}
 .ayu_dark_go.-operator {color: #c9c7be}
-.ayu_dark_go.-punctuation-bracket {color: #cba6f7}
+.ayu_dark_go.-variable {color: #c9c7be}
 .ayu_dark_go.SignColumn {color: #2b2e34}
 .ayu_dark_go.Label {color: #56c3f9}
-.ayu_dark_go.-variable-member {color: #c9c7be}
-.ayu_dark_go.-function-builtin {color: #f07174}
-.ayu_dark_go.-variable {color: #c9c7be}
-.ayu_dark_go.-punctuation-delimiter {color: #cba6f7}
 .ayu_dark_go.-function-method-call {color: #f07174}
+.ayu_dark_go.-function-builtin {color: #f07174}
+.ayu_dark_go.-variable-member {color: #c9c7be}
+.ayu_dark_go.-property {color: #c9c7be}
+.ayu_dark_go.-punctuation-bracket {color: #cba6f7}
 .ayu_dark_go.-number {color: #ffee99}

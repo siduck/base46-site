@@ -1,26 +1,26 @@
 .mito-laser_rust.boxbg {background-color: #201947; color: #eee8d5}
 .mito-laser_rust.-variable-parameter {color: #ff047d}
 .mito-laser_rust.LineNr {color: #423494}
-.mito-laser_rust.-function-call {color: #268bd2}
 .mito-laser_rust.-punctuation-delimiter {color: #ff047d}
+.mito-laser_rust.-punctuation-bracket {color: #ff047d}
+.mito-laser_rust.-function-call {color: #268bd2}
 .mito-laser_rust.-module {color: #ff047d}
 .mito-laser_rust.-type-builtin {color: #b58900}
+.mito-laser_rust.-keyword-operator {color: #6c71c4}
+.mito-laser_rust.-keyword-function {color: #6c71c4}
 .mito-laser_rust.Include {color: #268bd2}
-.mito-laser_rust.SignColumn {color: #352975}
 .mito-laser_rust.-number {color: #c85106}
-.mito-laser_rust.NonText {color: #352975}
 .mito-laser_rust.-keyword {color: #6c71c4}
 .mito-laser_rust.-spell {}
-.mito-laser_rust.-number-float {color: #c85106}
-.mito-laser_rust.-keyword-operator {color: #6c71c4}
-.mito-laser_rust.-keyword-conditional {color: #6c71c4}
+.mito-laser_rust.SignColumn {color: #352975}
+.mito-laser_rust.NonText {color: #352975}
 .mito-laser_rust.-operator {color: #eee8d5}
-.mito-laser_rust.-punctuation-bracket {color: #ff047d}
+.mito-laser_rust.-number-float {color: #c85106}
+.mito-laser_rust.-keyword-conditional {color: #6c71c4}
 .mito-laser_rust.Type {color: #b58900}
 .mito-laser_rust.-constant {color: #ff047d}
-.mito-laser_rust.-variable-member {color: #ff047d}
-.mito-laser_rust.-keyword-function {color: #6c71c4}
 .mito-laser_rust.-variable {color: #eee8d5}
+.mito-laser_rust.-variable-member {color: #ff047d}
 .mito-laser_rust.-comment {color: #4c3ca9}
 .mito-laser_rust.-variable-builtin {color: #c85106}
 .mito-laser_rust.-function {color: #268bd2}

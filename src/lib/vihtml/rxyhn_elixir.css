@@ -1,18 +1,18 @@
 .rxyhn_elixir.boxbg {background-color: #061115; color: #d9d7d6}
 .rxyhn_elixir.LineNr {color: #313c40}
-.rxyhn_elixir.-function-call {color: #79aaeb}
 .rxyhn_elixir.-punctuation-delimiter {color: #f16269}
+.rxyhn_elixir.-punctuation-bracket {color: #f16269}
+.rxyhn_elixir.-function-call {color: #79aaeb}
 .rxyhn_elixir.-module {color: #f26e74}
+.rxyhn_elixir.-keyword-function {color: #c488ec}
 .rxyhn_elixir.-string {color: #82c29c}
 .rxyhn_elixir.-ibl-scope-char-1 {color: #4f5a5e}
 .rxyhn_elixir.-keyword {color: #c488ec}
 .rxyhn_elixir.NonText {color: #192428}
 .rxyhn_elixir.Special {color: #6791c9}
 .rxyhn_elixir.-operator {color: #d9d7d6}
-.rxyhn_elixir.-punctuation-bracket {color: #f16269}
 .rxyhn_elixir.SignColumn {color: #192428}
 .rxyhn_elixir.SpecialChar {color: #f16269}
-.rxyhn_elixir.-keyword-function {color: #c488ec}
 .rxyhn_elixir.-variable {color: #d9d7d6}
 .rxyhn_elixir.-number {color: #ecd28b}
 .rxyhn_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

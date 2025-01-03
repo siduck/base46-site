@@ -1,22 +1,22 @@
 .jellybeans_haskell.boxbg {background-color: #151515; color: #d9d9c4}
 .jellybeans_haskell.-variable-parameter {color: #c6b5da}
-.jellybeans_haskell.-keyword-directive {color: #e1b655}
-.jellybeans_haskell.-function-call {color: #8fa5cd}
+.jellybeans_haskell.LineNr {color: #424242}
 .jellybeans_haskell.-punctuation-delimiter {color: #cf6a4c}
+.jellybeans_haskell.Type {color: #e1b655}
+.jellybeans_haskell.-function-call {color: #8fa5cd}
+.jellybeans_haskell.-keyword-directive {color: #e1b655}
 .jellybeans_haskell.-module {color: #c6b5da}
 .jellybeans_haskell.-comment {color: #474747}
 .jellybeans_haskell.Include {color: #8fa5cd}
 .jellybeans_haskell.-number {color: #c99f4a}
 .jellybeans_haskell.-keyword {color: #e18be1}
 .jellybeans_haskell.-spell {}
-.jellybeans_haskell.LineNr {color: #424242}
 .jellybeans_haskell.-operator {color: #d9d9c4}
-.jellybeans_haskell.-punctuation-bracket {color: #cf6a4c}
 .jellybeans_haskell.SignColumn {color: #424242}
 .jellybeans_haskell.-constructor {color: #99ad6a}
-.jellybeans_haskell.-variable-member {color: #c6b5da}
 .jellybeans_haskell.NonText {color: #424242}
-.jellybeans_haskell.-variable {color: #d9d9c4}
 .jellybeans_haskell.SpecialChar {color: #cf6a4c}
-.jellybeans_haskell.Type {color: #e1b655}
+.jellybeans_haskell.-variable-member {color: #c6b5da}
+.jellybeans_haskell.-punctuation-bracket {color: #cf6a4c}
+.jellybeans_haskell.-variable {color: #d9d9c4}
 .jellybeans_haskell.-function {color: #8fa5cd}

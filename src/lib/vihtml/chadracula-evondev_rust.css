@@ -1,26 +1,26 @@
 .chadracula-evondev_rust.boxbg {background-color: #141423; color: #e9e9f4}
 .chadracula-evondev_rust.-variable-parameter {color: #c197fd}
 .chadracula-evondev_rust.LineNr {color: #414171}
-.chadracula-evondev_rust.-function-call {color: #20e3b2}
 .chadracula-evondev_rust.-punctuation-delimiter {color: #7e7eb5}
+.chadracula-evondev_rust.-punctuation-bracket {color: #7e7eb5}
+.chadracula-evondev_rust.-function-call {color: #20e3b2}
 .chadracula-evondev_rust.-module {color: #f8f8f2}
 .chadracula-evondev_rust.-type-builtin {color: #62d6e8}
+.chadracula-evondev_rust.-keyword-operator {color: #ff6bcb}
+.chadracula-evondev_rust.-keyword-function {color: #ff6bcb}
 .chadracula-evondev_rust.Include {color: #ff6bcb}
-.chadracula-evondev_rust.SignColumn {color: #373760}
 .chadracula-evondev_rust.-number {color: #bd93f9}
-.chadracula-evondev_rust.NonText {color: #373760}
 .chadracula-evondev_rust.-keyword {color: #ff6bcb}
 .chadracula-evondev_rust.-spell {}
-.chadracula-evondev_rust.-number-float {color: #ffb86c}
-.chadracula-evondev_rust.-keyword-operator {color: #ff6bcb}
-.chadracula-evondev_rust.-keyword-conditional {color: #ff6bcb}
+.chadracula-evondev_rust.SignColumn {color: #373760}
+.chadracula-evondev_rust.NonText {color: #373760}
 .chadracula-evondev_rust.-operator {color: #e9e9f4}
-.chadracula-evondev_rust.-punctuation-bracket {color: #7e7eb5}
+.chadracula-evondev_rust.-number-float {color: #ffb86c}
+.chadracula-evondev_rust.-keyword-conditional {color: #ff6bcb}
 .chadracula-evondev_rust.Type {color: #2cccff}
 .chadracula-evondev_rust.-constant {color: #c197fd}
-.chadracula-evondev_rust.-variable-member {color: #c197fd}
-.chadracula-evondev_rust.-keyword-function {color: #ff6bcb}
 .chadracula-evondev_rust.-variable {color: #e9e9f4}
+.chadracula-evondev_rust.-variable-member {color: #c197fd}
 .chadracula-evondev_rust.-comment {color: #4b4b83}
 .chadracula-evondev_rust.-variable-builtin {color: #ffb86c}
 .chadracula-evondev_rust.-function {color: #50fa7b}

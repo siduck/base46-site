@@ -1,17 +1,17 @@
 .oxocarbon_go.boxbg {background-color: #161616; color: #f2f4f8}
 .oxocarbon_go.LineNr {color: #464646}
 .oxocarbon_go.-keyword {color: #be95ff}
-.oxocarbon_go.-function-call {color: #42be65}
-.oxocarbon_go.-property {color: #3ddbd9}
-.oxocarbon_go.Type {color: #ee5396}
 .oxocarbon_go.NonText {color: #525252}
+.oxocarbon_go.-punctuation-delimiter {color: #82cfff}
+.oxocarbon_go.Type {color: #ee5396}
+.oxocarbon_go.-function-call {color: #42be65}
 .oxocarbon_go.-operator {color: #f2f4f8}
-.oxocarbon_go.-punctuation-bracket {color: #82cfff}
+.oxocarbon_go.-variable {color: #f2f4f8}
 .oxocarbon_go.SignColumn {color: #525252}
 .oxocarbon_go.Label {color: #ee5396}
-.oxocarbon_go.-variable-member {color: #3ddbd9}
-.oxocarbon_go.-function-builtin {color: #42be65}
-.oxocarbon_go.-variable {color: #f2f4f8}
-.oxocarbon_go.-punctuation-delimiter {color: #82cfff}
 .oxocarbon_go.-function-method-call {color: #42be65}
+.oxocarbon_go.-function-builtin {color: #42be65}
+.oxocarbon_go.-variable-member {color: #3ddbd9}
+.oxocarbon_go.-property {color: #3ddbd9}
+.oxocarbon_go.-punctuation-bracket {color: #82cfff}
 .oxocarbon_go.-number {color: #78a9ff}

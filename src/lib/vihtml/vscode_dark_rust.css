@@ -1,26 +1,26 @@
 .vscode_dark_rust.boxbg {background-color: #1e1e1e; color: #d4d4d4}
 .vscode_dark_rust.-variable-parameter {color: #569cd6}
 .vscode_dark_rust.LineNr {color: #444444}
-.vscode_dark_rust.-function-call {color: #dcdcaa}
 .vscode_dark_rust.-punctuation-delimiter {color: #e9e9e9}
+.vscode_dark_rust.-punctuation-bracket {color: #e9e9e9}
+.vscode_dark_rust.-function-call {color: #dcdcaa}
 .vscode_dark_rust.-module {color: #d16969}
 .vscode_dark_rust.-type-builtin {color: #d7ba7d}
+.vscode_dark_rust.-keyword-operator {color: #c586c0}
+.vscode_dark_rust.-keyword-function {color: #4294d6}
 .vscode_dark_rust.Include {color: #dcdcaa}
-.vscode_dark_rust.SignColumn {color: #3c3c3c}
 .vscode_dark_rust.-number {color: #b5cea8}
-.vscode_dark_rust.NonText {color: #3c3c3c}
 .vscode_dark_rust.-keyword {color: #569cd6}
 .vscode_dark_rust.-spell {}
-.vscode_dark_rust.-number-float {color: #b5cea8}
-.vscode_dark_rust.-keyword-operator {color: #c586c0}
-.vscode_dark_rust.-keyword-conditional {color: #c586c0}
+.vscode_dark_rust.SignColumn {color: #3c3c3c}
+.vscode_dark_rust.NonText {color: #3c3c3c}
 .vscode_dark_rust.-operator {color: #d4d4d4}
-.vscode_dark_rust.-punctuation-bracket {color: #e9e9e9}
+.vscode_dark_rust.-number-float {color: #b5cea8}
+.vscode_dark_rust.-keyword-conditional {color: #c586c0}
 .vscode_dark_rust.Type {color: #d7ba7d}
 .vscode_dark_rust.-constant {color: #d16969}
-.vscode_dark_rust.-variable-member {color: #d16969}
-.vscode_dark_rust.-keyword-function {color: #4294d6}
 .vscode_dark_rust.-variable {color: #9cdcfe}
+.vscode_dark_rust.-variable-member {color: #d16969}
 .vscode_dark_rust.-comment {color: #4e4e4e}
 .vscode_dark_rust.-variable-builtin {color: #b5cea8}
 .vscode_dark_rust.-function {color: #dcdcaa}

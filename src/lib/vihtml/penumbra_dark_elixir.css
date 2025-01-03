@@ -1,18 +1,18 @@
 .penumbra_dark_elixir.boxbg {background-color: #303338; color: #cecece}
 .penumbra_dark_elixir.LineNr {color: #5c5f64}
-.penumbra_dark_elixir.-function-call {color: #7a9bec}
 .penumbra_dark_elixir.-punctuation-delimiter {color: #a1a641}
+.penumbra_dark_elixir.-punctuation-bracket {color: #999999}
+.penumbra_dark_elixir.-function-call {color: #7a9bec}
 .penumbra_dark_elixir.-module {color: #999999}
+.penumbra_dark_elixir.-keyword-function {color: #be85d1}
 .penumbra_dark_elixir.-string {color: #4ec093}
 .penumbra_dark_elixir.-ibl-scope-char-1 {color: #7d8085}
 .penumbra_dark_elixir.-keyword {color: #be85d1}
 .penumbra_dark_elixir.NonText {color: #484b50}
 .penumbra_dark_elixir.Special {color: #d68b47}
 .penumbra_dark_elixir.-operator {color: #cecece}
-.penumbra_dark_elixir.-punctuation-bracket {color: #999999}
 .penumbra_dark_elixir.SignColumn {color: #484b50}
 .penumbra_dark_elixir.SpecialChar {color: #a1a641}
-.penumbra_dark_elixir.-keyword-function {color: #be85d1}
 .penumbra_dark_elixir.-variable {color: #cecece}
 .penumbra_dark_elixir.-number {color: #be85d1}
 .penumbra_dark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

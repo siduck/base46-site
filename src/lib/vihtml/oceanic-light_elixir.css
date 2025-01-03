@@ -1,18 +1,18 @@
 .oceanic-light_elixir.boxbg {background-color: #d8dee9; color: #343d46}
 .oceanic-light_elixir.LineNr {color: #adb3be}
-.oceanic-light_elixir.-function-call {color: #526f93}
 .oceanic-light_elixir.-punctuation-delimiter {color: #9a806d}
+.oceanic-light_elixir.-punctuation-bracket {color: #9a806d}
+.oceanic-light_elixir.-function-call {color: #526f93}
 .oceanic-light_elixir.-module {color: #b40b11}
+.oceanic-light_elixir.-keyword-function {color: #896a98}
 .oceanic-light_elixir.-string {color: #869235}
 .oceanic-light_elixir.-ibl-scope-char-1 {color: #9197a2}
 .oceanic-light_elixir.-keyword {color: #896a98}
 .oceanic-light_elixir.NonText {color: #a7adba}
 .oceanic-light_elixir.Special {color: #5b9c90}
 .oceanic-light_elixir.-operator {color: #343d46}
-.oceanic-light_elixir.-punctuation-bracket {color: #9a806d}
 .oceanic-light_elixir.SignColumn {color: #a7adba}
 .oceanic-light_elixir.SpecialChar {color: #9a806d}
-.oceanic-light_elixir.-keyword-function {color: #896a98}
 .oceanic-light_elixir.-variable {color: #343d46}
 .oceanic-light_elixir.-number {color: #b4713d}
 .oceanic-light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

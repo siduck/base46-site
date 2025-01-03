@@ -1,18 +1,18 @@
 .chadracula-evondev_elixir.boxbg {background-color: #141423; color: #e9e9f4}
 .chadracula-evondev_elixir.LineNr {color: #414171}
-.chadracula-evondev_elixir.-function-call {color: #20e3b2}
 .chadracula-evondev_elixir.-punctuation-delimiter {color: #7e7eb5}
+.chadracula-evondev_elixir.-punctuation-bracket {color: #7e7eb5}
+.chadracula-evondev_elixir.-function-call {color: #20e3b2}
 .chadracula-evondev_elixir.-module {color: #f8f8f2}
+.chadracula-evondev_elixir.-keyword-function {color: #ff6bcb}
 .chadracula-evondev_elixir.-string {color: #e5c697}
 .chadracula-evondev_elixir.-ibl-scope-char-1 {color: #6060a4}
 .chadracula-evondev_elixir.-keyword {color: #ff6bcb}
 .chadracula-evondev_elixir.NonText {color: #373760}
 .chadracula-evondev_elixir.Special {color: #8be9fd}
 .chadracula-evondev_elixir.-operator {color: #e9e9f4}
-.chadracula-evondev_elixir.-punctuation-bracket {color: #7e7eb5}
 .chadracula-evondev_elixir.SignColumn {color: #373760}
 .chadracula-evondev_elixir.SpecialChar {color: #7e7eb5}
-.chadracula-evondev_elixir.-keyword-function {color: #ff6bcb}
 .chadracula-evondev_elixir.-variable {color: #e9e9f4}
 .chadracula-evondev_elixir.-number {color: #bd93f9}
 .chadracula-evondev_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

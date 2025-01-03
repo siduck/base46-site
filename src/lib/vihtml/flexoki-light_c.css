@@ -1,25 +1,25 @@
 .flexoki-light_c.boxbg {background-color: #fffcf0; color: #2a2929}
 .flexoki-light_c.-variable-parameter {color: #a02f6f}
-.flexoki-light_c.-keyword-directive-define {color: #ad8301}
+.flexoki-light_c.LineNr {color: #b8b5ad}
 .flexoki-light_c.-constant-macro {color: #af3029}
 .flexoki-light_c.-property {color: #af3029}
-.flexoki-light_c.-constant {color: #af3029}
-.flexoki-light_c.-_parent {}
-.flexoki-light_c.SignColumn {color: #b8b5ad}
+.flexoki-light_c.-punctuation-bracket {color: #ad8301}
+.flexoki-light_c.-function-call {color: #205ea6}
+.flexoki-light_c.-function-macro {color: #af3029}
+.flexoki-light_c.-keyword-repeat {color: #5e409d}
 .flexoki-light_c.-type-builtin {color: #5e409d}
+.flexoki-light_c.-keyword-return {color: #ad8301}
 .flexoki-light_c.Include {color: #ad8301}
 .flexoki-light_c.-string {color: #66800b}
 .flexoki-light_c.-number {color: #bc5215}
 .flexoki-light_c.-keyword {color: #24837b}
 .flexoki-light_c.NonText {color: #b8b5ad}
-.flexoki-light_c.LineNr {color: #b8b5ad}
-.flexoki-light_c.-string-escape {color: #24837b}
 .flexoki-light_c.-operator {color: #2a2929}
-.flexoki-light_c.-punctuation-bracket {color: #ad8301}
-.flexoki-light_c.-keyword-repeat {color: #5e409d}
-.flexoki-light_c.-function-call {color: #205ea6}
-.flexoki-light_c.-function-macro {color: #af3029}
-.flexoki-light_c.-keyword-return {color: #ad8301}
+.flexoki-light_c.SignColumn {color: #b8b5ad}
+.flexoki-light_c.-string-escape {color: #24837b}
+.flexoki-light_c.-_parent {}
+.flexoki-light_c.-constant {color: #af3029}
+.flexoki-light_c.-keyword-directive-define {color: #ad8301}
 .flexoki-light_c.-variable {color: #2a2929}
 .flexoki-light_c.-punctuation-delimiter {color: #519aba}
 .flexoki-light_c.Type {color: #5e409d}

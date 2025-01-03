@@ -1,17 +1,17 @@
 .poimandres_go.boxbg {background-color: #1b1e28; color: #a6accd}
 .poimandres_go.LineNr {color: #48506a}
 .poimandres_go.-keyword {color: #91b4d5}
-.poimandres_go.-function-call {color: #a6accd}
-.poimandres_go.-property {color: #add7ff}
-.poimandres_go.Type {color: #a6accd}
 .poimandres_go.NonText {color: #3b4258}
+.poimandres_go.-punctuation-delimiter {color: #add7ff}
+.poimandres_go.Type {color: #a6accd}
+.poimandres_go.-function-call {color: #a6accd}
 .poimandres_go.-operator {color: #91b4d5}
-.poimandres_go.-punctuation-bracket {color: #a6accd}
+.poimandres_go.-variable {color: #ffffff}
 .poimandres_go.SignColumn {color: #3b4258}
 .poimandres_go.Label {color: #add7ff}
-.poimandres_go.-variable-member {color: #a6accd}
-.poimandres_go.-function-builtin {color: #add7ff}
-.poimandres_go.-variable {color: #ffffff}
-.poimandres_go.-punctuation-delimiter {color: #add7ff}
 .poimandres_go.-function-method-call {color: #add7ff}
+.poimandres_go.-function-builtin {color: #add7ff}
+.poimandres_go.-variable-member {color: #a6accd}
+.poimandres_go.-property {color: #add7ff}
+.poimandres_go.-punctuation-bracket {color: #a6accd}
 .poimandres_go.-number {color: #d0679d}

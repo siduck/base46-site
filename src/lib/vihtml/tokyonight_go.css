@@ -1,17 +1,17 @@
 .tokyonight_go.boxbg {background-color: #1a1b26; color: #a9b1d6}
 .tokyonight_go.LineNr {color: #40486a}
 .tokyonight_go.-keyword {color: #bb9af7}
-.tokyonight_go.-function-call {color: #7aa2f7}
-.tokyonight_go.-property {color: #73daca}
-.tokyonight_go.Type {color: #0db9d7}
 .tokyonight_go.NonText {color: #444b6a}
+.tokyonight_go.-punctuation-delimiter {color: #f7768e}
+.tokyonight_go.Type {color: #0db9d7}
+.tokyonight_go.-function-call {color: #7aa2f7}
 .tokyonight_go.-operator {color: #a9b1d6}
-.tokyonight_go.-punctuation-bracket {color: #bb9af7}
+.tokyonight_go.-variable {color: #a9b1d6}
 .tokyonight_go.SignColumn {color: #444b6a}
 .tokyonight_go.Label {color: #0db9d7}
-.tokyonight_go.-variable-member {color: #73daca}
-.tokyonight_go.-function-builtin {color: #2ac3de}
-.tokyonight_go.-variable {color: #a9b1d6}
-.tokyonight_go.-punctuation-delimiter {color: #f7768e}
 .tokyonight_go.-function-method-call {color: #f7768e}
+.tokyonight_go.-function-builtin {color: #2ac3de}
+.tokyonight_go.-variable-member {color: #73daca}
+.tokyonight_go.-property {color: #73daca}
+.tokyonight_go.-punctuation-bracket {color: #bb9af7}
 .tokyonight_go.-number {color: #ff9e64}

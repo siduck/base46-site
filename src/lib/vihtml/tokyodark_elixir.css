@@ -1,18 +1,18 @@
 .tokyodark_elixir.boxbg {background-color: #11121d; color: #abb2bf}
 .tokyodark_elixir.LineNr {color: #474853}
-.tokyodark_elixir.-function-call {color: #95c561}
 .tokyodark_elixir.-punctuation-delimiter {color: #f3627a}
+.tokyodark_elixir.-punctuation-bracket {color: #f3627a}
+.tokyodark_elixir.-function-call {color: #95c561}
 .tokyodark_elixir.-module {color: #ee6d85}
+.tokyodark_elixir.-keyword-function {color: #a485dd}
 .tokyodark_elixir.-string {color: #dfae67}
 .tokyodark_elixir.-ibl-scope-char-1 {color: #545560}
 .tokyodark_elixir.-keyword {color: #a485dd}
 .tokyodark_elixir.NonText {color: #282934}
 .tokyodark_elixir.Special {color: #a485dd}
 .tokyodark_elixir.-operator {color: #abb2bf}
-.tokyodark_elixir.-punctuation-bracket {color: #f3627a}
 .tokyodark_elixir.SignColumn {color: #282934}
 .tokyodark_elixir.SpecialChar {color: #f3627a}
-.tokyodark_elixir.-keyword-function {color: #a485dd}
 .tokyodark_elixir.-variable {color: #abb2bf}
 .tokyodark_elixir.-number {color: #7199ee}
 .tokyodark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

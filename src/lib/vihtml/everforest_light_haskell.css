@@ -1,22 +1,22 @@
 .everforest_light_haskell.boxbg {background-color: #fff9e8; color: #495157}
 .everforest_light_haskell.-variable-parameter {color: #5f9b93}
-.everforest_light_haskell.-keyword-directive {color: #8da101}
-.everforest_light_haskell.-function-call {color: #87a060}
+.everforest_light_haskell.LineNr {color: #b3ad9c}
 .everforest_light_haskell.-punctuation-delimiter {color: #c85552}
+.everforest_light_haskell.Type {color: #8da101}
+.everforest_light_haskell.-function-call {color: #87a060}
+.everforest_light_haskell.-keyword-directive {color: #8da101}
 .everforest_light_haskell.-module {color: #5f9b93}
 .everforest_light_haskell.-comment {color: #a39d8c}
 .everforest_light_haskell.Include {color: #87a060}
 .everforest_light_haskell.-number {color: #b67996}
 .everforest_light_haskell.-keyword {color: #c85552}
 .everforest_light_haskell.-spell {}
-.everforest_light_haskell.LineNr {color: #b3ad9c}
 .everforest_light_haskell.-operator {color: #495157}
-.everforest_light_haskell.-punctuation-bracket {color: #c85552}
 .everforest_light_haskell.SignColumn {color: #e5dfce}
 .everforest_light_haskell.-constructor {color: #3a94c5}
-.everforest_light_haskell.-variable-member {color: #495157}
 .everforest_light_haskell.NonText {color: #e5dfce}
-.everforest_light_haskell.-variable {color: #495157}
 .everforest_light_haskell.SpecialChar {color: #c85552}
-.everforest_light_haskell.Type {color: #8da101}
+.everforest_light_haskell.-variable-member {color: #495157}
+.everforest_light_haskell.-punctuation-bracket {color: #c85552}
+.everforest_light_haskell.-variable {color: #495157}
 .everforest_light_haskell.-function {color: #87a060}

@@ -1,17 +1,17 @@
 .gruvbox_go.boxbg {background-color: #282828; color: #d5c4a1}
 .gruvbox_go.LineNr {color: #4b4b4b}
 .gruvbox_go.-keyword {color: #d3869b}
-.gruvbox_go.-function-call {color: #83a598}
-.gruvbox_go.-property {color: #fb4934}
-.gruvbox_go.Type {color: #fabd2f}
 .gruvbox_go.NonText {color: #484442}
+.gruvbox_go.-punctuation-delimiter {color: #d65d0e}
+.gruvbox_go.Type {color: #fabd2f}
+.gruvbox_go.-function-call {color: #83a598}
 .gruvbox_go.-operator {color: #83a598}
-.gruvbox_go.-punctuation-bracket {color: #d65d0e}
+.gruvbox_go.-variable {color: #d5c4a1}
 .gruvbox_go.SignColumn {color: #484442}
 .gruvbox_go.Label {color: #fabd2f}
-.gruvbox_go.-variable-member {color: #fb4934}
-.gruvbox_go.-function-builtin {color: #83a598}
-.gruvbox_go.-variable {color: #d5c4a1}
-.gruvbox_go.-punctuation-delimiter {color: #d65d0e}
 .gruvbox_go.-function-method-call {color: #83a598}
+.gruvbox_go.-function-builtin {color: #83a598}
+.gruvbox_go.-variable-member {color: #fb4934}
+.gruvbox_go.-property {color: #fb4934}
+.gruvbox_go.-punctuation-bracket {color: #d65d0e}
 .gruvbox_go.-number {color: #fe8019}

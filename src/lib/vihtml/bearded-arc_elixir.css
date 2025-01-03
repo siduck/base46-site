@@ -1,18 +1,18 @@
 .bearded-arc_elixir.boxbg {background-color: #1c2433; color: #c3cfd9}
 .bearded-arc_elixir.LineNr {color: #444c5b}
-.bearded-arc_elixir.-function-call {color: #69c3ff}
 .bearded-arc_elixir.-punctuation-delimiter {color: #b78aff}
+.bearded-arc_elixir.-punctuation-bracket {color: #b78aff}
+.bearded-arc_elixir.-function-call {color: #69c3ff}
 .bearded-arc_elixir.-module {color: #ff738a}
+.bearded-arc_elixir.-keyword-function {color: #22ecdb}
 .bearded-arc_elixir.-string {color: #3cec85}
 .bearded-arc_elixir.-ibl-scope-char-1 {color: #626a79}
 .bearded-arc_elixir.-keyword {color: #22ecdb}
 .bearded-arc_elixir.NonText {color: #444c5b}
 .bearded-arc_elixir.Special {color: #77aed7}
 .bearded-arc_elixir.-operator {color: #c3cfd9}
-.bearded-arc_elixir.-punctuation-bracket {color: #b78aff}
 .bearded-arc_elixir.SignColumn {color: #444c5b}
 .bearded-arc_elixir.SpecialChar {color: #b78aff}
-.bearded-arc_elixir.-keyword-function {color: #22ecdb}
 .bearded-arc_elixir.-variable {color: #c3cfd9}
 .bearded-arc_elixir.-number {color: #ff955c}
 .bearded-arc_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

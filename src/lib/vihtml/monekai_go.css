@@ -1,17 +1,17 @@
 .monekai_go.boxbg {background-color: #272822; color: #f8f8f2}
 .monekai_go.LineNr {color: #4d4e48}
 .monekai_go.-keyword {color: #f92672}
-.monekai_go.-function-call {color: #66d9ef}
-.monekai_go.-property {color: #fd971f}
-.monekai_go.Type {color: #f4bf75}
 .monekai_go.NonText {color: #75715e}
+.monekai_go.-punctuation-delimiter {color: #cc6633}
+.monekai_go.Type {color: #f4bf75}
+.monekai_go.-function-call {color: #66d9ef}
 .monekai_go.-operator {color: #e36d76}
-.monekai_go.-punctuation-bracket {color: #fce668}
+.monekai_go.-variable {color: #f8f8f2}
 .monekai_go.SignColumn {color: #75715e}
 .monekai_go.Label {color: #f4bf75}
-.monekai_go.-variable-member {color: #fd971f}
-.monekai_go.-function-builtin {color: #66d9ef}
-.monekai_go.-variable {color: #f8f8f2}
-.monekai_go.-punctuation-delimiter {color: #cc6633}
 .monekai_go.-function-method-call {color: #66d9ef}
+.monekai_go.-function-builtin {color: #66d9ef}
+.monekai_go.-variable-member {color: #fd971f}
+.monekai_go.-property {color: #fd971f}
+.monekai_go.-punctuation-bracket {color: #fce668}
 .monekai_go.-number {color: #ae81ff}

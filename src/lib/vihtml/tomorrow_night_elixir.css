@@ -1,18 +1,18 @@
 .tomorrow_night_elixir.boxbg {background-color: #1d1f21; color: #c5c8c6}
 .tomorrow_night_elixir.LineNr {color: #434547}
-.tomorrow_night_elixir.-function-call {color: #81a2be}
 .tomorrow_night_elixir.-punctuation-delimiter {color: #a3685a}
+.tomorrow_night_elixir.-punctuation-bracket {color: #a3685a}
+.tomorrow_night_elixir.-function-call {color: #81a2be}
 .tomorrow_night_elixir.-module {color: #cc6666}
+.tomorrow_night_elixir.-keyword-function {color: #b294bb}
 .tomorrow_night_elixir.-string {color: #b5bd68}
 .tomorrow_night_elixir.-ibl-scope-char-1 {color: #676e7b}
 .tomorrow_night_elixir.-keyword {color: #b294bb}
 .tomorrow_night_elixir.NonText {color: #969896}
 .tomorrow_night_elixir.Special {color: #8abeb7}
 .tomorrow_night_elixir.-operator {color: #c5c8c6}
-.tomorrow_night_elixir.-punctuation-bracket {color: #a3685a}
 .tomorrow_night_elixir.SignColumn {color: #969896}
 .tomorrow_night_elixir.SpecialChar {color: #a3685a}
-.tomorrow_night_elixir.-keyword-function {color: #b294bb}
 .tomorrow_night_elixir.-variable {color: #c5c8c6}
 .tomorrow_night_elixir.-number {color: #de935f}
 .tomorrow_night_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

@@ -1,22 +1,22 @@
 .tomorrow_night_haskell.boxbg {background-color: #1d1f21; color: #c5c8c6}
 .tomorrow_night_haskell.-variable-parameter {color: #cc6666}
-.tomorrow_night_haskell.-keyword-directive {color: #f0c674}
-.tomorrow_night_haskell.-function-call {color: #81a2be}
+.tomorrow_night_haskell.LineNr {color: #434547}
 .tomorrow_night_haskell.-punctuation-delimiter {color: #a3685a}
+.tomorrow_night_haskell.Type {color: #f0c674}
+.tomorrow_night_haskell.-function-call {color: #81a2be}
+.tomorrow_night_haskell.-keyword-directive {color: #f0c674}
 .tomorrow_night_haskell.-module {color: #cc6666}
 .tomorrow_night_haskell.-comment {color: #545b68}
 .tomorrow_night_haskell.Include {color: #81a2be}
 .tomorrow_night_haskell.-number {color: #de935f}
 .tomorrow_night_haskell.-keyword {color: #b294bb}
 .tomorrow_night_haskell.-spell {}
-.tomorrow_night_haskell.LineNr {color: #434547}
 .tomorrow_night_haskell.-operator {color: #c5c8c6}
-.tomorrow_night_haskell.-punctuation-bracket {color: #a3685a}
 .tomorrow_night_haskell.SignColumn {color: #969896}
 .tomorrow_night_haskell.-constructor {color: #8abeb7}
-.tomorrow_night_haskell.-variable-member {color: #cc6666}
 .tomorrow_night_haskell.NonText {color: #969896}
-.tomorrow_night_haskell.-variable {color: #c5c8c6}
 .tomorrow_night_haskell.SpecialChar {color: #a3685a}
-.tomorrow_night_haskell.Type {color: #f0c674}
+.tomorrow_night_haskell.-variable-member {color: #cc6666}
+.tomorrow_night_haskell.-punctuation-bracket {color: #a3685a}
+.tomorrow_night_haskell.-variable {color: #c5c8c6}
 .tomorrow_night_haskell.-function {color: #81a2be}

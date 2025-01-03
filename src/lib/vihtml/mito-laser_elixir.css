@@ -1,18 +1,18 @@
 .mito-laser_elixir.boxbg {background-color: #201947; color: #eee8d5}
 .mito-laser_elixir.LineNr {color: #423494}
-.mito-laser_elixir.-function-call {color: #268bd2}
 .mito-laser_elixir.-punctuation-delimiter {color: #ff047d}
+.mito-laser_elixir.-punctuation-bracket {color: #ff047d}
+.mito-laser_elixir.-function-call {color: #268bd2}
 .mito-laser_elixir.-module {color: #ff047d}
+.mito-laser_elixir.-keyword-function {color: #6c71c4}
 .mito-laser_elixir.-string {color: #859900}
 .mito-laser_elixir.-ibl-scope-char-1 {color: #6d5dc6}
 .mito-laser_elixir.-keyword {color: #6c71c4}
 .mito-laser_elixir.NonText {color: #352975}
 .mito-laser_elixir.Special {color: #2aa198}
 .mito-laser_elixir.-operator {color: #eee8d5}
-.mito-laser_elixir.-punctuation-bracket {color: #ff047d}
 .mito-laser_elixir.SignColumn {color: #352975}
 .mito-laser_elixir.SpecialChar {color: #ff047d}
-.mito-laser_elixir.-keyword-function {color: #6c71c4}
 .mito-laser_elixir.-variable {color: #eee8d5}
 .mito-laser_elixir.-number {color: #c85106}
 .mito-laser_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

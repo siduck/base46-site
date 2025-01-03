@@ -1,17 +1,17 @@
 .gruvchad_go.boxbg {background-color: #1e2122; color: #c0b196}
 .gruvchad_go.LineNr {color: #484b4c}
 .gruvchad_go.-keyword {color: #d3869b}
-.gruvchad_go.-function-call {color: #7daea3}
-.gruvchad_go.-property {color: #ec6b64}
-.gruvchad_go.Type {color: #e0c080}
 .gruvchad_go.NonText {color: #404344}
+.gruvchad_go.-punctuation-delimiter {color: #d65d0e}
+.gruvchad_go.Type {color: #e0c080}
+.gruvchad_go.-function-call {color: #7daea3}
 .gruvchad_go.-operator {color: #c0b196}
-.gruvchad_go.-punctuation-bracket {color: #d65d0e}
+.gruvchad_go.-variable {color: #c0b196}
 .gruvchad_go.SignColumn {color: #404344}
 .gruvchad_go.Label {color: #e0c080}
-.gruvchad_go.-variable-member {color: #ec6b64}
-.gruvchad_go.-function-builtin {color: #7daea3}
-.gruvchad_go.-variable {color: #c0b196}
-.gruvchad_go.-punctuation-delimiter {color: #d65d0e}
 .gruvchad_go.-function-method-call {color: #7daea3}
+.gruvchad_go.-function-builtin {color: #7daea3}
+.gruvchad_go.-variable-member {color: #ec6b64}
+.gruvchad_go.-property {color: #ec6b64}
+.gruvchad_go.-punctuation-bracket {color: #d65d0e}
 .gruvchad_go.-number {color: #e78a4e}

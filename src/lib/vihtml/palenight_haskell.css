@@ -1,22 +1,22 @@
 .palenight_haskell.boxbg {background-color: #292d3e; color: #d3d3d3}
 .palenight_haskell.-variable-parameter {color: #f07178}
-.palenight_haskell.-keyword-directive {color: #ffcb6b}
-.palenight_haskell.-function-call {color: #82aaff}
+.palenight_haskell.LineNr {color: #515566}
 .palenight_haskell.-punctuation-delimiter {color: #ff5370}
+.palenight_haskell.Type {color: #ffcb6b}
+.palenight_haskell.-function-call {color: #82aaff}
+.palenight_haskell.-keyword-directive {color: #ffcb6b}
 .palenight_haskell.-module {color: #f07178}
 .palenight_haskell.-comment {color: #5b5f70}
 .palenight_haskell.Include {color: #82aaff}
 .palenight_haskell.-number {color: #ffa282}
 .palenight_haskell.-keyword {color: #c792ea}
 .palenight_haskell.-spell {}
-.palenight_haskell.LineNr {color: #515566}
 .palenight_haskell.-operator {color: #d3d3d3}
-.palenight_haskell.-punctuation-bracket {color: #ff5370}
 .palenight_haskell.SignColumn {color: #676e95}
 .palenight_haskell.-constructor {color: #89ddff}
-.palenight_haskell.-variable-member {color: #f07178}
 .palenight_haskell.NonText {color: #676e95}
-.palenight_haskell.-variable {color: #d3d3d3}
 .palenight_haskell.SpecialChar {color: #ff5370}
-.palenight_haskell.Type {color: #ffcb6b}
+.palenight_haskell.-variable-member {color: #f07178}
+.palenight_haskell.-punctuation-bracket {color: #ff5370}
+.palenight_haskell.-variable {color: #d3d3d3}
 .palenight_haskell.-function {color: #82aaff}

@@ -1,18 +1,18 @@
 .nightlamp_elixir.boxbg {background-color: #18191f; color: #b8af9e}
 .nightlamp_elixir.LineNr {color: #3d3e44}
-.nightlamp_elixir.-function-call {color: #b58385}
 .nightlamp_elixir.-punctuation-delimiter {color: #90a0a0}
+.nightlamp_elixir.-punctuation-bracket {color: #90a0a0}
+.nightlamp_elixir.-function-call {color: #b58385}
 .nightlamp_elixir.-module {color: #b8aad9}
+.nightlamp_elixir.-keyword-function {color: #8e9cb4}
 .nightlamp_elixir.-string {color: #8aa387}
 .nightlamp_elixir.-ibl-scope-char-1 {color: #55565c}
 .nightlamp_elixir.-keyword {color: #8e9cb4}
 .nightlamp_elixir.NonText {color: #3c3d43}
 .nightlamp_elixir.Special {color: #7aacaa}
 .nightlamp_elixir.-operator {color: #b8af9e}
-.nightlamp_elixir.-punctuation-bracket {color: #90a0a0}
 .nightlamp_elixir.SignColumn {color: #3c3d43}
 .nightlamp_elixir.SpecialChar {color: #90a0a0}
-.nightlamp_elixir.-keyword-function {color: #8e9cb4}
 .nightlamp_elixir.-variable {color: #b8af9e}
 .nightlamp_elixir.-number {color: #cd9672}
 .nightlamp_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}

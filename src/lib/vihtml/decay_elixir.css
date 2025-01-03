@@ -1,18 +1,18 @@
 .decay_elixir.boxbg {background-color: #171b20; color: #b6beca}
 .decay_elixir.LineNr {color: #41454a}
-.decay_elixir.-function-call {color: #86aaec}
 .decay_elixir.-punctuation-delimiter {color: #9cd1ff}
+.decay_elixir.-punctuation-bracket {color: #9cd1ff}
+.decay_elixir.-function-call {color: #86aaec}
 .decay_elixir.-module {color: #70a5eb}
+.decay_elixir.-keyword-function {color: #c68aee}
 .decay_elixir.-string {color: #78dba9}
 .decay_elixir.-ibl-scope-char-1 {color: #5a5e63}
 .decay_elixir.-keyword {color: #c68aee}
 .decay_elixir.NonText {color: #485263}
 .decay_elixir.Special {color: #e26c7c}
 .decay_elixir.-operator {color: #b6beca}
-.decay_elixir.-punctuation-bracket {color: #9cd1ff}
 .decay_elixir.SignColumn {color: #485263}
 .decay_elixir.SpecialChar {color: #9cd1ff}
-.decay_elixir.-keyword-function {color: #c68aee}
 .decay_elixir.-variable {color: #b6beca}
 .decay_elixir.-number {color: #e9a180}
 .decay_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
