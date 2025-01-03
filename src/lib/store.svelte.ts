@@ -5,6 +5,7 @@ import themelist from "../data.json";
 interface StoreType {
   curindex: number;
   items: ThemeData[];
+  themelist:any,
   data: any;
   pagelimit: number,
 }
@@ -12,6 +13,7 @@ interface StoreType {
 export const store: StoreType = $state({
   curindex: 0,
   items: [],
+  themelist: themelist,
   data: themelist,
   pagelimit: 10,
 });

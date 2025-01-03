@@ -58,7 +58,8 @@ M.get_themedata = function()
   local themelist = require("nvchad.utils").list_themes()
 
   return vim.tbl_map(function(x)
-    return { name = x }
+    local info = require("base46.themes." .. x)
+    return { name = x, type = info.type, colors = info.base_16 }
   end, themelist)
 end
 
