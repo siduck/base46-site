@@ -8,7 +8,7 @@
 
   const icons: any = {
     rust: "i-devicon-rust",
-    go: "i-logos:go text-sm",
+    go: "i-file-icons:go-old",
     elixir: "i-devicon:elixir",
     haskell: "i-devicon:haskell",
     c: "i-devicon:c",

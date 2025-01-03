@@ -87,7 +87,7 @@ const isLight = (hex:string)=> {
 <br/>
 
 <div relative='~' id='terminal-conf'>
-  <pre  px9 curved style="background: {bg}; color: {fg}">
+  <pre bordered px9 curved style="background: {bg}; color: {fg}">
     {terminalConf}
   </pre>
 

@@ -24,7 +24,7 @@
 
 <nav flexrow border="0 b-1 solid slate3 dark:slate7">
   <h2>
-    <a href="/">Neovim Themes</a>
+    <a href="/">Base46 Themes</a>
   </h2>
 
   <div
