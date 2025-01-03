@@ -1,7 +1,28 @@
-const alacritty = (colors: any) => {
+// @ts-nocheck
+
+const base16order = [
+  "base00",
+  "base01",
+  "base02",
+  "base03",
+  "base04",
+  "base05",
+  "base06",
+  "base07",
+  "base08",
+  "base09",
+  "base0A",
+  "base0B",
+  "base0C",
+  "base0D",
+  "base0E",
+  "base0F",
+];
+
+const alacritty = (colors) => {
   let config = "";
 
-  const format = (color: any, name: any) => `${name} = "${color}"`;
+  const format = (color, name) => `${name} = "${color}"`;
 
   // Generate primary colors section
   config += `[colors.primary]\n`;
@@ -79,15 +100,13 @@ const alacritty = (colors: any) => {
     config += `color = "${colors.base0F}"\n`;
   }
 
-  config = `\n${config}\n`;
-
-  return config;
+  return `\n${config}\n`;
 };
 
-const kitty = (colors: any) => {
+const kitty = (colors) => {
   let config = "";
 
-  const format = (color: any, name: any) => `${name} ${color}`;
+  const format = (color, name) => `${name} ${color}`;
 
   config += format(colors.base00, "background") + "\n";
   config += format(colors.base05, "foreground") + "\n";
@@ -119,37 +138,16 @@ const kitty = (colors: any) => {
     config += format(colors.base0F, "color16");
   }
 
-  config = `\n${config}\n`;
-
-  return config;
+ return `\n${config}\n`;
 };
 
-const ghostty = (colors: any) => {
-  const format = (color: string, name: string) => `${name} = ${color}`;
+const ghostty = (colors) => {
+  const format = (color, name) => `${name} = ${color}`;
 
   let config = "";
 
   // Generate palette colors for base00 to base0F (0 to 15)
-  const paletteOrder = [
-    "base00",
-    "base01",
-    "base02",
-    "base03",
-    "base04",
-    "base05",
-    "base06",
-    "base07",
-    "base08",
-    "base09",
-    "base0A",
-    "base0B",
-    "base0C",
-    "base0D",
-    "base0E",
-    "base0F",
-  ];
-
-  paletteOrder.forEach((colorKey, i) => {
+  base16order.forEach((colorKey, i) => {
     config += `palette = ${i}=${colors[colorKey]}\n`;
   });
 
@@ -161,13 +159,33 @@ const ghostty = (colors: any) => {
   config += format(colors.base05, "selection-foreground");
 
   // Add newline for readability
-  config = `\n${config}\n`;
+  return `\n${config}\n`;
+};
 
-  return config;
+const xresources = (colors) => {
+  const format = (name, value) => `${name}: ${value}`;
+
+  let config = "";
+
+  base16order.forEach((colorKey, i) => {
+    if (colors[colorKey]) {
+      config += format(`*.color${i}`, colors[colorKey]) + "\n";
+    }
+  });
+
+  config += format("*.background", colors.base00) + "\n";
+  config += format("*.foreground", colors.base05) + "\n";
+  config += format("*.cursorColor", colors.base05) + "\n";
+  config += format("*.highlightForeground", colors.base05) + "\n";
+  config += format("*.highlightBackground", colors.base03);
+
+  // Add newline for readability
+  return `\n${config}\n`;
 };
 
 export const genTerminalConfig = {
   alacritty,
   kitty,
   ghostty,
+  xresources,
 };

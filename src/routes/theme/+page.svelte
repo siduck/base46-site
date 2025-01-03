@@ -5,12 +5,20 @@
   import type { ThemeData } from "$lib/types";
   import { store } from "$lib/store.svelte";
   import { genTerminalConfig } from "$lib/configen/terminal";
+  import { goto } from "$app/navigation";
 
   const searchParams = page.url.searchParams;
   const theme = searchParams.get("name") || "onedark";
+  const terminal = searchParams.get("terminal") || "alacritty";
 
   let data: ThemeData|undefined = $state();
-  let cur_term = $state("alacritty");
+  let cur_term = $state(terminal);
+
+  const updateQueryParams = (key:string, val:string) => {
+    const url = new URL (page.url)
+    url.searchParams.set(key,val );
+    goto(url)
+  }
 
   const themedata = store.themelist.find((x:any) => x.name == theme);
 
@@ -36,7 +44,9 @@ const isLight = (hex:string)=> {
   const terminals = {
     alacritty: "i-file-icons:alacritty",
     kitty:'i-solar:cat-broken',
-    ghostty:'i-mingcute:ghost-fill'
+    ghostty:'i-mingcute:ghost-fill',
+    xresources:'i-si:terminal-fill',
+    wezterm:'i-simple-icons:wezterm'
   }
 
   let terminalConf = $state(genTerminalConfig.alacritty(data.colors))
@@ -75,7 +85,8 @@ const isLight = (hex:string)=> {
       border="1px solid slate3 dark:0"
       onclick={() => {
         cur_term = name
-      terminalConf=  genTerminalConfig[name](data.colors)
+        terminalConf= genTerminalConfig[name](data.colors)
+        updateQueryParams("terminal",name)
       }}
     >
 
