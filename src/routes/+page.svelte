@@ -30,8 +30,6 @@
     });
   });
 
-  import "virtual:uno.css";
-  import "$lib/css/style.css";
 </script>
 
 <br/>
@@ -50,7 +48,7 @@
 </div>
 
 <br/>
-<div grid="~ gap10 xl:cols-2">
+<div grid="~ gap-x-8 gap-y-6 xl:cols-2">
   {#each themes as data}
     <ThemeCard {data} />
   {/each}

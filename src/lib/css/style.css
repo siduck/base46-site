@@ -50,4 +50,4 @@ a {
 	@apply hover:text-blue-3;
 }
 
-section  { @apply shadow-lg}
+section  { @apply shadow-lg bordered }

@@ -1,9 +1,12 @@
 <script>
+  import "virtual:uno.css";
+  import "$lib/css/style.css";
+
   let { children } = $props();
   import Navbar from "$lib/components/navbar.svelte";
 </script>
 
-<main box mxauto p5 grid>
+<main mxauto p3 px10 grid>
   <Navbar />
   {@render children()}
 </main>
