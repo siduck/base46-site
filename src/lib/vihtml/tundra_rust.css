@@ -1,0 +1,26 @@
+.tundra_rust.boxbg {background-color: #111827; color: #f3f4f6}
+.tundra_rust.-variable-parameter {color: #ddd6fe}
+.tundra_rust.LineNr {color: #3e4554}
+.tundra_rust.-function-call {color: #bae6fd}
+.tundra_rust.-punctuation-delimiter {color: #9ca3af}
+.tundra_rust.-module {color: #ddd6fe}
+.tundra_rust.-type-builtin {color: #fbc19d}
+.tundra_rust.Include {color: #bae6fd}
+.tundra_rust.SignColumn {color: #323948}
+.tundra_rust.-number {color: #e8d4b0}
+.tundra_rust.NonText {color: #323948}
+.tundra_rust.-keyword {color: #fca5a5}
+.tundra_rust.-spell {}
+.tundra_rust.-number-float {color: #e8d4b0}
+.tundra_rust.-keyword-operator {color: #fca5a5}
+.tundra_rust.-keyword-conditional {color: #fca5a5}
+.tundra_rust.-operator {color: #f3f4f6}
+.tundra_rust.-punctuation-bracket {color: #9ca3af}
+.tundra_rust.Type {color: #fecdd3}
+.tundra_rust.-constant {color: #ddd6fe}
+.tundra_rust.-variable-member {color: #ddd6fe}
+.tundra_rust.-keyword-function {color: #fca5a5}
+.tundra_rust.-variable {color: #f3f4f6}
+.tundra_rust.-comment {color: #4a5160}
+.tundra_rust.-variable-builtin {color: #e8d4b0}
+.tundra_rust.-function {color: #bae6fd}

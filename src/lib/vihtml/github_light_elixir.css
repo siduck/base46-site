@@ -1,19 +1,19 @@
-.github_light_elixir.boxbg {background-color: #ffffff; color: #1f2328}
-.github_light_elixir.LineNr {color: #6e7781}
-.github_light_elixir.Keyword {color: #cf222e}
-.github_light_elixir.-module {color: #cf222e}
-.github_light_elixir.String {color: #0a3069}
-.github_light_elixir.-ibl-indent-char-1 {color: #e7eaf0}
-.github_light_elixir.-keyword-function {color: #cf222e}
-.github_light_elixir.-ibl-whitespace-char-1 {color: #e7eaf0}
-.github_light_elixir.-ibl-scope-char-1 {color: #57606a}
+.github_light_elixir.boxbg {background-color: #ffffff; color: #383d42}
+.github_light_elixir.LineNr {color: #c7c9cb}
+.github_light_elixir.-function-call {color: #005cc5}
+.github_light_elixir.-punctuation-delimiter {color: #044289}
+.github_light_elixir.-module {color: #5a32a3}
+.github_light_elixir.-string {color: #4c2889}
+.github_light_elixir.-ibl-scope-char-1 {color: #a6a8aa}
+.github_light_elixir.-keyword {color: #de2c2e}
+.github_light_elixir.NonText {color: #d7d9db}
+.github_light_elixir.Special {color: #8263eb}
+.github_light_elixir.-operator {color: #d15704}
+.github_light_elixir.-punctuation-bracket {color: #0d7fdd}
+.github_light_elixir.SignColumn {color: #d7d9db}
+.github_light_elixir.SpecialChar {color: #044289}
+.github_light_elixir.-keyword-function {color: #de2c2e}
+.github_light_elixir.-variable {color: #383d42}
+.github_light_elixir.-number {color: #b93a86}
 .github_light_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-.github_light_elixir.SignColumn {color: #57606a}
-.github_light_elixir.-string-special-symbol {color: #cf222e}
-.github_light_elixir.Operator {color: #0550ae}
-.github_light_elixir.Comment {color: #57606a}
-.github_light_elixir.Number {color: #0550ae}
-.github_light_elixir.-variable {color: #1f2328}
-.github_light_elixir.Function {color: #6639ba}
-.github_light_elixir.-punctuation-bracket {color: #1f2328}
-.github_light_elixir.Special {color: #1f2328}
+.github_light_elixir.-function {color: #005cc5}

@@ -1,0 +1,22 @@
+.flex-light_haskell.boxbg {background-color: #fffcf0; color: #2a2929}
+.flex-light_haskell.-variable-parameter {color: #ce5d97}
+.flex-light_haskell.-keyword-directive {color: #8b7ec8}
+.flex-light_haskell.-function-call {color: #4385be}
+.flex-light_haskell.-punctuation-delimiter {color: #008080}
+.flex-light_haskell.-module {color: #d14d41}
+.flex-light_haskell.-comment {color: #adaba3}
+.flex-light_haskell.Include {color: #d0a215}
+.flex-light_haskell.-number {color: #da702c}
+.flex-light_haskell.-keyword {color: #3aa99f}
+.flex-light_haskell.-spell {}
+.flex-light_haskell.LineNr {color: #b8b5ad}
+.flex-light_haskell.-operator {color: #2a2929}
+.flex-light_haskell.-punctuation-bracket {color: #d0a215}
+.flex-light_haskell.SignColumn {color: #b8b5ad}
+.flex-light_haskell.-constructor {color: #3aa99f}
+.flex-light_haskell.-variable-member {color: #d14d41}
+.flex-light_haskell.NonText {color: #b8b5ad}
+.flex-light_haskell.-variable {color: #2a2929}
+.flex-light_haskell.SpecialChar {color: #008080}
+.flex-light_haskell.Type {color: #8b7ec8}
+.flex-light_haskell.-function {color: #4385be}

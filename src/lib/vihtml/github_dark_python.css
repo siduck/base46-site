@@ -1,23 +1,24 @@
-.github_dark_python.boxbg {background-color: #30363d; color: #e6edf3}
-.github_dark_python.-variable-parameter {color: #e6edf3}
-.github_dark_python.-odp {}
-.github_dark_python.Keyword {color: #ff7b72}
-.github_dark_python.Constant {color: #79c0ff}
-.github_dark_python.-module {color: #ff7b72}
-.github_dark_python.-type {color: #ffa657}
-.github_dark_python.String {color: #a5d6ff}
-.github_dark_python.LineNr {color: #6e7681}
-.github_dark_python.-ibl-indent-char-1 {color: #484f58}
-.github_dark_python.Operator {color: #79c0ff}
-.github_dark_python.Special {color: #e6edf3}
-.github_dark_python.-keyword-operator {color: #ff7b72}
-.github_dark_python.SignColumn {color: #6e7681}
-.github_dark_python.-nowl {}
-.github_dark_python.-ibl-whitespace-char-1 {color: #484f58}
-.github_dark_python.-variable-member-python {color: #e6edf3}
-.github_dark_python.-punctuation-bracket {color: #e6edf3}
-.github_dark_python.Number {color: #79c0ff}
-.github_dark_python.-variable {color: #e6edf3}
-.github_dark_python.Function {color: #d2a8ff}
-.github_dark_python.NONE {}
-.github_dark_python.-keyword-function {color: #ff7b72}
+.github_dark_python.boxbg {background-color: #24292e; color: #c9d1d9}
+.github_dark_python.-variable-parameter {color: #b392e9}
+.github_dark_python.LineNr {color: #4c5156}
+.github_dark_python.-punctuation-delimiter {color: #85e89d}
+.github_dark_python.-none {}
+.github_dark_python.-module {color: #b392e9}
+.github_dark_python.Include {color: #6ab1f0}
+.github_dark_python.-string {color: #d3dbe3}
+.github_dark_python.Boolean {color: #ffab70}
+.github_dark_python.-keyword {color: #ff7f8d}
+.github_dark_python.NonText {color: #42474c}
+.github_dark_python.SignColumn {color: #42474c}
+.github_dark_python.Special {color: #83caff}
+.github_dark_python.-keyword-operator {color: #ff7f8d}
+.github_dark_python.-operator {color: #c9d1d9}
+.github_dark_python.-punctuation-bracket {color: #ffab70}
+.github_dark_python.-keyword-conditional {color: #ff7f8d}
+.github_dark_python.-variable-builtin {color: #ffab70}
+.github_dark_python.-variable-member {color: #b392e9}
+.github_dark_python.-keyword-function {color: #ff7f8d}
+.github_dark_python.-variable {color: #c9d1d9}
+.github_dark_python.Type {color: #ffdf5d}
+.github_dark_python.-function-method {color: #6ab1f0}
+.github_dark_python.-function {color: #6ab1f0}

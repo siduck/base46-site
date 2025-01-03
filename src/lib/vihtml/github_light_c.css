@@ -1,22 +1,26 @@
-.github_light_c.boxbg {background-color: #ffffff; color: #1f2328}
-.github_light_c.-variable-parameter {color: #1f2328}
-.github_light_c.-variable-member {color: #0550ae}
-.github_light_c.Type {color: #953800}
-.github_light_c.Keyword {color: #cf222e}
-.github_light_c.Constant {color: #0550ae}
-.github_light_c.SignColumn {color: #57606a}
-.github_light_c.-type-builtin {color: #cf222e}
-.github_light_c.String {color: #0a3069}
-.github_light_c.-ibl-indent-char-1 {color: #e7eaf0}
-.github_light_c.Number {color: #0550ae}
-.github_light_c.Special {color: #1f2328}
-.github_light_c.-string-escape {font-weight: bold; color: #0a3069}
-.github_light_c.LineNr {color: #6e7781}
-.github_light_c.-ibl-whitespace-char-1 {color: #e7eaf0}
-.github_light_c.PreProc {color: #cf222e}
-.github_light_c.-punctuation-bracket {color: #1f2328}
-.github_light_c.Function {color: #6639ba}
-.github_light_c.-variable {color: #1f2328}
+.github_light_c.boxbg {background-color: #ffffff; color: #383d42}
+.github_light_c.-variable-parameter {color: #5a32a3}
+.github_light_c.-keyword-directive-define {color: #de2c2e}
+.github_light_c.-constant-macro {color: #5a32a3}
+.github_light_c.-property {color: #5a32a3}
+.github_light_c.-constant {color: #5a32a3}
 .github_light_c.-_parent {}
-.github_light_c.-type-c {}
-.github_light_c.Operator {color: #0550ae}
+.github_light_c.SignColumn {color: #d7d9db}
+.github_light_c.-type-builtin {color: #b08800}
+.github_light_c.Include {color: #005cc5}
+.github_light_c.-string {color: #4c2889}
+.github_light_c.-number {color: #b93a86}
+.github_light_c.-keyword {color: #de2c2e}
+.github_light_c.NonText {color: #d7d9db}
+.github_light_c.LineNr {color: #c7c9cb}
+.github_light_c.-string-escape {color: #8263eb}
+.github_light_c.-operator {color: #d15704}
+.github_light_c.-punctuation-bracket {color: #0d7fdd}
+.github_light_c.-keyword-repeat {color: #b08800}
+.github_light_c.-function-call {color: #005cc5}
+.github_light_c.-function-macro {color: #5a32a3}
+.github_light_c.-keyword-return {color: #de2c2e}
+.github_light_c.-variable {color: #383d42}
+.github_light_c.-punctuation-delimiter {color: #044289}
+.github_light_c.Type {color: #b08800}
+.github_light_c.-function {color: #005cc5}

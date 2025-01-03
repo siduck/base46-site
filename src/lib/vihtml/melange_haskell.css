@@ -1,16 +1,22 @@
-.melange_haskell.boxbg {background-color: #292522; color: #ece1d7}
-.melange_haskell.Identifier {color: #ece1d7}
-.melange_haskell.Statement {color: #e49b5d}
-.melange_haskell.Operator {color: #d47766}
-.melange_haskell.Type {color: #7b9695}
-.melange_haskell.LineNr {color: #867462}
-.melange_haskell.IblIndent {color: #403a36}
-.melange_haskell.-ibl-indent-char-1 {color: #403a36}
+.melange_haskell.boxbg {background-color: #2a2520; color: #ece1d7}
+.melange_haskell.-variable-parameter {color: #ece1d7}
+.melange_haskell.-keyword-directive {color: #99d59d}
+.melange_haskell.-function-call {color: #ebc06d}
+.melange_haskell.-punctuation-delimiter {color: #8e733f}
+.melange_haskell.-module {color: #ece1d7}
+.melange_haskell.-comment {color: #605b56}
+.melange_haskell.Include {color: #99d59d}
+.melange_haskell.-number {color: #86a3a3}
+.melange_haskell.-keyword {color: #e49b5d}
 .melange_haskell.-spell {}
-.melange_haskell.PreProc {color: #85b695}
-.melange_haskell.Comment {color: #c1a78e; font-style: normal}
-.melange_haskell.Number {color: #cf9bc2}
-.melange_haskell.Function {color: #ebc06d}
-.melange_haskell.Delimiter {color: #8b7449}
-.melange_haskell.Special {color: #ebc06d}
-.melange_haskell.-punctuation-delimiter {color: #bd8183}
+.melange_haskell.LineNr {color: #57524d}
+.melange_haskell.-operator {color: #ece1d7}
+.melange_haskell.-punctuation-bracket {color: #8e733f}
+.melange_haskell.SignColumn {color: #4d4843}
+.melange_haskell.-constructor {color: #ebc06d}
+.melange_haskell.-variable-member {color: #ece1d7}
+.melange_haskell.NonText {color: #4d4843}
+.melange_haskell.-variable {color: #ece1d7}
+.melange_haskell.SpecialChar {color: #8e733f}
+.melange_haskell.Type {color: #99d59d}
+.melange_haskell.-function {color: #ebc06d}

@@ -1,0 +1,22 @@
+.mito-laser_haskell.boxbg {background-color: #201947; color: #eee8d5}
+.mito-laser_haskell.-variable-parameter {color: #ff047d}
+.mito-laser_haskell.-keyword-directive {color: #b58900}
+.mito-laser_haskell.-function-call {color: #268bd2}
+.mito-laser_haskell.-punctuation-delimiter {color: #ff047d}
+.mito-laser_haskell.-module {color: #ff047d}
+.mito-laser_haskell.-comment {color: #4c3ca9}
+.mito-laser_haskell.Include {color: #268bd2}
+.mito-laser_haskell.-number {color: #c85106}
+.mito-laser_haskell.-keyword {color: #6c71c4}
+.mito-laser_haskell.-spell {}
+.mito-laser_haskell.LineNr {color: #423494}
+.mito-laser_haskell.-operator {color: #eee8d5}
+.mito-laser_haskell.-punctuation-bracket {color: #ff047d}
+.mito-laser_haskell.SignColumn {color: #352975}
+.mito-laser_haskell.-constructor {color: #2aa198}
+.mito-laser_haskell.-variable-member {color: #ff047d}
+.mito-laser_haskell.NonText {color: #352975}
+.mito-laser_haskell.-variable {color: #eee8d5}
+.mito-laser_haskell.SpecialChar {color: #ff047d}
+.mito-laser_haskell.Type {color: #b58900}
+.mito-laser_haskell.-function {color: #268bd2}

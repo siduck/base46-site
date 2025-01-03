@@ -1,0 +1,26 @@
+.flexoki_c.boxbg {background-color: #100f0f; color: #cecdc3}
+.flexoki_c.-variable-parameter {color: #d36da1}
+.flexoki_c.-keyword-directive-define {color: #d0a215}
+.flexoki_c.-constant-macro {color: #d14d41}
+.flexoki_c.-property {color: #d14d41}
+.flexoki_c.-constant {color: #d14d41}
+.flexoki_c.-_parent {}
+.flexoki_c.SignColumn {color: #393636}
+.flexoki_c.-type-builtin {color: #8b7ec8}
+.flexoki_c.Include {color: #d0a215}
+.flexoki_c.-string {color: #879a39}
+.flexoki_c.-number {color: #da702c}
+.flexoki_c.-keyword {color: #3aa99f}
+.flexoki_c.NonText {color: #393636}
+.flexoki_c.LineNr {color: #393636}
+.flexoki_c.-string-escape {color: #3aa99f}
+.flexoki_c.-operator {color: #cecdc3}
+.flexoki_c.-punctuation-bracket {color: #d0a215}
+.flexoki_c.-keyword-repeat {color: #8b7ec8}
+.flexoki_c.-function-call {color: #4385be}
+.flexoki_c.-function-macro {color: #d14d41}
+.flexoki_c.-keyword-return {color: #d0a215}
+.flexoki_c.-variable {color: #cecdc3}
+.flexoki_c.-punctuation-delimiter {color: #519aba}
+.flexoki_c.Type {color: #8b7ec8}
+.flexoki_c.-function {color: #4385be}

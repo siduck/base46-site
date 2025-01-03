@@ -1,0 +1,26 @@
+.nano-light_rust.boxbg {background-color: #ffffff; color: #37474f}
+.nano-light_rust.-variable-parameter {color: #37474f}
+.nano-light_rust.LineNr {color: #c4c4c4}
+.nano-light_rust.-function-call {color: #263238; font-weight: bold}
+.nano-light_rust.-punctuation-delimiter {color: #8497a0}
+.nano-light_rust.-module {color: #263238}
+.nano-light_rust.-type-builtin {color: #673ab7}
+.nano-light_rust.Include {color: #263238}
+.nano-light_rust.SignColumn {color: #c4c4c4}
+.nano-light_rust.-number {color: #8497a0}
+.nano-light_rust.NonText {color: #c4c4c4}
+.nano-light_rust.-keyword {color: #673ab7}
+.nano-light_rust.-spell {}
+.nano-light_rust.-number-float {color: #8497a0}
+.nano-light_rust.-keyword-operator {color: #37474f}
+.nano-light_rust.-keyword-conditional {color: #37474f}
+.nano-light_rust.-operator {color: #37474f}
+.nano-light_rust.-punctuation-bracket {color: #8497a0}
+.nano-light_rust.Type {color: #673ab7}
+.nano-light_rust.-constant {color: #673ab7}
+.nano-light_rust.-variable-member {color: #673ab7}
+.nano-light_rust.-keyword-function {color: #37474f}
+.nano-light_rust.-variable {color: #37474f}
+.nano-light_rust.-comment {color: #b5b5b5}
+.nano-light_rust.-variable-builtin {color: #8497a0}
+.nano-light_rust.-function {color: #263238; font-weight: bold}

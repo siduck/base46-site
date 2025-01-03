@@ -1,0 +1,22 @@
+.gatekeeper_haskell.boxbg {background-color: #101010; color: #d8d9dd}
+.gatekeeper_haskell.-variable-parameter {color: #cccdd1}
+.gatekeeper_haskell.-keyword-directive {color: #be620a}
+.gatekeeper_haskell.-function-call {color: #c54bcf}
+.gatekeeper_haskell.-punctuation-delimiter {color: #ffccaa}
+.gatekeeper_haskell.-module {color: #ffb20f}
+.gatekeeper_haskell.-comment {color: #3d3d3d}
+.gatekeeper_haskell.Include {color: #c54bcf}
+.gatekeeper_haskell.-number {color: #ff004d}
+.gatekeeper_haskell.-keyword {color: #ff4394}
+.gatekeeper_haskell.-spell {}
+.gatekeeper_haskell.LineNr {color: #363636}
+.gatekeeper_haskell.-operator {color: #d8d9dd}
+.gatekeeper_haskell.-punctuation-bracket {color: #ffccaa}
+.gatekeeper_haskell.SignColumn {color: #252525}
+.gatekeeper_haskell.-constructor {color: #29adff}
+.gatekeeper_haskell.-variable-member {color: #ffb20f}
+.gatekeeper_haskell.NonText {color: #252525}
+.gatekeeper_haskell.-variable {color: #ffa300}
+.gatekeeper_haskell.SpecialChar {color: #ffccaa}
+.gatekeeper_haskell.Type {color: #be620a}
+.gatekeeper_haskell.-function {color: #c54bcf}

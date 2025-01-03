@@ -1,20 +1,26 @@
-.tokyodark_c.boxbg {background-color: #11121d; color: #a0a8cd}
-.tokyodark_c.Macro {color: #a485dd}
-.tokyodark_c.Identifier {color: #f6955b; font-style: normal}
-.tokyodark_c.Type {color: #7199ee; font-style: normal}
-.tokyodark_c.Keyword {color: #ee6d85; font-style: normal}
-.tokyodark_c.Constant {color: #f6955b}
-.tokyodark_c.SignColumn {color: #a0a8cd; background-color: #11121d}
-.tokyodark_c.Typedef {color: #ee6d85}
-.tokyodark_c.Delimiter {color: #a0a8cd}
-.tokyodark_c.String {color: #d7a65f}
-.tokyodark_c.-ibl-indent-char-1 {color: #4a5057}
-.tokyodark_c.Operator {color: #ee6d85}
-.tokyodark_c.-ibl-whitespace-char-1 {color: #4a5057}
-.tokyodark_c.Define {color: #ee6d85}
-.tokyodark_c.LineNr {color: #4a5057}
-.tokyodark_c.Number {color: #a485dd}
-.tokyodark_c.-variable {color: #e0e2ea}
+.tokyodark_c.boxbg {background-color: #11121d; color: #abb2bf}
+.tokyodark_c.-variable-parameter {color: #ee6d85}
+.tokyodark_c.-keyword-directive-define {color: #a485dd}
+.tokyodark_c.-constant-macro {color: #ee6d85}
+.tokyodark_c.-property {color: #ee6d85}
+.tokyodark_c.-constant {color: #ee6d85}
 .tokyodark_c.-_parent {}
-.tokyodark_c.Function {color: #95c561}
-.tokyodark_c.SpecialChar {color: #a485dd}
+.tokyodark_c.SignColumn {color: #282934}
+.tokyodark_c.-type-builtin {color: #7199ee}
+.tokyodark_c.Include {color: #95c561}
+.tokyodark_c.-string {color: #dfae67}
+.tokyodark_c.-number {color: #7199ee}
+.tokyodark_c.-keyword {color: #a485dd}
+.tokyodark_c.NonText {color: #282934}
+.tokyodark_c.LineNr {color: #474853}
+.tokyodark_c.-string-escape {color: #a485dd}
+.tokyodark_c.-operator {color: #abb2bf}
+.tokyodark_c.-punctuation-bracket {color: #f3627a}
+.tokyodark_c.-keyword-repeat {color: #7199ee}
+.tokyodark_c.-function-call {color: #95c561}
+.tokyodark_c.-function-macro {color: #ee6d85}
+.tokyodark_c.-keyword-return {color: #a485dd}
+.tokyodark_c.-variable {color: #abb2bf}
+.tokyodark_c.-punctuation-delimiter {color: #f3627a}
+.tokyodark_c.Type {color: #7199ee}
+.tokyodark_c.-function {color: #95c561}

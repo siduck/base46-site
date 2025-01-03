@@ -1,0 +1,19 @@
+.falcon_elixir.boxbg {background-color: #020222; color: #eeeef5}
+.falcon_elixir.LineNr {color: #393959}
+.falcon_elixir.-function-call {color: #ffc552}
+.falcon_elixir.-punctuation-delimiter {color: #dfdfe5}
+.falcon_elixir.-module {color: #bfdaff}
+.falcon_elixir.-string {color: #c8d0e3}
+.falcon_elixir.-ibl-scope-char-1 {color: #5c5c7c}
+.falcon_elixir.-keyword {color: #ffc552}
+.falcon_elixir.NonText {color: #202040}
+.falcon_elixir.Special {color: #b4b4b9}
+.falcon_elixir.-operator {color: #eeeef5}
+.falcon_elixir.-punctuation-bracket {color: #dfdfe5}
+.falcon_elixir.SignColumn {color: #202040}
+.falcon_elixir.SpecialChar {color: #dfdfe5}
+.falcon_elixir.-keyword-function {color: #8bccbf}
+.falcon_elixir.-variable {color: #eeeef5}
+.falcon_elixir.-number {color: #b4b4b9}
+.falcon_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
+.falcon_elixir.-function {color: #ffc552}

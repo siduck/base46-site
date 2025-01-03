@@ -1,25 +1,26 @@
-.onedark_rust.boxbg {background-color: #282c34; color: #abb2bf}
+.onedark_rust.boxbg {background-color: #1e222a; color: #abb2bf}
 .onedark_rust.-variable-parameter {color: #e06c75}
-.onedark_rust.-variable-member {color: #e06c75}
-.onedark_rust.-keyword-conditional {color: #c678dd}
-.onedark_rust.Type {color: #e5c07b}
-.onedark_rust.Keyword {color: #c678dd}
-.onedark_rust.-operator-rust {color: #abb2bf}
-.onedark_rust.-module {color: #e5c07b}
-.onedark_rust.IndentLine {color: #3b4048}
-.onedark_rust.-punctuation-bracket-rust {color: #d19a66}
-.onedark_rust.Delimiter {color: #abb2bf}
-.onedark_rust.-variable-rust {color: #e06c75}
-.onedark_rust.-keyword-function {color: #c678dd}
-.onedark_rust.-ibl-whitespace-char-1 {color: #5c6370}
-.onedark_rust.-keyword-operator {color: #c678dd}
-.onedark_rust.LineNr {color: #495162; background-color: #282c34}
-.onedark_rust.SignColumn {background-color: #282c34}
-.onedark_rust.Number {color: #d19a66}
-.onedark_rust.-odp-punctuation_arguments_brackets-rust {color: #c678dd}
-.onedark_rust.Comment {color: #7f848e}
-.onedark_rust.Float {color: #d19a66}
-.onedark_rust.-constant {color: #d19a66}
+.onedark_rust.LineNr {color: #42464e}
+.onedark_rust.-function-call {color: #61afef}
+.onedark_rust.-punctuation-delimiter {color: #be5046}
+.onedark_rust.-module {color: #e06c75}
+.onedark_rust.-type-builtin {color: #e5c07b}
+.onedark_rust.Include {color: #61afef}
+.onedark_rust.SignColumn {color: #545862}
+.onedark_rust.-number {color: #d19a66}
+.onedark_rust.NonText {color: #545862}
+.onedark_rust.-keyword {color: #c678dd}
 .onedark_rust.-spell {}
-.onedark_rust.-variable-builtin {color: #e5c07b}
+.onedark_rust.-number-float {color: #d19a66}
+.onedark_rust.-keyword-operator {color: #c678dd}
+.onedark_rust.-keyword-conditional {color: #c678dd}
+.onedark_rust.-operator {color: #abb2bf}
+.onedark_rust.-punctuation-bracket {color: #be5046}
+.onedark_rust.Type {color: #e5c07b}
+.onedark_rust.-constant {color: #e06c75}
+.onedark_rust.-variable-member {color: #e06c75}
+.onedark_rust.-keyword-function {color: #c678dd}
+.onedark_rust.-variable {color: #abb2bf}
+.onedark_rust.-comment {color: #565c64}
+.onedark_rust.-variable-builtin {color: #d19a66}
 .onedark_rust.-function {color: #61afef}

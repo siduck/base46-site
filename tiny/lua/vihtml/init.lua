@@ -28,10 +28,10 @@ M.base46_themes_html = function()
   local cwd = vim.uv.cwd()
 
   for _, v in ipairs(themelist) do
-    for _, name in ipairs(v.variants) do
-      vim.cmd("colorscheme " .. name)
-      M.open_multi_langs(name, cwd)
-    end
+    vim.cmd.highlight("clear")
+    require("nvconfig").base46.theme = v.name
+    require("base46").load_all_highlights()
+    M.open_multi_langs(v.name, cwd)
   end
 
   local themelist_json = vim.json.encode(themelist)

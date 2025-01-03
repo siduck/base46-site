@@ -1,0 +1,26 @@
+.dark_horizon_c.boxbg {background-color: #0e0e0e; color: #c9c7be}
+.dark_horizon_c.-variable-parameter {color: #db627e}
+.dark_horizon_c.-keyword-directive-define {color: #6be4e6}
+.dark_horizon_c.-constant-macro {color: #db627e}
+.dark_horizon_c.-property {color: #6be4e6}
+.dark_horizon_c.-constant {color: #db627e}
+.dark_horizon_c.-_parent {}
+.dark_horizon_c.SignColumn {color: #363636}
+.dark_horizon_c.-type-builtin {color: #169ac9}
+.dark_horizon_c.Include {color: #6be4e6; font-weight: bold}
+.dark_horizon_c.-string {color: #e3a587}
+.dark_horizon_c.-number {color: #eaa273}
+.dark_horizon_c.-keyword {color: #6be4e6}
+.dark_horizon_c.NonText {color: #363636}
+.dark_horizon_c.LineNr {color: #363636}
+.dark_horizon_c.-string-escape {color: #f09483}
+.dark_horizon_c.-operator {color: #c9c7be}
+.dark_horizon_c.-punctuation-bracket {color: #fdb830}
+.dark_horizon_c.-keyword-repeat {color: #169ac9}
+.dark_horizon_c.-function-call {color: #32d5e3}
+.dark_horizon_c.-function-macro {color: #db627e}
+.dark_horizon_c.-keyword-return {color: #6be4e6}
+.dark_horizon_c.-variable {color: #c9c7be}
+.dark_horizon_c.-punctuation-delimiter {color: #fdb830}
+.dark_horizon_c.Type {color: #169ac9}
+.dark_horizon_c.-function {color: #32d5e3}

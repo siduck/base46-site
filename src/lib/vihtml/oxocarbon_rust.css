@@ -1,20 +1,26 @@
-.oxocarbon_rust.boxbg {background-color: #161616; color: #d0d0d0}
-.oxocarbon_rust.-odp {}
-.oxocarbon_rust.Type {color: #78a9ff}
+.oxocarbon_rust.boxbg {background-color: #161616; color: #f2f4f8}
+.oxocarbon_rust.-variable-parameter {color: #3ddbd9}
+.oxocarbon_rust.LineNr {color: #464646}
+.oxocarbon_rust.-function-call {color: #42be65}
+.oxocarbon_rust.-punctuation-delimiter {color: #82cfff}
+.oxocarbon_rust.-module {color: #3ddbd9}
+.oxocarbon_rust.-type-builtin {color: #ee5396}
+.oxocarbon_rust.Include {color: #42be65}
+.oxocarbon_rust.SignColumn {color: #525252}
+.oxocarbon_rust.-number {color: #78a9ff}
+.oxocarbon_rust.NonText {color: #525252}
+.oxocarbon_rust.-keyword {color: #be95ff}
 .oxocarbon_rust.-spell {}
-.oxocarbon_rust.Structure {color: #78a9ff}
-.oxocarbon_rust.-keyword {color: #78a9ff}
-.oxocarbon_rust.NonText {color: #393939}
-.oxocarbon_rust.-keyword-function {color: #3ddbd9}
-.oxocarbon_rust.LineNr {color: #525252; background-color: #161616}
-.oxocarbon_rust.-keyword-operator {color: #3ddbd9}
-.oxocarbon_rust.SignColumn {color: #262626; background-color: #161616}
-.oxocarbon_rust.Number {color: #82cfff}
-.oxocarbon_rust.Operator {color: #78a9ff}
-.oxocarbon_rust.-punctuation-delimiter {color: #3ddbd9}
-.oxocarbon_rust.Comment {color: #525252; font-style: normal}
-.oxocarbon_rust.-constant {color: #be95ff}
-.oxocarbon_rust.-variable {color: #d0d0d0}
-.oxocarbon_rust.-punctuation-bracket {color: #3ddbd9}
-.oxocarbon_rust.-variable-builtin {color: #d0d0d0}
-.oxocarbon_rust.-function {font-weight: bold; color: #ff7eb6}
+.oxocarbon_rust.-number-float {color: #78a9ff}
+.oxocarbon_rust.-keyword-operator {color: #be95ff}
+.oxocarbon_rust.-keyword-conditional {color: #be95ff}
+.oxocarbon_rust.-operator {color: #f2f4f8}
+.oxocarbon_rust.-punctuation-bracket {color: #82cfff}
+.oxocarbon_rust.Type {color: #ee5396}
+.oxocarbon_rust.-constant {color: #3ddbd9}
+.oxocarbon_rust.-variable-member {color: #3ddbd9}
+.oxocarbon_rust.-keyword-function {color: #be95ff}
+.oxocarbon_rust.-variable {color: #f2f4f8}
+.oxocarbon_rust.-comment {color: #4c4c4c}
+.oxocarbon_rust.-variable-builtin {color: #78a9ff}
+.oxocarbon_rust.-function {color: #42be65}

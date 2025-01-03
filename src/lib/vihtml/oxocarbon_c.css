@@ -1,20 +1,26 @@
-.oxocarbon_c.boxbg {background-color: #161616; color: #d0d0d0}
-.oxocarbon_c.LineNr {color: #525252; background-color: #161616}
-.oxocarbon_c.-constant-macro {color: #08bdba}
-.oxocarbon_c.-property {color: #ee5396}
-.oxocarbon_c.Type {color: #78a9ff}
-.oxocarbon_c.SignColumn {color: #262626; background-color: #161616}
-.oxocarbon_c.Typedef {color: #78a9ff}
-.oxocarbon_c.String {color: #be95ff}
-.oxocarbon_c.-keyword {color: #78a9ff}
-.oxocarbon_c.NonText {color: #393939}
-.oxocarbon_c.Number {color: #82cfff}
-.oxocarbon_c.-string-escape {color: #82cfff}
-.oxocarbon_c.-function-macro {color: #08bdba}
-.oxocarbon_c.-constant {color: #be95ff}
-.oxocarbon_c.-punctuation-bracket {color: #3ddbd9}
-.oxocarbon_c.-punctuation-delimiter {color: #3ddbd9}
-.oxocarbon_c.-variable {color: #d0d0d0}
+.oxocarbon_c.boxbg {background-color: #161616; color: #f2f4f8}
+.oxocarbon_c.-variable-parameter {color: #3ddbd9}
+.oxocarbon_c.-keyword-directive-define {color: #be95ff}
+.oxocarbon_c.-constant-macro {color: #3ddbd9}
+.oxocarbon_c.-property {color: #3ddbd9}
+.oxocarbon_c.-constant {color: #3ddbd9}
 .oxocarbon_c.-_parent {}
-.oxocarbon_c.Operator {color: #78a9ff}
-.oxocarbon_c.-function {font-weight: bold; color: #ff7eb6}
+.oxocarbon_c.SignColumn {color: #525252}
+.oxocarbon_c.-type-builtin {color: #ee5396}
+.oxocarbon_c.Include {color: #42be65}
+.oxocarbon_c.-string {color: #33b1ff}
+.oxocarbon_c.-number {color: #78a9ff}
+.oxocarbon_c.-keyword {color: #be95ff}
+.oxocarbon_c.NonText {color: #525252}
+.oxocarbon_c.LineNr {color: #464646}
+.oxocarbon_c.-string-escape {color: #ff7eb6}
+.oxocarbon_c.-operator {color: #f2f4f8}
+.oxocarbon_c.-punctuation-bracket {color: #82cfff}
+.oxocarbon_c.-keyword-repeat {color: #ee5396}
+.oxocarbon_c.-function-call {color: #42be65}
+.oxocarbon_c.-function-macro {color: #3ddbd9}
+.oxocarbon_c.-keyword-return {color: #be95ff}
+.oxocarbon_c.-variable {color: #f2f4f8}
+.oxocarbon_c.-punctuation-delimiter {color: #82cfff}
+.oxocarbon_c.Type {color: #ee5396}
+.oxocarbon_c.-function {color: #42be65}

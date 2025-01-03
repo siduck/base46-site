@@ -1,21 +1,26 @@
-.poimandres_c.boxbg {background-color: #1b1e28; color: #e4f0fb}
-.poimandres_c.-function-call {color: #a6accd}
-.poimandres_c.LineNr {color: #506477}
+.poimandres_c.boxbg {background-color: #1b1e28; color: #a6accd}
+.poimandres_c.-variable-parameter {color: #a6accd}
+.poimandres_c.-keyword-directive-define {color: #91b4d5}
+.poimandres_c.-constant-macro {color: #a6accd}
 .poimandres_c.-property {color: #add7ff}
-.poimandres_c.Type {color: #a6accd}
-.poimandres_c.Keyword {color: #91b4d5}
-.poimandres_c.Constant {color: #e4f0fb}
-.poimandres_c.SignColumn {color: #e4f0fb}
-.poimandres_c.String {color: #5de4c7}
-.poimandres_c.-ibl-indent-char-1 {color: #506477}
-.poimandres_c.Number {color: #5de4c7}
-.poimandres_c.-ibl-whitespace-char-1 {color: #506477}
-.poimandres_c.-string-escape {color: #d0679d}
-.poimandres_c.-punctuation-delimiter {color: #91b4d5}
-.poimandres_c.PreProc {color: #e4f0fb}
-.poimandres_c.-punctuation-bracket {color: #e4f0fb}
-.poimandres_c.Operator {color: #add7ff}
-.poimandres_c.-variable {color: #e4f0fb}
+.poimandres_c.-constant {color: #e4f0fb}
 .poimandres_c.-_parent {}
-.poimandres_c.Function {color: #add7ff}
+.poimandres_c.SignColumn {color: #3b4258}
+.poimandres_c.Include {color: #89ddff}
+.poimandres_c.-string {color: #5de4c7}
+.poimandres_c.Boolean {color: #d0679d}
+.poimandres_c.-keyword {color: #91b4d5}
+.poimandres_c.NonText {color: #3b4258}
+.poimandres_c.LineNr {color: #48506a}
+.poimandres_c.-string-escape {color: #89ddff}
+.poimandres_c.-number {color: #d0679d}
+.poimandres_c.-operator {color: #91b4d5}
+.poimandres_c.-punctuation-bracket {color: #a6accd}
+.poimandres_c.-keyword-repeat {color: #5de4c7}
+.poimandres_c.-function-call {color: #a6accd}
+.poimandres_c.-function-macro {color: #a6accd}
 .poimandres_c.-keyword-return {color: #5fb3a1}
+.poimandres_c.-variable {color: #ffffff}
+.poimandres_c.-punctuation-delimiter {color: #add7ff}
+.poimandres_c.Type {color: #a6accd}
+.poimandres_c.-function {color: #add7ff}

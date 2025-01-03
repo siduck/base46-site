@@ -1,0 +1,17 @@
+.radium_go.boxbg {background-color: #101317; color: #c5c5c6}
+.radium_go.LineNr {color: #3e4145}
+.radium_go.-keyword {color: #c397d8}
+.radium_go.-function-call {color: #5fb0fc}
+.radium_go.-property {color: #37d99e}
+.radium_go.Type {color: #e5d487}
+.radium_go.NonText {color: #2b2e32}
+.radium_go.-operator {color: #c5c5c6}
+.radium_go.-punctuation-bracket {color: #d4d4d5}
+.radium_go.SignColumn {color: #2b2e32}
+.radium_go.Label {color: #e5d487}
+.radium_go.-variable-member {color: #37d99e}
+.radium_go.-function-builtin {color: #5fb0fc}
+.radium_go.-variable {color: #c5c5c6}
+.radium_go.-punctuation-delimiter {color: #e87979}
+.radium_go.-function-method-call {color: #5fb0fc}
+.radium_go.-number {color: #f0a988}

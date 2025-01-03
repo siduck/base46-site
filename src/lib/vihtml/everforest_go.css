@@ -1,0 +1,17 @@
+.everforest_go.boxbg {background-color: #2b3339; color: #d3c6aa}
+.everforest_go.LineNr {color: #4e565c}
+.everforest_go.-keyword {color: #e67e80}
+.everforest_go.-function-call {color: #a7c080}
+.everforest_go.-property {color: #7fbbb3}
+.everforest_go.Type {color: #83c092}
+.everforest_go.NonText {color: #424a50}
+.everforest_go.-operator {color: #d3c6aa}
+.everforest_go.-punctuation-bracket {color: #d699b6}
+.everforest_go.SignColumn {color: #424a50}
+.everforest_go.Label {color: #83c092}
+.everforest_go.-variable-member {color: #7fbbb3}
+.everforest_go.-function-builtin {color: #a7c080}
+.everforest_go.-variable {color: #d3c6aa}
+.everforest_go.-punctuation-delimiter {color: #d699b6}
+.everforest_go.-function-method-call {color: #a7c080}
+.everforest_go.-number {color: #d699b6}

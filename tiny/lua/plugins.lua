@@ -1,5 +1,5 @@
 return {
-  { "nvim-lua/plenary.nvim" },
+  { "nvim-lua/plenary.nvim", lazy = true },
 
   {
     "nvim-treesitter/nvim-treesitter",
@@ -20,5 +20,18 @@ return {
     end,
   },
 
-  { import = "themelist" },
+  {
+    "nvchad/base46",
+    lazy = true,
+    build = function()
+      require("base46").load_all_highlights()
+    end,
+  },
+
+  {
+    "nvchad/ui",
+    config = function()
+      require "nvchad"
+    end,
+  },
 }

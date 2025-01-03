@@ -1,17 +1,22 @@
-.nord_haskell.boxbg {background-color: #2e3440; color: #d8dee9}
-.nord_haskell.Structure {color: #81a1c1}
-.nord_haskell.-keyword {color: #81a1c1; font-style: normal}
-.nord_haskell.NonText {color: #3b4252}
-.nord_haskell.LineNr {color: #616e88}
-.nord_haskell.-punctuation-delimiter {color: #88c0d0}
-.nord_haskell.SignColumn {color: #d8dee9; background-color: #2e3440}
-.nord_haskell.-operator {color: #81a1c1}
-.nord_haskell.SpecialChar {color: #ebcb8b}
+.nord_haskell.boxbg {background-color: #2e3440; color: #e5e9f0}
+.nord_haskell.-variable-parameter {color: #88c0d0}
+.nord_haskell.-keyword-directive {color: #88c0d0}
+.nord_haskell.-function-call {color: #81a1c1}
+.nord_haskell.-punctuation-delimiter {color: #abb2bf}
+.nord_haskell.-module {color: #88c0d0}
+.nord_haskell.-comment {color: #565c68}
+.nord_haskell.Include {color: #81a1c1}
+.nord_haskell.-number {color: #81a1c1}
+.nord_haskell.-keyword {color: #81a1c1}
 .nord_haskell.-spell {}
-.nord_haskell.-comment {color: #616e88; font-style: normal}
-.nord_haskell.-punctuation-bracket {color: #88c0d0}
-.nord_haskell.-type {color: #81a1c1}
-.nord_haskell.-variable {font-weight: bold; color: #d8dee9}
-.nord_haskell.-number {color: #b48ead}
+.nord_haskell.LineNr {color: #4b515d}
+.nord_haskell.-operator {color: #e5e9f0}
+.nord_haskell.-punctuation-bracket {color: #abb2bf}
+.nord_haskell.SignColumn {color: #4c566a}
 .nord_haskell.-constructor {color: #81a1c1}
-.nord_haskell.-function {color: #88c0d0; font-style: normal}
+.nord_haskell.-variable-member {color: #88c0d0}
+.nord_haskell.NonText {color: #4c566a}
+.nord_haskell.-variable {color: #e5e9f0}
+.nord_haskell.SpecialChar {color: #b48ead}
+.nord_haskell.Type {color: #88c0d0}
+.nord_haskell.-function {color: #81a1c1}

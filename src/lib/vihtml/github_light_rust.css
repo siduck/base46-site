@@ -1,24 +1,26 @@
-.github_light_rust.boxbg {background-color: #ffffff; color: #1f2328}
-.github_light_rust.-variable-parameter {color: #1f2328}
-.github_light_rust.-variable-member {color: #0550ae}
-.github_light_rust.Keyword {color: #cf222e}
-.github_light_rust.Constant {color: #0550ae}
+.github_light_rust.boxbg {background-color: #ffffff; color: #383d42}
+.github_light_rust.-variable-parameter {color: #5a32a3}
+.github_light_rust.LineNr {color: #c7c9cb}
+.github_light_rust.-function-call {color: #005cc5}
+.github_light_rust.-punctuation-delimiter {color: #044289}
+.github_light_rust.-module {color: #5a32a3}
+.github_light_rust.-type-builtin {color: #b08800}
+.github_light_rust.Include {color: #005cc5}
+.github_light_rust.SignColumn {color: #d7d9db}
+.github_light_rust.-number {color: #b93a86}
+.github_light_rust.NonText {color: #d7d9db}
+.github_light_rust.-keyword {color: #de2c2e}
 .github_light_rust.-spell {}
-.github_light_rust.-type-builtin {color: #cf222e}
-.github_light_rust.-type {color: #953800}
-.github_light_rust.-module-rust {}
-.github_light_rust.LineNr {color: #6e7781}
-.github_light_rust.-ibl-indent-char-1 {color: #e7eaf0}
-.github_light_rust.Operator {color: #0550ae}
-.github_light_rust.Special {color: #1f2328}
-.github_light_rust.-keyword-operator {color: #cf222e}
-.github_light_rust.SignColumn {color: #57606a}
-.github_light_rust.-ibl-whitespace-char-1 {color: #e7eaf0}
-.github_light_rust.-odp {}
-.github_light_rust.Number {color: #0550ae}
-.github_light_rust.Comment {color: #57606a}
-.github_light_rust.-punctuation-bracket {color: #1f2328}
-.github_light_rust.-variable {color: #1f2328}
-.github_light_rust.Function {color: #6639ba}
-.github_light_rust.-variable-builtin {color: #0550ae}
-.github_light_rust.-keyword-function {color: #cf222e}
+.github_light_rust.-number-float {color: #b93a86}
+.github_light_rust.-keyword-operator {color: #de2c2e}
+.github_light_rust.-keyword-conditional {color: #de2c2e}
+.github_light_rust.-operator {color: #d15704}
+.github_light_rust.-punctuation-bracket {color: #0d7fdd}
+.github_light_rust.Type {color: #b08800}
+.github_light_rust.-constant {color: #5a32a3}
+.github_light_rust.-variable-member {color: #5a32a3}
+.github_light_rust.-keyword-function {color: #de2c2e}
+.github_light_rust.-variable {color: #383d42}
+.github_light_rust.-comment {color: #bcbec0}
+.github_light_rust.-variable-builtin {color: #b93a86}
+.github_light_rust.-function {color: #005cc5}

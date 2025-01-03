@@ -1,21 +1,24 @@
-.oxocarbon_python.boxbg {background-color: #161616; color: #d0d0d0}
-.oxocarbon_python.-odp {}
-.oxocarbon_python.Type {color: #78a9ff}
+.oxocarbon_python.boxbg {background-color: #161616; color: #f2f4f8}
+.oxocarbon_python.-variable-parameter {color: #3ddbd9}
+.oxocarbon_python.LineNr {color: #464646}
+.oxocarbon_python.-punctuation-delimiter {color: #82cfff}
 .oxocarbon_python.-none {}
-.oxocarbon_python.SignColumn {color: #262626; background-color: #161616}
-.oxocarbon_python.-punctuation-special {color: #3ddbd9}
+.oxocarbon_python.-module {color: #3ddbd9}
+.oxocarbon_python.Include {color: #42be65}
+.oxocarbon_python.-string {color: #33b1ff}
 .oxocarbon_python.Boolean {color: #78a9ff}
-.oxocarbon_python.Structure {color: #78a9ff}
-.oxocarbon_python.-keyword {color: #78a9ff}
-.oxocarbon_python.NonText {color: #393939}
-.oxocarbon_python.Operator {color: #78a9ff}
-.oxocarbon_python.-keyword-operator {color: #3ddbd9}
-.oxocarbon_python.-nowl {}
-.oxocarbon_python.LineNr {color: #525252; background-color: #161616}
-.oxocarbon_python.-keyword-function {color: #3ddbd9}
-.oxocarbon_python.-punctuation-bracket {color: #3ddbd9}
-.oxocarbon_python.-punctuation-delimiter {color: #3ddbd9}
-.oxocarbon_python.-variable {color: #d0d0d0}
-.oxocarbon_python.String {color: #be95ff}
-.oxocarbon_python.-variable-builtin {color: #d0d0d0}
-.oxocarbon_python.-function {font-weight: bold; color: #ff7eb6}
+.oxocarbon_python.-keyword {color: #be95ff}
+.oxocarbon_python.NonText {color: #525252}
+.oxocarbon_python.SignColumn {color: #525252}
+.oxocarbon_python.Special {color: #ff7eb6}
+.oxocarbon_python.-keyword-operator {color: #be95ff}
+.oxocarbon_python.-operator {color: #f2f4f8}
+.oxocarbon_python.-punctuation-bracket {color: #82cfff}
+.oxocarbon_python.-keyword-conditional {color: #be95ff}
+.oxocarbon_python.-variable-builtin {color: #78a9ff}
+.oxocarbon_python.-variable-member {color: #3ddbd9}
+.oxocarbon_python.-keyword-function {color: #be95ff}
+.oxocarbon_python.-variable {color: #f2f4f8}
+.oxocarbon_python.Type {color: #ee5396}
+.oxocarbon_python.-function-method {color: #42be65}
+.oxocarbon_python.-function {color: #42be65}

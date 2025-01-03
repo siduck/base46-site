@@ -1,0 +1,26 @@
+.yoru_c.boxbg {background-color: #0c0e0f; color: #edeff0}
+.yoru_c.-variable-parameter {color: #f26e74}
+.yoru_c.-keyword-directive-define {color: #c58cec}
+.yoru_c.-constant-macro {color: #f26e74}
+.yoru_c.-property {color: #f26e74}
+.yoru_c.-constant {color: #f26e74}
+.yoru_c.-_parent {}
+.yoru_c.SignColumn {color: #1f2122}
+.yoru_c.-type-builtin {color: #e79881}
+.yoru_c.Include {color: #709ad2}
+.yoru_c.-string {color: #82c29c}
+.yoru_c.-number {color: #ecd28b}
+.yoru_c.-keyword {color: #c58cec}
+.yoru_c.NonText {color: #1f2122}
+.yoru_c.LineNr {color: #343637}
+.yoru_c.-string-escape {color: #6791c9}
+.yoru_c.-operator {color: #edeff0}
+.yoru_c.-punctuation-bracket {color: #e8646a}
+.yoru_c.-keyword-repeat {color: #e79881}
+.yoru_c.-function-call {color: #709ad2}
+.yoru_c.-function-macro {color: #f26e74}
+.yoru_c.-keyword-return {color: #c58cec}
+.yoru_c.-variable {color: #edeff0}
+.yoru_c.-punctuation-delimiter {color: #e8646a}
+.yoru_c.Type {color: #e79881}
+.yoru_c.-function {color: #709ad2}

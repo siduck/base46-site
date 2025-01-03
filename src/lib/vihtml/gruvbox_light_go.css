@@ -1,0 +1,17 @@
+.gruvbox_light_go.boxbg {background-color: #f2e5bc; color: #504945}
+.gruvbox_light_go.LineNr {color: #c0b38a}
+.gruvbox_light_go.-keyword {color: #8f3f71}
+.gruvbox_light_go.-function-call {color: #076678}
+.gruvbox_light_go.-property {color: #9d0006}
+.gruvbox_light_go.Type {color: #b57614}
+.gruvbox_light_go.NonText {color: #d8cba2}
+.gruvbox_light_go.-operator {color: #504945}
+.gruvbox_light_go.-punctuation-bracket {color: #d65d0e}
+.gruvbox_light_go.SignColumn {color: #d8cba2}
+.gruvbox_light_go.Label {color: #b57614}
+.gruvbox_light_go.-variable-member {color: #9d0006}
+.gruvbox_light_go.-function-builtin {color: #076678}
+.gruvbox_light_go.-variable {color: #504945}
+.gruvbox_light_go.-punctuation-delimiter {color: #d65d0e}
+.gruvbox_light_go.-function-method-call {color: #076678}
+.gruvbox_light_go.-number {color: #af3a03}

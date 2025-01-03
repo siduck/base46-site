@@ -30,8 +30,7 @@
     themes = store.items.map((theme) => {
       return {
         name: theme.name,
-        variants: theme.variants,
-        components: theme.variants.map((x) => getComponent(x)),
+        component: getComponent(theme.name),
       };
     });
   });

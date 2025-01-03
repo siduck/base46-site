@@ -1,14 +1,17 @@
-.melange_go.boxbg {background-color: #292522; color: #ece1d7}
-.melange_go.Identifier {color: #ece1d7}
-.melange_go.Statement {color: #e49b5d}
-.melange_go.Operator {color: #d47766}
-.melange_go.Type {color: #7b9695}
-.melange_go.LineNr {color: #867462}
-.melange_go.IblIndent {color: #403a36}
-.melange_go.-ibl-indent-char-1 {color: #403a36}
-.melange_go.Number {color: #cf9bc2}
-.melange_go.Special {color: #ebc06d}
-.melange_go.-label {color: #89b3b6}
-.melange_go.Delimiter {color: #8b7449}
-.melange_go.-punctuation-delimiter {color: #bd8183}
-.melange_go.Function {color: #ebc06d}
+.melange_go.boxbg {background-color: #2a2520; color: #ece1d7}
+.melange_go.LineNr {color: #57524d}
+.melange_go.-keyword {color: #e49b5d}
+.melange_go.-function-call {color: #ebc06d}
+.melange_go.-property {color: #ece1d7}
+.melange_go.Type {color: #99d59d}
+.melange_go.NonText {color: #4d4843}
+.melange_go.-operator {color: #ece1d7}
+.melange_go.-punctuation-bracket {color: #8e733f}
+.melange_go.SignColumn {color: #4d4843}
+.melange_go.Label {color: #99d59d}
+.melange_go.-variable-member {color: #ece1d7}
+.melange_go.-function-builtin {color: #ebc06d}
+.melange_go.-variable {color: #ece1d7}
+.melange_go.-punctuation-delimiter {color: #8e733f}
+.melange_go.-function-method-call {color: #ebc06d}
+.melange_go.-number {color: #86a3a3}

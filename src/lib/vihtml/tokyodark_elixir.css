@@ -1,17 +1,19 @@
-.tokyodark_elixir.boxbg {background-color: #11121d; color: #a0a8cd}
-.tokyodark_elixir.Structure {color: #7199ee; font-style: normal}
-.tokyodark_elixir.LineNr {color: #4a5057}
-.tokyodark_elixir.-ibl-indent-char-1 {color: #4a5057}
-.tokyodark_elixir.Number {color: #a485dd}
-.tokyodark_elixir.-ibl-whitespace-char-1 {color: #4a5057}
-.tokyodark_elixir.Keyword {color: #ee6d85; font-style: normal}
+.tokyodark_elixir.boxbg {background-color: #11121d; color: #abb2bf}
+.tokyodark_elixir.LineNr {color: #474853}
+.tokyodark_elixir.-function-call {color: #95c561}
+.tokyodark_elixir.-punctuation-delimiter {color: #f3627a}
+.tokyodark_elixir.-module {color: #ee6d85}
+.tokyodark_elixir.-string {color: #dfae67}
+.tokyodark_elixir.-ibl-scope-char-1 {color: #545560}
+.tokyodark_elixir.-keyword {color: #a485dd}
+.tokyodark_elixir.NonText {color: #282934}
+.tokyodark_elixir.Special {color: #a485dd}
+.tokyodark_elixir.-operator {color: #abb2bf}
+.tokyodark_elixir.-punctuation-bracket {color: #f3627a}
+.tokyodark_elixir.SignColumn {color: #282934}
+.tokyodark_elixir.SpecialChar {color: #f3627a}
+.tokyodark_elixir.-keyword-function {color: #a485dd}
+.tokyodark_elixir.-variable {color: #abb2bf}
+.tokyodark_elixir.-number {color: #7199ee}
 .tokyodark_elixir.-ibl-scope-underline-1 {text-decoration-line: underline}
-.tokyodark_elixir.-ibl-scope-char-1 {color: #4a5057; font-style: normal}
-.tokyodark_elixir.SignColumn {color: #a0a8cd; background-color: #11121d}
-.tokyodark_elixir.String {color: #d7a65f}
-.tokyodark_elixir.Comment {color: #4a5057; font-style: normal}
-.tokyodark_elixir.Operator {color: #ee6d85}
-.tokyodark_elixir.-variable {color: #e0e2ea}
-.tokyodark_elixir.Function {color: #95c561}
-.tokyodark_elixir.Delimiter {color: #a0a8cd}
-.tokyodark_elixir.SpecialChar {color: #a485dd}
+.tokyodark_elixir.-function {color: #95c561}

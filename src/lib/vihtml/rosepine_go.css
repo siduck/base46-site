@@ -1,0 +1,17 @@
+.rosepine_go.boxbg {background-color: #191724; color: #e0def4}
+.rosepine_go.LineNr {color: #3f3d4a}
+.rosepine_go.-keyword {color: #f6c177}
+.rosepine_go.-function-call {color: #c4a7e7}
+.rosepine_go.-property {color: #eb6f92}
+.rosepine_go.Type {color: #ebbcba}
+.rosepine_go.NonText {color: #6e6a86}
+.rosepine_go.-operator {color: #e0def4}
+.rosepine_go.-punctuation-bracket {color: #524f67}
+.rosepine_go.SignColumn {color: #6e6a86}
+.rosepine_go.Label {color: #ebbcba}
+.rosepine_go.-variable-member {color: #eb6f92}
+.rosepine_go.-function-builtin {color: #c4a7e7}
+.rosepine_go.-variable {color: #e0def4}
+.rosepine_go.-punctuation-delimiter {color: #524f67}
+.rosepine_go.-function-method-call {color: #c4a7e7}
+.rosepine_go.-number {color: #f6c177}

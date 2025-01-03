@@ -1,0 +1,26 @@
+.flexoki_rust.boxbg {background-color: #100f0f; color: #cecdc3}
+.flexoki_rust.-variable-parameter {color: #d36da1}
+.flexoki_rust.LineNr {color: #393636}
+.flexoki_rust.-function-call {color: #4385be}
+.flexoki_rust.-punctuation-delimiter {color: #519aba}
+.flexoki_rust.-module {color: #d14d41}
+.flexoki_rust.-type-builtin {color: #8b7ec8}
+.flexoki_rust.Include {color: #d0a215}
+.flexoki_rust.SignColumn {color: #393636}
+.flexoki_rust.-number {color: #da702c}
+.flexoki_rust.NonText {color: #393636}
+.flexoki_rust.-keyword {color: #3aa99f}
+.flexoki_rust.-spell {}
+.flexoki_rust.-number-float {color: #da702c}
+.flexoki_rust.-keyword-operator {color: #d0a215}
+.flexoki_rust.-keyword-conditional {color: #d0a215}
+.flexoki_rust.-operator {color: #cecdc3}
+.flexoki_rust.-punctuation-bracket {color: #d0a215}
+.flexoki_rust.Type {color: #8b7ec8}
+.flexoki_rust.-constant {color: #d14d41}
+.flexoki_rust.-variable-member {color: #d14d41}
+.flexoki_rust.-keyword-function {color: #d0a215}
+.flexoki_rust.-variable {color: #cecdc3}
+.flexoki_rust.-comment {color: #555050}
+.flexoki_rust.-variable-builtin {color: #da702c}
+.flexoki_rust.-function {color: #4385be}

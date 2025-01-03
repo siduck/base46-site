@@ -1,18 +1,26 @@
-.melange_c.boxbg {background-color: #292522; color: #ece1d7}
-.melange_c.Identifier {color: #ece1d7}
-.melange_c.Statement {color: #e49b5d}
-.melange_c.Type {color: #7b9695}
-.melange_c.Constant {color: #b380b0}
-.melange_c.Delimiter {color: #8b7449}
-.melange_c.String {color: #a3a9ce; font-style: normal}
-.melange_c.-ibl-indent-char-1 {color: #403a36}
-.melange_c.Operator {color: #d47766}
-.melange_c.Special {color: #ebc06d}
-.melange_c.-string-escape {color: #7f91b2}
-.melange_c.PreProc {color: #85b695}
-.melange_c.LineNr {color: #867462}
-.melange_c.Function {color: #ebc06d}
-.melange_c.-punctuation-delimiter {color: #bd8183}
+.melange_c.boxbg {background-color: #2a2520; color: #ece1d7}
+.melange_c.-variable-parameter {color: #ece1d7}
+.melange_c.-keyword-directive-define {color: #e49b5d}
+.melange_c.-constant-macro {color: #ece1d7}
+.melange_c.-property {color: #ece1d7}
+.melange_c.-constant {color: #ece1d7}
 .melange_c.-_parent {}
-.melange_c.Number {color: #cf9bc2}
-.melange_c.IblIndent {color: #403a36}
+.melange_c.SignColumn {color: #4d4843}
+.melange_c.-type-builtin {color: #99d59d}
+.melange_c.Include {color: #99d59d}
+.melange_c.-string {color: #9aacce}
+.melange_c.-number {color: #86a3a3}
+.melange_c.-keyword {color: #e49b5d}
+.melange_c.NonText {color: #4d4843}
+.melange_c.LineNr {color: #57524d}
+.melange_c.-string-escape {color: #ebc06d}
+.melange_c.-operator {color: #ece1d7}
+.melange_c.-punctuation-bracket {color: #8e733f}
+.melange_c.-keyword-repeat {color: #99d59d}
+.melange_c.-function-call {color: #ebc06d}
+.melange_c.-function-macro {color: #99d59d}
+.melange_c.-keyword-return {color: #e49b5d}
+.melange_c.-variable {color: #ece1d7}
+.melange_c.-punctuation-delimiter {color: #8e733f}
+.melange_c.Type {color: #99d59d}
+.melange_c.-function {color: #ebc06d}

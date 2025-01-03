@@ -54,26 +54,11 @@ M.write_file = function(path, str)
 end
 
 M.get_themedata = function()
-  local lazy_path = vim.fn.stdpath "data" .. "/lazy/"
-  local theme_plugins = require "themelist"
+  local themelist = require("nvchad.utils").list_themes()
 
-  local result = vim.tbl_map(function(tb)
-    local cmds = vim.fn.readdir(lazy_path .. tb.name .. "/colors")
-
-    cmds = vim.tbl_map(function(y)
-      return y:gsub("%..+$", "") -- remove extension
-    end, cmds)
-
-    cmds = vim.tbl_filter(function(y)
-      return y ~= tb.name
-    end, cmds)
-
-    table.insert(cmds,1, tb.name)
-
-    return { variants = cmds, name = tb.name, repo= tb[1]}
-  end, theme_plugins)
-
-  return result
+  return vim.tbl_map(function(x)
+    return { name = x }
+  end, themelist)
 end
 
 return M

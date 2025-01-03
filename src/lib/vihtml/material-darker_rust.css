@@ -1,22 +1,26 @@
-.material-darker_rust.boxbg {background-color: #212121; color: #b0bec5}
-.material-darker_rust.Macro {color: #89ddff}
-.material-darker_rust.Identifier {color: #b0bec5}
-.material-darker_rust.-punctuation-delimiter {color: #89ddff}
-.material-darker_rust.-spell {}
-.material-darker_rust.-type-builtin {color: #c792ea}
-.material-darker_rust.-type {color: #c792ea}
-.material-darker_rust.-keyword {color: #89ddff}
-.material-darker_rust.-ibl-indent-char-1 {color: #474747}
-.material-darker_rust.Number {color: #f78c6c}
-.material-darker_rust.-ibl-whitespace-char-1 {color: #474747}
-.material-darker_rust.LineNr {color: #424242}
-.material-darker_rust.SignColumn {color: #b0bec5}
-.material-darker_rust.Conditional {color: #c792ea}
-.material-darker_rust.-odp {}
-.material-darker_rust.Comment {color: #515151}
-.material-darker_rust.-punctuation-bracket {color: #89ddff}
+.material-darker_rust.boxbg {background-color: #212121; color: #dff0f0}
+.material-darker_rust.-variable-parameter {color: #b0bec5}
+.material-darker_rust.LineNr {color: #4a4a4a}
+.material-darker_rust.-function-call {color: #82aaff}
+.material-darker_rust.-punctuation-delimiter {color: #da70ca}
 .material-darker_rust.-module {color: #ffcb6b}
+.material-darker_rust.-type-builtin {color: #ffcb6b}
+.material-darker_rust.Include {color: #c792ea}
+.material-darker_rust.SignColumn {color: #383838}
+.material-darker_rust.-number {color: #f78c6c}
+.material-darker_rust.NonText {color: #383838}
+.material-darker_rust.-keyword {color: #89ddff}
+.material-darker_rust.-spell {}
+.material-darker_rust.-number-float {color: #f78c6c}
+.material-darker_rust.-keyword-operator {color: #c792ea}
+.material-darker_rust.-keyword-conditional {color: #c792ea}
+.material-darker_rust.-operator {color: #89ddff}
+.material-darker_rust.-punctuation-bracket {color: #da70ca}
+.material-darker_rust.Type {color: #c792ea}
 .material-darker_rust.-constant {color: #ffcb6b}
-.material-darker_rust.Function {color: #82aaff}
-.material-darker_rust.-variable-member {color: #8c8b8b}
-.material-darker_rust.Operator {color: #89ddff}
+.material-darker_rust.-variable-member {color: #eeffff}
+.material-darker_rust.-keyword-function {color: #c792ea}
+.material-darker_rust.-variable {color: #dff0f0}
+.material-darker_rust.-comment {color: #545454}
+.material-darker_rust.-variable-builtin {color: #f78c6c}
+.material-darker_rust.-function {color: #82aaff}
