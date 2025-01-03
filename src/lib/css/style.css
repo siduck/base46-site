@@ -20,7 +20,9 @@ pre * {
 
 pre {
 	margin: 0;
-	overflow-x: auto;
+  overflow: auto;
+	/*overflow: auto;*/
+  /*@apply max-h-40vh*/
 }
 
 button {

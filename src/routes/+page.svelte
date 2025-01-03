@@ -14,6 +14,7 @@
     c: "i-devicon:c",
     python: "i-lineicons:python",
     ruby: "i-devicon:ruby",
+    javascript: "i-devicon:javascript",
   };
 
   let themes: ThemeData[] = $state([]);

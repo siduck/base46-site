@@ -41,6 +41,7 @@ M.win_to_html = function(name)
   local max = vim.fn.line("w$", 1000)
 
   local code = tohtml(0, { number_lines = true, range = { min, max } })
+  -- local code = tohtml(0, { number_lines = true, range = { 1, vim.api.nvim_buf_line_count(0) } })
   return format_html(name, code)
 end
 
