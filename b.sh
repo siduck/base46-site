@@ -1,3 +1,3 @@
 ls
-apt
+apk
 uname -a
