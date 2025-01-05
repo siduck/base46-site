@@ -11,19 +11,18 @@
   const terminal = searchParams.get("terminal") || "alacritty";
   const lang = searchParams.get('lang')||'rust'
 
-  let data: ThemeData|undefined = $state();
   let cur_term = $state(terminal);
 
   const themedata = store.themelist.find((x:any) => x.name == theme);
 
-  data = {
+  let data = {
     name: theme,
     component: getComponent(theme + "_" + lang),
     colors: themedata.colors,
     type: themedata.type,
   };
 
-const isLight = (hex:string)=> {
+  const isLight = (hex:string)=> {
   const rgb = parseInt(hex.slice(1), 16);
   const r = (rgb >> 16) & 0xff;
   const g = (rgb >> 8) & 0xff;

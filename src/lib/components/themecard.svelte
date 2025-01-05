@@ -7,8 +7,9 @@
 
 <div class="flexcol [&_section]:bg-red w-full">
   <a href={`/theme?name=${data.name}&lang=${lang}`}>
-    <button font-medium capitalize badge bg-blue2 px5 text-black>
+    <button font-medium capitalize badge bg-sky2 px5 text-black>
       {data.name}
+      <div class='i-line-md:external-link'></div>
     </button>
   </a>
 
