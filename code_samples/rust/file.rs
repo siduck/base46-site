@@ -9,10 +9,11 @@ enum Shape {
     Circle(f64),
 }
 
+
 // Function to calculate the area of a shape
 fn calculate_area(shape: &Shape) -> f64 {
     match shape {
-        Shape::Rectangle { width, height } => (*width as f64) * (*height as f64),
+       Shape::Rectangle { width, height } => (*width as f64) * (*height as f64),
         Shape::Triangle { base, height } => 0.5 * (*base as f64) * (*height as f64),
         Shape::Circle(radius) => std::f64::consts::PI * radius.powi(2),
     }

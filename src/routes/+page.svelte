@@ -39,7 +39,7 @@
     <button
       class={"capitalize btnalt " + (lang == cur_lang
       ? "!bg-slate-2 dark:!bg-slate-6"
-      : " bg-slate1 dark:!bg-slate-8")}
+      : " bg-slae1 dark:!bg-slate-8")}
       border="1px solid slate3 dark:0"
       onclick={() => cur_lang = lang}
     >

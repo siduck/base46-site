@@ -1,5 +1,6 @@
 <script lang="ts">
   import Skeleton from "$lib/ui/skeleton.svelte";
+  import Stl from "$lib/components/stl.svelte";
 
   let { data = [], lang = "" }: any = $props();
 </script>
@@ -14,6 +15,9 @@
   {#await data.component}
     <Skeleton css="h-200px" />
   {:then Component}
-    <Component />
+    <div class='relative'>
+      <Component />
+      <Stl colors={data.colors} lang={lang} />
+    </div>
   {/await}
 </div>

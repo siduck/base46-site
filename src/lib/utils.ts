@@ -10,3 +10,15 @@ export const copyToClipboard = (text: string) => {
     console.error("Failed to copy text: ", err);
   });
 };
+
+export const fileExtensions = {
+    rust: ".rs",
+    go: ".go",
+    elixir: ".ex",
+    haskell: ".hs",
+    c: ".c",
+    python: ".py",
+    ruby: ".rb",
+    typescript: ".ts",
+    sh: ".sh",
+};

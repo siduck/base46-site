@@ -13,6 +13,11 @@ body {
 	font-style: normal;
 }
 
+
+.nerdfont {
+  	font-family: "Nerd Font";
+}
+
 pre * {
 	font-family: "Nerd Font";
 	width: fit-content;
@@ -51,3 +56,7 @@ a {
 }
 
 section  { @apply shadow-lg bordered }
+
+.boxbg {
+  @apply pb15
+}

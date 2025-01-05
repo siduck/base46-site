@@ -4,6 +4,7 @@ import themelist from "../data.json";
 
 interface StoreType {
   curindex: number;
+  curlang:string,
   items: ThemeData[];
   themelist:any,
   data: any;
@@ -12,6 +13,7 @@ interface StoreType {
 
 export const store: StoreType = $state({
   curindex: 0,
+  curlang: "rust",
   items: [],
   themelist: themelist,
   data: themelist,

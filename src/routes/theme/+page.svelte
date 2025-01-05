@@ -63,7 +63,7 @@ const isLight = (hex:string)=> {
 </script>
 
 <br/>
-<ThemeCard {data} />
+<ThemeCard {data} lang={lang} />
 <br/>
 <br/>
 

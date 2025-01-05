@@ -28,10 +28,5 @@ return {
     end,
   },
 
-  {
-    "nvchad/ui",
-    config = function()
-      require "nvchad"
-    end,
-  },
+  { "nvchad/ui" },
 }
