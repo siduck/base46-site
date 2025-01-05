@@ -5,7 +5,7 @@
   let { data = [], lang = "" }: any = $props();
 </script>
 
-<div class="flexcol [&_section]:bg-red">
+<div class="flexcol [&_section]:bg-red w-full">
   <a href={`/theme?name=${data.name}&lang=${lang}`}>
     <button font-medium capitalize badge bg-blue2 px5 text-black>
       {data.name}
@@ -15,9 +15,9 @@
   {#await data.component}
     <Skeleton css="h-200px" />
   {:then Component}
-    <div class='relative'>
+    <div class="relative kek">
       <Component />
-      <Stl colors={data.colors} lang={lang} />
+      <Stl colors={data.colors} {lang} />
     </div>
   {/await}
 </div>

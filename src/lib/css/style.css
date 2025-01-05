@@ -27,7 +27,7 @@ pre {
 	margin: 0;
   overflow: auto;
 	/*overflow: auto;*/
-  /*@apply max-h-40vh*/
+  @apply max-h-40vh
 }
 
 
