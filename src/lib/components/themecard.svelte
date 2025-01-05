@@ -16,7 +16,7 @@
   {#await data.component}
     <Skeleton css="h-200px" />
   {:then Component}
-    <div class="relative kek">
+    <div class="relative">
       <Component />
       <Stl colors={data.colors} {lang} />
     </div>

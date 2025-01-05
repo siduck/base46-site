@@ -3,7 +3,7 @@ body {
 	/* @apply font-sans; */
 	font-family: "Inter", sans-serif;
 
-  @apply bg-white text-black dark:bg-slate9 dark:text-slate-2;
+  @apply bg-white text-black dark:bg-black dark:text-slate-2;
 }
 
 @font-face {
@@ -42,7 +42,7 @@ button {
 	@apply flex items-center  gap2  w-full;
 	@apply whitespace-nowrap rounded-lg;
 	@apply hover:cursor-pointer w-fit
-  @apply p-2 text-base bg-primary dark:bg-slate-6;
+  @apply p-2 text-base bg-primary dark:bg-slate-7;
 	@apply dark:text-slate-4 text-white;
 	@apply hover:darken dark:hover:lighten;
 	@apply font-normal border-0;
@@ -55,8 +55,6 @@ a {
 	@apply hover:text-blue-3;
 }
 
-section  { @apply shadow-lg bordered }
-
 .boxbg {
-  @apply pb15
+  @apply pb15 shadow-lg bordered 
 }

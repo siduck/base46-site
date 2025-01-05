@@ -19,7 +19,10 @@ export default defineConfig({
 
 	theme: {
 		colors: {
-			primary: "#131a21",
+      black: {
+        DEFAULT: '#131a21',
+        1:'#1c2631',
+      },
 			pale: "#F6F8FB",
 		},
 	},
@@ -59,7 +62,7 @@ export default defineConfig({
 		flexcol: "flex flex-col gap5 lt-md:gap3",
 		row: "flex gap3 items-center",
 		flexrow: "flex gap3 items-center",
-		bordered: "border-1 border-solid border-slate-3",
+		bordered: "border-1 border-solid border-slate-3 dark:border-slate-7",
 		"bordered-b": "border-0 border-b-1 border-solid border-slate-3",
 		hline: "border-0 !border-b-1 border-solid border-slate-2",
 		col12: "grid gap5 grid-cols-12",

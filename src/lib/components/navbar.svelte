@@ -37,11 +37,13 @@
 
   <div
     class="flex gap1 mlauto bordered p1 curved"
-    un-children="bg-white text-black"
+    un-children="bg-white text-black dark:bg-black"
   >
     {#each themTypes as type}
       <button
-        class={store.curThemeType == type ? "!bg-indigo text-white" : ""}
+        class={store.curThemeType == type
+        ? "!bg-indigo text-white dark:text-black  dark:!bg-black2"
+        : ""}
         Capitalize
         onclick={() => updateThemeType(type)}
       >
@@ -51,8 +53,9 @@
   </div>
 
   <div
-    class="flexrow gap2 bg-slate2 px3 rounded-lg"
-    ring="focus-within:1 slate5"
+    class="flexrow gap2 px4 rounded-lg"
+    ring="focus-within:1 slate5 dark:slate7"
+    bg="slate2 dark:black1"
   >
     <div i="iconamoon-search-bold"></div>
     <input
@@ -60,7 +63,8 @@
       bind:value={searchValue}
       type="text"
       placeholder="Search themes"
-      class="py3 rounded-lg bg-slate2 border-0 outline-0"
+      class="py3 rounded-lg border-0 outline-0"
+      bg="slate2 dark:black1"
     />
   </div>
 
@@ -68,6 +72,7 @@
     aria-label="site theme toggle"
     onclick={toggleTheme}
     rounded-full
+    bg='black'
   >
     <div
       text-lg
