@@ -29,5 +29,5 @@ export const fileExtensions = {
 export const updateQueryParams = (key: string, val: string) => {
   const url = new URL(page.url);
   url.searchParams.set(key, val);
-  goto(url);
+  goto(url, { noScroll: true });
 };
