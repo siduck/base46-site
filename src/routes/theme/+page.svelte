@@ -1,11 +1,10 @@
 <script lang="ts">
   import { page } from "$app/state";
-  import { getComponent, copyToClipboard } from "$lib/utils";
+  import { getComponent, copyToClipboard,   updateQueryParams } from "$lib/utils";
   import ThemeCard from "$lib/components/themecard.svelte";
   import type { ThemeData } from "$lib/types";
   import { store } from "$lib/store.svelte";
   import { genTerminalConfig } from "$lib/configen/terminal";
-  import { goto } from "$app/navigation";
 
   const searchParams = page.url.searchParams;
   const theme = searchParams.get("name") || "onedark";
@@ -14,12 +13,6 @@
 
   let data: ThemeData|undefined = $state();
   let cur_term = $state(terminal);
-
-  const updateQueryParams = (key:string, val:string) => {
-    const url = new URL (page.url)
-    url.searchParams.set(key,val );
-    goto(url)
-  }
 
   const themedata = store.themelist.find((x:any) => x.name == theme);
 

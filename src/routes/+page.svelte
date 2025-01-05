@@ -3,6 +3,11 @@
   import { store } from "$lib/store.svelte";
   import type { ThemeData } from "$lib/types";
   import { getComponent } from "$lib/utils";
+  import themelist from "../data.json";
+  import { page } from "$app/state";
+
+  const searchParams = page.url.searchParams;
+  store.curThemeType = searchParams.get("type") || "dark";
 
   let cur_lang = $state("rust");
 
@@ -19,6 +24,23 @@
   };
 
   let themes: ThemeData[] = $state([]);
+
+  $effect(() => {
+    let tmp = themelist;
+
+    if (store.curThemeType == "light") {
+      tmp = tmp.filter((x) => x.type == "light");
+    } else if (store.curThemeType == "dark") {
+      tmp = tmp.filter((x) => x.type == "dark");
+    }
+
+    tmp = tmp.slice(
+      store.curindex * store.pagelimit,
+      store.curindex * store.pagelimit + store.pagelimit,
+    );
+
+    store.items = tmp;
+  });
 
   $effect(() => {
     themes = store.items.map((theme) => {

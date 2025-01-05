@@ -2,6 +2,7 @@
   import { store } from "$lib/store.svelte";
   import { onMount } from "svelte";
   import type { ThemeData } from "$lib/types";
+  import { updateQueryParams } from "$lib/utils";
 
   let theme = $state("dark");
 
@@ -14,12 +15,19 @@
   onMount(() => theme = localStorage.theme);
 
   let searchValue = $state("");
+  //
+  //$effect(() => {
+  //  store.items = store.data.filter((theme: ThemeData) => {
+  //    return theme.name.toLowerCase().startsWith(searchValue.toLowerCase());
+  //  }).slice(store.curindex, (store.curindex + 1) * store.pagelimit);
+  //});
 
-  $effect(() => {
-    store.items = store.data.filter((theme: ThemeData) => {
-      return theme.name.toLowerCase().startsWith(searchValue.toLowerCase());
-    }).slice(store.curindex, (store.curindex+1) * store.pagelimit);
-  });
+  const themTypes = ["dark", "light", "all"];
+
+  const updateThemeType = (type: string) => {
+    store.curThemeType = type;
+    updateQueryParams("type", type);
+  };
 </script>
 
 <nav flexrow border="0 b-1 solid slate3 dark:slate7">
@@ -28,7 +36,22 @@
   </h2>
 
   <div
-    class="mlauto flexrow gap2 bg-slate2 px3 rounded-lg"
+    class="flex gap1 mlauto bordered p1 curved"
+    un-children="bg-white text-black"
+  >
+    {#each themTypes as type}
+      <button
+        class={store.curThemeType == type ? "!bg-indigo text-white" : ""}
+        Capitalize
+        onclick={() => updateThemeType(type)}
+      >
+        {type}
+      </button>
+    {/each}
+  </div>
+
+  <div
+    class="flexrow gap2 bg-slate2 px3 rounded-lg"
     ring="focus-within:1 slate5"
   >
     <div i="iconamoon-search-bold"></div>
