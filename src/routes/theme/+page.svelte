@@ -54,19 +54,14 @@
   };
 </script>
 
-<br/>
 <ThemeCard {data} lang={lang} />
-<br/>
-<br/>
 
-<div grid='~ cols-2 md:cols-4 lg:cols-8  gap5'>
+<div grid='~ cols-2 md:cols-4 lg:cols-8 gap5' my6>
   {#each Object.values(data.colors) as color}
     <div curved text-center p4  style="background: {color}; color :{isLight(color)? "black" :"white" }" >{color}</div>
   {/each}
 </div>
 
-
-<br/>
 <h2> Terminal Configs</h2>
 
 <div flex='~ wrap gap3'>
@@ -88,9 +83,7 @@
   {/each}
 </div>
 
-<br/>
-
-<div relative='~' id='terminal-conf'>
+<div relative='~' id='terminal-conf' mt6>
   <pre bordered px9 curved style="background: {bg}; color: {fg}">
     {terminalConf}
   </pre>

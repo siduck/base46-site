@@ -6,7 +6,7 @@
   import Navbar from "$lib/components/navbar.svelte";
 </script>
 
-<main mxauto p3 px10 grid>
+<main mxauto px5 grid>
   <Navbar />
   {@render children()}
 </main>

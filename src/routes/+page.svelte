@@ -54,9 +54,7 @@
   });
 </script>
 
-<br />
-
-<div flexrow>
+<div flexrow mb5>
   {#each Object.keys(icons) as lang}
     <button
       class={"capitalize btnalt " + (lang == cur_lang
@@ -69,8 +67,6 @@
     </button>
   {/each}
 </div>
-
-<br />
 
 <div grid="~ gap-x-8 gap-y-6 xl:cols-2">
   {#each themes as data}
