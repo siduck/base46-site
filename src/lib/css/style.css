@@ -6,21 +6,14 @@ body {
   @apply bg-white text-black dark:bg-black dark:text-slate-2;
 }
 
-@font-face {
-	font-family: "Nerd Font";
-	src: url("/nerdfont.ttf") format("truetype");
-	font-weight: normal;
-	font-style: normal;
-}
-
-
-.nerdfont {
-  	font-family: "Nerd Font";
+.code-font {
+  font-family: "JetBrains Mono", serif;
+  font-style: normal;
 }
 
 pre * {
-	font-family: "Nerd Font";
 	width: fit-content;
+  font-family: "JetBrains Mono", serif;
 }
 
 pre {

@@ -8,7 +8,7 @@
 <div 
   style='background: {colors.base01}; color: {colors.base07}'
   un-children='p1'
-  class='flex w-full bottom-6 absolute items-center gap2'
+  class='flex w-full bottom-6 absolute items-center gap2 code-font '
 >
   <span style="color: {colors.base01}; background: {colors.base0D}" px2>
     NORMAL
@@ -23,11 +23,3 @@
   <span ml='-1'>base46</span>
   <span pr3> utf-8 </span>
 </div>
-
-<style>
-
-div {
-  font-family: "Nerd Font";
-}
-
-</style>
