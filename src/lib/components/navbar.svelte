@@ -30,7 +30,7 @@
   };
 </script>
 
-<nav flexrow border="0 b-1 solid slate3 dark:slate7" mb6 mx='-10' px10>
+<nav flexrow border="0 b-1 solid slate3 dark:slate7" mb6 mx='-5' px5>
   <h2>
     <a href="/">Base46 Themes</a>
   </h2>
