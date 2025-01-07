@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Simple File Organizer
-
 DIRECTORY="$1"
 if [[ -z "$DIRECTORY" ]]; then
   echo "Error: No directory provided."

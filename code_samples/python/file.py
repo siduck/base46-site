@@ -1,11 +1,6 @@
 from functools import reduce
-
 from werkzeug.exceptions import NotFound
 from werkzeug.utils import redirect
-
-from .application import Page
-from .utils import unicodecmp
-
 
 class ServerList(Page):
     url_rule = "/"
@@ -53,23 +48,3 @@ class Server(Page):
             self.server = self.cup.server_browser.servers[id]
         except KeyError:
             raise NotFound() from None
-
-
-class Search(Page):
-    url_rule = "/search"
-
-    def process(self):
-        self.user = self.request.args.get("user")
-        if self.user:
-            self.results = []
-            for server in self.cup.server_browser.servers.values():
-                for player in server.players:
-                    if player.name == self.user:
-                        self.results.append(server)
-
-
-class MissingPage(Page):
-    def get_response(self):
-        response = super().get_response()
-        response.status_code = 404
-        return response

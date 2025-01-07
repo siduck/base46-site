@@ -13,7 +13,6 @@ impl ComplexData {
         values.insert(id * 10);
         values.insert(id * 20);
         ComplexData {
-            id,
             name: name.to_string(),
             values,
         }
@@ -35,13 +34,11 @@ fn save_to_file(filename: &str, data: &HashMap<u32, ComplexData>) -> io::Result<
     for (id, item) in data {
         writeln!(file, "ID: {}, Name: {}, Average Value: {:.2}", item.id, item.name, item.calculate())?;
     }
-    Ok(())
 }
 
 fn main() {
     let data = generate_data(10);
     
-    // Simulate some time-consuming operations
     println!("Processing data...");
     thread::sleep(Duration::from_secs(2));
 
@@ -55,9 +52,4 @@ fn main() {
     } else {
         println!("\nData successfully saved to 'data_output.txt'.");
     }
-
-    // Simulate a delayed action
-    println!("\nSimulating some async-like behavior...");
-    thread::sleep(Duration::from_secs(1));
-    println!("Task completed!");
 }

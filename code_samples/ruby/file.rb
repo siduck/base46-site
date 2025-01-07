@@ -1,4 +1,3 @@
-# Required libraries and configuration
 require "net/http"
 require "json"
 require "uri"
