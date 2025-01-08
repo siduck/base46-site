@@ -43,7 +43,7 @@ button {
 a {
 	text-decoration: none;
 	color: inherit;
-	@apply hover:text-blue-3;
+	@apply hover:op70;
 }
 
 .boxbg {

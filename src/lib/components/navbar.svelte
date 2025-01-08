@@ -123,4 +123,12 @@
     >
     </div>
   </button>
+
+  <a
+    target="_blank"
+    class="i-bi:github bg-black text-3xl"
+    aria-label="github"
+    href="https://github.com/siduck/base46-themes"
+  >
+  </a>
 </nav>
