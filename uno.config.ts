@@ -67,6 +67,6 @@ export default defineConfig({
 		hline: "border-0 !border-b-1 border-solid border-slate-2",
 		col12: "grid gap5 grid-cols-12",
 
-		"fade-me": "animate-fade-in animate-duration-500",
+		"fade-me": "animate-fade-in animate-duration-400",
 	},
 });

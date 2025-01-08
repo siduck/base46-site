@@ -1,9 +1,9 @@
 body {
 	margin: 0;
-	/* @apply font-sans; */
 	font-family: "Inter", sans-serif;
 
   @apply bg-white text-black dark:bg-black dark:text-slate-2;
+  overflow-y:scroll;
 }
 
 .code-font {
@@ -19,8 +19,7 @@ pre * {
 pre {
 	margin: 0;
   overflow: auto;
-	/*overflow: auto;*/
-  @apply max-h-40vh
+  @apply max-h-39vh
 }
 
 
@@ -39,7 +38,6 @@ button {
 	@apply dark:text-slate-4 text-white;
 	@apply hover:darken dark:hover:lighten;
 	@apply font-normal border-0;
-
 }
 
 a {
@@ -49,5 +47,5 @@ a {
 }
 
 .boxbg {
-  @apply pb15 shadow-lg bordered 
+  @apply pb15 shadow-lg bordered fade-me
 }

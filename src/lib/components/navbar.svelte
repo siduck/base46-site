@@ -2,9 +2,11 @@
   import { store } from "$lib/store.svelte";
   import { onMount } from "svelte";
   import type { ThemeData } from "$lib/types";
-  import { updateQueryParams } from "$lib/utils";
+  import { gethemes, updateQueryParams } from "$lib/utils";
+  import { page } from "$app/state";
 
   let theme = $state("dark");
+  const searchParams = page.url.searchParams;
 
   const toggleTheme = () => {
     theme = theme == "dark" ? "light" : "dark";
@@ -14,23 +16,51 @@
 
   onMount(() => theme = localStorage.theme);
 
-  let searchValue = $state("");
-  //
-  //$effect(() => {
-  //  store.items = store.data.filter((theme: ThemeData) => {
-  //    return theme.name.toLowerCase().startsWith(searchValue.toLowerCase());
-  //  }).slice(store.curindex, (store.curindex + 1) * store.pagelimit);
-  //});
+  const filterThemes = (str: string) => {
+    store.items = store.data.filter((theme: ThemeData) =>
+      theme.name.toLowerCase().startsWith(str.toLowerCase()) ||
+      theme.name.toLowerCase().includes(str.toLowerCase())
+    );
+  };
+
+  let search = $state(searchParams.get("search")), timeout;
+  let loaderIcon = $state(false);
+
+  const handleSearch = (e: any) => {
+    clearTimeout(timeout);
+    loaderIcon = true;
+
+    timeout = setTimeout(() => {
+      search = e.target.value;
+
+      if (search == "" || search == null) {
+        gethemes();
+        loaderIcon = false;
+        updateQueryParams({ search: "" });
+        return;
+      }
+      filterThemes(search);
+
+      if (searchParams.get("search") != search) {
+        updateQueryParams({ search });
+        loaderIcon = false;
+      }
+    }, 500);
+  };
+
+  onMount(() => {
+    if (search) filterThemes(search);
+  });
 
   const themTypes = ["dark", "light", "all"];
 
   const updateThemeType = (type: string) => {
     store.curThemeType = type;
-    updateQueryParams("type", type);
+    updateQueryParams({ type, search: "" });
   };
 </script>
 
-<nav flexrow border="0 b-1 solid slate3 dark:slate7" mb6 mx='-5' px5>
+<nav flexrow border="0 b-1 solid slate3 dark:slate7" mb6 mx="-5" px5>
   <h2>
     <a href="/">Base46 Themes</a>
   </h2>
@@ -53,26 +83,28 @@
   </div>
 
   <div
-    class="flexrow gap2 px4 rounded-lg"
+    class="flexrow gap2 px4 rounded-lg relative"
     ring="focus-within:1 slate5 dark:slate7"
     bg="slate2 dark:black1"
   >
     <div i="iconamoon-search-bold"></div>
     <input
       mlauto
-      bind:value={searchValue}
+      oninput={handleSearch}
       type="text"
       placeholder="Search themes"
       class="py3 rounded-lg border-0 outline-0"
       bg="slate2 dark:black1"
     />
+    <div class="i-eos-icons-loading absolute right-3" hidden={!loaderIcon}>
+    </div>
   </div>
 
   <button
     aria-label="site theme toggle"
     onclick={toggleTheme}
     rounded-full
-    bg='black'
+    bg="black"
   >
     <div
       text-lg

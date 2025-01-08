@@ -1,8 +1,7 @@
 <script lang="ts">
   import { page } from "$app/state";
-  import { getComponent, copyToClipboard,   updateQueryParams } from "$lib/utils";
+  import { copyToClipboard, updateQueryParams } from "$lib/utils";
   import ThemeCard from "$lib/components/themecard.svelte";
-  import type { ThemeData } from "$lib/types";
   import { store } from "$lib/store.svelte";
   import { genTerminalConfig } from "$lib/configen/terminal";
 
@@ -17,7 +16,7 @@
 
   let data = {
     name: theme,
-    component: getComponent(theme + "_" + lang),
+    componentName: theme + "_" + lang,
     colors: themedata.colors,
     type: themedata.type,
   };
@@ -54,7 +53,7 @@
   };
 </script>
 
-<ThemeCard {data} lang={lang} />
+<ThemeCard {data} lang={lang} page='theme' />
 
 <div grid='~ cols-2 md:cols-4 lg:cols-8 gap5' my6>
   {#each Object.values(data.colors) as color}
@@ -74,7 +73,7 @@
       onclick={() => {
         cur_term = name
         terminalConf= genTerminalConfig[name](data.colors)
-        updateQueryParams("terminal",name)
+        updateQueryParams({terminal:name})
       }}
     >
 
