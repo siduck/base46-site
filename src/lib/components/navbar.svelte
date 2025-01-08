@@ -17,10 +17,18 @@
   onMount(() => theme = localStorage.theme);
 
   const filterThemes = (str: string) => {
-    store.items = store.data.filter((theme: ThemeData) =>
-      theme.name.toLowerCase().startsWith(str.toLowerCase()) ||
-      theme.name.toLowerCase().includes(str.toLowerCase())
+    let tmp: Record<string, boolean> = {};
+
+    const startsArr: ThemeData[] = store.data.filter((theme: ThemeData) => {
+      tmp[theme.name] = true;
+      return theme.name.startsWith(str.toLowerCase());
+    });
+
+    const includesArr: ThemeData[] = store.data.filter((theme: ThemeData) =>
+      !tmp[theme.name] && theme.name.includes(str.toLowerCase())
     );
+
+    store.items = [...startsArr, ...includesArr];
   };
 
   let search = $state(searchParams.get("search")), timeout;
