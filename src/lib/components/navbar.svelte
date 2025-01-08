@@ -95,6 +95,7 @@
       placeholder="Search themes"
       class="py3 rounded-lg border-0 outline-0"
       bg="slate2 dark:black1"
+      text="dark:white"
     />
     <div class="i-eos-icons-loading absolute right-3" hidden={!loaderIcon}>
     </div>
