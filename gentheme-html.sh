@@ -6,7 +6,7 @@ tar -zxf nvim-linux64.tar.gz
 mv nvim-linux64 nv
 
 mkdir ~/.config
-cp -r tiny ~/.config/nvim
+cp -r nvim ~/.config/nvim
 
 mkdir src/lib/vihtml
 
