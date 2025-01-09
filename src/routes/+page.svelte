@@ -18,10 +18,11 @@
     sh: "i-line-md:hash",
   };
 
+  const searchParams = $derived(page.url.searchParams);
+
   $effect(() => {
-    const search = page.url.searchParams.get("search");
-    store.curThemeType = page.url.searchParams.get("type") || "dark";
-    if (search) return;
+    store.curThemeType = searchParams.get("type") || "dark";
+    if (searchParams.get("search")) return;
     gethemes();
   });
 
