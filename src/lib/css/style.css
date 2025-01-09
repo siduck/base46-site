@@ -11,7 +11,7 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-thumb {
-  @apply bg-indigo
+  @apply bg-slate
   border-radius: 10px;
 }
 
