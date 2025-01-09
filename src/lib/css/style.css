@@ -6,6 +6,19 @@ body {
   overflow-y:scroll;
 }
 
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  @apply bg-indigo
+  border-radius: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  @apply bg-slate2 dark:bg-slate8;
+}
+
 .code-font {
   font-family: "JetBrains Mono", serif;
   font-style: normal;

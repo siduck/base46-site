@@ -1,25 +1,42 @@
-require "options"
+local o = vim.o
+
+o.shiftwidth = 2
+o.smartindent = true
+o.tabstop = 2
+o.softtabstop = 2
+
+vim.opt.fillchars = { eob = " " }
+o.number = true
+o.signcolumn = "yes"
+o.termguicolors = true
 
 -- put this in your main init.lua file ( before lazy setup )
 vim.g.base46_cache = vim.fn.stdpath "data" .. "/base46_cache/"
 
-local lazypath = vim.fn.stdpath "data" .. "/lazy/lazy.nvim"
+require("nvim-treesitter.configs").setup {
+  ensure_installed = {
+    "lua",
+    "rust",
+    "c",
+    "go",
+    "elixir",
+    "haskell",
+    "python",
+    "ruby",
+    "javascript",
+    "bash",
+    "typescript",
+  },
 
-if not vim.loop.fs_stat(lazypath) then
-  vim.fn.system {
-    "git",
-    "clone",
-    "--filter=blob:none",
-    "https://github.com/folke/lazy.nvim.git",
-    "--branch=stable",
-    lazypath,
-  }
-end
+  highlight = {
+    enable = true,
+    use_languagetree = true,
+  },
+  indent = { enable = true },
+  sync_install = true,
+}
 
-vim.opt.rtp:prepend(lazypath)
-
-require("lazy").setup(require "plugins")
-
-for _, v in ipairs(vim.fn.readdir(vim.g.base46_cache)) do
-  dofile(vim.g.base46_cache .. v)
-end
+ require("ibl").setup {
+    indent = { char = "│" },
+    scope = { char = "│", highlight = "Comment" },
+ }

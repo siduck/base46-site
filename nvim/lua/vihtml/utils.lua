@@ -40,7 +40,7 @@ M.win_to_html = function(name)
   local min = vim.fn.line("w0", 1000)
   local max = vim.fn.line("w$", 1000)
 
-  local code = tohtml(0, { number_lines = true, })
+  local code = tohtml(0, { number_lines = true })
   -- local code = tohtml(0, { number_lines = true, range = { 1, vim.api.nvim_buf_line_count(0) } })
   return format_html(name, code)
 end
@@ -55,7 +55,11 @@ M.write_file = function(path, str)
 end
 
 M.get_themedata = function()
-  local themelist = require("nvchad.utils").list_themes()
+  local pluginpath = "/site/pack/plugins/start/base46/lua/base46/themes"
+
+  local themelist = vim.tbl_map(function(x)
+    return x:match "(.+)%..+"
+  end, vim.fn.readdir(vim.fn.stdpath "data" .. pluginpath))
 
   return vim.tbl_map(function(x)
     local info = require("base46.themes." .. x)
