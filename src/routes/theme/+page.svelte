@@ -38,7 +38,6 @@
     kitty:'i-solar:cat-broken',
     ghostty:'i-mingcute:ghost-fill',
     xresources:'i-si:terminal-fill',
-    wezterm:'i-simple-icons:wezterm'
   }
 
   let terminalConf = $state(genTerminalConfig.alacritty(data.colors))
