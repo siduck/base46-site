@@ -2,7 +2,12 @@
   import ThemeCard from "$lib/components/themecard.svelte";
   import { store } from "$lib/store.svelte";
   import { page } from "$app/state";
-  import { gethemes, updateQueryParams } from "$lib/utils";
+  import {
+    changeBodyColors,
+    gethemes,
+    updateQueryParams,
+  } from "$lib/utils";
+  import { onMount } from "svelte";
 
   let cur_lang = $state("rust");
 
@@ -30,15 +35,23 @@
     cur_lang = lang;
     updateQueryParams({ lang, search: "" });
   };
+
+  onMount(() => {
+    const theme = localStorage.theme;
+
+    if (theme == "dark") {
+      changeBodyColors("#131a21", "white", "#000000");
+      return;
+    }
+
+    changeBodyColors("#ffffff", "#000000", "#000000");
+  });
 </script>
 
 <div flexrow mb5>
   {#each Object.keys(icons) as lang}
     <button
-      class={"capitalize btnalt " + (lang == cur_lang
-      ? "!bg-slate-2 dark:!bg-slate-6"
-      : " bg-slae1 dark:!bg-slate-8")}
-      border="1px solid slate3 dark:0"
+      class={"capitalize " + (lang == cur_lang ? "btnactive" : "btntint")}
       onclick={() => updateLang(lang)}
     >
       <div class={"text-lg " + icons[lang]}></div> {lang}

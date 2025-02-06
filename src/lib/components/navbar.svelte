@@ -2,7 +2,7 @@
   import { store } from "$lib/store.svelte";
   import { onMount } from "svelte";
   import type { ThemeData } from "$lib/types";
-  import { gethemes, updateQueryParams } from "$lib/utils";
+  import { gethemes, updateQueryParams, changeBodyColors } from "$lib/utils";
   import { page } from "$app/state";
 
   let theme = $state("dark");
@@ -12,6 +12,10 @@
     theme = theme == "dark" ? "light" : "dark";
     const html = document.querySelector("html");
     if (html) html.className = localStorage.theme = theme;
+
+  if(theme == 'light') changeBodyColors('#ffffff', '#131a21')
+  else changeBodyColors('#131a21', '#ffffff')
+
   };
 
   onMount(() => theme = localStorage.theme);
@@ -68,20 +72,17 @@
   };
 </script>
 
-<nav flexrow border="0 b-1 solid slate3 dark:slate7" mb6 mx="-5" px5>
+<nav flexrow class='bordered-b' mb6 mx="-5" px5>
   <h2>
     <a href="/">Base46 Themes</a>
   </h2>
 
   <div
     class="flex gap1 mlauto bordered p1 curved"
-    un-children="bg-white text-black dark:bg-black"
   >
     {#each themTypes as type}
       <button
-        class={store.curThemeType == type
-        ? "!bg-indigo text-white dark:text-black  dark:!bg-black2"
-        : ""}
+        class={store.curThemeType == type ? "btnactive" : "btntint"}
         Capitalize
         onclick={() => updateThemeType(type)}
       >
@@ -91,9 +92,9 @@
   </div>
 
   <div
-    class="flexrow gap2 px4 rounded-lg relative"
+    class="flexrow gap2 px4 rounded-lg relative searchInput"
     ring="focus-within:1 slate5 dark:slate7"
-    bg="slate2 dark:black1"
+    bg="#f0f0f0 dark:[#222930]"
   >
     <div i="iconamoon-search-bold"></div>
     <input
@@ -102,7 +103,7 @@
       type="text"
       placeholder="Search themes"
       class="py3 rounded-lg border-0 outline-0"
-      bg="slate2 dark:black1"
+      bg="transparent"
       text="dark:white"
     />
     <div class="i-eos-icons-loading absolute right-3" hidden={!loaderIcon}>
@@ -112,8 +113,7 @@
   <button
     aria-label="site theme toggle"
     onclick={toggleTheme}
-    rounded-full
-    bg="black"
+    class='btnactive rounded-full'
   >
     <div
       text-lg

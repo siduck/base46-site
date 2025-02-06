@@ -48,7 +48,7 @@ button {
 	@apply whitespace-nowrap rounded-lg;
 	@apply hover:cursor-pointer w-fit
   @apply p-2 text-base bg-primary dark:bg-slate-7;
-	@apply dark:text-slate-4 text-white;
+	@apply  text-black dark:text-slate-4;
 	@apply hover:darken dark:hover:lighten;
 	@apply font-normal border-0;
 }
@@ -60,5 +60,8 @@ a {
 }
 
 .boxbg {
-  @apply pb15 shadow-lg bordered fade-me
+  @apply pb15 shadow-lg fade-me
 }
+
+.btntint  { @apply bg-[#f0f0f0] dark:bg-[#222930]]}
+.btnactive { @apply dark:bg-[#394047]}

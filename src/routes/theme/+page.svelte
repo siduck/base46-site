@@ -1,9 +1,10 @@
 <script lang="ts">
   import { page } from "$app/state";
-  import { copyToClipboard, updateQueryParams } from "$lib/utils";
+  import { copyToClipboard, updateQueryParams, changeBodyColors } from "$lib/utils";
   import ThemeCard from "$lib/components/themecard.svelte";
   import { store } from "$lib/store.svelte";
   import { genTerminalConfig } from "$lib/configen/terminal";
+  import { onMount } from "svelte";
 
   const searchParams = page.url.searchParams;
   const theme = searchParams.get("name") || "onedark";
@@ -50,13 +51,15 @@
       copyIconToggle = !copyIconToggle;
     },1000)
   };
+
+   changeBodyColors(bg,fg);
 </script>
 
 <ThemeCard {data} lang={lang} page='theme' />
 
 <div grid='~ cols-2 md:cols-4 lg:cols-8 gap5' my6>
   {#each Object.values(data.colors) as color}
-    <div curved text-center p4  style="background: {color}; color :{isLight(color)? "black" :"white" }" >{color}</div>
+    <div curved text-center p4 class='bodered' style="background: {color}; color :{isLight(color)? "black" :"white" }" >{color}</div>
   {/each}
 </div>
 
@@ -65,10 +68,7 @@
 <div flex='~ wrap gap3'>
   {#each Object.keys(terminals) as name}
     <button
-      class={"capitalize btnalt " + (name == cur_term
-      ? "!bg-slate-2 dark:!bg-slate-6"
-      : "  dark:!bg-slate-8")}
-      border="1px solid slate3 dark:0"
+      class={"capitalize " + (name == cur_term ? "btnactive" : "btntint")}
       onclick={() => {
         cur_term = name
         terminalConf= genTerminalConfig[name](data.colors)
@@ -82,7 +82,7 @@
 </div>
 
 <div relative='~' id='terminal-conf' mt6>
-  <pre bordered px9 curved style="background: {bg}; color: {fg}">
+  <pre px9 curved style="background: {bg}; color: {fg}" class='bordered termcode'>
     {terminalConf}
   </pre>
 
