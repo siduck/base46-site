@@ -20,10 +20,9 @@ mkdir ~/.config
 mv nvim ~/.config/nvim
 ls ~/.config/nvim
 
-curl -LO https://github.com/neovim/neovim/releases/download/stable/nvim-linux64.tar.gz
-tar -zxf nvim-linux64.tar.gz
-
-mv nvim-linux64 nv
+curl -LO https://github.com/neovim/neovim/releases/download/v0.10.4/nvim-linux-x86_64.tar.gz
+tar -zxf nvim-linux-x86_64.tar.gz
+mv nvim-linux-x86_64 nv
 
 mkdir src/lib/vihtml
 

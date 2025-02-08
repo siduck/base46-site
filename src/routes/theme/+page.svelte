@@ -52,7 +52,9 @@
     },1000)
   };
 
-   changeBodyColors(bg,fg);
+  onMount(() => {
+    changeBodyColors(bg,fg);
+  })
 </script>
 
 <ThemeCard {data} lang={lang} page='theme' />
