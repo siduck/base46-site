@@ -146,8 +146,13 @@ const ghostty = (colors) => {
 
   let config = "";
 
+  const paletteOrder = [
+    "base00", "base08", "base0B", "base0A", "base0D", "base0E", "base0C", "base05",
+    "base03", "base08", "base0B", "base0A", "base0D", "base0E", "base0C", "base06"
+  ];
+
   // Generate palette colors for base00 to base0F (0 to 15)
-  base16order.forEach((colorKey, i) => {
+  paletteOrder.forEach((colorKey, i) => {
     config += `palette = ${i}=${colors[colorKey]}\n`;
   });
 
