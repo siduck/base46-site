@@ -35,7 +35,8 @@
     store.items = [...startsArr, ...includesArr];
   };
 
-  let search = $state(searchParams.get("search")), timeout;
+  let search = $state(searchParams.get("search"));
+  let timeout;
   let loaderIcon = $state(false);
 
   const handleSearch = (e: any) => {
@@ -73,7 +74,8 @@
 </script>
 
 <nav flexrow class='bordered-b' mb6 mx="-5" px5>
-  <h2>
+  <h2 class='flexrow'>
+    <div class='i-solar:palette-bold-duotone bg-indigo'/>
     <a href="/">Base46 Themes</a>
   </h2>
 
