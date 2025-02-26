@@ -102,7 +102,7 @@
       oninput={handleSearch}
       type="text"
       placeholder="Search themes"
-      class="py3 rounded-lg border-0 outline-0"
+      class="py3 rounded-lg border-0 outline-none"
       bg="transparent"
       text="dark:white"
     />
