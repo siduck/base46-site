@@ -45,6 +45,7 @@
       if (element) observer.unobserve(element);
     };
   });
+
 </script>
 
 <div class="flexcol [&_section]:bg-red w-full" bind:this={element}>
@@ -60,7 +61,7 @@
   {/if}
 
   {#await component}
-    <Skeleton css="h-39vh !w-[97%] fade-me" />
+    <Skeleton css="h-39vh !w-[97%] fade-me" bg={data.colors.base02} />
   {:then Component}
     <div class="relative">
       <Component />
