@@ -1,27 +1,10 @@
 <script lang="ts">
   import ThemeCard from "$lib/components/themecard.svelte";
+  import LangBtns from "$lib/components/langbtns.svelte";
   import { store } from "$lib/store.svelte";
   import { page } from "$app/state";
-  import {
-    changeBodyColors,
-    gethemes,
-    updateQueryParams,
-  } from "$lib/utils";
+  import { changeBodyColors, gethemes } from "$lib/utils";
   import { onMount } from "svelte";
-
-  let cur_lang = $state("rust");
-
-  const icons: any = {
-    rust: "i-devicon-rust",
-    go: "i-file-icons:go-old",
-    elixir: "i-devicon:elixir",
-    haskell: "i-devicon:haskell",
-    c: "i-devicon:c",
-    python: "i-lineicons:python",
-    ruby: "i-devicon:ruby",
-    typescript: "i-devicon:typescript",
-    sh: "i-line-md:hash",
-  };
 
   const searchParams = $derived(page.url.searchParams);
 
@@ -31,36 +14,22 @@
     gethemes();
   });
 
-  const updateLang = (lang: string) => {
-    cur_lang = lang;
-    updateQueryParams({ lang, search: "" });
-  };
-
   onMount(() => {
     const theme = localStorage.theme;
 
     if (theme == "dark") {
-      changeBodyColors("#131a21", "white", "#000000");
+      changeBodyColors("#131a21", "white");
       return;
     }
 
-    changeBodyColors("#ffffff", "#000000", "#000000");
+    changeBodyColors("#ffffff", "#000000");
   });
 </script>
 
-<div flexrow mb5>
-  {#each Object.keys(icons) as lang}
-    <button
-      class={"capitalize " + (lang == cur_lang ? "btnactive" : "btntint")}
-      onclick={() => updateLang(lang)}
-    >
-      <div class={"text-lg " + icons[lang]}></div> {lang}
-    </button>
-  {/each}
-</div>
+<LangBtns />
 
 <div grid="~ gap-x-8 gap-y-6 xl:cols-2">
   {#each store.items as data}
-    <ThemeCard {data} lang={cur_lang} />
+    <ThemeCard {data} />
   {/each}
 </div>

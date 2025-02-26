@@ -3,9 +3,11 @@
 
   import Stl from "$lib/components/stl.svelte";
   import Skeleton from "$lib/ui/skeleton.svelte";
+  import Langbtns from "./langbtns.svelte";
   import { page } from "$app/state";
 
-  let { data = [], lang = "" }: any = $props();
+  let lang = $derived(page.url.searchParams.get("lang") || "rust");
+  let { data = [] }: any = $props();
 
   let element: HTMLElement;
   let visible = false;
@@ -17,7 +19,7 @@
   $effect(() => {
     const route = page.route.id;
 
-    if (route == "theme") {
+    if (route == "/theme") {
       component = getComponent(componentName);
       return;
     }
@@ -48,9 +50,14 @@
 <div class="flexcol [&_section]:bg-red w-full" bind:this={element}>
   <a href={`/theme?name=${data.name}&lang=${lang}`} w-fit>
     <button font-medium capitalize badge bg-sky2 px5 text-black>
-      {data.name} <div class="i-line-md:external-link"></div>
+      {data.name}
+      <div class="i-line-md:external-link"></div>
     </button>
   </a>
+
+  {#if page.route.id == "/theme"}
+    <Langbtns />
+  {/if}
 
   {#await component}
     <Skeleton css="h-39vh !w-[97%] fade-me" />
