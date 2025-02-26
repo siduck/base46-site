@@ -18,7 +18,6 @@ echo "Setting up nvim"
 
 mkdir ~/.config
 mv nvim ~/.config/nvim
-ls ~/.config/nvim
 
 curl -LO https://github.com/neovim/neovim/releases/download/v0.10.4/nvim-linux-x86_64.tar.gz
 tar -zxf nvim-linux-x86_64.tar.gz
