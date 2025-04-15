@@ -56,7 +56,7 @@ return function(name, tb)
 
   table.remove(html_tb, 1)
   table.remove(html_tb, 1)
-  table.insert(html_tb, 1, string.format('<section class="%s boxbg pt7 pb3  rounded-2xl">', theme))
+  table.insert(html_tb, 1, string.format('<section class="%s boxbg pt7 pb3 bordered rounded-2xl">', theme))
   table.insert(html_tb, "</section>")
 
   local html = table.concat(html_tb, "\n")
