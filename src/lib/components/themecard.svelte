@@ -45,7 +45,6 @@
       if (element) observer.unobserve(element);
     };
   });
-
 </script>
 
 <div class="flexcol [&_section]:bg-red w-full" bind:this={element}>

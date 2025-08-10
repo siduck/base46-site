@@ -1,32 +1,42 @@
 #!/bin/sh
 
-# Install plugins
-echo "Installing plugins"
-mkdir -p ~/.local/share/nvim/site/pack/plugins/start
-cd ~/.local/share/nvim/site/pack/plugins/start
+green='\033[0;32m'
+blue='\033[0;34m'
+yellow='\033[1;33m'
+cyan='\033[0;36m'
+magenta='\033[0;35m'
+red='\033[0;31m'
 
-git clone https://github.com/nvim-lua/plenary.nvim --depth 1
-git clone https://github.com/nvim-treesitter/nvim-treesitter --depth 1
-git clone https://github.com/lukas-reineke/indent-blankline.nvim --depth 1
-git clone https://github.com/nvchad/base46 --depth 1
+log() {
+  color=$1
+  shift
 
-cd 
+  # Use parameter expansion to get value of color var, fallback to empty
+  color_code="$(printf '%s' "${!color}")"
+  printf "${color_code}%s${reset}\n" "$*"
+}
 
-cd path0
+log blue "Installing tree-sitter-cli"
 
-echo "Setting up nvim"
+curl -LO https://github.com/tree-sitter/tree-sitter/releases/latest/download/tree-sitter-linux-x64.gz
+gunzip tree-sitter-linux-x64.gz
+chmod +x tree-sitter-linux-x64
+mv tree-sitter-linux-x64 /usr/local/bin/tree-sitter
+tree-sitter --version
+
+log yellow "Downloading Neovim..."
+curl -LO https://github.com/neovim/neovim/releases/download/stable/nvim-linux-x86_64.tar.gz
+tar -zxf nvim-linux-x86_64.tar.gz
+
+log blue "Installing Neovim"
+cp -r nvim-linux-x86_64/* /usr/local/
 
 mkdir ~/.config
 mv nvim ~/.config/nvim
 
-curl -LO https://github.com/neovim/neovim/releases/download/v0.10.4/nvim-linux-x86_64.tar.gz
-tar -zxf nvim-linux-x86_64.tar.gz
-mv nvim-linux-x86_64 nv
-
 mkdir src/lib/vihtml
 
-echo "Compiling base46 themes"
-nv/bin/nvim --headless +"TSUpdate | lua require('base46').compile()" +"q"
+nvim --headless +"q"
 
-echo "Generating svelte components from base46 themes"
-nv/bin/nvim --headless +":lua require 'vihtml'" +"q"
+log yellow "Generating svelte components from base46 themes"
+nvim --headless +":lua require 'vihtml'" +"q"

@@ -7,6 +7,7 @@ M.theme_to_html = function(name, cwd)
   local html_path = cwd .. "/src/lib/vihtml/" .. name .. ".svelte"
   local code = utils.win_to_html(name)
   utils.write_file(html_path, code.html)
+  vim.print("Generated " .. html_path .. "\n" )
   return code.css
 end
 
@@ -25,10 +26,15 @@ M.open_multi_langs = function(theme_name, cwd)
   end
 
   utils.write_file(cwd .. "/src/lib/vihtml/" .. theme_name .. ".css", css_str)
+  vim.print("Generated " .. theme_name .. ".css  \n" )
 end
 
 M.base46_themes_html = function()
   local cwd = vim.uv.cwd()
+
+  if not vim.loop.fs_stat(cwd .. "/src/lib/vihtml") then
+    vim.fn.mkdir(cwd .. "/src/lib/vihtml", "p")
+  end
 
   for _, v in ipairs(themelist) do
     vim.cmd.highlight "clear"
